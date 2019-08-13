@@ -1,0 +1,11 @@
+T1	FAMILY 154 163	quinolone
+T2	FAMILY 270 279	quinolone
+T3	FAMILY 89 99	quinolones
+T4	TRIVIAL 350 362	levofloxacin
+T5	TRIVIAL 367 376	ofloxacin
+T6	TRIVIAL 49 57	amikacin
+T7	TRIVIAL 67 77	gentamicin
+T8	TRIVIAL 108 130	pipercillin/tazobactam
+T9	FAMILY 274 289	fluoroquinolone
+T10	TRIVIAL 40 52	levofloxacin
+T11	TRIVIAL 57 66	ofloxacin

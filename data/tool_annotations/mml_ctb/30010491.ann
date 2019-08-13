@@ -1,0 +1,195 @@
+T1	MMLite 1752 1763	antioxidant
+N1	Reference T1 ConceptId:C0003402	Antioxidants
+N2	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 625 628	SCD
+N3	Reference T2 ConceptId:C1419846	SCD gene
+N4	Reference T2 ConceptId:C1420140	SLC22A5 gene
+N5	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 401 404	SCD
+N6	Reference T3 ConceptId:C1419846	SCD gene
+N7	Reference T3 ConceptId:C1420140	SLC22A5 gene
+N8	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 938 940	NO
+N9	Reference T4 SemanticType:bacs	bacs
+N10	Reference T4 SemanticType:lbpr	lbpr
+N11	Reference T4 ConceptId:C3810607	Nitric Oxide Measurement
+N12	Reference T4 SemanticType:inch	inch
+N13	Reference T4 SemanticType:phsu	phsu
+N14	Reference T4 ConceptId:C0028128	Nitric Oxide
+T5	MMLite 1077 1080	SOD
+N15	Reference T5 SemanticType:aapp	aapp
+N16	Reference T5 SemanticType:enzy	enzy
+N17	Reference T5 ConceptId:C0038838	Superoxide Dismutase
+N18	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 1390 1393	SCD
+N19	Reference T6 ConceptId:C1419846	SCD gene
+N20	Reference T6 ConceptId:C1420140	SLC22A5 gene
+N21	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 1118 1140	glutathione peroxidase
+N22	Reference T7 ConceptId:C0017822	GLUTATHIONE PEROXIDASE
+N23	Reference T7 SemanticType:aapp	aapp
+N24	Reference T7 ConceptId:C1415275	GPX1 gene
+N25	Reference T7 SemanticType:enzy	enzy
+N26	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 1531 1541	creatinine
+N27	Reference T8 ConceptId:C0201975	Creatinine measurement
+N28	Reference T8 SemanticType:bacs	bacs
+N29	Reference T8 ConceptId:C1561535	Creatinine finding
+N30	Reference T8 SemanticType:orch	orch
+N31	Reference T8 SemanticType:lbpr	lbpr
+N32	Reference T8 ConceptId:C0010294	Creatinine
+N33	Reference T8 SemanticType:fndg	fndg
+T9	MMLite 266 269	for
+N34	Reference T9 ConceptId:C1421525	WWOX gene
+N35	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 1159 1164	thiol
+N36	Reference T10 SemanticType:orch	orch
+N37	Reference T10 ConceptId:C0038734	Sulfhydryl Compounds
+T11	MMLite 1142 1145	GPx
+N38	Reference T11 ConceptId:C0017822	GLUTATHIONE PEROXIDASE
+N39	Reference T11 SemanticType:aapp	aapp
+N40	Reference T11 ConceptId:C1415275	GPX1 gene
+N41	Reference T11 SemanticType:enzy	enzy
+N42	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 1718 1729	antioxidant
+N43	Reference T12 ConceptId:C0003402	Antioxidants
+N44	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 1651 1654	SCD
+N45	Reference T13 ConceptId:C1419846	SCD gene
+N46	Reference T13 ConceptId:C1420140	SLC22A5 gene
+N47	Reference T13 SemanticType:gngm	gngm
+T14	MMLite 1202 1205	SCD
+N48	Reference T14 ConceptId:C1419846	SCD gene
+N49	Reference T14 ConceptId:C1420140	SLC22A5 gene
+N50	Reference T14 SemanticType:gngm	gngm
+T15	MMLite 1504 1519	total bilirubin
+N51	Reference T15 SemanticType:bacs	bacs
+N52	Reference T15 ConceptId:C0201913	Bilirubin, total measurement
+N53	Reference T15 SemanticType:orch	orch
+N54	Reference T15 SemanticType:lbpr	lbpr
+N55	Reference T15 ConceptId:C0005437	Bilirubin
+T16	MMLite 1099 1110	glutathione
+N56	Reference T16 SemanticType:bacs	bacs
+N57	Reference T16 SemanticType:aapp	aapp
+N58	Reference T16 ConceptId:C0017817	Glutathione
+T17	MMLite 1270 1273	DNA
+N59	Reference T17 SemanticType:bacs	bacs
+N60	Reference T17 SemanticType:celc	celc
+N61	Reference T17 ConceptId:C0012854	DNA
+N62	Reference T17 ConceptId:C1325786	DNA location
+N63	Reference T17 SemanticType:nnon	nnon
+T18	MMLite 1806 1811	lipid
+N64	Reference T18 SemanticType:orch	orch
+N65	Reference T18 ConceptId:C0023779	Lipids
+T19	MMLite 853 856	ROS
+N66	Reference T19 SemanticType:bacs	bacs
+N67	Reference T19 ConceptId:C0289313	rosiglitazone
+N68	Reference T19 SemanticType:orch	orch
+N69	Reference T19 ConceptId:C0073591	rosoxacin
+N70	Reference T19 SemanticType:antb	antb
+N71	Reference T19 SemanticType:elii	elii
+N72	Reference T19 ConceptId:C0162772	Reactive Oxygen Species
+N73	Reference T19 SemanticType:phsu	phsu
+T20	MMLite 914 917	HO•
+N74	Reference T20 ConceptId:C0063146	Hydroxyl Radical
+N75	Reference T20 SemanticType:inch	inch
+T21	MMLite 1023 1035	antioxidants
+N76	Reference T21 ConceptId:C0003402	Antioxidants
+N77	Reference T21 SemanticType:phsu	phsu
+T22	MMLite 290 301	pro-oxidant
+N78	Reference T22 SemanticType:bacs	bacs
+N79	Reference T22 SemanticType:elii	elii
+N80	Reference T22 ConceptId:C0162772	Reactive Oxygen Species
+T23	MMLite 1916 1919	SCD
+N81	Reference T23 ConceptId:C1419846	SCD gene
+N82	Reference T23 ConceptId:C1420140	SLC22A5 gene
+N83	Reference T23 SemanticType:gngm	gngm
+T24	MMLite 828 851	reactive oxygen species
+N84	Reference T24 SemanticType:bacs	bacs
+N85	Reference T24 SemanticType:elii	elii
+N86	Reference T24 ConceptId:C0162772	Reactive Oxygen Species
+T25	MMLite 1227 1232	lipid
+N87	Reference T25 SemanticType:orch	orch
+N88	Reference T25 ConceptId:C0023779	Lipids
+T26	MMLite 96 100	cell
+N89	Reference T26 ConceptId:C1413336	CEL gene
+N90	Reference T26 SemanticType:gngm	gngm
+T27	MMLite 1469 1480	haemoglobin
+N91	Reference T27 SemanticType:bacs	bacs
+N92	Reference T27 SemanticType:aapp	aapp
+N93	Reference T27 ConceptId:C0019046	Hemoglobin
+T28	MMLite 1343 1346	SCD
+N94	Reference T28 ConceptId:C1419846	SCD gene
+N95	Reference T28 ConceptId:C1420140	SLC22A5 gene
+N96	Reference T28 SemanticType:gngm	gngm
+T29	MMLite 158 162	cell
+N97	Reference T29 ConceptId:C1413336	CEL gene
+N98	Reference T29 SemanticType:gngm	gngm
+T30	MMLite 788 791	for
+N99	Reference T30 ConceptId:C1421525	WWOX gene
+N100	Reference T30 SemanticType:gngm	gngm
+T31	MMLite 542 545	SCD
+N101	Reference T31 ConceptId:C1419846	SCD gene
+N102	Reference T31 ConceptId:C1420140	SLC22A5 gene
+N103	Reference T31 SemanticType:gngm	gngm
+T32	MMLite 1826 1833	protein
+N104	Reference T32 SemanticType:bacs	bacs
+N105	Reference T32 SemanticType:aapp	aapp
+N106	Reference T32 ConceptId:C0033684	Proteins
+T33	MMLite 1055 1075	superoxide dismutase
+N107	Reference T33 SemanticType:aapp	aapp
+N108	Reference T33 SemanticType:enzy	enzy
+N109	Reference T33 ConceptId:C0038838	Superoxide Dismutase
+N110	Reference T33 SemanticType:phsu	phsu
+T34	MMLite 1083 1091	catalase
+N111	Reference T34 SemanticType:aapp	aapp
+N112	Reference T34 ConceptId:C0007367	CATALASE
+N113	Reference T34 ConceptId:C1413138	CAT gene
+N114	Reference T34 SemanticType:enzy	enzy
+N115	Reference T34 SemanticType:gngm	gngm
+T35	MMLite 1247 1254	protein
+N116	Reference T35 SemanticType:bacs	bacs
+N117	Reference T35 SemanticType:aapp	aapp
+N118	Reference T35 ConceptId:C0033684	Proteins
+T36	MMLite 1151 1158	protein
+N119	Reference T36 SemanticType:bacs	bacs
+N120	Reference T36 SemanticType:aapp	aapp
+N121	Reference T36 ConceptId:C0033684	Proteins
+T37	MMLite 968 971	SCD
+N122	Reference T37 ConceptId:C1419846	SCD gene
+N123	Reference T37 ConceptId:C1420140	SLC22A5 gene
+N124	Reference T37 SemanticType:gngm	gngm
+T38	MMLite 18 29	antioxidant
+N125	Reference T38 ConceptId:C0003402	Antioxidants
+N126	Reference T38 SemanticType:phsu	phsu
+T39	MMLite 1093 1096	CAT
+N127	Reference T39 SemanticType:aapp	aapp
+N128	Reference T39 ConceptId:C1413138	CAT gene
+N129	Reference T39 ConceptId:C0008169	Chloramphenicol O-Acetyltransferase
+N130	Reference T39 SemanticType:enzy	enzy
+N131	Reference T39 SemanticType:gngm	gngm
+T40	MMLite 587 590	was
+N132	Reference T40 SemanticType:bacs	bacs
+N133	Reference T40 SemanticType:aapp	aapp
+N134	Reference T40 ConceptId:C1565156	WAS protein, human
+T41	MMLite 1112 1115	GSH
+N135	Reference T41 SemanticType:bacs	bacs
+N136	Reference T41 SemanticType:aapp	aapp
+N137	Reference T41 ConceptId:C0017817	Glutathione
+T42	MMLite 172 175	SCD
+N138	Reference T42 ConceptId:C1419846	SCD gene
+N139	Reference T42 ConceptId:C1420140	SLC22A5 gene
+N140	Reference T42 SemanticType:gngm	gngm
+T43	MMLite 924 936	nitric oxide
+N141	Reference T43 SemanticType:bacs	bacs
+N142	Reference T43 SemanticType:lbpr	lbpr
+N143	Reference T43 ConceptId:C3810607	Nitric Oxide Measurement
+N144	Reference T43 SemanticType:inch	inch
+N145	Reference T43 SemanticType:phsu	phsu
+N146	Reference T43 ConceptId:C0028128	Nitric Oxide
+T44	MMLite 896 912	hydroxyl radical
+N147	Reference T44 ConceptId:C0063146	Hydroxyl Radical
+N148	Reference T44 SemanticType:inch	inch
+T45	MMLite 811 823	antioxidants
+N149	Reference T45 ConceptId:C0003402	Antioxidants
+N150	Reference T45 SemanticType:phsu	phsu

@@ -1,0 +1,81 @@
+T1	MMLite 1158 1173	fluoroquinolone
+N1	Reference T1 SemanticType:orch	orch
+N2	Reference T1 ConceptId:C0949665	Fluoroquinolones
+N3	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 992 1003	pipercillin
+N4	Reference T2 ConceptId:C0031955	Piperacillin
+N5	Reference T2 SemanticType:orch	orch
+N6	Reference T2 SemanticType:antb	antb
+T3	MMLite 270 279	quinolone
+N7	Reference T3 ConceptId:C0034428	Quinolones
+N8	Reference T3 ConceptId:C1533693	Quinolone Antibacterial Agents
+N9	Reference T3 SemanticType:orch	orch
+N10	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 798 807	ofloxacin
+N11	Reference T4 SemanticType:orch	orch
+N12	Reference T4 SemanticType:antb	antb
+N13	Reference T4 ConceptId:C0028902	Ofloxacin
+T5	MMLite 299 310	antibiotics
+N14	Reference T5 SemanticType:antb	antb
+N15	Reference T5 ConceptId:C0003237	Antibiotics, Antitubercular
+T6	MMLite 1360 1364	drug
+N16	Reference T6 ConceptId:C0013227	Pharmaceutical Preparations
+N17	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 1253 1265	levofloxacin
+N18	Reference T7 ConceptId:C0282386	Levofloxacin
+N19	Reference T7 SemanticType:orch	orch
+N20	Reference T7 SemanticType:antb	antb
+T8	MMLite 933 941	amikacin
+N21	Reference T8 SemanticType:orch	orch
+N22	Reference T8 SemanticType:antb	antb
+N23	Reference T8 ConceptId:C0002499	Amikacin
+T9	MMLite 724 727	was
+N24	Reference T9 SemanticType:bacs	bacs
+N25	Reference T9 SemanticType:aapp	aapp
+N26	Reference T9 ConceptId:C1565156	WAS protein, human
+T10	MMLite 951 961	gentamicin
+N27	Reference T10 ConceptId:C0546866	Gentamicin Sulfate (USP)
+N28	Reference T10 SemanticType:orch	orch
+N29	Reference T10 SemanticType:antb	antb
+T11	MMLite 1004 1014	tazobactam
+N30	Reference T11 SemanticType:orch	orch
+N31	Reference T11 ConceptId:C0075870	tazobactam
+N32	Reference T11 SemanticType:antb	antb
+T12	MMLite 848 851	was
+N33	Reference T12 SemanticType:bacs	bacs
+N34	Reference T12 SemanticType:aapp	aapp
+N35	Reference T12 ConceptId:C1565156	WAS protein, human
+T13	MMLite 1270 1279	ofloxacin
+N36	Reference T13 SemanticType:orch	orch
+N37	Reference T13 SemanticType:antb	antb
+N38	Reference T13 ConceptId:C0028902	Ofloxacin
+T14	MMLite 417 428	carbapenems
+N39	Reference T14 ConceptId:C0006968	Carbapenems
+N40	Reference T14 SemanticType:orch	orch
+N41	Reference T14 SemanticType:antb	antb
+T15	MMLite 781 793	levofloxacin
+N42	Reference T15 ConceptId:C0282386	Levofloxacin
+N43	Reference T15 SemanticType:orch	orch
+N44	Reference T15 SemanticType:antb	antb
+T16	MMLite 971 979	cefepime
+N45	Reference T16 SemanticType:orch	orch
+N46	Reference T16 SemanticType:antb	antb
+N47	Reference T16 ConceptId:C0055003	cefepime
+T17	MMLite 596 609	carbapenemase
+N48	Reference T17 SemanticType:aapp	aapp
+N49	Reference T17 SemanticType:enzy	enzy
+N50	Reference T17 ConceptId:C0246081	carbapenemase
+T18	MMLite 154 163	quinolone
+N51	Reference T18 ConceptId:C0034428	Quinolones
+N52	Reference T18 ConceptId:C1533693	Quinolone Antibacterial Agents
+N53	Reference T18 SemanticType:orch	orch
+N54	Reference T18 SemanticType:phsu	phsu
+T19	MMLite 870 881	carbapenems
+N55	Reference T19 ConceptId:C0006968	Carbapenems
+N56	Reference T19 SemanticType:orch	orch
+N57	Reference T19 SemanticType:antb	antb
+T20	MMLite 402 412	quinolones
+N58	Reference T20 ConceptId:C1533693	Quinolone Antibacterial Agents
+N59	Reference T20 ConceptId:C0034428	Quinolones
+N60	Reference T20 SemanticType:orch	orch
+N61	Reference T20 SemanticType:phsu	phsu

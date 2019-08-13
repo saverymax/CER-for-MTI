@@ -1,0 +1,151 @@
+T1	MMLite 175 179	weed
+N1	Reference T1 SemanticType:mobd	mobd
+N2	Reference T1 ConceptId:C0024809	Marijuana Abuse
+T2	MMLite 1319 1322	ALS
+N3	Reference T2 SemanticType:imft	imft
+N4	Reference T2 ConceptId:C0003372	Antilymphocyte Serum
+N5	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 1111 1114	GST
+N6	Reference T3 ConceptId:C0017837	Glutathione S-Transferase
+N7	Reference T3 SemanticType:aapp	aapp
+N8	Reference T3 SemanticType:enzy	enzy
+T4	MMLite 1145 1162	tribenuron-methyl
+N9	Reference T4 SemanticType:orch	orch
+N10	Reference T4 ConceptId:C0628808	metsulfuron methyl
+N11	Reference T4 SemanticType:hops	hops
+T5	MMLite 648 658	florasulam
+N12	Reference T5 ConceptId:C0960807	florasulam
+N13	Reference T5 SemanticType:orch	orch
+N14	Reference T5 SemanticType:hops	hops
+T6	MMLite 1348 1351	ALS
+N15	Reference T6 SemanticType:imft	imft
+N16	Reference T6 ConceptId:C0003372	Antilymphocyte Serum
+N17	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 1034 1037	for
+N18	Reference T7 ConceptId:C1421525	WWOX gene
+N19	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 1514 1517	ALS
+N20	Reference T8 SemanticType:imft	imft
+N21	Reference T8 ConceptId:C0003372	Antilymphocyte Serum
+N22	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 729 740	imazethapyr
+N23	Reference T9 SemanticType:orch	orch
+N24	Reference T9 SemanticType:phsu	phsu
+N25	Reference T9 ConceptId:C0297644	imazethapyr
+T10	MMLite 748 756	butylate
+N26	Reference T10 SemanticType:orch	orch
+N27	Reference T10 ConceptId:C0144208	butylate
+T11	MMLite 1411 1428	tribenuron-methyl
+N28	Reference T11 SemanticType:orch	orch
+N29	Reference T11 ConceptId:C0628808	metsulfuron methyl
+N30	Reference T11 SemanticType:hops	hops
+T12	MMLite 392 396	weed
+N31	Reference T12 SemanticType:mobd	mobd
+N32	Reference T12 ConceptId:C0024809	Marijuana Abuse
+T13	MMLite 705 708	was
+N33	Reference T13 SemanticType:bacs	bacs
+N34	Reference T13 SemanticType:aapp	aapp
+N35	Reference T13 ConceptId:C1565156	WAS protein, human
+T14	MMLite 427 430	had
+N36	Reference T14 ConceptId:C1415458	HADH gene
+N37	Reference T14 SemanticType:gngm	gngm
+T15	MMLite 831 840	malathion
+N38	Reference T15 ConceptId:C0024547	Malathion
+N39	Reference T15 SemanticType:orch	orch
+N40	Reference T15 SemanticType:hops	hops
+N41	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 362 365	had
+N42	Reference T16 ConceptId:C1415458	HADH gene
+N43	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 549 566	tribenuron-methyl
+N44	Reference T17 SemanticType:orch	orch
+N45	Reference T17 ConceptId:C0628808	metsulfuron methyl
+N46	Reference T17 SemanticType:hops	hops
+T18	MMLite 416 426	herbicides
+N47	Reference T18 SemanticType:hops	hops
+N48	Reference T18 ConceptId:C0019236	Herbicides
+T19	MMLite 1430 1433	ALS
+N49	Reference T19 SemanticType:imft	imft
+N50	Reference T19 ConceptId:C0003372	Antilymphocyte Serum
+N51	Reference T19 SemanticType:phsu	phsu
+T20	MMLite 1769 1786	tribenuron-methyl
+N52	Reference T20 SemanticType:orch	orch
+N53	Reference T20 ConceptId:C0628808	metsulfuron methyl
+N54	Reference T20 SemanticType:hops	hops
+T21	MMLite 329 346	tribenuron-methyl
+N55	Reference T21 SemanticType:orch	orch
+N56	Reference T21 ConceptId:C0628808	metsulfuron methyl
+N57	Reference T21 SemanticType:hops	hops
+T22	MMLite 1084 1095	Glutathione
+N58	Reference T22 SemanticType:bacs	bacs
+N59	Reference T22 SemanticType:aapp	aapp
+N60	Reference T22 ConceptId:C0017817	Glutathione
+T23	MMLite 664 667	had
+N61	Reference T23 ConceptId:C1415458	HADH gene
+N62	Reference T23 SemanticType:gngm	gngm
+T24	MMLite 742 747	2,4-D
+N63	Reference T24 SemanticType:orch	orch
+N64	Reference T24 ConceptId:C0000220	2,4-Dichlorophenoxyacetic Acid
+N65	Reference T24 SemanticType:hops	hops
+T25	MMLite 1038 1055	tribenuron-methyl
+N66	Reference T25 SemanticType:orch	orch
+N67	Reference T25 ConceptId:C0628808	metsulfuron methyl
+N68	Reference T25 SemanticType:hops	hops
+T26	MMLite 568 580	flucarbazone
+N69	Reference T26 SemanticType:orch	orch
+N70	Reference T26 ConceptId:C1743522	flucarbazone
+T27	MMLite 878 895	tribenuron-methyl
+N71	Reference T27 SemanticType:orch	orch
+N72	Reference T27 ConceptId:C0628808	metsulfuron methyl
+N73	Reference T27 SemanticType:hops	hops
+T28	MMLite 781 792	isoproturon
+N74	Reference T28 SemanticType:orch	orch
+N75	Reference T28 ConceptId:C0064067	isoproturon
+N76	Reference T28 SemanticType:phsu	phsu
+T29	MMLite 1265 1268	was
+N77	Reference T29 SemanticType:bacs	bacs
+N78	Reference T29 SemanticType:aapp	aapp
+N79	Reference T29 ConceptId:C1565156	WAS protein, human
+T30	MMLite 351 361	florasulam
+N80	Reference T30 ConceptId:C0960807	florasulam
+N81	Reference T30 SemanticType:orch	orch
+N82	Reference T30 SemanticType:hops	hops
+T31	MMLite 1698 1701	ALS
+N83	Reference T31 SemanticType:imft	imft
+N84	Reference T31 ConceptId:C0003372	Antilymphocyte Serum
+N85	Reference T31 SemanticType:phsu	phsu
+T32	MMLite 686 698	diflufenican
+N86	Reference T32 ConceptId:C0379188	diflufenican
+N87	Reference T32 SemanticType:orch	orch
+N88	Reference T32 SemanticType:phsu	phsu
+T33	MMLite 816 820	P450
+N89	Reference T33 SemanticType:aapp	aapp
+N90	Reference T33 ConceptId:C0010762	Cytochrome P450
+N91	Reference T33 SemanticType:enzy	enzy
+T34	MMLite 976 980	P450
+N92	Reference T34 SemanticType:aapp	aapp
+N93	Reference T34 ConceptId:C0010762	Cytochrome P450
+N94	Reference T34 SemanticType:enzy	enzy
+T35	MMLite 53 70	tribenuron-methyl
+N95	Reference T35 SemanticType:orch	orch
+N96	Reference T35 ConceptId:C0628808	metsulfuron methyl
+N97	Reference T35 SemanticType:hops	hops
+T36	MMLite 525 528	was
+N98	Reference T36 SemanticType:bacs	bacs
+N99	Reference T36 SemanticType:aapp	aapp
+N100	Reference T36 ConceptId:C1565156	WAS protein, human
+T37	MMLite 1232 1235	GST
+N101	Reference T37 ConceptId:C0017837	Glutathione S-Transferase
+N102	Reference T37 SemanticType:aapp	aapp
+N103	Reference T37 SemanticType:enzy	enzy
+T38	MMLite 241 251	herbicides
+N104	Reference T38 SemanticType:hops	hops
+N105	Reference T38 ConceptId:C0019236	Herbicides
+T39	MMLite 758 775	fluroxypyr-meptyl
+N106	Reference T39 SemanticType:orch	orch
+N107	Reference T39 SemanticType:hops	hops
+N108	Reference T39 ConceptId:C0655907	fluroxypyr methylheptyl ester
+T40	MMLite 1098 1109	transferase
+N109	Reference T40 ConceptId:C0040676	Transferase
+N110	Reference T40 SemanticType:aapp	aapp
+N111	Reference T40 SemanticType:enzy	enzy

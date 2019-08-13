@@ -1,0 +1,181 @@
+T1	MMLite 1668 1673	lipid
+N1	Reference T1 SemanticType:orch	orch
+N2	Reference T1 ConceptId:C0023779	Lipids
+T2	MMLite 664 669	liver
+N3	Reference T2 SemanticType:orch	orch
+N4	Reference T2 ConceptId:C0023899	Liver Extract
+N5	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 1007 1027	AMP activated kinase
+N6	Reference T3 ConceptId:C2350345	AMP-Activated Protein Kinases
+N7	Reference T3 SemanticType:aapp	aapp
+N8	Reference T3 SemanticType:enzy	enzy
+T4	MMLite 1029 1033	AMPK
+N9	Reference T4 ConceptId:C2350345	AMP-Activated Protein Kinases
+N10	Reference T4 SemanticType:aapp	aapp
+N11	Reference T4 SemanticType:enzy	enzy
+T5	MMLite 239 242	PAP
+N12	Reference T5 ConceptId:C1740167	ACPP protein, human
+N13	Reference T5 SemanticType:aapp	aapp
+N14	Reference T5 SemanticType:orch	orch
+N15	Reference T5 SemanticType:lbpr	lbpr
+N16	Reference T5 ConceptId:C0030350	Papaverine
+N17	Reference T5 SemanticType:enzy	enzy
+N18	Reference T5 ConceptId:C0523444	Prostatic acid phosphatase measurement
+N19	Reference T5 ConceptId:C1367456	ACPP gene
+N20	Reference T5 SemanticType:gngm	gngm
+N21	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 502 507	liver
+N22	Reference T6 SemanticType:orch	orch
+N23	Reference T6 ConceptId:C0023899	Liver Extract
+N24	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 808 811	for
+N25	Reference T7 ConceptId:C1421525	WWOX gene
+N26	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 1086 1091	lipin
+N27	Reference T8 ConceptId:C0256956	lipine
+N28	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 1252 1257	lines
+N29	Reference T9 SemanticType:bacs	bacs
+N30	Reference T9 SemanticType:nnon	nnon
+N31	Reference T9 ConceptId:C1517938	Long Interspersed Elements
+T10	MMLite 1287 1294	ethanol
+N32	Reference T10 SemanticType:orch	orch
+N33	Reference T10 ConceptId:C0202304	Ethanol measurement
+N34	Reference T10 SemanticType:lbpr	lbpr
+N35	Reference T10 ConceptId:C0001962	Ethanol
+N36	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 1527 1547	alternative splicing
+N37	Reference T11 SemanticType:genf	genf
+N38	Reference T11 ConceptId:C0002345	Alternative Splicing
+T12	MMLite 1514 1519	lipin
+N39	Reference T12 ConceptId:C0256956	lipine
+N40	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 144 147	PAP
+N41	Reference T13 ConceptId:C1740167	ACPP protein, human
+N42	Reference T13 SemanticType:aapp	aapp
+N43	Reference T13 SemanticType:orch	orch
+N44	Reference T13 SemanticType:lbpr	lbpr
+N45	Reference T13 ConceptId:C0030350	Papaverine
+N46	Reference T13 SemanticType:enzy	enzy
+N47	Reference T13 ConceptId:C0523444	Prostatic acid phosphatase measurement
+N48	Reference T13 ConceptId:C1367456	ACPP gene
+N49	Reference T13 SemanticType:gngm	gngm
+N50	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 83 88	Lipin
+N51	Reference T14 ConceptId:C0256956	lipine
+N52	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 1131 1136	SIRT1
+N53	Reference T15 ConceptId:C1423062	SIRT1 gene
+N54	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 356 361	lipin
+N55	Reference T16 ConceptId:C0256956	lipine
+N56	Reference T16 SemanticType:phsu	phsu
+T17	MMLite 349 354	liver
+N57	Reference T17 SemanticType:orch	orch
+N58	Reference T17 ConceptId:C0023899	Liver Extract
+N59	Reference T17 SemanticType:phsu	phsu
+T18	MMLite 50 55	Liver
+N60	Reference T18 SemanticType:orch	orch
+N61	Reference T18 ConceptId:C0023899	Liver Extract
+N62	Reference T18 SemanticType:phsu	phsu
+T19	MMLite 1137 1141	AMPK
+N63	Reference T19 ConceptId:C2350345	AMP-Activated Protein Kinases
+N64	Reference T19 SemanticType:aapp	aapp
+N65	Reference T19 SemanticType:enzy	enzy
+T20	MMLite 1727 1736	cytokines
+N66	Reference T20 ConceptId:C1524094	Recombinant Cytokines
+N67	Reference T20 SemanticType:aapp	aapp
+N68	Reference T20 SemanticType:imft	imft
+N69	Reference T20 ConceptId:C0079189	cytokine
+N70	Reference T20 SemanticType:phsu	phsu
+T21	MMLite 626 629	can
+N71	Reference T21 SemanticType:mnob	mnob
+N72	Reference T21 ConceptId:C1704712	Can - object
+T22	MMLite 1988 1991	For
+N73	Reference T22 ConceptId:C1421525	WWOX gene
+N74	Reference T22 SemanticType:gngm	gngm
+T23	MMLite 92 97	Lipin
+N75	Reference T23 ConceptId:C0256956	lipine
+N76	Reference T23 SemanticType:phsu	phsu
+T24	MMLite 1628 1635	ethanol
+N77	Reference T24 SemanticType:orch	orch
+N78	Reference T24 ConceptId:C0202304	Ethanol measurement
+N79	Reference T24 SemanticType:lbpr	lbpr
+N80	Reference T24 ConceptId:C0001962	Ethanol
+N81	Reference T24 SemanticType:phsu	phsu
+T25	MMLite 555 560	liver
+N82	Reference T25 SemanticType:orch	orch
+N83	Reference T25 ConceptId:C0023899	Liver Extract
+N84	Reference T25 SemanticType:phsu	phsu
+T26	MMLite 1000 1005	SIRT1
+N85	Reference T26 ConceptId:C1423062	SIRT1 gene
+N86	Reference T26 SemanticType:gngm	gngm
+T27	MMLite 1203 1206	for
+N87	Reference T27 ConceptId:C1421525	WWOX gene
+N88	Reference T27 SemanticType:gngm	gngm
+T28	MMLite 1439 1442	PAP
+N89	Reference T28 ConceptId:C1740167	ACPP protein, human
+N90	Reference T28 SemanticType:aapp	aapp
+N91	Reference T28 SemanticType:orch	orch
+N92	Reference T28 SemanticType:lbpr	lbpr
+N93	Reference T28 ConceptId:C0030350	Papaverine
+N94	Reference T28 SemanticType:enzy	enzy
+N95	Reference T28 ConceptId:C0523444	Prostatic acid phosphatase measurement
+N96	Reference T28 ConceptId:C1367456	ACPP gene
+N97	Reference T28 SemanticType:gngm	gngm
+N98	Reference T28 SemanticType:phsu	phsu
+T29	MMLite 1343 1350	protein
+N99	Reference T29 SemanticType:bacs	bacs
+N100	Reference T29 SemanticType:aapp	aapp
+N101	Reference T29 ConceptId:C0033684	Proteins
+T30	MMLite 1326 1331	lipin
+N102	Reference T30 ConceptId:C0256956	lipine
+N103	Reference T30 SemanticType:phsu	phsu
+T31	MMLite 812 819	alcohol
+N104	Reference T31 SemanticType:orch	orch
+N105	Reference T31 ConceptId:C0001975	Alcohols
+N106	Reference T31 ConceptId:C0202304	Ethanol measurement
+N107	Reference T31 SemanticType:lbpr	lbpr
+N108	Reference T31 ConceptId:C0001962	Ethanol
+N109	Reference T31 SemanticType:phsu	phsu
+T32	MMLite 1431 1436	lipin
+N110	Reference T32 ConceptId:C0256956	lipine
+N111	Reference T32 SemanticType:phsu	phsu
+T33	MMLite 1847 1852	lipin
+N112	Reference T33 ConceptId:C0256956	lipine
+N113	Reference T33 SemanticType:phsu	phsu
+T34	MMLite 1496 1501	lipin
+N114	Reference T34 ConceptId:C0256956	lipine
+N115	Reference T34 SemanticType:phsu	phsu
+T35	MMLite 413 418	lipid
+N116	Reference T35 SemanticType:orch	orch
+N117	Reference T35 ConceptId:C0023779	Lipids
+T36	MMLite 1560 1565	lipin
+N118	Reference T36 ConceptId:C0256956	lipine
+N119	Reference T36 SemanticType:phsu	phsu
+T37	MMLite 257 269	triglyceride
+N120	Reference T37 SemanticType:bacs	bacs
+N121	Reference T37 SemanticType:orch	orch
+N122	Reference T37 ConceptId:C0041004	Triglycerides
+T38	MMLite 851 856	liver
+N123	Reference T38 SemanticType:orch	orch
+N124	Reference T38 ConceptId:C0023899	Liver Extract
+N125	Reference T38 SemanticType:phsu	phsu
+T39	MMLite 1522 1526	mRNA
+N126	Reference T39 SemanticType:bacs	bacs
+N127	Reference T39 ConceptId:C0035696	RNA, Messenger
+N128	Reference T39 SemanticType:nnon	nnon
+T40	MMLite 113 142	phosphatidic acid phosphatase
+N129	Reference T40 SemanticType:aapp	aapp
+N130	Reference T40 SemanticType:enzy	enzy
+N131	Reference T40 ConceptId:C0031607	Phosphatidate Phosphatase
+T41	MMLite 243 249	enzyme
+N132	Reference T41 SemanticType:orch	orch
+N133	Reference T41 SemanticType:enzy	enzy
+N134	Reference T41 ConceptId:C0014442	Enzymes
+T42	MMLite 989 998	sirtuin 1
+N135	Reference T42 ConceptId:C2720167	Sirtuin 1
+N136	Reference T42 SemanticType:aapp	aapp
+N137	Reference T42 ConceptId:C1423062	SIRT1 gene
+N138	Reference T42 SemanticType:enzy	enzy
+N139	Reference T42 SemanticType:gngm	gngm

@@ -1,0 +1,269 @@
+T1	MMLite 2167 2171	IL-2
+N1	Reference T1 ConceptId:C0021756	Interleukin-2
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 SemanticType:imft	imft
+N4	Reference T1 ConceptId:C1522405	Recombinant Interleukin-2
+N5	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 1912 1915	BMP
+N6	Reference T2 SemanticType:bacs	bacs
+N7	Reference T2 SemanticType:aapp	aapp
+N8	Reference T2 ConceptId:C0053932	Bone Morphogenetic Proteins
+T3	MMLite 1016 1019	was
+N9	Reference T3 SemanticType:bacs	bacs
+N10	Reference T3 SemanticType:aapp	aapp
+N11	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 603 606	PBP
+N12	Reference T4 SemanticType:bacs	bacs
+N13	Reference T4 ConceptId:C1335237	MED1 gene
+N14	Reference T4 SemanticType:aapp	aapp
+N15	Reference T4 ConceptId:C0755397	thyroid hormone receptor associated protein 220
+N16	Reference T4 ConceptId:C1335239	PPBP gene
+N17	Reference T4 ConceptId:C1826565	PEBP1 gene
+N18	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 131 144	Interleukin-2
+N19	Reference T5 ConceptId:C0021756	Interleukin-2
+N20	Reference T5 SemanticType:aapp	aapp
+N21	Reference T5 SemanticType:imft	imft
+N22	Reference T5 ConceptId:C1522405	Recombinant Interleukin-2
+N23	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 543 546	PBP
+N24	Reference T6 SemanticType:bacs	bacs
+N25	Reference T6 SemanticType:aapp	aapp
+N26	Reference T6 ConceptId:C1335237	MED1 gene
+N27	Reference T6 ConceptId:C0755397	thyroid hormone receptor associated protein 220
+N28	Reference T6 ConceptId:C1335239	PPBP gene
+N29	Reference T6 ConceptId:C1826565	PEBP1 gene
+N30	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 1119 1122	PBP
+N31	Reference T7 SemanticType:bacs	bacs
+N32	Reference T7 SemanticType:aapp	aapp
+N33	Reference T7 ConceptId:C1335237	MED1 gene
+N34	Reference T7 ConceptId:C0755397	thyroid hormone receptor associated protein 220
+N35	Reference T7 ConceptId:C1335239	PPBP gene
+N36	Reference T7 ConceptId:C1826565	PEBP1 gene
+N37	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 953 956	BMP
+N38	Reference T8 SemanticType:bacs	bacs
+N39	Reference T8 SemanticType:aapp	aapp
+N40	Reference T8 ConceptId:C0053932	Bone Morphogenetic Proteins
+T9	MMLite 188 199	interleukin
+N41	Reference T9 SemanticType:aapp	aapp
+N42	Reference T9 SemanticType:imft	imft
+N43	Reference T9 ConceptId:C1527200	Recombinant Interleukins
+N44	Reference T9 ConceptId:C0021764	Interleukins
+N45	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 2315 2318	for
+N46	Reference T10 ConceptId:C1421525	WWOX gene
+N47	Reference T10 SemanticType:gngm	gngm
+T11	MMLite 509 512	BMP
+N48	Reference T11 SemanticType:bacs	bacs
+N49	Reference T11 SemanticType:aapp	aapp
+N50	Reference T11 ConceptId:C0053932	Bone Morphogenetic Proteins
+T12	MMLite 2255 2258	can
+N51	Reference T12 SemanticType:mnob	mnob
+N52	Reference T12 ConceptId:C1704712	Can - object
+T13	MMLite 60 64	IL-2
+N53	Reference T13 ConceptId:C0021756	Interleukin-2
+N54	Reference T13 SemanticType:aapp	aapp
+N55	Reference T13 SemanticType:imft	imft
+N56	Reference T13 ConceptId:C1522405	Recombinant Interleukin-2
+N57	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 445 448	was
+N58	Reference T14 SemanticType:bacs	bacs
+N59	Reference T14 SemanticType:aapp	aapp
+N60	Reference T14 ConceptId:C1565156	WAS protein, human
+T15	MMLite 1004 1007	PBP
+N61	Reference T15 SemanticType:bacs	bacs
+N62	Reference T15 ConceptId:C1335237	MED1 gene
+N63	Reference T15 SemanticType:aapp	aapp
+N64	Reference T15 ConceptId:C0755397	thyroid hormone receptor associated protein 220
+N65	Reference T15 ConceptId:C1335239	PPBP gene
+N66	Reference T15 ConceptId:C1826565	PEBP1 gene
+N67	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 777 783	enzyme
+N68	Reference T16 SemanticType:orch	orch
+N69	Reference T16 SemanticType:enzy	enzy
+N70	Reference T16 ConceptId:C0014442	Enzymes
+T17	MMLite 165 175	Lymphokine
+N71	Reference T17 SemanticType:aapp	aapp
+N72	Reference T17 SemanticType:imft	imft
+N73	Reference T17 ConceptId:C0024297	Lymphokines
+T18	MMLite 425 428	AAA
+N74	Reference T18 SemanticType:bacs	bacs
+N75	Reference T18 SemanticType:aapp	aapp
+N76	Reference T18 ConceptId:C0611285	APP protein, human
+T19	MMLite 853 856	for
+N77	Reference T19 ConceptId:C1421525	WWOX gene
+N78	Reference T19 SemanticType:gngm	gngm
+T20	MMLite 551 554	AAA
+N79	Reference T20 SemanticType:bacs	bacs
+N80	Reference T20 SemanticType:aapp	aapp
+N81	Reference T20 ConceptId:C0611285	APP protein, human
+T21	MMLite 1315 1319	IL-2
+N82	Reference T21 ConceptId:C0021756	Interleukin-2
+N83	Reference T21 SemanticType:aapp	aapp
+N84	Reference T21 SemanticType:imft	imft
+N85	Reference T21 ConceptId:C1522405	Recombinant Interleukin-2
+N86	Reference T21 SemanticType:phsu	phsu
+T22	MMLite 739 743	IL-2
+N87	Reference T22 ConceptId:C0021756	Interleukin-2
+N88	Reference T22 SemanticType:aapp	aapp
+N89	Reference T22 SemanticType:imft	imft
+N90	Reference T22 ConceptId:C1522405	Recombinant Interleukin-2
+N91	Reference T22 SemanticType:phsu	phsu
+T23	MMLite 1134 1137	AAA
+N92	Reference T23 SemanticType:bacs	bacs
+N93	Reference T23 SemanticType:aapp	aapp
+N94	Reference T23 ConceptId:C0611285	APP protein, human
+T24	MMLite 996 1000	IL-2
+N95	Reference T24 ConceptId:C0021756	Interleukin-2
+N96	Reference T24 SemanticType:aapp	aapp
+N97	Reference T24 SemanticType:imft	imft
+N98	Reference T24 ConceptId:C1522405	Recombinant Interleukin-2
+N99	Reference T24 SemanticType:phsu	phsu
+T25	MMLite 685 688	AAA
+N100	Reference T25 SemanticType:bacs	bacs
+N101	Reference T25 SemanticType:aapp	aapp
+N102	Reference T25 ConceptId:C0611285	APP protein, human
+T26	MMLite 637 641	same
+N103	Reference T26 SemanticType:bacs	bacs
+N104	Reference T26 ConceptId:C0036002	S-Adenosylmethionine
+N105	Reference T26 SemanticType:aapp	aapp
+N106	Reference T26 SemanticType:phsu	phsu
+T27	MMLite 791 804	immunosorbent
+N107	Reference T27 ConceptId:C0021075	Immunosorbents
+N108	Reference T27 SemanticType:irda	irda
+T28	MMLite 315 322	leading
+N109	Reference T28 ConceptId:C1522538	Leading
+N110	Reference T28 SemanticType:ftcn	ftcn
+T29	MMLite 844 847	was
+N111	Reference T29 SemanticType:bacs	bacs
+N112	Reference T29 SemanticType:aapp	aapp
+N113	Reference T29 ConceptId:C1565156	WAS protein, human
+T30	MMLite 652 655	was
+N114	Reference T30 SemanticType:bacs	bacs
+N115	Reference T30 SemanticType:aapp	aapp
+N116	Reference T30 ConceptId:C1565156	WAS protein, human
+T31	MMLite 595 598	BMP
+N117	Reference T31 SemanticType:bacs	bacs
+N118	Reference T31 SemanticType:aapp	aapp
+N119	Reference T31 ConceptId:C0053932	Bone Morphogenetic Proteins
+T32	MMLite 2233 2236	AAA
+N120	Reference T32 SemanticType:bacs	bacs
+N121	Reference T32 SemanticType:aapp	aapp
+N122	Reference T32 ConceptId:C0611285	APP protein, human
+T33	MMLite 153 157	IL-2
+N123	Reference T33 ConceptId:C0021756	Interleukin-2
+N124	Reference T33 SemanticType:aapp	aapp
+N125	Reference T33 SemanticType:imft	imft
+N126	Reference T33 ConceptId:C1522405	Recombinant Interleukin-2
+N127	Reference T33 SemanticType:phsu	phsu
+T34	MMLite 1856 1859	PBP
+N128	Reference T34 SemanticType:bacs	bacs
+N129	Reference T34 SemanticType:aapp	aapp
+N130	Reference T34 ConceptId:C1335237	MED1 gene
+N131	Reference T34 ConceptId:C0755397	thyroid hormone receptor associated protein 220
+N132	Reference T34 ConceptId:C1335239	PPBP gene
+N133	Reference T34 ConceptId:C1826565	PEBP1 gene
+N134	Reference T34 SemanticType:gngm	gngm
+T35	MMLite 1814 1818	IL-2
+N135	Reference T35 ConceptId:C0021756	Interleukin-2
+N136	Reference T35 SemanticType:aapp	aapp
+N137	Reference T35 SemanticType:imft	imft
+N138	Reference T35 ConceptId:C1522405	Recombinant Interleukin-2
+N139	Reference T35 SemanticType:phsu	phsu
+T36	MMLite 1849 1852	SAA
+N140	Reference T36 SemanticType:aapp	aapp
+N141	Reference T36 SemanticType:imft	imft
+N142	Reference T36 ConceptId:C0002723	Serum amyloid A protein
+T37	MMLite 928 932	IL-2
+N143	Reference T37 ConceptId:C0021756	Interleukin-2
+N144	Reference T37 SemanticType:aapp	aapp
+N145	Reference T37 SemanticType:imft	imft
+N146	Reference T37 ConceptId:C1522405	Recombinant Interleukin-2
+N147	Reference T37 SemanticType:phsu	phsu
+T38	MMLite 159 163	TCGF
+N148	Reference T38 ConceptId:C0021756	Interleukin-2
+N149	Reference T38 SemanticType:aapp	aapp
+N150	Reference T38 SemanticType:imft	imft
+N151	Reference T38 ConceptId:C1522405	Recombinant Interleukin-2
+N152	Reference T38 SemanticType:phsu	phsu
+T39	MMLite 962 965	PBP
+N153	Reference T39 SemanticType:bacs	bacs
+N154	Reference T39 SemanticType:aapp	aapp
+N155	Reference T39 ConceptId:C1335237	MED1 gene
+N156	Reference T39 ConceptId:C0755397	thyroid hormone receptor associated protein 220
+N157	Reference T39 ConceptId:C1335239	PPBP gene
+N158	Reference T39 ConceptId:C1826565	PEBP1 gene
+N159	Reference T39 SemanticType:gngm	gngm
+T40	MMLite 1825 1828	was
+N160	Reference T40 SemanticType:bacs	bacs
+N161	Reference T40 SemanticType:aapp	aapp
+N162	Reference T40 ConceptId:C1565156	WAS protein, human
+T41	MMLite 365 369	cell
+N163	Reference T41 ConceptId:C1413336	CEL gene
+N164	Reference T41 SemanticType:gngm	gngm
+T42	MMLite 477 481	IL-2
+N165	Reference T42 ConceptId:C0021756	Interleukin-2
+N166	Reference T42 SemanticType:aapp	aapp
+N167	Reference T42 SemanticType:imft	imft
+N168	Reference T42 ConceptId:C1522405	Recombinant Interleukin-2
+N169	Reference T42 SemanticType:phsu	phsu
+T43	MMLite 1697 1700	BMP
+N170	Reference T43 SemanticType:bacs	bacs
+N171	Reference T43 SemanticType:aapp	aapp
+N172	Reference T43 ConceptId:C0053932	Bone Morphogenetic Proteins
+T44	MMLite 1484 1487	PBP
+N173	Reference T44 SemanticType:bacs	bacs
+N174	Reference T44 ConceptId:C1335237	MED1 gene
+N175	Reference T44 SemanticType:aapp	aapp
+N176	Reference T44 ConceptId:C0755397	thyroid hormone receptor associated protein 220
+N177	Reference T44 ConceptId:C1335239	PPBP gene
+N178	Reference T44 ConceptId:C1826565	PEBP1 gene
+N179	Reference T44 SemanticType:gngm	gngm
+T45	MMLite 1665 1668	SAA
+N180	Reference T45 SemanticType:aapp	aapp
+N181	Reference T45 SemanticType:imft	imft
+N182	Reference T45 ConceptId:C0002723	Serum amyloid A protein
+T46	MMLite 744 747	was
+N183	Reference T46 SemanticType:bacs	bacs
+N184	Reference T46 SemanticType:aapp	aapp
+N185	Reference T46 ConceptId:C1565156	WAS protein, human
+T47	MMLite 1096 1100	IL-2
+N186	Reference T47 ConceptId:C0021756	Interleukin-2
+N187	Reference T47 SemanticType:aapp	aapp
+N188	Reference T47 SemanticType:imft	imft
+N189	Reference T47 ConceptId:C1522405	Recombinant Interleukin-2
+N190	Reference T47 SemanticType:phsu	phsu
+T48	MMLite 1127 1130	BMP
+N191	Reference T48 SemanticType:bacs	bacs
+N192	Reference T48 SemanticType:aapp	aapp
+N193	Reference T48 ConceptId:C0053932	Bone Morphogenetic Proteins
+T49	MMLite 969 972	AAA
+N194	Reference T49 SemanticType:bacs	bacs
+N195	Reference T49 SemanticType:aapp	aapp
+N196	Reference T49 ConceptId:C0611285	APP protein, human
+T50	MMLite 2053 2057	IL-2
+N197	Reference T50 ConceptId:C0021756	Interleukin-2
+N198	Reference T50 SemanticType:aapp	aapp
+N199	Reference T50 SemanticType:imft	imft
+N200	Reference T50 ConceptId:C1522405	Recombinant Interleukin-2
+N201	Reference T50 SemanticType:phsu	phsu
+T51	MMLite 933 936	was
+N202	Reference T51 SemanticType:bacs	bacs
+N203	Reference T51 SemanticType:aapp	aapp
+N204	Reference T51 ConceptId:C1565156	WAS protein, human
+T52	MMLite 1615 1619	IL-2
+N205	Reference T52 ConceptId:C0021756	Interleukin-2
+N206	Reference T52 SemanticType:aapp	aapp
+N207	Reference T52 SemanticType:imft	imft
+N208	Reference T52 ConceptId:C1522405	Recombinant Interleukin-2
+N209	Reference T52 SemanticType:phsu	phsu
+T53	MMLite 1421 1424	SAA
+N210	Reference T53 SemanticType:aapp	aapp
+N211	Reference T53 SemanticType:imft	imft
+N212	Reference T53 ConceptId:C0002723	Serum amyloid A protein
+T54	MMLite 1012 1015	BMP
+N213	Reference T54 SemanticType:bacs	bacs
+N214	Reference T54 SemanticType:aapp	aapp
+N215	Reference T54 ConceptId:C0053932	Bone Morphogenetic Proteins

@@ -1,0 +1,82 @@
+T1	MMLite 994 998	same
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 ConceptId:C0036002	S-Adenosylmethionine
+N3	Reference T1 SemanticType:aapp	aapp
+N4	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 1015 1018	was
+N5	Reference T2 SemanticType:bacs	bacs
+N6	Reference T2 SemanticType:aapp	aapp
+N7	Reference T2 ConceptId:C1565156	WAS protein, human
+T3	MMLite 540 545	EBER1
+N8	Reference T3 SemanticType:bacs	bacs
+N9	Reference T3 ConceptId:C0389774	Epstein-Barr virus encoded RNA 1
+N10	Reference T3 SemanticType:nnon	nnon
+T4	MMLite 713 716	was
+N11	Reference T4 SemanticType:bacs	bacs
+N12	Reference T4 SemanticType:aapp	aapp
+N13	Reference T4 ConceptId:C1565156	WAS protein, human
+T5	MMLite 941 944	DNA
+N14	Reference T5 SemanticType:celc	celc
+N15	Reference T5 SemanticType:bacs	bacs
+N16	Reference T5 ConceptId:C0012854	DNA
+N17	Reference T5 ConceptId:C1325786	DNA location
+N18	Reference T5 SemanticType:nnon	nnon
+T6	MMLite 533 536	RNA
+N19	Reference T6 SemanticType:celc	celc
+N20	Reference T6 ConceptId:C0035668	RNA
+N21	Reference T6 ConceptId:C1325819	RNA location
+N22	Reference T6 SemanticType:nnon	nnon
+T7	MMLite 615 629	DNA polymerase
+N23	Reference T7 SemanticType:aapp	aapp
+N24	Reference T7 SemanticType:enzy	enzy
+N25	Reference T7 ConceptId:C0012892	DNA-Directed DNA Polymerase
+T8	MMLite 1034 1037	for
+N26	Reference T8 ConceptId:C1421525	WWOX gene
+N27	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 1158 1161	was
+N28	Reference T9 SemanticType:bacs	bacs
+N29	Reference T9 SemanticType:aapp	aapp
+N30	Reference T9 ConceptId:C1565156	WAS protein, human
+T10	MMLite 454 457	was
+N31	Reference T10 SemanticType:bacs	bacs
+N32	Reference T10 SemanticType:aapp	aapp
+N33	Reference T10 ConceptId:C1565156	WAS protein, human
+T11	MMLite 739 743	cell
+N34	Reference T11 ConceptId:C1413336	CEL gene
+N35	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 895 898	was
+N36	Reference T12 SemanticType:bacs	bacs
+N37	Reference T12 SemanticType:aapp	aapp
+N38	Reference T12 ConceptId:C1565156	WAS protein, human
+T13	MMLite 559 562	was
+N39	Reference T13 SemanticType:bacs	bacs
+N40	Reference T13 SemanticType:aapp	aapp
+N41	Reference T13 ConceptId:C1565156	WAS protein, human
+T14	MMLite 1486 1489	for
+N42	Reference T14 ConceptId:C1421525	WWOX gene
+N43	Reference T14 SemanticType:gngm	gngm
+T15	MMLite 801 804	was
+N44	Reference T15 SemanticType:bacs	bacs
+N45	Reference T15 SemanticType:aapp	aapp
+N46	Reference T15 ConceptId:C1565156	WAS protein, human
+T16	MMLite 908 911	for
+N47	Reference T16 ConceptId:C1421525	WWOX gene
+N48	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 603 606	DNA
+N49	Reference T17 SemanticType:celc	celc
+N50	Reference T17 SemanticType:bacs	bacs
+N51	Reference T17 ConceptId:C0012854	DNA
+N52	Reference T17 ConceptId:C1325786	DNA location
+N53	Reference T17 SemanticType:nnon	nnon
+T18	MMLite 1271 1279	contrast
+N54	Reference T18 SemanticType:irda	irda
+N55	Reference T18 ConceptId:C0009924	Contrast Media
+T19	MMLite 1145 1148	DNA
+N56	Reference T19 SemanticType:bacs	bacs
+N57	Reference T19 SemanticType:celc	celc
+N58	Reference T19 ConceptId:C0012854	DNA
+N59	Reference T19 ConceptId:C1325786	DNA location
+N60	Reference T19 SemanticType:nnon	nnon
+T20	MMLite 511 514	for
+N61	Reference T20 ConceptId:C1421525	WWOX gene
+N62	Reference T20 SemanticType:gngm	gngm

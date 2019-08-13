@@ -1,0 +1,46 @@
+T1	Chemlistem 58 60	O3
+A1	Score T1 0.5044558
+T2	Chemlistem 130 135	ozone
+A2	Score T2 0.9191774
+T3	Chemlistem 270 275	ozone
+A3	Score T3 0.94510967
+T4	Chemlistem 277 280	NOx
+A4	Score T4 0.5149653
+T5	Chemlistem 368 373	ozone
+A5	Score T5 0.9259873
+T6	Chemlistem 436 441	ozone
+A6	Score T6 0.89559305
+T7	Chemlistem 515 520	ozone
+A7	Score T7 0.90343827
+T8	Chemlistem 638 645	alkanes
+A8	Score T8 0.6753976
+T9	Chemlistem 684 693	acetylene
+A9	Score T9 0.6632036
+T10	Chemlistem 736 741	Ozone
+A10	Score T10 0.9247677
+T11	Chemlistem 1003 1008	ozone
+A11	Score T11 0.852876
+T12	Chemlistem 1076 1083	alkanes
+A12	Score T12 0.6684385
+T13	Chemlistem 1137 1146	acetylene
+A13	Score T13 0.51322
+T14	Chemlistem 1214 1222	ethylene
+A14	Score T14 0.91944116
+T15	Chemlistem 1224 1232	m-xylene
+A15	Score T15 0.95911384
+T16	Chemlistem 1234 1241	toluene
+A16	Score T16 0.9700485
+T17	Chemlistem 1243 1252	propylene
+A17	Score T17 0.86007094
+T18	Chemlistem 1257 1265	o-xylene
+A18	Score T18 0.93406636
+T19	Chemlistem 1321 1326	ozone
+A19	Score T19 0.8987198
+T20	Chemlistem 1373 1378	Ozone
+A20	Score T20 0.6425488
+T21	Chemlistem 1498 1503	ozone
+A21	Score T21 0.83315235
+T22	Chemlistem 1580 1585	ozone
+A22	Score T22 0.94957197
+T23	Chemlistem 1674 1679	ozone
+A23	Score T23 0.9252149

@@ -1,0 +1,49 @@
+T1	MMLite 109 124	Carbon nanotube
+N1	Reference T1 ConceptId:C1138408	Nanotubes, Carbon
+N2	Reference T1 SemanticType:chvs	chvs
+T2	MMLite 557 573	carbon nanotubes
+N3	Reference T2 ConceptId:C1138408	Nanotubes, Carbon
+N4	Reference T2 SemanticType:chvs	chvs
+T3	MMLite 26 42	Carbon Nanotubes
+N5	Reference T3 ConceptId:C1138408	Nanotubes, Carbon
+N6	Reference T3 SemanticType:chvs	chvs
+T4	MMLite 186 189	for
+N7	Reference T4 ConceptId:C1421525	WWOX gene
+N8	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 794 820	3,4-ethylenedioxythiophene
+N9	Reference T5 SemanticType:orch	orch
+N10	Reference T5 ConceptId:C4078767	3,4-ethylenedioxythiophene
+T6	MMLite 456 459	CNT
+N11	Reference T6 ConceptId:C1138408	Nanotubes, Carbon
+N12	Reference T6 SemanticType:chvs	chvs
+T7	MMLite 1447 1450	for
+N13	Reference T7 ConceptId:C1421525	WWOX gene
+N14	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 126 129	CNT
+N15	Reference T8 ConceptId:C1138408	Nanotubes, Carbon
+N16	Reference T8 SemanticType:chvs	chvs
+T9	MMLite 789 793	poly
+N17	Reference T9 SemanticType:nnon	nnon
+N18	Reference T9 ConceptId:C0032400	Poly A
+N19	Reference T9 ConceptId:C0071360	5'-Inosinic acid, 2'-deoxy-2'-fluoro-, homopolymer
+T10	MMLite 690 697	polymer
+N20	Reference T10 SemanticType:chvs	chvs
+N21	Reference T10 ConceptId:C0032521	Polymers
+N22	Reference T10 SemanticType:bodm	bodm
+T11	MMLite 381 384	CNT
+N23	Reference T11 ConceptId:C1138408	Nanotubes, Carbon
+N24	Reference T11 SemanticType:chvs	chvs
+T12	MMLite 11 18	Polymer
+N25	Reference T12 SemanticType:chvs	chvs
+N26	Reference T12 ConceptId:C0032521	Polymers
+N27	Reference T12 SemanticType:bodm	bodm
+T13	MMLite 268 271	CNT
+N28	Reference T13 ConceptId:C1138408	Nanotubes, Carbon
+N29	Reference T13 SemanticType:chvs	chvs
+T14	MMLite 316 319	for
+N30	Reference T14 ConceptId:C1421525	WWOX gene
+N31	Reference T14 SemanticType:gngm	gngm
+T15	MMLite 704 711	polymer
+N32	Reference T15 SemanticType:chvs	chvs
+N33	Reference T15 ConceptId:C0032521	Polymers
+N34	Reference T15 SemanticType:bodm	bodm

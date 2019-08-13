@@ -1,0 +1,13 @@
+T1	TRIVIAL 48 69	lysophosphatidic acid
+T2	TRIVIAL 41 57	α-linolenic acid
+T3	FAMILY 97 118	polyunsaturated fatty
+T4	SYSTEMATIC 166 189	2-lysophosphatidic acid
+T5	TRIVIAL 277 293	α-linolenic acid
+T6	ABBREVIATION 729 737	LPAAT2A2
+T7	ABBREVIATION 742 749	LPAAT2B
+T8	MULTIPLE 780 808	linoleic and linolenic acids
+T9	TRIVIAL 885 893	linoleic
+T10	FAMILY 898 913	linolenic acids
+T11	FAMILY 929 950	saturated fatty acids
+T12	TRIVIAL 1240 1248	linoleic
+T13	FAMILY 1253 1268	linolenic acids

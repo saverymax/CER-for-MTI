@@ -1,0 +1,128 @@
+T1	MMLite 2840 2843	was
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C1565156	WAS protein, human
+T2	MMLite 2374 2392	lithium disilicate
+N4	Reference T2 SemanticType:bodm	bodm
+N5	Reference T2 ConceptId:C1528812	lithia disilicate
+T3	MMLite 2195 2198	For
+N6	Reference T3 ConceptId:C1421525	WWOX gene
+N7	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 2058 2061	for
+N8	Reference T4 ConceptId:C1421525	WWOX gene
+N9	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 2550 2558	zirconia
+N10	Reference T5 ConceptId:C0078814	zirconium oxide
+N11	Reference T5 SemanticType:inch	inch
+N12	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 436 439	was
+N13	Reference T6 SemanticType:bacs	bacs
+N14	Reference T6 SemanticType:aapp	aapp
+N15	Reference T6 ConceptId:C1565156	WAS protein, human
+T7	MMLite 566 569	CAM
+N16	Reference T7 SemanticType:bacs	bacs
+N17	Reference T7 SemanticType:aapp	aapp
+N18	Reference T7 ConceptId:C1366910	Calmodulin 1
+N19	Reference T7 ConceptId:C0007578	Cell Adhesion Molecules
+T8	MMLite 1737 1755	lithium disilicate
+N20	Reference T8 SemanticType:bodm	bodm
+N21	Reference T8 ConceptId:C1528812	lithia disilicate
+T9	MMLite 1081 1091	simulating
+N22	Reference T9 ConceptId:C0284447	Simulate composite resin
+N23	Reference T9 SemanticType:bodm	bodm
+T10	MMLite 650 658	zirconia
+N24	Reference T10 ConceptId:C0078814	zirconium oxide
+N25	Reference T10 SemanticType:inch	inch
+N26	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 346 349	CAM
+N27	Reference T11 SemanticType:bacs	bacs
+N28	Reference T11 SemanticType:aapp	aapp
+N29	Reference T11 ConceptId:C1366910	Calmodulin 1
+N30	Reference T11 ConceptId:C0007578	Cell Adhesion Molecules
+T12	MMLite 1153 1156	was
+N31	Reference T12 SemanticType:bacs	bacs
+N32	Reference T12 SemanticType:aapp	aapp
+N33	Reference T12 ConceptId:C1565156	WAS protein, human
+T13	MMLite 2897 2900	for
+N34	Reference T13 ConceptId:C1421525	WWOX gene
+N35	Reference T13 SemanticType:gngm	gngm
+T14	MMLite 1442 1451	simulated
+N36	Reference T14 ConceptId:C0284447	Simulate composite resin
+N37	Reference T14 SemanticType:bodm	bodm
+T15	MMLite 2414 2422	zirconia
+N38	Reference T15 ConceptId:C0078814	zirconium oxide
+N39	Reference T15 SemanticType:inch	inch
+N40	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 962 972	simulating
+N41	Reference T16 ConceptId:C0284447	Simulate composite resin
+N42	Reference T16 SemanticType:bodm	bodm
+T17	MMLite 608 626	Lithium disilicate
+N43	Reference T17 SemanticType:bodm	bodm
+N44	Reference T17 ConceptId:C1528812	lithia disilicate
+T18	MMLite 2800 2808	zirconia
+N45	Reference T18 ConceptId:C0078814	zirconium oxide
+N46	Reference T18 SemanticType:inch	inch
+N47	Reference T18 SemanticType:phsu	phsu
+T19	MMLite 1031 1034	was
+N48	Reference T19 SemanticType:bacs	bacs
+N49	Reference T19 SemanticType:aapp	aapp
+N50	Reference T19 ConceptId:C1565156	WAS protein, human
+T20	MMLite 2440 2443	was
+N51	Reference T20 SemanticType:bacs	bacs
+N52	Reference T20 SemanticType:aapp	aapp
+N53	Reference T20 ConceptId:C1565156	WAS protein, human
+T21	MMLite 2213 2223	simulating
+N54	Reference T21 ConceptId:C0284447	Simulate composite resin
+N55	Reference T21 SemanticType:bodm	bodm
+T22	MMLite 2969 2972	for
+N56	Reference T22 ConceptId:C1421525	WWOX gene
+N57	Reference T22 SemanticType:gngm	gngm
+T23	MMLite 2773 2791	lithium disilicate
+N58	Reference T23 SemanticType:bodm	bodm
+N59	Reference T23 ConceptId:C1528812	lithia disilicate
+T24	MMLite 2665 2674	simulated
+N60	Reference T24 ConceptId:C0284447	Simulate composite resin
+N61	Reference T24 SemanticType:bodm	bodm
+T25	MMLite 2085 2093	zirconia
+N62	Reference T25 ConceptId:C0078814	zirconium oxide
+N63	Reference T25 SemanticType:inch	inch
+N64	Reference T25 SemanticType:phsu	phsu
+T26	MMLite 1863 1871	zirconia
+N65	Reference T26 ConceptId:C0078814	zirconium oxide
+N66	Reference T26 SemanticType:inch	inch
+N67	Reference T26 SemanticType:phsu	phsu
+T27	MMLite 2523 2541	lithium disilicate
+N68	Reference T27 SemanticType:bodm	bodm
+N69	Reference T27 ConceptId:C1528812	lithia disilicate
+T28	MMLite 1957 1966	simulated
+N70	Reference T28 ConceptId:C0284447	Simulate composite resin
+N71	Reference T28 SemanticType:bodm	bodm
+T29	MMLite 2003 2012	simulated
+N72	Reference T29 ConceptId:C0284447	Simulate composite resin
+N73	Reference T29 SemanticType:bodm	bodm
+T30	MMLite 2203 2211	zirconia
+N74	Reference T30 ConceptId:C0078814	zirconium oxide
+N75	Reference T30 SemanticType:inch	inch
+N76	Reference T30 SemanticType:phsu	phsu
+T31	MMLite 1643 1646	was
+N77	Reference T31 SemanticType:bacs	bacs
+N78	Reference T31 SemanticType:aapp	aapp
+N79	Reference T31 ConceptId:C1565156	WAS protein, human
+T32	MMLite 2514 2517	For
+N80	Reference T32 ConceptId:C1421525	WWOX gene
+N81	Reference T32 SemanticType:gngm	gngm
+T33	MMLite 79 82	CAM
+N82	Reference T33 SemanticType:bacs	bacs
+N83	Reference T33 SemanticType:aapp	aapp
+N84	Reference T33 ConceptId:C1366910	Calmodulin 1
+N85	Reference T33 ConceptId:C0007578	Cell Adhesion Molecules
+T34	MMLite 908 911	was
+N86	Reference T34 SemanticType:bacs	bacs
+N87	Reference T34 SemanticType:aapp	aapp
+N88	Reference T34 ConceptId:C1565156	WAS protein, human
+T35	MMLite 2305 2308	for
+N89	Reference T35 ConceptId:C1421525	WWOX gene
+N90	Reference T35 SemanticType:gngm	gngm
+T36	MMLite 2335 2338	for
+N91	Reference T36 ConceptId:C1421525	WWOX gene
+N92	Reference T36 SemanticType:gngm	gngm

@@ -1,0 +1,243 @@
+T1	MMLite 1143 1146	was
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C1565156	WAS protein, human
+T2	MMLite 224 227	MLT
+N4	Reference T2 SemanticType:orch	orch
+N5	Reference T2 ConceptId:C0025219	Melatonin
+N6	Reference T2 SemanticType:horm	horm
+N7	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 40 55	hydroxybutyrate
+N8	Reference T3 SemanticType:bacs	bacs
+N9	Reference T3 SemanticType:orch	orch
+N10	Reference T3 ConceptId:C0020332	Hydroxybutyrates
+T4	MMLite 742 746	DMSO
+N11	Reference T4 SemanticType:orch	orch
+N12	Reference T4 ConceptId:C0012403	Dimethyl Sulfoxide
+N13	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 1397 1400	was
+N14	Reference T5 SemanticType:bacs	bacs
+N15	Reference T5 SemanticType:aapp	aapp
+N16	Reference T5 ConceptId:C1565156	WAS protein, human
+T6	MMLite 738 741	MLT
+N17	Reference T6 SemanticType:orch	orch
+N18	Reference T6 ConceptId:C0025219	Melatonin
+N19	Reference T6 SemanticType:horm	horm
+N20	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 687 713	lactated Ringer's solution
+N21	Reference T7 SemanticType:orch	orch
+N22	Reference T7 ConceptId:C0073385	Lactated Ringer's Solution
+N23	Reference T7 SemanticType:phsu	phsu
+T8	MMLite 1265 1269	DMSO
+N24	Reference T8 SemanticType:orch	orch
+N25	Reference T8 ConceptId:C0012403	Dimethyl Sulfoxide
+N26	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 816 819	MLT
+N27	Reference T9 SemanticType:orch	orch
+N28	Reference T9 ConceptId:C0025219	Melatonin
+N29	Reference T9 SemanticType:horm	horm
+N30	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 1238 1242	DMSO
+N31	Reference T10 SemanticType:orch	orch
+N32	Reference T10 ConceptId:C0012403	Dimethyl Sulfoxide
+N33	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 1261 1264	MLT
+N34	Reference T11 SemanticType:orch	orch
+N35	Reference T11 ConceptId:C0025219	Melatonin
+N36	Reference T11 SemanticType:horm	horm
+N37	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 837 840	was
+N38	Reference T12 SemanticType:bacs	bacs
+N39	Reference T12 SemanticType:aapp	aapp
+N40	Reference T12 ConceptId:C1565156	WAS protein, human
+T13	MMLite 562 565	MLT
+N41	Reference T13 SemanticType:orch	orch
+N42	Reference T13 ConceptId:C0025219	Melatonin
+N43	Reference T13 SemanticType:horm	horm
+N44	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 1214 1217	PVP
+N45	Reference T14 SemanticType:orch	orch
+N46	Reference T14 ConceptId:C0032856	Povidone
+N47	Reference T14 SemanticType:bodm	bodm
+N48	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 1278 1280	LR
+N49	Reference T15 SemanticType:orch	orch
+N50	Reference T15 ConceptId:C0073385	Lactated Ringer's Solution
+N51	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 131 140	melatonin
+N52	Reference T16 ConceptId:C1295184	Melatonin Measurement
+N53	Reference T16 SemanticType:orch	orch
+N54	Reference T16 ConceptId:C1527137	Recombinant melatonin
+N55	Reference T16 SemanticType:lbpr	lbpr
+N56	Reference T16 ConceptId:C0025219	Melatonin
+N57	Reference T16 SemanticType:horm	horm
+N58	Reference T16 SemanticType:phsu	phsu
+T17	MMLite 501 504	MLT
+N59	Reference T17 SemanticType:orch	orch
+N60	Reference T17 ConceptId:C0025219	Melatonin
+N61	Reference T17 SemanticType:horm	horm
+N62	Reference T17 SemanticType:phsu	phsu
+T18	MMLite 349 353	DMSO
+N63	Reference T18 SemanticType:orch	orch
+N64	Reference T18 ConceptId:C0012403	Dimethyl Sulfoxide
+N65	Reference T18 SemanticType:phsu	phsu
+T19	MMLite 828 831	MLT
+N66	Reference T19 SemanticType:orch	orch
+N67	Reference T19 ConceptId:C0025219	Melatonin
+N68	Reference T19 SemanticType:horm	horm
+N69	Reference T19 SemanticType:phsu	phsu
+T20	MMLite 650 654	sham
+N70	Reference T20 ConceptId:C0073980	salicylhydroxamic acid
+N71	Reference T20 SemanticType:orch	orch
+N72	Reference T20 SemanticType:phsu	phsu
+T21	MMLite 1210 1213	MLT
+N73	Reference T21 SemanticType:orch	orch
+N74	Reference T21 ConceptId:C0025219	Melatonin
+N75	Reference T21 SemanticType:horm	horm
+N76	Reference T21 SemanticType:phsu	phsu
+T22	MMLite 60 69	melatonin
+N77	Reference T22 ConceptId:C1295184	Melatonin Measurement
+N78	Reference T22 SemanticType:orch	orch
+N79	Reference T22 ConceptId:C1527137	Recombinant melatonin
+N80	Reference T22 SemanticType:lbpr	lbpr
+N81	Reference T22 ConceptId:C0025219	Melatonin
+N82	Reference T22 SemanticType:horm	horm
+N83	Reference T22 SemanticType:phsu	phsu
+T23	MMLite 766 769	MLT
+N84	Reference T23 SemanticType:orch	orch
+N85	Reference T23 ConceptId:C0025219	Melatonin
+N86	Reference T23 SemanticType:horm	horm
+N87	Reference T23 SemanticType:phsu	phsu
+T24	MMLite 715 717	LR
+N88	Reference T24 SemanticType:orch	orch
+N89	Reference T24 ConceptId:C0073385	Lactated Ringer's Solution
+N90	Reference T24 SemanticType:phsu	phsu
+T25	MMLite 1480 1483	MLT
+N91	Reference T25 SemanticType:orch	orch
+N92	Reference T25 ConceptId:C0025219	Melatonin
+N93	Reference T25 SemanticType:horm	horm
+N94	Reference T25 SemanticType:phsu	phsu
+T26	MMLite 327 330	MLT
+N95	Reference T26 SemanticType:orch	orch
+N96	Reference T26 ConceptId:C0025219	Melatonin
+N97	Reference T26 SemanticType:horm	horm
+N98	Reference T26 SemanticType:phsu	phsu
+T27	MMLite 1484 1487	PVP
+N99	Reference T27 SemanticType:orch	orch
+N100	Reference T27 ConceptId:C0032856	Povidone
+N101	Reference T27 SemanticType:bodm	bodm
+N102	Reference T27 SemanticType:phsu	phsu
+T28	MMLite 354 357	was
+N103	Reference T28 SemanticType:bacs	bacs
+N104	Reference T28 SemanticType:aapp	aapp
+N105	Reference T28 ConceptId:C1565156	WAS protein, human
+T29	MMLite 269 273	DMSO
+N106	Reference T29 SemanticType:orch	orch
+N107	Reference T29 ConceptId:C0012403	Dimethyl Sulfoxide
+N108	Reference T29 SemanticType:phsu	phsu
+T30	MMLite 443 457	β-cyclodextrin
+N109	Reference T30 ConceptId:C0053407	betadex
+N110	Reference T30 SemanticType:orch	orch
+N111	Reference T30 SemanticType:bodm	bodm
+T31	MMLite 249 267	dimethyl sulfoxide
+N112	Reference T31 SemanticType:orch	orch
+N113	Reference T31 ConceptId:C0012403	Dimethyl Sulfoxide
+N114	Reference T31 SemanticType:phsu	phsu
+T32	MMLite 1162 1165	MLT
+N115	Reference T32 SemanticType:orch	orch
+N116	Reference T32 ConceptId:C0025219	Melatonin
+N117	Reference T32 SemanticType:horm	horm
+N118	Reference T32 SemanticType:phsu	phsu
+T33	MMLite 463 466	PVP
+N119	Reference T33 SemanticType:orch	orch
+N120	Reference T33 ConceptId:C0032856	Povidone
+N121	Reference T33 SemanticType:bodm	bodm
+N122	Reference T33 SemanticType:phsu	phsu
+T34	MMLite 472 495	polyethylene glycol 400
+N123	Reference T34 ConceptId:C0032478	Polyethylene Glycol 400
+N124	Reference T34 SemanticType:orch	orch
+N125	Reference T34 SemanticType:phsu	phsu
+T35	MMLite 794 797	PVP
+N126	Reference T35 SemanticType:orch	orch
+N127	Reference T35 ConceptId:C0032856	Povidone
+N128	Reference T35 SemanticType:bodm	bodm
+N129	Reference T35 SemanticType:phsu	phsu
+T36	MMLite 383 403	polyvinylpyrrolidone
+N130	Reference T36 SemanticType:orch	orch
+N131	Reference T36 ConceptId:C0032856	Povidone
+N132	Reference T36 SemanticType:bodm	bodm
+N133	Reference T36 SemanticType:phsu	phsu
+T37	MMLite 566 574	solution
+N134	Reference T37 SemanticType:bodm	bodm
+N135	Reference T37 ConceptId:C0525069	Pharmaceutical Solutions
+T38	MMLite 1234 1237	MLT
+N136	Reference T38 SemanticType:orch	orch
+N137	Reference T38 ConceptId:C0025219	Melatonin
+N138	Reference T38 SemanticType:horm	horm
+N139	Reference T38 SemanticType:phsu	phsu
+T39	MMLite 146 149	MLT
+N140	Reference T39 SemanticType:orch	orch
+N141	Reference T39 ConceptId:C0025219	Melatonin
+N142	Reference T39 SemanticType:horm	horm
+N143	Reference T39 SemanticType:phsu	phsu
+T40	MMLite 1007 1010	was
+N144	Reference T40 SemanticType:bacs	bacs
+N145	Reference T40 SemanticType:aapp	aapp
+N146	Reference T40 ConceptId:C1565156	WAS protein, human
+T41	MMLite 1496 1499	MLT
+N147	Reference T41 SemanticType:orch	orch
+N148	Reference T41 ConceptId:C0025219	Melatonin
+N149	Reference T41 SemanticType:horm	horm
+N150	Reference T41 SemanticType:phsu	phsu
+T42	MMLite 832 836	DMSO
+N151	Reference T42 SemanticType:orch	orch
+N152	Reference T42 ConceptId:C0012403	Dimethyl Sulfoxide
+N153	Reference T42 SemanticType:phsu	phsu
+T43	MMLite 413 416	PVP
+N154	Reference T43 SemanticType:orch	orch
+N155	Reference T43 ConceptId:C0032856	Povidone
+N156	Reference T43 SemanticType:bodm	bodm
+N157	Reference T43 SemanticType:phsu	phsu
+T44	MMLite 790 793	MLT
+N158	Reference T44 SemanticType:orch	orch
+N159	Reference T44 ConceptId:C0025219	Melatonin
+N160	Reference T44 SemanticType:horm	horm
+N161	Reference T44 SemanticType:phsu	phsu
+T45	MMLite 111 126	hydroxybutyrate
+N162	Reference T45 SemanticType:bacs	bacs
+N163	Reference T45 SemanticType:orch	orch
+N164	Reference T45 ConceptId:C0020332	Hydroxybutyrates
+T46	MMLite 1429 1432	MLT
+N165	Reference T46 SemanticType:orch	orch
+N166	Reference T46 ConceptId:C0025219	Melatonin
+N167	Reference T46 SemanticType:horm	horm
+N168	Reference T46 SemanticType:phsu	phsu
+T47	MMLite 1444 1446	LR
+N169	Reference T47 SemanticType:orch	orch
+N170	Reference T47 ConceptId:C0073385	Lactated Ringer's Solution
+N171	Reference T47 SemanticType:phsu	phsu
+T48	MMLite 770 774	DMSO
+N172	Reference T48 SemanticType:orch	orch
+N173	Reference T48 ConceptId:C0012403	Dimethyl Sulfoxide
+N174	Reference T48 SemanticType:phsu	phsu
+T49	MMLite 1370 1373	MLT
+N175	Reference T49 SemanticType:orch	orch
+N176	Reference T49 ConceptId:C0025219	Melatonin
+N177	Reference T49 SemanticType:horm	horm
+N178	Reference T49 SemanticType:phsu	phsu
+T50	MMLite 287 296	melatonin
+N179	Reference T50 ConceptId:C1295184	Melatonin Measurement
+N180	Reference T50 SemanticType:orch	orch
+N181	Reference T50 ConceptId:C1527137	Recombinant melatonin
+N182	Reference T50 SemanticType:lbpr	lbpr
+N183	Reference T50 ConceptId:C0025219	Melatonin
+N184	Reference T50 SemanticType:horm	horm
+N185	Reference T50 SemanticType:phsu	phsu
+T51	MMLite 1535 1538	for
+N186	Reference T51 ConceptId:C1421525	WWOX gene
+N187	Reference T51 SemanticType:gngm	gngm
+T52	MMLite 409 412	MLT
+N188	Reference T52 SemanticType:orch	orch
+N189	Reference T52 ConceptId:C0025219	Melatonin
+N190	Reference T52 SemanticType:horm	horm
+N191	Reference T52 SemanticType:phsu	phsu

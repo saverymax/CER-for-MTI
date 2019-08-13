@@ -1,0 +1,22 @@
+T1	Chemlistem 0 22	10-Hydroxycamptothecin
+A1	Score T1 0.9691205
+T2	Chemlistem 369 391	10-hydroxycamptothecin
+A2	Score T2 0.9671931
+T3	Chemlistem 393 397	HCPT
+A3	Score T3 0.9323448
+T4	Chemlistem 431 439	alkaloid
+A4	Score T4 0.94277424
+T5	Chemlistem 572 576	HCPT
+A5	Score T5 0.789198
+T6	Chemlistem 810 814	HCPT
+A6	Score T6 0.79629105
+T7	Chemlistem 962 965	MTT
+A7	Score T7 0.5815188
+T8	Chemlistem 1150 1154	HCPT
+A8	Score T8 0.64206326
+T9	Chemlistem 1516 1520	HCPT
+A9	Score T9 0.56538564
+T10	Chemlistem 1896 1900	HCPT
+A10	Score T10 0.65338045
+T11	Chemlistem 2217 2221	HCPT
+A11	Score T11 0.8690498

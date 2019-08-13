@@ -1,0 +1,110 @@
+T1	MMLite 1648 1652	same
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 ConceptId:C0036002	S-Adenosylmethionine
+N3	Reference T1 SemanticType:aapp	aapp
+N4	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 1583 1587	same
+N5	Reference T2 SemanticType:bacs	bacs
+N6	Reference T2 ConceptId:C0036002	S-Adenosylmethionine
+N7	Reference T2 SemanticType:aapp	aapp
+N8	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 341 357	prostaglandin E2
+N9	Reference T3 SemanticType:orch	orch
+N10	Reference T3 SemanticType:horm	horm
+N11	Reference T3 ConceptId:C0012472	Dinoprostone
+N12	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 1024 1039	Cyclooxygenases
+N13	Reference T4 SemanticType:aapp	aapp
+N14	Reference T4 ConceptId:C0033551	Prostaglandin-Endoperoxide Synthase
+N15	Reference T4 SemanticType:enzy	enzy
+T5	MMLite 21 37	prostaglandin E2
+N16	Reference T5 SemanticType:orch	orch
+N17	Reference T5 SemanticType:horm	horm
+N18	Reference T5 ConceptId:C0012472	Dinoprostone
+N19	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 2050 2055	COX-2
+N20	Reference T6 SemanticType:aapp	aapp
+N21	Reference T6 ConceptId:C1565860	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase), human
+N22	Reference T6 SemanticType:enzy	enzy
+T7	MMLite 1349 1354	COX-2
+N23	Reference T7 SemanticType:aapp	aapp
+N24	Reference T7 ConceptId:C1565860	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase), human
+N25	Reference T7 SemanticType:enzy	enzy
+T8	MMLite 1964 1967	for
+N26	Reference T8 ConceptId:C1421525	WWOX gene
+N27	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 164 169	COX-2
+N28	Reference T9 SemanticType:aapp	aapp
+N29	Reference T9 ConceptId:C1565860	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase), human
+N30	Reference T9 SemanticType:enzy	enzy
+T10	MMLite 4 20	cyclooxygenase-2
+N31	Reference T10 ConceptId:C0387583	cyclooxygenase 2
+N32	Reference T10 SemanticType:aapp	aapp
+N33	Reference T10 ConceptId:C1565860	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase), human
+N34	Reference T10 SemanticType:enzy	enzy
+T11	MMLite 642 648	enzyme
+N35	Reference T11 SemanticType:orch	orch
+N36	Reference T11 SemanticType:enzy	enzy
+N37	Reference T11 ConceptId:C0014442	Enzymes
+T12	MMLite 701 706	COX-2
+N38	Reference T12 SemanticType:aapp	aapp
+N39	Reference T12 ConceptId:C1565860	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase), human
+N40	Reference T12 SemanticType:enzy	enzy
+T13	MMLite 1355 1359	PGE2
+N41	Reference T13 SemanticType:orch	orch
+N42	Reference T13 SemanticType:horm	horm
+N43	Reference T13 ConceptId:C0012472	Dinoprostone
+N44	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 951 956	COX-2
+N45	Reference T14 SemanticType:aapp	aapp
+N46	Reference T14 ConceptId:C1565860	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase), human
+N47	Reference T14 SemanticType:enzy	enzy
+T15	MMLite 750 753	PGs
+N48	Reference T15 SemanticType:bacs	bacs
+N49	Reference T15 SemanticType:orch	orch
+N50	Reference T15 ConceptId:C0031619	Phosphatidylglycerols
+T16	MMLite 1478 1483	drugs
+N51	Reference T16 ConceptId:C0013227	Pharmaceutical Preparations
+N52	Reference T16 SemanticType:phsu	phsu
+T17	MMLite 359 363	PGE2
+N53	Reference T17 SemanticType:orch	orch
+N54	Reference T17 SemanticType:horm	horm
+N55	Reference T17 ConceptId:C0012472	Dinoprostone
+N56	Reference T17 SemanticType:phsu	phsu
+T18	MMLite 307 312	COX-2
+N57	Reference T18 SemanticType:aapp	aapp
+N58	Reference T18 ConceptId:C1565860	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase), human
+N59	Reference T18 SemanticType:enzy	enzy
+T19	MMLite 1388 1404	COX-2 inhibitors
+N60	Reference T19 ConceptId:C1257954	Cyclooxygenase 2 Inhibitors
+N61	Reference T19 SemanticType:orch	orch
+N62	Reference T19 ConceptId:C2757001	Secretory Phospholipase A2
+N63	Reference T19 SemanticType:moft	moft
+N64	Reference T19 SemanticType:phsu	phsu
+T20	MMLite 1074 1077	PGs
+N65	Reference T20 SemanticType:bacs	bacs
+N66	Reference T20 SemanticType:orch	orch
+N67	Reference T20 ConceptId:C0031619	Phosphatidylglycerols
+T21	MMLite 734 748	prostaglandins
+N68	Reference T21 SemanticType:orch	orch
+N69	Reference T21 SemanticType:horm	horm
+N70	Reference T21 ConceptId:C3539187	Prostaglandin drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+N71	Reference T21 ConceptId:C0356622	Prostaglandins, oxytocics
+N72	Reference T21 SemanticType:phsu	phsu
+N73	Reference T21 ConceptId:C0033554	Prostaglandins
+N74	Reference T21 ConceptId:C3540754	Prostaglandin cardiac therapy preparations
+T22	MMLite 2069 2083	PGE2 receptors
+N75	Reference T22 SemanticType:aapp	aapp
+N76	Reference T22 ConceptId:C0072301	Prostaglandin E Receptor
+N77	Reference T22 SemanticType:rcpt	rcpt
+T23	MMLite 1278 1282	drug
+N78	Reference T23 ConceptId:C0013227	Pharmaceutical Preparations
+N79	Reference T23 SemanticType:phsu	phsu
+T24	MMLite 146 162	cyclooxygenase-2
+N80	Reference T24 ConceptId:C0387583	cyclooxygenase 2
+N81	Reference T24 SemanticType:aapp	aapp
+N82	Reference T24 ConceptId:C1565860	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase), human
+N83	Reference T24 SemanticType:enzy	enzy
+T25	MMLite 1227 1236	apoptosis
+N84	Reference T25 ConceptId:C0162638	Apoptosis
+N85	Reference T25 SemanticType:celf	celf

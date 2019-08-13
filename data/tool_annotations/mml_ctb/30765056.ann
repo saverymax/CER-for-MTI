@@ -1,0 +1,77 @@
+T1	MMLite 951 967	ABC transporters
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C0242738	ATP-Binding Cassette Transporters
+T2	MMLite 1361 1371	indoxacarb
+N4	Reference T2 SemanticType:orch	orch
+N5	Reference T2 ConceptId:C0910431	indoxacarb
+T3	MMLite 28 31	ATP
+N6	Reference T3 SemanticType:bacs	bacs
+N7	Reference T3 SemanticType:orch	orch
+N8	Reference T3 ConceptId:C0004482	Azathioprine
+N9	Reference T3 SemanticType:nnon	nnon
+N10	Reference T3 SemanticType:hops	hops
+N11	Reference T3 ConceptId:C0001480	Adenosine Triphosphate
+N12	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 561 569	proteins
+N13	Reference T4 SemanticType:bacs	bacs
+N14	Reference T4 SemanticType:aapp	aapp
+N15	Reference T4 ConceptId:C0033684	Proteins
+T5	MMLite 1227 1239	insecticides
+N16	Reference T5 SemanticType:hops	hops
+N17	Reference T5 ConceptId:C0021576	Insecticides
+T6	MMLite 55 67	transporters
+N18	Reference T6 SemanticType:bacs	bacs
+N19	Reference T6 SemanticType:aapp	aapp
+N20	Reference T6 ConceptId:C0596902	Membrane Transport Proteins
+T7	MMLite 1066 1078	insecticides
+N21	Reference T7 SemanticType:hops	hops
+N22	Reference T7 ConceptId:C0021576	Insecticides
+T8	MMLite 487 502	ABC transporter
+N23	Reference T8 SemanticType:bacs	bacs
+N24	Reference T8 SemanticType:aapp	aapp
+N25	Reference T8 ConceptId:C0242738	ATP-Binding Cassette Transporters
+T9	MMLite 1347 1356	abamectin
+N26	Reference T9 ConceptId:C0066646	abamectin
+N27	Reference T9 SemanticType:orch	orch
+N28	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 473 485	insecticides
+N29	Reference T10 SemanticType:hops	hops
+N30	Reference T10 ConceptId:C0021576	Insecticides
+T11	MMLite 1139 1143	mRNA
+N31	Reference T11 SemanticType:bacs	bacs
+N32	Reference T11 ConceptId:C0035696	RNA, Messenger
+N33	Reference T11 SemanticType:nnon	nnon
+T12	MMLite 184 189	drugs
+N34	Reference T12 ConceptId:C0013227	Pharmaceutical Preparations
+N35	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 193 209	toxic substances
+N36	Reference T13 ConceptId:C0032346	Poisons
+N37	Reference T13 SemanticType:hops	hops
+T14	MMLite 1432 1435	for
+N38	Reference T14 ConceptId:C1421525	WWOX gene
+N39	Reference T14 SemanticType:gngm	gngm
+T15	MMLite 71 83	insecticides
+N40	Reference T15 SemanticType:hops	hops
+N41	Reference T15 ConceptId:C0021576	Insecticides
+T16	MMLite 1382 1385	was
+N42	Reference T16 SemanticType:bacs	bacs
+N43	Reference T16 SemanticType:aapp	aapp
+N44	Reference T16 ConceptId:C1565156	WAS protein, human
+T17	MMLite 50 53	ABC
+N45	Reference T17 ConceptId:C0663655	abacavir
+N46	Reference T17 SemanticType:nnon	nnon
+N47	Reference T17 SemanticType:phsu	phsu
+T18	MMLite 728 731	gap
+N48	Reference T18 SemanticType:bacs	bacs
+N49	Reference T18 SemanticType:aapp	aapp
+N50	Reference T18 ConceptId:C0061928	GTPase-Activating Proteins
+T19	MMLite 1104 1107	RNA
+N51	Reference T19 SemanticType:celc	celc
+N52	Reference T19 ConceptId:C0035668	RNA
+N53	Reference T19 ConceptId:C1325819	RNA location
+N54	Reference T19 SemanticType:nnon	nnon
+T20	MMLite 766 782	ABC transporters
+N55	Reference T20 SemanticType:bacs	bacs
+N56	Reference T20 SemanticType:aapp	aapp
+N57	Reference T20 ConceptId:C0242738	ATP-Binding Cassette Transporters

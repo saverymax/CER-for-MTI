@@ -1,0 +1,94 @@
+T1	MMLite 1446 1449	for
+N1	Reference T1 ConceptId:C1421525	WWOX gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 1356 1371	glucose oxidase
+N3	Reference T2 ConceptId:C0017735	GLUCOSE OXIDASE
+N4	Reference T2 SemanticType:aapp	aapp
+N5	Reference T2 SemanticType:enzy	enzy
+T3	MMLite 62 68	silver
+N6	Reference T3 ConceptId:C0947651	Silver preparation
+N7	Reference T3 SemanticType:bodm	bodm
+N8	Reference T3 SemanticType:elii	elii
+N9	Reference T3 ConceptId:C0037125	Silver
+N10	Reference T3 ConceptId:C1305285	Silver color
+N11	Reference T3 SemanticType:qlco	qlco
+N12	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 366 372	silver
+N13	Reference T4 ConceptId:C0947651	Silver preparation
+N14	Reference T4 SemanticType:bodm	bodm
+N15	Reference T4 SemanticType:elii	elii
+N16	Reference T4 ConceptId:C0037125	Silver
+N17	Reference T4 ConceptId:C1305285	Silver color
+N18	Reference T4 SemanticType:qlco	qlco
+N19	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 701 707	silver
+N20	Reference T5 ConceptId:C0947651	Silver preparation
+N21	Reference T5 SemanticType:bodm	bodm
+N22	Reference T5 SemanticType:elii	elii
+N23	Reference T5 ConceptId:C0037125	Silver
+N24	Reference T5 ConceptId:C1305285	Silver color
+N25	Reference T5 SemanticType:qlco	qlco
+N26	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 323 326	for
+N27	Reference T6 ConceptId:C1421525	WWOX gene
+N28	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 50 56	carbon
+N29	Reference T7 ConceptId:C0007009	Carbon
+N30	Reference T7 SemanticType:elii	elii
+T8	MMLite 215 218	can
+N31	Reference T8 SemanticType:mnob	mnob
+N32	Reference T8 ConceptId:C1704712	Can - object
+T9	MMLite 90 93	for
+N33	Reference T9 ConceptId:C1421525	WWOX gene
+N34	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 327 331	H2O2
+N35	Reference T10 SemanticType:irda	irda
+N36	Reference T10 ConceptId:C0020281	Hydrogen Peroxide
+N37	Reference T10 SemanticType:inch	inch
+N38	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 134 138	H2O2
+N39	Reference T11 SemanticType:irda	irda
+N40	Reference T11 ConceptId:C0020281	Hydrogen Peroxide
+N41	Reference T11 SemanticType:inch	inch
+N42	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 1253 1257	H2O2
+N43	Reference T12 SemanticType:irda	irda
+N44	Reference T12 ConceptId:C0020281	Hydrogen Peroxide
+N45	Reference T12 SemanticType:inch	inch
+N46	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 1108 1111	can
+N47	Reference T13 SemanticType:mnob	mnob
+N48	Reference T13 ConceptId:C1704712	Can - object
+T14	MMLite 1330 1337	glucose
+N49	Reference T14 SemanticType:bacs	bacs
+N50	Reference T14 SemanticType:orch	orch
+N51	Reference T14 SemanticType:lbpr	lbpr
+N52	Reference T14 ConceptId:C0017725	Glucose
+N53	Reference T14 ConceptId:C0337438	Glucose measurement
+N54	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 685 691	carbon
+N55	Reference T15 ConceptId:C0007009	Carbon
+N56	Reference T15 SemanticType:elii	elii
+T16	MMLite 1103 1107	H2O2
+N57	Reference T16 SemanticType:irda	irda
+N58	Reference T16 ConceptId:C0020281	Hydrogen Peroxide
+N59	Reference T16 SemanticType:inch	inch
+N60	Reference T16 SemanticType:phsu	phsu
+T17	MMLite 607 611	H2O2
+N61	Reference T17 SemanticType:irda	irda
+N62	Reference T17 ConceptId:C0020281	Hydrogen Peroxide
+N63	Reference T17 SemanticType:inch	inch
+N64	Reference T17 SemanticType:phsu	phsu
+T18	MMLite 1249 1252	for
+N65	Reference T18 ConceptId:C1421525	WWOX gene
+N66	Reference T18 SemanticType:gngm	gngm
+T19	MMLite 926 930	H2O2
+N67	Reference T19 SemanticType:irda	irda
+N68	Reference T19 ConceptId:C0020281	Hydrogen Peroxide
+N69	Reference T19 SemanticType:inch	inch
+N70	Reference T19 SemanticType:phsu	phsu
+T20	MMLite 125 129	H2O2
+N71	Reference T20 SemanticType:irda	irda
+N72	Reference T20 ConceptId:C0020281	Hydrogen Peroxide
+N73	Reference T20 SemanticType:inch	inch
+N74	Reference T20 SemanticType:phsu	phsu

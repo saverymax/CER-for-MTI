@@ -1,0 +1,51 @@
+T1	MMLite 718 721	for
+N1	Reference T1 ConceptId:C1421525	WWOX gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 359 365	oxygen
+N3	Reference T2 ConceptId:C0030054	Oxygen
+N4	Reference T2 ConceptId:C1547125	Oxygen Equipment Location
+N5	Reference T2 SemanticType:clna	clna
+N6	Reference T2 SemanticType:elii	elii
+N7	Reference T2 ConceptId:C2359957	Oxygen attachment:Finding:Point in time:^Patient:Document
+N8	Reference T2 SemanticType:spco	spco
+N9	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 149 157	hydrogen
+N10	Reference T3 ConceptId:C0885426	Hydrogen, Homeopathic preparation
+N11	Reference T3 ConceptId:C0020275	Hydrogen
+N12	Reference T3 SemanticType:lbpr	lbpr
+N13	Reference T3 SemanticType:elii	elii
+N14	Reference T3 SemanticType:inch	inch
+N15	Reference T3 ConceptId:C0523702	Hydrogen measurement
+T4	MMLite 787 794	enzymes
+N16	Reference T4 ConceptId:C3540017	Enzymes, hematological
+N17	Reference T4 SemanticType:orch	orch
+N18	Reference T4 ConceptId:C3540048	ENZYMES FOR TREATMENT OF WOUNDS AND ULCERS
+N19	Reference T4 ConceptId:C3541394	Enzymes, antithrombotic
+N20	Reference T4 SemanticType:ftcn	ftcn
+N21	Reference T4 SemanticType:enzy	enzy
+N22	Reference T4 ConceptId:C3540790	Enzymes, peripheral vasodilators
+N23	Reference T4 ConceptId:C3540772	Enzymes FOR DISORDERS OF THE MUSCULO-SKELETAL SYSTEM
+N24	Reference T4 ConceptId:C0014442	Enzymes
+N25	Reference T4 ConceptId:C0014445	enzymology
+N26	Reference T4 SemanticType:phsu	phsu
+N27	Reference T4 ConceptId:C3542456	Enzymes for ALIMENTARY TRACT AND METABOLISM
+T5	MMLite 201 212	hydrogenase
+N28	Reference T5 SemanticType:aapp	aapp
+N29	Reference T5 SemanticType:enzy	enzy
+N30	Reference T5 ConceptId:C0020284	Hydrogenase
+T6	MMLite 84 95	Hydrogenase
+N31	Reference T6 SemanticType:aapp	aapp
+N32	Reference T6 SemanticType:enzy	enzy
+N33	Reference T6 ConceptId:C0020284	Hydrogenase
+T7	MMLite 179 182	NAD
+N34	Reference T7 SemanticType:bacs	bacs
+N35	Reference T7 SemanticType:nnon	nnon
+N36	Reference T7 SemanticType:neop	neop
+N37	Reference T7 ConceptId:C1850380	NEUTROPHIL ACTIN DYSFUNCTION
+N38	Reference T7 SemanticType:phsu	phsu
+N39	Reference T7 SemanticType:dsyn	dsyn
+N40	Reference T7 ConceptId:C0205748	Dysplastic Nevus
+N41	Reference T7 ConceptId:C0027270	Nicotinamide adenine dinucleotide (NAD)
+T8	MMLite 351 354	for
+N42	Reference T8 ConceptId:C1421525	WWOX gene
+N43	Reference T8 SemanticType:gngm	gngm

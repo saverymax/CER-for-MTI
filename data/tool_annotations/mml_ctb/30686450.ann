@@ -1,0 +1,101 @@
+T1	MMLite 581 584	had
+N1	Reference T1 ConceptId:C1415458	HADH gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 559 562	ROS
+N3	Reference T2 SemanticType:bacs	bacs
+N4	Reference T2 ConceptId:C0289313	rosiglitazone
+N5	Reference T2 SemanticType:orch	orch
+N6	Reference T2 ConceptId:C0073591	rosoxacin
+N7	Reference T2 SemanticType:antb	antb
+N8	Reference T2 SemanticType:elii	elii
+N9	Reference T2 ConceptId:C0162772	Reactive Oxygen Species
+N10	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 897 917	transcription factor
+N11	Reference T3 SemanticType:bacs	bacs
+N12	Reference T3 SemanticType:aapp	aapp
+N13	Reference T3 ConceptId:C0040648	TRANSCRIPTION FACTOR
+T4	MMLite 787 790	was
+N14	Reference T4 SemanticType:bacs	bacs
+N15	Reference T4 SemanticType:aapp	aapp
+N16	Reference T4 ConceptId:C1565156	WAS protein, human
+T5	MMLite 149 152	was
+N17	Reference T5 SemanticType:bacs	bacs
+N18	Reference T5 SemanticType:aapp	aapp
+N19	Reference T5 ConceptId:C1565156	WAS protein, human
+T6	MMLite 228 235	element
+N20	Reference T6 ConceptId:C0013879	Elements
+N21	Reference T6 SemanticType:elii	elii
+T7	MMLite 288 293	liver
+N22	Reference T7 SemanticType:orch	orch
+N23	Reference T7 ConceptId:C0023899	Liver Extract
+N24	Reference T7 SemanticType:phsu	phsu
+T8	MMLite 598 601	ROS
+N25	Reference T8 SemanticType:bacs	bacs
+N26	Reference T8 ConceptId:C0289313	rosiglitazone
+N27	Reference T8 SemanticType:orch	orch
+N28	Reference T8 ConceptId:C0073591	rosoxacin
+N29	Reference T8 SemanticType:antb	antb
+N30	Reference T8 SemanticType:elii	elii
+N31	Reference T8 ConceptId:C0162772	Reactive Oxygen Species
+N32	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 199 206	element
+N33	Reference T9 ConceptId:C0013879	Elements
+N34	Reference T9 SemanticType:elii	elii
+T10	MMLite 39 46	element
+N35	Reference T10 ConceptId:C0013879	Elements
+N36	Reference T10 SemanticType:elii	elii
+T11	MMLite 922 927	NF-κB
+N37	Reference T11 SemanticType:aapp	aapp
+N38	Reference T11 ConceptId:C0079904	NF-kappa B
+N39	Reference T11 SemanticType:imft	imft
+T12	MMLite 427 430	for
+N40	Reference T12 ConceptId:C1421525	WWOX gene
+N41	Reference T12 SemanticType:gngm	gngm
+T13	MMLite 478 481	MTs
+N42	Reference T13 SemanticType:bacs	bacs
+N43	Reference T13 SemanticType:aapp	aapp
+N44	Reference T13 ConceptId:C0025545	Metallothionein
+T14	MMLite 104 109	liver
+N45	Reference T14 SemanticType:orch	orch
+N46	Reference T14 ConceptId:C0023899	Liver Extract
+N47	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 707 710	MTs
+N48	Reference T15 SemanticType:bacs	bacs
+N49	Reference T15 SemanticType:aapp	aapp
+N50	Reference T15 ConceptId:C0025545	Metallothionein
+T16	MMLite 702 705	ROS
+N51	Reference T16 SemanticType:bacs	bacs
+N52	Reference T16 ConceptId:C0289313	rosiglitazone
+N53	Reference T16 SemanticType:orch	orch
+N54	Reference T16 ConceptId:C0073591	rosoxacin
+N55	Reference T16 SemanticType:antb	antb
+N56	Reference T16 SemanticType:elii	elii
+N57	Reference T16 ConceptId:C0162772	Reactive Oxygen Species
+N58	Reference T16 SemanticType:phsu	phsu
+T17	MMLite 460 476	metallothioneins
+N59	Reference T17 SemanticType:bacs	bacs
+N60	Reference T17 SemanticType:aapp	aapp
+N61	Reference T17 ConceptId:C0025545	Metallothionein
+T18	MMLite 1065 1076	antioxidant
+N62	Reference T18 ConceptId:C0003402	Antioxidants
+N63	Reference T18 SemanticType:phsu	phsu
+T19	MMLite 808 811	MTs
+N64	Reference T19 SemanticType:bacs	bacs
+N65	Reference T19 SemanticType:aapp	aapp
+N66	Reference T19 ConceptId:C0025545	Metallothionein
+T20	MMLite 879 883	Nrf2
+N67	Reference T20 SemanticType:gngm	gngm
+N68	Reference T20 ConceptId:C1417701	NFE2L2 gene
+T21	MMLite 10 17	element
+N69	Reference T21 ConceptId:C0013879	Elements
+N70	Reference T21 SemanticType:elii	elii
+T22	MMLite 534 557	reactive oxygen species
+N71	Reference T22 SemanticType:bacs	bacs
+N72	Reference T22 SemanticType:elii	elii
+N73	Reference T22 ConceptId:C0162772	Reactive Oxygen Species
+T23	MMLite 624 635	antioxidant
+N74	Reference T23 ConceptId:C0003402	Antioxidants
+N75	Reference T23 SemanticType:phsu	phsu
+T24	MMLite 242 253	antioxidant
+N76	Reference T24 ConceptId:C0003402	Antioxidants
+N77	Reference T24 SemanticType:phsu	phsu

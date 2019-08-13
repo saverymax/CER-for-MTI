@@ -1,0 +1,70 @@
+T1	MMLite 616 619	was
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C1565156	WAS protein, human
+T2	MMLite 405 408	for
+N4	Reference T2 ConceptId:C1421525	WWOX gene
+N5	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 454 458	mice
+N6	Reference T3 ConceptId:C1413131	CASP14 gene
+N7	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 851 854	was
+N8	Reference T4 SemanticType:bacs	bacs
+N9	Reference T4 SemanticType:aapp	aapp
+N10	Reference T4 ConceptId:C1565156	WAS protein, human
+T5	MMLite 1362 1366	mice
+N11	Reference T5 ConceptId:C1413131	CASP14 gene
+N12	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 34 38	mice
+N13	Reference T6 ConceptId:C1413131	CASP14 gene
+N14	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 948 952	IL-6
+N15	Reference T7 SemanticType:bacs	bacs
+N16	Reference T7 SemanticType:aapp	aapp
+N17	Reference T7 ConceptId:C0021760	Interleukin-6
+N18	Reference T7 SemanticType:imft	imft
+N19	Reference T7 ConceptId:C1698754	IL6 protein, human
+N20	Reference T7 ConceptId:C1527132	Recombinant Interleukin-6
+N21	Reference T7 SemanticType:phsu	phsu
+T8	MMLite 596 606	hemostatic
+N22	Reference T8 ConceptId:C0019120	Hemostatic Agents
+N23	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 789 792	ZnO
+N24	Reference T9 ConceptId:C0043491	Zinc Oxide
+N25	Reference T9 SemanticType:inch	inch
+N26	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 1651 1654	ZnO
+N27	Reference T10 ConceptId:C0043491	Zinc Oxide
+N28	Reference T10 SemanticType:inch	inch
+N29	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 941 946	IL-1β
+N30	Reference T11 SemanticType:aapp	aapp
+N31	Reference T11 SemanticType:imft	imft
+N32	Reference T11 ConceptId:C0021753	Interleukin-1 beta
+T12	MMLite 1102 1125	coagulation factor VIII
+N33	Reference T12 SemanticType:bacs	bacs
+N34	Reference T12 SemanticType:aapp	aapp
+N35	Reference T12 ConceptId:C1307126	factor VIII, human
+N36	Reference T12 ConceptId:C0015506	Factor VIII
+N37	Reference T12 SemanticType:gngm	gngm
+N38	Reference T12 SemanticType:phsu	phsu
+N39	Reference T12 ConceptId:C1366370	F8 gene
+T13	MMLite 504 507	ZnO
+N40	Reference T13 ConceptId:C0043491	Zinc Oxide
+N41	Reference T13 SemanticType:inch	inch
+N42	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 1288 1291	ZnO
+N43	Reference T14 ConceptId:C0043491	Zinc Oxide
+N44	Reference T14 SemanticType:inch	inch
+N45	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 1475 1498	coagulation factor VIII
+N46	Reference T15 SemanticType:bacs	bacs
+N47	Reference T15 SemanticType:aapp	aapp
+N48	Reference T15 ConceptId:C1307126	factor VIII, human
+N49	Reference T15 ConceptId:C0015506	Factor VIII
+N50	Reference T15 SemanticType:gngm	gngm
+N51	Reference T15 SemanticType:phsu	phsu
+N52	Reference T15 ConceptId:C1366370	F8 gene
+T16	MMLite 475 491	carbon nanotubes
+N53	Reference T16 ConceptId:C1138408	Nanotubes, Carbon
+N54	Reference T16 SemanticType:chvs	chvs

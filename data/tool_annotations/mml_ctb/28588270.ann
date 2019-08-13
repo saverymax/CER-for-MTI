@@ -1,0 +1,30 @@
+T1	MMLite 677 681	poly
+N1	Reference T1 SemanticType:nnon	nnon
+N2	Reference T1 ConceptId:C0032400	Poly A
+N3	Reference T1 ConceptId:C0071360	5'-Inosinic acid, 2'-deoxy-2'-fluoro-, homopolymer
+T2	MMLite 470 491	glycidyl methacrylate
+N4	Reference T2 SemanticType:orch	orch
+N5	Reference T2 ConceptId:C0061590	glycidyl methacrylate
+T3	MMLite 1202 1205	was
+N6	Reference T3 SemanticType:bacs	bacs
+N7	Reference T3 SemanticType:aapp	aapp
+N8	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 682 695	ethyleneimine
+N9	Reference T4 SemanticType:orch	orch
+N10	Reference T4 ConceptId:C0052794	aziridine
+T5	MMLite 571 574	was
+N11	Reference T5 SemanticType:bacs	bacs
+N12	Reference T5 SemanticType:aapp	aapp
+N13	Reference T5 ConceptId:C1565156	WAS protein, human
+T6	MMLite 55 64	polymeric
+N14	Reference T6 SemanticType:chvs	chvs
+N15	Reference T6 ConceptId:C0032521	Polymers
+N16	Reference T6 SemanticType:bodm	bodm
+T7	MMLite 465 469	poly
+N17	Reference T7 SemanticType:nnon	nnon
+N18	Reference T7 ConceptId:C0032400	Poly A
+N19	Reference T7 ConceptId:C0071360	5'-Inosinic acid, 2'-deoxy-2'-fluoro-, homopolymer
+T8	MMLite 141 150	polymeric
+N20	Reference T8 SemanticType:chvs	chvs
+N21	Reference T8 ConceptId:C0032521	Polymers
+N22	Reference T8 SemanticType:bodm	bodm

@@ -1,0 +1,45 @@
+T1	MMLite 1286 1289	for
+N1	Reference T1 ConceptId:C1421525	WWOX gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 1217 1228	pymetrozine
+N3	Reference T2 SemanticType:orch	orch
+N4	Reference T2 ConceptId:C1433478	pymetrozine
+T3	MMLite 425 428	pea
+N5	Reference T3 SemanticType:bacs	bacs
+N6	Reference T3 SemanticType:orch	orch
+N7	Reference T3 ConceptId:C0070939	phosphoethanolamine
+T4	MMLite 568 579	pymetrozine
+N8	Reference T4 SemanticType:orch	orch
+N9	Reference T4 ConceptId:C1433478	pymetrozine
+T5	MMLite 104 115	pymetrozine
+N10	Reference T5 SemanticType:orch	orch
+N11	Reference T5 ConceptId:C1433478	pymetrozine
+T6	MMLite 1030 1033	was
+N12	Reference T6 SemanticType:bacs	bacs
+N13	Reference T6 SemanticType:aapp	aapp
+N14	Reference T6 ConceptId:C1565156	WAS protein, human
+T7	MMLite 267 275	proteins
+N15	Reference T7 SemanticType:bacs	bacs
+N16	Reference T7 SemanticType:aapp	aapp
+N17	Reference T7 ConceptId:C0033684	Proteins
+T8	MMLite 0 11	Pymetrozine
+N18	Reference T8 SemanticType:orch	orch
+N19	Reference T8 ConceptId:C1433478	pymetrozine
+T9	MMLite 142 145	for
+N20	Reference T9 ConceptId:C1421525	WWOX gene
+N21	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 92 103	insecticide
+N22	Reference T10 SemanticType:hops	hops
+N23	Reference T10 ConceptId:C0021576	Insecticides
+T11	MMLite 905 916	pymetrozine
+N24	Reference T11 SemanticType:orch	orch
+N25	Reference T11 ConceptId:C1433478	pymetrozine
+T12	MMLite 1120 1131	pymetrozine
+N26	Reference T12 SemanticType:orch	orch
+N27	Reference T12 ConceptId:C1433478	pymetrozine
+T13	MMLite 1197 1200	can
+N28	Reference T13 SemanticType:mnob	mnob
+N29	Reference T13 ConceptId:C1704712	Can - object
+T14	MMLite 366 377	pymetrozine
+N30	Reference T14 SemanticType:orch	orch
+N31	Reference T14 ConceptId:C1433478	pymetrozine

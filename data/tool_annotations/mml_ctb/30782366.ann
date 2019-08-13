@@ -1,0 +1,54 @@
+T1	MMLite 454 457	for
+N1	Reference T1 ConceptId:C1421525	WWOX gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 597 600	for
+N3	Reference T2 ConceptId:C1421525	WWOX gene
+N4	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 106 109	for
+N5	Reference T3 ConceptId:C1421525	WWOX gene
+N6	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 855 861	carbon
+N7	Reference T4 ConceptId:C0007009	Carbon
+N8	Reference T4 SemanticType:elii	elii
+T5	MMLite 238 241	for
+N9	Reference T5 ConceptId:C1421525	WWOX gene
+N10	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 1075 1083	dopamine
+N11	Reference T6 ConceptId:C0013030	Dopamine
+N12	Reference T6 SemanticType:bacs	bacs
+N13	Reference T6 SemanticType:orch	orch
+N14	Reference T6 SemanticType:lbpr	lbpr
+N15	Reference T6 SemanticType:phsu	phsu
+N16	Reference T6 ConceptId:C0201989	Dopamine Measurement
+T7	MMLite 140 149	uric acid
+N17	Reference T7 SemanticType:bacs	bacs
+N18	Reference T7 SemanticType:orch	orch
+N19	Reference T7 SemanticType:lbpr	lbpr
+N20	Reference T7 ConceptId:C0202239	Uric acid measurement (procedure)
+N21	Reference T7 ConceptId:C0041980	Uric Acid
+T8	MMLite 1180 1183	for
+N22	Reference T8 ConceptId:C1421525	WWOX gene
+N23	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 1101 1110	uric acid
+N24	Reference T9 SemanticType:bacs	bacs
+N25	Reference T9 SemanticType:orch	orch
+N26	Reference T9 SemanticType:lbpr	lbpr
+N27	Reference T9 ConceptId:C0202239	Uric acid measurement (procedure)
+N28	Reference T9 ConceptId:C0041980	Uric Acid
+T10	MMLite 848 854	glassy
+N29	Reference T10 SemanticType:irda	irda
+N30	Reference T10 ConceptId:C0074759	sodium polymetaphosphate
+N31	Reference T10 SemanticType:inch	inch
+T11	MMLite 1041 1044	for
+N32	Reference T11 ConceptId:C1421525	WWOX gene
+N33	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 689 697	electron
+N34	Reference T12 ConceptId:C0013852	Electrons
+N35	Reference T12 SemanticType:qnco	qnco
+T13	MMLite 127 135	dopamine
+N36	Reference T13 ConceptId:C0013030	Dopamine
+N37	Reference T13 SemanticType:bacs	bacs
+N38	Reference T13 SemanticType:orch	orch
+N39	Reference T13 SemanticType:lbpr	lbpr
+N40	Reference T13 SemanticType:phsu	phsu
+N41	Reference T13 ConceptId:C0201989	Dopamine Measurement

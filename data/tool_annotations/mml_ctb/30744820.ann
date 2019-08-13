@@ -1,0 +1,82 @@
+T1	MMLite 814 818	cell
+N1	Reference T1 ConceptId:C1413336	CEL gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 697 700	was
+N3	Reference T2 SemanticType:bacs	bacs
+N4	Reference T2 SemanticType:aapp	aapp
+N5	Reference T2 ConceptId:C1565156	WAS protein, human
+T3	MMLite 292 296	AMPK
+N6	Reference T3 ConceptId:C2350345	AMP-Activated Protein Kinases
+N7	Reference T3 SemanticType:aapp	aapp
+N8	Reference T3 SemanticType:enzy	enzy
+T4	MMLite 330 333	was
+N9	Reference T4 SemanticType:bacs	bacs
+N10	Reference T4 SemanticType:aapp	aapp
+N11	Reference T4 ConceptId:C1565156	WAS protein, human
+T5	MMLite 973 976	ROS
+N12	Reference T5 SemanticType:bacs	bacs
+N13	Reference T5 ConceptId:C0289313	rosiglitazone
+N14	Reference T5 SemanticType:orch	orch
+N15	Reference T5 ConceptId:C0073591	rosoxacin
+N16	Reference T5 SemanticType:antb	antb
+N17	Reference T5 SemanticType:elii	elii
+N18	Reference T5 ConceptId:C0162772	Reactive Oxygen Species
+N19	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 733 736	ROS
+N20	Reference T6 SemanticType:bacs	bacs
+N21	Reference T6 ConceptId:C0289313	rosiglitazone
+N22	Reference T6 SemanticType:orch	orch
+N23	Reference T6 ConceptId:C0073591	rosoxacin
+N24	Reference T6 SemanticType:antb	antb
+N25	Reference T6 SemanticType:elii	elii
+N26	Reference T6 ConceptId:C0162772	Reactive Oxygen Species
+N27	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 13 20	protein
+N28	Reference T7 SemanticType:bacs	bacs
+N29	Reference T7 SemanticType:aapp	aapp
+N30	Reference T7 ConceptId:C0033684	Proteins
+T8	MMLite 301 305	mTOR
+N31	Reference T8 SemanticType:gngm	gngm
+N32	Reference T8 ConceptId:C1414805	MTOR gene
+T9	MMLite 513 516	was
+N33	Reference T9 SemanticType:bacs	bacs
+N34	Reference T9 SemanticType:aapp	aapp
+N35	Reference T9 ConceptId:C1565156	WAS protein, human
+T10	MMLite 933 936	ROS
+N36	Reference T10 SemanticType:bacs	bacs
+N37	Reference T10 ConceptId:C0289313	rosiglitazone
+N38	Reference T10 SemanticType:orch	orch
+N39	Reference T10 ConceptId:C0073591	rosoxacin
+N40	Reference T10 SemanticType:antb	antb
+N41	Reference T10 SemanticType:elii	elii
+N42	Reference T10 ConceptId:C0162772	Reactive Oxygen Species
+N43	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 846 849	lag
+N44	Reference T11 ConceptId:C1416797	STMN1 gene
+N45	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 362 369	protein
+N46	Reference T12 SemanticType:bacs	bacs
+N47	Reference T12 SemanticType:aapp	aapp
+N48	Reference T12 ConceptId:C0033684	Proteins
+T13	MMLite 1099 1102	ROS
+N49	Reference T13 SemanticType:bacs	bacs
+N50	Reference T13 ConceptId:C0289313	rosiglitazone
+N51	Reference T13 SemanticType:orch	orch
+N52	Reference T13 ConceptId:C0073591	rosoxacin
+N53	Reference T13 SemanticType:antb	antb
+N54	Reference T13 SemanticType:elii	elii
+N55	Reference T13 ConceptId:C0162772	Reactive Oxygen Species
+N56	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 149 157	proteins
+N57	Reference T14 SemanticType:bacs	bacs
+N58	Reference T14 SemanticType:aapp	aapp
+N59	Reference T14 ConceptId:C0033684	Proteins
+T15	MMLite 889 892	ROS
+N60	Reference T15 SemanticType:bacs	bacs
+N61	Reference T15 ConceptId:C0289313	rosiglitazone
+N62	Reference T15 SemanticType:orch	orch
+N63	Reference T15 ConceptId:C0073591	rosoxacin
+N64	Reference T15 SemanticType:antb	antb
+N65	Reference T15 SemanticType:elii	elii
+N66	Reference T15 ConceptId:C0162772	Reactive Oxygen Species
+N67	Reference T15 SemanticType:phsu	phsu

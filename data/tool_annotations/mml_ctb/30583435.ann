@@ -1,0 +1,80 @@
+T1	MMLite 359 362	was
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C1565156	WAS protein, human
+T2	MMLite 859 869	nucleoside
+N4	Reference T2 SemanticType:nnon	nnon
+N5	Reference T2 ConceptId:C0028621	Nucleosides
+T3	MMLite 187 197	nucleoside
+N6	Reference T3 SemanticType:nnon	nnon
+N7	Reference T3 ConceptId:C0028621	Nucleosides
+T4	MMLite 769 773	pH 3
+N8	Reference T4 ConceptId:C0601906	PH.3
+N9	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 52 55	for
+N10	Reference T5 ConceptId:C1421525	WWOX gene
+N11	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 676 679	for
+N12	Reference T6 ConceptId:C1421525	WWOX gene
+N13	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 756 767	formic acid
+N14	Reference T7 ConceptId:C0016576	formic acid
+N15	Reference T7 SemanticType:orch	orch
+N16	Reference T7 SemanticType:irda	irda
+N17	Reference T7 ConceptId:C0885348	Formicum acidum, formic acid, Homeopathic preparation
+N18	Reference T7 SemanticType:phsu	phsu
+T8	MMLite 393 403	nucleoside
+N19	Reference T8 SemanticType:nnon	nnon
+N20	Reference T8 ConceptId:C0028621	Nucleosides
+T9	MMLite 499 502	was
+N21	Reference T9 SemanticType:bacs	bacs
+N22	Reference T9 SemanticType:aapp	aapp
+N23	Reference T9 ConceptId:C1565156	WAS protein, human
+T10	MMLite 669 673	pH 3
+N24	Reference T10 ConceptId:C0601906	PH.3
+N25	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 458 467	guanosine
+N26	Reference T11 SemanticType:nnon	nnon
+N27	Reference T11 ConceptId:C0018330	Guanosine
+N28	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 880 883	was
+N29	Reference T12 SemanticType:bacs	bacs
+N30	Reference T12 SemanticType:aapp	aapp
+N31	Reference T12 ConceptId:C1565156	WAS protein, human
+T13	MMLite 660 665	water
+N32	Reference T13 ConceptId:C0043047	Water
+N33	Reference T13 ConceptId:C1547961	Water - Specimen Source Codes
+N34	Reference T13 ConceptId:C0599638	Drinking Water
+N35	Reference T13 SemanticType:inpr	inpr
+N36	Reference T13 SemanticType:sbst	sbst
+N37	Reference T13 SemanticType:inch	inch
+N38	Reference T13 ConceptId:C1550678	Water Specimen
+N39	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 424 432	cytidine
+N40	Reference T14 ConceptId:C0010715	Cytidine
+N41	Reference T14 SemanticType:nnon	nnon
+T15	MMLite 946 949	for
+N42	Reference T15 ConceptId:C1421525	WWOX gene
+N43	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 78 88	nucleoside
+N44	Reference T16 SemanticType:nnon	nnon
+N45	Reference T16 ConceptId:C0028621	Nucleosides
+T17	MMLite 443 452	adenosine
+N46	Reference T17 SemanticType:bacs	bacs
+N47	Reference T17 ConceptId:C0001443	Adenosine
+N48	Reference T17 SemanticType:nnon	nnon
+N49	Reference T17 SemanticType:phsu	phsu
+T18	MMLite 733 736	was
+N50	Reference T18 SemanticType:bacs	bacs
+N51	Reference T18 SemanticType:aapp	aapp
+N52	Reference T18 ConceptId:C1565156	WAS protein, human
+T19	MMLite 560 567	solvent
+N53	Reference T19 SemanticType:irda	irda
+N54	Reference T19 ConceptId:C0037638	Solvents
+T20	MMLite 688 691	For
+N55	Reference T20 ConceptId:C1421525	WWOX gene
+N56	Reference T20 SemanticType:gngm	gngm
+T21	MMLite 434 441	uridine
+N57	Reference T21 ConceptId:C0041984	Uridine
+N58	Reference T21 SemanticType:nnon	nnon
+N59	Reference T21 SemanticType:phsu	phsu

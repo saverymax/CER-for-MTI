@@ -1,0 +1,28 @@
+T1	Chemlistem 0 12	Progesterone
+A1	Score T1 0.96765155
+T2	Chemlistem 327 335	estrogen
+A2	Score T2 0.8378059
+T3	Chemlistem 361 373	progesterone
+A3	Score T3 0.9099162
+T4	Chemlistem 408 420	Progesterone
+A4	Score T4 0.9049096
+T5	Chemlistem 510 518	estrogen
+A5	Score T5 0.8865587
+T6	Chemlistem 619 631	progesterone
+A6	Score T6 0.90871817
+T7	Chemlistem 654 666	progesterone
+A7	Score T7 0.8911163
+T8	Chemlistem 723 735	progesterone
+A8	Score T8 0.89245236
+T9	Chemlistem 1060 1072	progesterone
+A9	Score T9 0.8692075
+T10	Chemlistem 1225 1237	progesterone
+A10	Score T10 0.8770039
+T11	Chemlistem 1286 1298	progesterone
+A11	Score T11 0.8686351
+T12	Chemlistem 1437 1449	progesterone
+A12	Score T12 0.89750695
+T13	Chemlistem 1591 1599	estrogen
+A13	Score T13 0.8232257
+T14	Chemlistem 1723 1735	progesterone
+A14	Score T14 0.8659341

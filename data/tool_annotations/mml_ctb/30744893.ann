@@ -1,0 +1,182 @@
+T1	MMLite 268 271	Glc
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:orch	orch
+N3	Reference T1 SemanticType:lbpr	lbpr
+N4	Reference T1 ConceptId:C0017725	Glucose
+N5	Reference T1 ConceptId:C0337438	Glucose measurement
+N6	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 1414 1417	TZP
+N7	Reference T2 SemanticType:orch	orch
+N8	Reference T2 SemanticType:hops	hops
+N9	Reference T2 ConceptId:C0077012	triazophos
+T3	MMLite 1318 1321	TZP
+N10	Reference T3 SemanticType:orch	orch
+N11	Reference T3 SemanticType:hops	hops
+N12	Reference T3 ConceptId:C0077012	triazophos
+T4	MMLite 153 159	enzyme
+N13	Reference T4 SemanticType:orch	orch
+N14	Reference T4 SemanticType:enzy	enzy
+N15	Reference T4 ConceptId:C0014442	Enzymes
+T5	MMLite 123 133	Hexokinase
+N16	Reference T5 ConceptId:C0523692	Hexokinase measurement
+N17	Reference T5 SemanticType:aapp	aapp
+N18	Reference T5 ConceptId:C0019472	HEXOKINASE
+N19	Reference T5 SemanticType:lbpr	lbpr
+N20	Reference T5 SemanticType:enzy	enzy
+T6	MMLite 188 195	glucose
+N21	Reference T6 SemanticType:bacs	bacs
+N22	Reference T6 SemanticType:orch	orch
+N23	Reference T6 SemanticType:lbpr	lbpr
+N24	Reference T6 ConceptId:C0017725	Glucose
+N25	Reference T6 ConceptId:C0337438	Glucose measurement
+N26	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 1576 1579	TZP
+N27	Reference T7 SemanticType:orch	orch
+N28	Reference T7 SemanticType:hops	hops
+N29	Reference T7 ConceptId:C0077012	triazophos
+T8	MMLite 1231 1234	Hex
+N30	Reference T8 ConceptId:C0523692	Hexokinase measurement
+N31	Reference T8 SemanticType:aapp	aapp
+N32	Reference T8 ConceptId:C0019472	HEXOKINASE
+N33	Reference T8 SemanticType:lbpr	lbpr
+N34	Reference T8 SemanticType:enzy	enzy
+T9	MMLite 1262 1283	vitellogenin receptor
+N35	Reference T9 SemanticType:aapp	aapp
+N36	Reference T9 SemanticType:rcpt	rcpt
+N37	Reference T9 ConceptId:C0140096	vitellogenin receptor
+T10	MMLite 366 369	Hex
+N38	Reference T10 ConceptId:C0523692	Hexokinase measurement
+N39	Reference T10 SemanticType:aapp	aapp
+N40	Reference T10 ConceptId:C0019472	HEXOKINASE
+N41	Reference T10 SemanticType:lbpr	lbpr
+N42	Reference T10 SemanticType:enzy	enzy
+T11	MMLite 32 42	Hexokinase
+N43	Reference T11 ConceptId:C0523692	Hexokinase measurement
+N44	Reference T11 SemanticType:aapp	aapp
+N45	Reference T11 ConceptId:C0019472	HEXOKINASE
+N46	Reference T11 SemanticType:lbpr	lbpr
+N47	Reference T11 SemanticType:enzy	enzy
+T12	MMLite 1238 1250	vitellogenin
+N48	Reference T12 SemanticType:bacs	bacs
+N49	Reference T12 SemanticType:aapp	aapp
+N50	Reference T12 ConceptId:C0042896	Vitellogenins
+T13	MMLite 1092 1101	trehalose
+N51	Reference T13 SemanticType:bacs	bacs
+N52	Reference T13 SemanticType:orch	orch
+N53	Reference T13 SemanticType:phsu	phsu
+N54	Reference T13 ConceptId:C0040815	Trehalose
+T14	MMLite 243 246	Glc
+N55	Reference T14 SemanticType:bacs	bacs
+N56	Reference T14 SemanticType:orch	orch
+N57	Reference T14 SemanticType:lbpr	lbpr
+N58	Reference T14 ConceptId:C0017725	Glucose
+N59	Reference T14 ConceptId:C0337438	Glucose measurement
+N60	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 354 364	Hexokinase
+N61	Reference T15 ConceptId:C0523692	Hexokinase measurement
+N62	Reference T15 SemanticType:aapp	aapp
+N63	Reference T15 SemanticType:lbpr	lbpr
+N64	Reference T15 ConceptId:C0019472	HEXOKINASE
+N65	Reference T15 SemanticType:enzy	enzy
+T16	MMLite 1106 1113	glucose
+N66	Reference T16 SemanticType:bacs	bacs
+N67	Reference T16 SemanticType:orch	orch
+N68	Reference T16 SemanticType:lbpr	lbpr
+N69	Reference T16 ConceptId:C0017725	Glucose
+N70	Reference T16 ConceptId:C0337438	Glucose measurement
+N71	Reference T16 SemanticType:phsu	phsu
+T17	MMLite 938 945	protein
+N72	Reference T17 SemanticType:bacs	bacs
+N73	Reference T17 SemanticType:aapp	aapp
+N74	Reference T17 ConceptId:C0033684	Proteins
+T18	MMLite 593 596	TZP
+N75	Reference T18 SemanticType:orch	orch
+N76	Reference T18 SemanticType:hops	hops
+N77	Reference T18 ConceptId:C0077012	triazophos
+T19	MMLite 1360 1363	TZP
+N78	Reference T19 SemanticType:orch	orch
+N79	Reference T19 SemanticType:hops	hops
+N80	Reference T19 ConceptId:C0077012	triazophos
+T20	MMLite 1491 1493	Vg
+N81	Reference T20 SemanticType:bacs	bacs
+N82	Reference T20 SemanticType:aapp	aapp
+N83	Reference T20 ConceptId:C0042896	Vitellogenins
+T21	MMLite 1181 1184	Hex
+N84	Reference T21 ConceptId:C0523692	Hexokinase measurement
+N85	Reference T21 SemanticType:aapp	aapp
+N86	Reference T21 ConceptId:C0019472	HEXOKINASE
+N87	Reference T21 SemanticType:lbpr	lbpr
+N88	Reference T21 SemanticType:enzy	enzy
+T22	MMLite 1729 1736	protein
+N89	Reference T22 SemanticType:bacs	bacs
+N90	Reference T22 SemanticType:aapp	aapp
+N91	Reference T22 ConceptId:C0033684	Proteins
+T23	MMLite 992 999	protein
+N92	Reference T23 SemanticType:bacs	bacs
+N93	Reference T23 SemanticType:aapp	aapp
+N94	Reference T23 ConceptId:C0033684	Proteins
+T24	MMLite 234 241	glucose
+N95	Reference T24 SemanticType:bacs	bacs
+N96	Reference T24 SemanticType:orch	orch
+N97	Reference T24 SemanticType:lbpr	lbpr
+N98	Reference T24 ConceptId:C0017725	Glucose
+N99	Reference T24 ConceptId:C0337438	Glucose measurement
+N100	Reference T24 SemanticType:phsu	phsu
+T25	MMLite 13 23	triazophos
+N101	Reference T25 SemanticType:orch	orch
+N102	Reference T25 SemanticType:hops	hops
+N103	Reference T25 ConceptId:C0077012	triazophos
+T26	MMLite 971 974	fat
+N104	Reference T26 SemanticType:orch	orch
+N105	Reference T26 ConceptId:C0015677	Fatty acid glycerol esters
+N106	Reference T26 SemanticType:phsu	phsu
+T27	MMLite 396 403	glucose
+N107	Reference T27 SemanticType:bacs	bacs
+N108	Reference T27 SemanticType:orch	orch
+N109	Reference T27 SemanticType:lbpr	lbpr
+N110	Reference T27 ConceptId:C0017725	Glucose
+N111	Reference T27 ConceptId:C0337438	Glucose measurement
+N112	Reference T27 SemanticType:phsu	phsu
+T28	MMLite 1560 1563	TZP
+N113	Reference T28 SemanticType:orch	orch
+N114	Reference T28 SemanticType:hops	hops
+N115	Reference T28 ConceptId:C0077012	triazophos
+T29	MMLite 1368 1371	TZP
+N116	Reference T29 SemanticType:orch	orch
+N117	Reference T29 SemanticType:hops	hops
+N118	Reference T29 ConceptId:C0077012	triazophos
+T30	MMLite 671 674	Hex
+N119	Reference T30 ConceptId:C0523692	Hexokinase measurement
+N120	Reference T30 SemanticType:aapp	aapp
+N121	Reference T30 ConceptId:C0019472	HEXOKINASE
+N122	Reference T30 SemanticType:lbpr	lbpr
+N123	Reference T30 SemanticType:enzy	enzy
+T31	MMLite 606 609	Hex
+N124	Reference T31 ConceptId:C0523692	Hexokinase measurement
+N125	Reference T31 SemanticType:aapp	aapp
+N126	Reference T31 ConceptId:C0019472	HEXOKINASE
+N127	Reference T31 SemanticType:lbpr	lbpr
+N128	Reference T31 SemanticType:enzy	enzy
+T32	MMLite 1477 1489	vitellogenin
+N129	Reference T32 SemanticType:bacs	bacs
+N130	Reference T32 SemanticType:aapp	aapp
+N131	Reference T32 ConceptId:C0042896	Vitellogenins
+T33	MMLite 1085 1090	sugar
+N132	Reference T33 SemanticType:orch	orch
+N133	Reference T33 ConceptId:C0242209	Sugars
+N134	Reference T33 ConceptId:C0007004	Carbohydrates
+N135	Reference T33 SemanticType:phsu	phsu
+T34	MMLite 892 895	TZP
+N136	Reference T34 SemanticType:orch	orch
+N137	Reference T34 SemanticType:hops	hops
+N138	Reference T34 ConceptId:C0077012	triazophos
+T35	MMLite 581 591	Triazophos
+N139	Reference T35 SemanticType:orch	orch
+N140	Reference T35 SemanticType:hops	hops
+N141	Reference T35 ConceptId:C0077012	triazophos
+T36	MMLite 1640 1643	Hex
+N142	Reference T36 ConceptId:C0523692	Hexokinase measurement
+N143	Reference T36 SemanticType:aapp	aapp
+N144	Reference T36 ConceptId:C0019472	HEXOKINASE
+N145	Reference T36 SemanticType:lbpr	lbpr
+N146	Reference T36 SemanticType:enzy	enzy

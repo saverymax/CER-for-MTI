@@ -1,0 +1,74 @@
+T1	MMLite 1150 1155	metal
+N1	Reference T1 ConceptId:C0025552	Metals
+N2	Reference T1 SemanticType:inch	inch
+T2	MMLite 597 600	for
+N3	Reference T2 ConceptId:C1421525	WWOX gene
+N4	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 328 335	biochar
+N5	Reference T3 SemanticType:chvs	chvs
+N6	Reference T3 ConceptId:C2715259	biochar
+T4	MMLite 169 176	biochar
+N7	Reference T4 SemanticType:chvs	chvs
+N8	Reference T4 ConceptId:C2715259	biochar
+T5	MMLite 1065 1072	biochar
+N9	Reference T5 SemanticType:chvs	chvs
+N10	Reference T5 ConceptId:C2715259	biochar
+T6	MMLite 1272 1287	crystallization
+N11	Reference T6 ConceptId:C0010423	Crystallization
+N12	Reference T6 SemanticType:npop	npop
+T7	MMLite 26 33	biochar
+N13	Reference T7 SemanticType:chvs	chvs
+N14	Reference T7 ConceptId:C2715259	biochar
+T8	MMLite 1266 1271	metal
+N15	Reference T8 ConceptId:C0025552	Metals
+N16	Reference T8 SemanticType:inch	inch
+T9	MMLite 1347 1353	metals
+N17	Reference T9 ConceptId:C0025552	Metals
+N18	Reference T9 SemanticType:inch	inch
+T10	MMLite 47 53	copper
+N19	Reference T10 SemanticType:bacs	bacs
+N20	Reference T10 ConceptId:C2348263	Dietary Copper
+N21	Reference T10 ConceptId:C0009968	Copper
+N22	Reference T10 SemanticType:lbpr	lbpr
+N23	Reference T10 SemanticType:elii	elii
+N24	Reference T10 SemanticType:phsu	phsu
+N25	Reference T10 ConceptId:C0373587	Copper measurement
+T11	MMLite 527 534	biochar
+N26	Reference T11 SemanticType:chvs	chvs
+N27	Reference T11 ConceptId:C2715259	biochar
+T12	MMLite 1183 1190	biochar
+N28	Reference T12 SemanticType:chvs	chvs
+N29	Reference T12 ConceptId:C2715259	biochar
+T13	MMLite 336 339	was
+N30	Reference T13 SemanticType:bacs	bacs
+N31	Reference T13 SemanticType:aapp	aapp
+N32	Reference T13 ConceptId:C1565156	WAS protein, human
+T14	MMLite 971 983	heavy metals
+N33	Reference T14 ConceptId:C0347988	Metals, Heavy
+N34	Reference T14 SemanticType:elii	elii
+T15	MMLite 204 210	metals
+N35	Reference T15 ConceptId:C0025552	Metals
+N36	Reference T15 SemanticType:inch	inch
+T16	MMLite 673 684	heavy metal
+N37	Reference T16 ConceptId:C0347988	Metals, Heavy
+N38	Reference T16 SemanticType:elii	elii
+T17	MMLite 58 62	lead
+N39	Reference T17 ConceptId:C1704733	Lead - Device Component
+N40	Reference T17 SemanticType:elii	elii
+N41	Reference T17 SemanticType:hops	hops
+N42	Reference T17 ConceptId:C1442948	Plumbum metallicum, homeopathic preparation
+N43	Reference T17 ConceptId:C3275067	Cardiac Lead Procedure
+N44	Reference T17 SemanticType:phsu	phsu
+N45	Reference T17 ConceptId:C1522538	Leading
+N46	Reference T17 SemanticType:topp	topp
+N47	Reference T17 SemanticType:mnob	mnob
+N48	Reference T17 ConceptId:C0023175	Lead
+N49	Reference T17 SemanticType:ftcn	ftcn
+N50	Reference T17 ConceptId:C2348269	Dietary Lead
+N51	Reference T17 SemanticType:inch	inch
+T18	MMLite 932 939	biochar
+N52	Reference T18 SemanticType:chvs	chvs
+N53	Reference T18 ConceptId:C2715259	biochar
+T19	MMLite 1382 1389	biochar
+N54	Reference T19 SemanticType:chvs	chvs
+N55	Reference T19 ConceptId:C2715259	biochar

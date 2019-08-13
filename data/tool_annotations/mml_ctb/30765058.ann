@@ -1,0 +1,142 @@
+T1	MMLite 325 328	for
+N1	Reference T1 ConceptId:C1421525	WWOX gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 519 540	programmed cell death
+N3	Reference T2 ConceptId:C0162638	Apoptosis
+N4	Reference T2 SemanticType:celf	celf
+T3	MMLite 1229 1236	protein
+N5	Reference T3 SemanticType:bacs	bacs
+N6	Reference T3 SemanticType:aapp	aapp
+N7	Reference T3 ConceptId:C0033684	Proteins
+T4	MMLite 20 29	alkaloids
+N8	Reference T4 ConceptId:C0002062	Alkaloids
+N9	Reference T4 SemanticType:orch	orch
+N10	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 1593 1596	Akt
+N11	Reference T5 SemanticType:aapp	aapp
+N12	Reference T5 SemanticType:enzy	enzy
+N13	Reference T5 ConceptId:C0164786	Proto-Oncogene Proteins c-akt
+T6	MMLite 585 588	for
+N14	Reference T6 ConceptId:C1421525	WWOX gene
+N15	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 768 771	was
+N16	Reference T7 SemanticType:bacs	bacs
+N17	Reference T7 SemanticType:aapp	aapp
+N18	Reference T7 ConceptId:C1565156	WAS protein, human
+T8	MMLite 43 47	PI3K
+N19	Reference T8 SemanticType:aapp	aapp
+N20	Reference T8 SemanticType:enzy	enzy
+N21	Reference T8 ConceptId:C0044602	1-Phosphatidylinositol 3-Kinase
+T9	MMLite 1630 1637	harmine
+N22	Reference T9 SemanticType:orch	orch
+N23	Reference T9 ConceptId:C0018605	Harmine
+N24	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 1371 1374	Akt
+N25	Reference T10 SemanticType:aapp	aapp
+N26	Reference T10 SemanticType:enzy	enzy
+N27	Reference T10 ConceptId:C0164786	Proto-Oncogene Proteins c-akt
+T11	MMLite 551 555	cell
+N28	Reference T11 ConceptId:C1413336	CEL gene
+N29	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 268 277	alkaloids
+N30	Reference T12 ConceptId:C0002062	Alkaloids
+N31	Reference T12 SemanticType:orch	orch
+N32	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 829 833	line
+N33	Reference T13 SemanticType:bacs	bacs
+N34	Reference T13 SemanticType:nnon	nnon
+N35	Reference T13 ConceptId:C1517938	Long Interspersed Elements
+T14	MMLite 1588 1592	PI3K
+N36	Reference T14 SemanticType:aapp	aapp
+N37	Reference T14 SemanticType:enzy	enzy
+N38	Reference T14 ConceptId:C0044602	1-Phosphatidylinositol 3-Kinase
+T15	MMLite 1182 1192	carbolines
+N39	Reference T15 ConceptId:C0007007	Carbolines
+N40	Reference T15 SemanticType:orch	orch
+T16	MMLite 556 561	lines
+N41	Reference T16 SemanticType:bacs	bacs
+N42	Reference T16 SemanticType:nnon	nnon
+N43	Reference T16 ConceptId:C1517938	Long Interspersed Elements
+T17	MMLite 871 880	alkaloids
+N44	Reference T17 ConceptId:C0002062	Alkaloids
+N45	Reference T17 SemanticType:orch	orch
+N46	Reference T17 SemanticType:phsu	phsu
+T18	MMLite 1375 1379	mTOR
+N47	Reference T18 SemanticType:gngm	gngm
+N48	Reference T18 ConceptId:C1414805	MTOR gene
+T19	MMLite 1366 1370	PI3K
+N49	Reference T19 SemanticType:aapp	aapp
+N50	Reference T19 SemanticType:enzy	enzy
+N51	Reference T19 ConceptId:C0044602	1-Phosphatidylinositol 3-Kinase
+T20	MMLite 8 19	β-carboline
+N52	Reference T20 SemanticType:orch	orch
+N53	Reference T20 SemanticType:phsu	phsu
+N54	Reference T20 ConceptId:C0068994	norharman
+T21	MMLite 710 719	alkaloids
+N55	Reference T21 ConceptId:C0002062	Alkaloids
+N56	Reference T21 SemanticType:orch	orch
+N57	Reference T21 SemanticType:phsu	phsu
+T22	MMLite 1210 1213	RNA
+N58	Reference T22 SemanticType:celc	celc
+N59	Reference T22 ConceptId:C0035668	RNA
+N60	Reference T22 ConceptId:C1325819	RNA location
+N61	Reference T22 SemanticType:nnon	nnon
+T23	MMLite 1597 1601	mTOR
+N62	Reference T23 SemanticType:gngm	gngm
+N63	Reference T23 ConceptId:C1414805	MTOR gene
+T24	MMLite 824 828	cell
+N64	Reference T24 ConceptId:C1413336	CEL gene
+N65	Reference T24 SemanticType:gngm	gngm
+T25	MMLite 188 204	indole alkaloids
+N66	Reference T25 SemanticType:orch	orch
+N67	Reference T25 ConceptId:C0949738	Indole Alkaloids
+N68	Reference T25 SemanticType:phsu	phsu
+T26	MMLite 992 1001	alkaloids
+N69	Reference T26 ConceptId:C0002062	Alkaloids
+N70	Reference T26 SemanticType:orch	orch
+N71	Reference T26 SemanticType:phsu	phsu
+T27	MMLite 720 723	was
+N72	Reference T27 SemanticType:bacs	bacs
+N73	Reference T27 SemanticType:aapp	aapp
+N74	Reference T27 ConceptId:C1565156	WAS protein, human
+T28	MMLite 111 122	β-carboline
+N75	Reference T28 SemanticType:orch	orch
+N76	Reference T28 SemanticType:phsu	phsu
+N77	Reference T28 ConceptId:C0068994	norharman
+T29	MMLite 1259 1262	was
+N78	Reference T29 SemanticType:bacs	bacs
+N79	Reference T29 SemanticType:aapp	aapp
+N80	Reference T29 ConceptId:C1565156	WAS protein, human
+T30	MMLite 1529 1539	carbolines
+N81	Reference T30 ConceptId:C0007007	Carbolines
+N82	Reference T30 SemanticType:orch	orch
+T31	MMLite 1003 1010	harmine
+N83	Reference T31 SemanticType:orch	orch
+N84	Reference T31 ConceptId:C0018605	Harmine
+N85	Reference T31 SemanticType:phsu	phsu
+T32	MMLite 1015 1021	harmol
+N86	Reference T32 SemanticType:orch	orch
+N87	Reference T32 ConceptId:C0062125	harmol
+N88	Reference T32 SemanticType:phsu	phsu
+T33	MMLite 123 132	alkaloids
+N89	Reference T33 ConceptId:C0002062	Alkaloids
+N90	Reference T33 SemanticType:orch	orch
+N91	Reference T33 SemanticType:phsu	phsu
+T34	MMLite 48 51	Akt
+N92	Reference T34 SemanticType:aapp	aapp
+N93	Reference T34 SemanticType:enzy	enzy
+N94	Reference T34 ConceptId:C0164786	Proto-Oncogene Proteins c-akt
+T35	MMLite 1389 1392	was
+N95	Reference T35 SemanticType:bacs	bacs
+N96	Reference T35 SemanticType:aapp	aapp
+N97	Reference T35 ConceptId:C1565156	WAS protein, human
+T36	MMLite 52 56	mTOR
+N98	Reference T36 SemanticType:gngm	gngm
+N99	Reference T36 ConceptId:C1414805	MTOR gene
+T37	MMLite 508 511	can
+N100	Reference T37 SemanticType:mnob	mnob
+N101	Reference T37 ConceptId:C1704712	Can - object
+T38	MMLite 980 991	β-carboline
+N102	Reference T38 SemanticType:orch	orch
+N103	Reference T38 SemanticType:phsu	phsu
+N104	Reference T38 ConceptId:C0068994	norharman

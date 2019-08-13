@@ -1,0 +1,16 @@
+T1	Chemlistem 340 350	fatty acid
+A1	Score T1 0.8400248
+T2	Chemlistem 360 371	phytosterol
+A2	Score T2 0.9443643
+T3	Chemlistem 391 400	phenolics
+A3	Score T3 0.8294429
+T4	Chemlistem 455 465	fatty acid
+A4	Score T4 0.61994183
+T5	Chemlistem 522 534	β-sitosterol
+A5	Score T5 0.8526029
+T6	Chemlistem 691 702	polyphenols
+A6	Score T6 0.9066874
+T7	Chemlistem 872 874	Mg
+A7	Score T7 0.82667875
+T8	Chemlistem 983 1000	Fe > Cu > Ni > Mn
+A8	Score T8 0.80633503

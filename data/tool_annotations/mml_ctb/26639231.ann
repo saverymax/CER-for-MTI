@@ -1,0 +1,118 @@
+T1	MMLite 537 541	CTSL
+N1	Reference T1 SemanticType:aapp	aapp
+N2	Reference T1 SemanticType:enzy	enzy
+N3	Reference T1 ConceptId:C1332807	CTSL gene
+N4	Reference T1 SemanticType:gngm	gngm
+N5	Reference T1 ConceptId:C0054871	Cathepsin L
+T2	MMLite 921 925	CTSL
+N6	Reference T2 SemanticType:aapp	aapp
+N7	Reference T2 SemanticType:enzy	enzy
+N8	Reference T2 ConceptId:C1332807	CTSL gene
+N9	Reference T2 SemanticType:gngm	gngm
+N10	Reference T2 ConceptId:C0054871	Cathepsin L
+T3	MMLite 801 805	mice
+N11	Reference T3 ConceptId:C1413131	CASP14 gene
+N12	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 266 269	RNA
+N13	Reference T4 SemanticType:celc	celc
+N14	Reference T4 ConceptId:C0035668	RNA
+N15	Reference T4 ConceptId:C1325819	RNA location
+N16	Reference T4 SemanticType:nnon	nnon
+T5	MMLite 349 353	CTSL
+N17	Reference T5 SemanticType:aapp	aapp
+N18	Reference T5 SemanticType:enzy	enzy
+N19	Reference T5 ConceptId:C1332807	CTSL gene
+N20	Reference T5 SemanticType:gngm	gngm
+N21	Reference T5 ConceptId:C0054871	Cathepsin L
+T6	MMLite 616 620	cell
+N22	Reference T6 ConceptId:C1413336	CEL gene
+N23	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 90 94	CTSL
+N24	Reference T7 SemanticType:aapp	aapp
+N25	Reference T7 SemanticType:enzy	enzy
+N26	Reference T7 ConceptId:C1332807	CTSL gene
+N27	Reference T7 SemanticType:gngm	gngm
+N28	Reference T7 ConceptId:C0054871	Cathepsin L
+T8	MMLite 123 126	was
+N29	Reference T8 SemanticType:bacs	bacs
+N30	Reference T8 SemanticType:aapp	aapp
+N31	Reference T8 ConceptId:C1565156	WAS protein, human
+T9	MMLite 460 464	cell
+N32	Reference T9 ConceptId:C1413336	CEL gene
+N33	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 315 319	RNAs
+N34	Reference T10 ConceptId:C0035668	RNA
+N35	Reference T10 SemanticType:nnon	nnon
+T11	MMLite 320 324	CTSL
+N36	Reference T11 SemanticType:aapp	aapp
+N37	Reference T11 SemanticType:enzy	enzy
+N38	Reference T11 ConceptId:C1332807	CTSL gene
+N39	Reference T11 SemanticType:gngm	gngm
+N40	Reference T11 ConceptId:C0054871	Cathepsin L
+T12	MMLite 645 649	CTSL
+N41	Reference T12 SemanticType:aapp	aapp
+N42	Reference T12 SemanticType:enzy	enzy
+N43	Reference T12 ConceptId:C1332807	CTSL gene
+N44	Reference T12 SemanticType:gngm	gngm
+N45	Reference T12 ConceptId:C0054871	Cathepsin L
+T13	MMLite 109 122	endopeptidase
+N46	Reference T13 SemanticType:aapp	aapp
+N47	Reference T13 SemanticType:enzy	enzy
+N48	Reference T13 ConceptId:C0030946	Endopeptidases
+N49	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 195 198	was
+N50	Reference T14 SemanticType:bacs	bacs
+N51	Reference T14 SemanticType:aapp	aapp
+N52	Reference T14 ConceptId:C1565156	WAS protein, human
+T15	MMLite 296 300	CTSL
+N53	Reference T15 SemanticType:aapp	aapp
+N54	Reference T15 SemanticType:enzy	enzy
+N55	Reference T15 ConceptId:C1332807	CTSL gene
+N56	Reference T15 SemanticType:gngm	gngm
+N57	Reference T15 ConceptId:C0054871	Cathepsin L
+T16	MMLite 0 11	Cathepsin L
+N58	Reference T16 SemanticType:aapp	aapp
+N59	Reference T16 SemanticType:enzy	enzy
+N60	Reference T16 ConceptId:C1332807	CTSL gene
+N61	Reference T16 SemanticType:gngm	gngm
+N62	Reference T16 ConceptId:C0054871	Cathepsin L
+T17	MMLite 391 395	CTSL
+N63	Reference T17 SemanticType:aapp	aapp
+N64	Reference T17 SemanticType:enzy	enzy
+N65	Reference T17 ConceptId:C1332807	CTSL gene
+N66	Reference T17 SemanticType:gngm	gngm
+N67	Reference T17 ConceptId:C0054871	Cathepsin L
+T18	MMLite 235 239	CTSL
+N68	Reference T18 SemanticType:aapp	aapp
+N69	Reference T18 SemanticType:enzy	enzy
+N70	Reference T18 ConceptId:C1332807	CTSL gene
+N71	Reference T18 SemanticType:gngm	gngm
+N72	Reference T18 ConceptId:C0054871	Cathepsin L
+T19	MMLite 666 669	had
+N73	Reference T19 ConceptId:C1415458	HADH gene
+N74	Reference T19 SemanticType:gngm	gngm
+T20	MMLite 1019 1022	for
+N75	Reference T20 ConceptId:C1421525	WWOX gene
+N76	Reference T20 SemanticType:gngm	gngm
+T21	MMLite 78 89	Cathepsin L
+N77	Reference T21 SemanticType:aapp	aapp
+N78	Reference T21 SemanticType:enzy	enzy
+N79	Reference T21 ConceptId:C1332807	CTSL gene
+N80	Reference T21 SemanticType:gngm	gngm
+N81	Reference T21 ConceptId:C0054871	Cathepsin L
+T22	MMLite 336 343	plasmid
+N82	Reference T22 ConceptId:C0032136	Plasmids
+N83	Reference T22 SemanticType:bacs	bacs
+N84	Reference T22 SemanticType:nnon	nnon
+T23	MMLite 840 850	xenografts
+N85	Reference T23 ConceptId:C0522537	Xenograft type of graft
+N86	Reference T23 SemanticType:bodm	bodm
+T24	MMLite 720 724	CTSL
+N87	Reference T24 SemanticType:aapp	aapp
+N88	Reference T24 SemanticType:enzy	enzy
+N89	Reference T24 ConceptId:C1332807	CTSL gene
+N90	Reference T24 SemanticType:gngm	gngm
+N91	Reference T24 ConceptId:C0054871	Cathepsin L
+T25	MMLite 542 545	can
+N92	Reference T25 SemanticType:mnob	mnob
+N93	Reference T25 ConceptId:C1704712	Can - object

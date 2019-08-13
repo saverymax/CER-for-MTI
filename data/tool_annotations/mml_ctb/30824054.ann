@@ -1,0 +1,189 @@
+T1	MMLite 995 999	H2O2
+N1	Reference T1 SemanticType:irda	irda
+N2	Reference T1 ConceptId:C0020281	Hydrogen Peroxide
+N3	Reference T1 SemanticType:inch	inch
+N4	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 726 734	plasmids
+N5	Reference T2 ConceptId:C0032136	Plasmids
+N6	Reference T2 SemanticType:bacs	bacs
+N7	Reference T2 SemanticType:nnon	nnon
+T3	MMLite 1337 1340	was
+N8	Reference T3 SemanticType:bacs	bacs
+N9	Reference T3 SemanticType:aapp	aapp
+N10	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 826 829	was
+N11	Reference T4 SemanticType:bacs	bacs
+N12	Reference T4 SemanticType:aapp	aapp
+N13	Reference T4 ConceptId:C1565156	WAS protein, human
+T5	MMLite 224 245	programmed cell death
+N14	Reference T5 ConceptId:C0162638	Apoptosis
+N15	Reference T5 SemanticType:celf	celf
+T6	MMLite 87 91	salt
+N16	Reference T6 SemanticType:bacs	bacs
+N17	Reference T6 SemanticType:chvs	chvs
+N18	Reference T6 SemanticType:inch	inch
+N19	Reference T6 ConceptId:C0037494	Sodium Chloride
+N20	Reference T6 ConceptId:C0036140	Salts
+N21	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 309 312	PCD
+N22	Reference T7 ConceptId:C0162638	Apoptosis
+N23	Reference T7 SemanticType:celf	celf
+T8	MMLite 1298 1320	superoxide dismutase 1
+N24	Reference T8 SemanticType:aapp	aapp
+N25	Reference T8 SemanticType:enzy	enzy
+N26	Reference T8 ConceptId:C0669516	superoxide dismutase 1
+T9	MMLite 1235 1242	enzymes
+N27	Reference T9 ConceptId:C3540017	Enzymes, hematological
+N28	Reference T9 SemanticType:orch	orch
+N29	Reference T9 ConceptId:C3540048	ENZYMES FOR TREATMENT OF WOUNDS AND ULCERS
+N30	Reference T9 ConceptId:C3541394	Enzymes, antithrombotic
+N31	Reference T9 SemanticType:ftcn	ftcn
+N32	Reference T9 SemanticType:enzy	enzy
+N33	Reference T9 ConceptId:C3540790	Enzymes, peripheral vasodilators
+N34	Reference T9 ConceptId:C3540772	Enzymes FOR DISORDERS OF THE MUSCULO-SKELETAL SYSTEM
+N35	Reference T9 ConceptId:C0014442	Enzymes
+N36	Reference T9 ConceptId:C0014445	enzymology
+N37	Reference T9 SemanticType:phsu	phsu
+N38	Reference T9 ConceptId:C3542456	Enzymes for ALIMENTARY TRACT AND METABOLISM
+T10	MMLite 673 684	exonuclease
+N39	Reference T10 SemanticType:aapp	aapp
+N40	Reference T10 ConceptId:C0015296	Exonuclease
+N41	Reference T10 SemanticType:enzy	enzy
+T11	MMLite 1100 1104	H2O2
+N42	Reference T11 SemanticType:irda	irda
+N43	Reference T11 ConceptId:C0020281	Hydrogen Peroxide
+N44	Reference T11 SemanticType:inch	inch
+N45	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 947 951	salt
+N46	Reference T12 SemanticType:bacs	bacs
+N47	Reference T12 SemanticType:chvs	chvs
+N48	Reference T12 SemanticType:inch	inch
+N49	Reference T12 ConceptId:C0037494	Sodium Chloride
+N50	Reference T12 ConceptId:C0036140	Salts
+N51	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 1719 1722	ROS
+N52	Reference T13 SemanticType:bacs	bacs
+N53	Reference T13 ConceptId:C0289313	rosiglitazone
+N54	Reference T13 SemanticType:orch	orch
+N55	Reference T13 ConceptId:C0073591	rosoxacin
+N56	Reference T13 SemanticType:antb	antb
+N57	Reference T13 SemanticType:elii	elii
+N58	Reference T13 ConceptId:C0162772	Reactive Oxygen Species
+N59	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 247 250	PCD
+N60	Reference T14 ConceptId:C0162638	Apoptosis
+N61	Reference T14 SemanticType:celf	celf
+T15	MMLite 971 978	leading
+N62	Reference T15 ConceptId:C1522538	Leading
+N63	Reference T15 SemanticType:ftcn	ftcn
+T16	MMLite 622 626	salt
+N64	Reference T16 SemanticType:bacs	bacs
+N65	Reference T16 SemanticType:chvs	chvs
+N66	Reference T16 SemanticType:inch	inch
+N67	Reference T16 ConceptId:C0037494	Sodium Chloride
+N68	Reference T16 SemanticType:phsu	phsu
+N69	Reference T16 ConceptId:C0036140	Salts
+T17	MMLite 1692 1695	ROS
+N70	Reference T17 SemanticType:bacs	bacs
+N71	Reference T17 ConceptId:C0289313	rosiglitazone
+N72	Reference T17 SemanticType:orch	orch
+N73	Reference T17 ConceptId:C0073591	rosoxacin
+N74	Reference T17 SemanticType:antb	antb
+N75	Reference T17 SemanticType:elii	elii
+N76	Reference T17 ConceptId:C0162772	Reactive Oxygen Species
+N77	Reference T17 SemanticType:phsu	phsu
+T18	MMLite 155 158	DNA
+N78	Reference T18 SemanticType:celc	celc
+N79	Reference T18 SemanticType:bacs	bacs
+N80	Reference T18 ConceptId:C0012854	DNA
+N81	Reference T18 ConceptId:C1325786	DNA location
+N82	Reference T18 SemanticType:nnon	nnon
+T19	MMLite 1647 1651	salt
+N83	Reference T19 SemanticType:bacs	bacs
+N84	Reference T19 SemanticType:chvs	chvs
+N85	Reference T19 SemanticType:inch	inch
+N86	Reference T19 ConceptId:C0037494	Sodium Chloride
+N87	Reference T19 ConceptId:C0036140	Salts
+N88	Reference T19 SemanticType:phsu	phsu
+T20	MMLite 876 880	salt
+N89	Reference T20 SemanticType:bacs	bacs
+N90	Reference T20 SemanticType:chvs	chvs
+N91	Reference T20 SemanticType:inch	inch
+N92	Reference T20 ConceptId:C0037494	Sodium Chloride
+N93	Reference T20 SemanticType:phsu	phsu
+N94	Reference T20 ConceptId:C0036140	Salts
+T21	MMLite 1420 1424	salt
+N95	Reference T21 SemanticType:bacs	bacs
+N96	Reference T21 SemanticType:chvs	chvs
+N97	Reference T21 SemanticType:inch	inch
+N98	Reference T21 ConceptId:C0037494	Sodium Chloride
+N99	Reference T21 SemanticType:phsu	phsu
+N100	Reference T21 ConceptId:C0036140	Salts
+T22	MMLite 474 477	Ca2
+N101	Reference T22 SemanticType:aapp	aapp
+N102	Reference T22 SemanticType:imft	imft
+N103	Reference T22 ConceptId:C0666743	infliximab
+N104	Reference T22 ConceptId:C1413043	CA2 gene
+N105	Reference T22 SemanticType:gngm	gngm
+N106	Reference T22 SemanticType:phsu	phsu
+T23	MMLite 1440 1444	cell
+N107	Reference T23 ConceptId:C1413336	CEL gene
+N108	Reference T23 SemanticType:gngm	gngm
+T24	MMLite 1067 1071	salt
+N109	Reference T24 SemanticType:bacs	bacs
+N110	Reference T24 SemanticType:chvs	chvs
+N111	Reference T24 SemanticType:inch	inch
+N112	Reference T24 ConceptId:C0037494	Sodium Chloride
+N113	Reference T24 ConceptId:C0036140	Salts
+N114	Reference T24 SemanticType:phsu	phsu
+T25	MMLite 656 668	endonuclease
+N115	Reference T25 ConceptId:C0014230	endonuclease
+N116	Reference T25 SemanticType:aapp	aapp
+N117	Reference T25 SemanticType:enzy	enzy
+T26	MMLite 766 785	double-stranded DNA
+N118	Reference T26 SemanticType:bacs	bacs
+N119	Reference T26 ConceptId:C0012854	DNA
+N120	Reference T26 SemanticType:nnon	nnon
+T27	MMLite 1383 1387	salt
+N121	Reference T27 SemanticType:bacs	bacs
+N122	Reference T27 SemanticType:chvs	chvs
+N123	Reference T27 SemanticType:inch	inch
+N124	Reference T27 ConceptId:C0037494	Sodium Chloride
+N125	Reference T27 ConceptId:C0036140	Salts
+N126	Reference T27 SemanticType:phsu	phsu
+T28	MMLite 1731 1734	PCD
+N127	Reference T28 ConceptId:C0162638	Apoptosis
+N128	Reference T28 SemanticType:celf	celf
+T29	MMLite 736 739	RNA
+N129	Reference T29 SemanticType:celc	celc
+N130	Reference T29 ConceptId:C0035668	RNA
+N131	Reference T29 ConceptId:C1325819	RNA location
+N132	Reference T29 SemanticType:nnon	nnon
+T30	MMLite 1268 1290	glutathione peroxidase
+N133	Reference T30 ConceptId:C0017822	GLUTATHIONE PEROXIDASE
+N134	Reference T30 SemanticType:aapp	aapp
+N135	Reference T30 ConceptId:C1415275	GPX1 gene
+N136	Reference T30 SemanticType:enzy	enzy
+N137	Reference T30 SemanticType:gngm	gngm
+T31	MMLite 1200 1223	reactive oxygen species
+N138	Reference T31 SemanticType:bacs	bacs
+N139	Reference T31 SemanticType:elii	elii
+N140	Reference T31 ConceptId:C0162772	Reactive Oxygen Species
+T32	MMLite 741 760	single-stranded DNA
+N141	Reference T32 ConceptId:C0012935	DNA, Single-Stranded
+N142	Reference T32 SemanticType:nnon	nnon
+T33	MMLite 1451 1454	was
+N143	Reference T33 SemanticType:bacs	bacs
+N144	Reference T33 SemanticType:aapp	aapp
+N145	Reference T33 ConceptId:C1565156	WAS protein, human
+T34	MMLite 12 15	Ca2
+N146	Reference T34 SemanticType:aapp	aapp
+N147	Reference T34 SemanticType:imft	imft
+N148	Reference T34 ConceptId:C0666743	infliximab
+N149	Reference T34 ConceptId:C1413043	CA2 gene
+N150	Reference T34 SemanticType:gngm	gngm
+N151	Reference T34 SemanticType:phsu	phsu
+T35	MMLite 1244 1264	ascorbate peroxidase
+N152	Reference T35 SemanticType:aapp	aapp
+N153	Reference T35 ConceptId:C3178941	Ascorbate Peroxidases
+N154	Reference T35 SemanticType:enzy	enzy

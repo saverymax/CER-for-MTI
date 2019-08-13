@@ -1,0 +1,101 @@
+T1	MMLite 387 390	TLC
+N1	Reference T1 ConceptId:C1416805	LCN1 gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 190 194	base
+N3	Reference T2 ConceptId:C0002055	Alkalies
+N4	Reference T2 SemanticType:inch	inch
+T3	MMLite 68 76	TheraCal
+N5	Reference T3 SemanticType:bodm	bodm
+N6	Reference T3 ConceptId:C0253527	mineral trioxide aggregate
+T4	MMLite 150 155	resin
+N7	Reference T4 SemanticType:bodm	bodm
+N8	Reference T4 ConceptId:C0035191	Resins, Plant
+T5	MMLite 369 372	TLC
+N9	Reference T5 ConceptId:C1416805	LCN1 gene
+N10	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 683 686	FBS
+N11	Reference T6 SemanticType:gngm	gngm
+N12	Reference T6 ConceptId:C1426940	FBRS gene
+T7	MMLite 1073 1076	for
+N13	Reference T7 ConceptId:C1421525	WWOX gene
+N14	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 1520 1523	TLC
+N15	Reference T8 ConceptId:C1416805	LCN1 gene
+N16	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 166 182	calcium silicate
+N17	Reference T9 ConceptId:C0054483	calcium silicate
+N18	Reference T9 SemanticType:inch	inch
+N19	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 1232 1235	TLC
+N20	Reference T10 ConceptId:C1416805	LCN1 gene
+N21	Reference T10 SemanticType:gngm	gngm
+T11	MMLite 688 691	TLC
+N22	Reference T11 ConceptId:C1416805	LCN1 gene
+N23	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 1041 1048	apatite
+N24	Reference T12 SemanticType:inch	inch
+N25	Reference T12 ConceptId:C0003522	Apatites
+T13	MMLite 1365 1368	TLC
+N26	Reference T13 ConceptId:C1416805	LCN1 gene
+N27	Reference T13 SemanticType:gngm	gngm
+T14	MMLite 859 863	ions
+N28	Reference T14 ConceptId:C0022023	Ions
+N29	Reference T14 SemanticType:elii	elii
+T15	MMLite 1588 1594	cement
+N30	Reference T15 SemanticType:bodm	bodm
+N31	Reference T15 ConceptId:C1706094	Dental Cement Material
+T16	MMLite 554 557	For
+N32	Reference T16 ConceptId:C1421525	WWOX gene
+N33	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 1188 1191	was
+N34	Reference T17 SemanticType:bacs	bacs
+N35	Reference T17 SemanticType:aapp	aapp
+N36	Reference T17 ConceptId:C1565156	WAS protein, human
+T18	MMLite 889 892	for
+N37	Reference T18 ConceptId:C1421525	WWOX gene
+N38	Reference T18 SemanticType:gngm	gngm
+T19	MMLite 593 598	water
+N39	Reference T19 ConceptId:C0043047	Water
+N40	Reference T19 ConceptId:C1547961	Water - Specimen Source Codes
+N41	Reference T19 ConceptId:C0599638	Drinking Water
+N42	Reference T19 SemanticType:inpr	inpr
+N43	Reference T19 SemanticType:inch	inch
+N44	Reference T19 SemanticType:sbst	sbst
+N45	Reference T19 SemanticType:phsu	phsu
+N46	Reference T19 ConceptId:C1550678	Water Specimen
+T20	MMLite 1430 1434	cell
+N47	Reference T20 ConceptId:C1413336	CEL gene
+N48	Reference T20 SemanticType:gngm	gngm
+T21	MMLite 1077 1082	water
+N49	Reference T21 ConceptId:C0043047	Water
+N50	Reference T21 ConceptId:C1547961	Water - Specimen Source Codes
+N51	Reference T21 ConceptId:C0599638	Drinking Water
+N52	Reference T21 SemanticType:inpr	inpr
+N53	Reference T21 SemanticType:sbst	sbst
+N54	Reference T21 SemanticType:inch	inch
+N55	Reference T21 SemanticType:phsu	phsu
+N56	Reference T21 ConceptId:C1550678	Water Specimen
+T22	MMLite 219 222	for
+N57	Reference T22 ConceptId:C1421525	WWOX gene
+N58	Reference T22 SemanticType:gngm	gngm
+T23	MMLite 790 795	water
+N59	Reference T23 ConceptId:C0043047	Water
+N60	Reference T23 ConceptId:C1547961	Water - Specimen Source Codes
+N61	Reference T23 ConceptId:C0599638	Drinking Water
+N62	Reference T23 SemanticType:inpr	inpr
+N63	Reference T23 SemanticType:inch	inch
+N64	Reference T23 SemanticType:sbst	sbst
+N65	Reference T23 ConceptId:C1550678	Water Specimen
+N66	Reference T23 SemanticType:phsu	phsu
+T24	MMLite 81 89	TheraCal
+N67	Reference T24 SemanticType:bodm	bodm
+N68	Reference T24 ConceptId:C0253527	mineral trioxide aggregate
+T25	MMLite 1634 1637	for
+N69	Reference T25 ConceptId:C1421525	WWOX gene
+N70	Reference T25 SemanticType:gngm	gngm
+T26	MMLite 851 858	mineral
+N71	Reference T26 ConceptId:C0026162	Minerals
+N72	Reference T26 SemanticType:inch	inch
+T27	MMLite 94 97	TLC
+N73	Reference T27 ConceptId:C1416805	LCN1 gene
+N74	Reference T27 SemanticType:gngm	gngm

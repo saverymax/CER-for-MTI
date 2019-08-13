@@ -1,0 +1,102 @@
+T1	MMLite 646 649	for
+N1	Reference T1 ConceptId:C1421525	WWOX gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 199 206	glucose
+N3	Reference T2 SemanticType:bacs	bacs
+N4	Reference T2 SemanticType:orch	orch
+N5	Reference T2 SemanticType:lbpr	lbpr
+N6	Reference T2 ConceptId:C0017725	Glucose
+N7	Reference T2 ConceptId:C0337438	Glucose measurement
+N8	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 1304 1307	was
+N9	Reference T3 SemanticType:bacs	bacs
+N10	Reference T3 SemanticType:aapp	aapp
+N11	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 743 750	glucose
+N12	Reference T4 SemanticType:bacs	bacs
+N13	Reference T4 SemanticType:orch	orch
+N14	Reference T4 SemanticType:lbpr	lbpr
+N15	Reference T4 ConceptId:C0017725	Glucose
+N16	Reference T4 ConceptId:C0337438	Glucose measurement
+N17	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 1438 1451	canagliflozin
+N18	Reference T5 SemanticType:orch	orch
+N19	Reference T5 ConceptId:C2974540	canagliflozin
+N20	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 247 279	glucagon-like peptide-1 receptor
+N21	Reference T6 ConceptId:C0378073	Glucagon-Like Peptide-1 Receptor
+N22	Reference T6 SemanticType:rcpt	rcpt
+T7	MMLite 1052 1060	baseline
+N23	Reference T7 ConceptId:C0168634	BaseLine dental cement
+N24	Reference T7 SemanticType:bodm	bodm
+T8	MMLite 1349 1362	hypoglycaemic
+N25	Reference T8 ConceptId:C0020616	Hypoglycemic Agents
+N26	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 1202 1217	HDL cholesterol
+N27	Reference T9 SemanticType:bacs	bacs
+N28	Reference T9 SemanticType:orch	orch
+N29	Reference T9 ConceptId:C0392885	High density lipoprotein measurement
+N30	Reference T9 SemanticType:lbpr	lbpr
+N31	Reference T9 ConceptId:C0023822	High Density Lipoprotein Cholesterol
+N32	Reference T9 ConceptId:C0428472	Serum HDL cholesterol measurement
+T10	MMLite 391 396	SGLT2
+N33	Reference T10 SemanticType:gngm	gngm
+N34	Reference T10 ConceptId:C1420201	SLC5A2 gene
+T11	MMLite 963 976	canagliflozin
+N35	Reference T11 SemanticType:orch	orch
+N36	Reference T11 ConceptId:C2974540	canagliflozin
+N37	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 225 230	SGLT2
+N38	Reference T12 SemanticType:gngm	gngm
+N39	Reference T12 ConceptId:C1420201	SLC5A2 gene
+T13	MMLite 805 820	HDL cholesterol
+N40	Reference T13 SemanticType:bacs	bacs
+N41	Reference T13 SemanticType:orch	orch
+N42	Reference T13 ConceptId:C0392885	High density lipoprotein measurement
+N43	Reference T13 SemanticType:lbpr	lbpr
+N44	Reference T13 ConceptId:C0023822	High Density Lipoprotein Cholesterol
+N45	Reference T13 ConceptId:C0428472	Serum HDL cholesterol measurement
+T14	MMLite 60 92	glucagon-like peptide-1 receptor
+N46	Reference T14 ConceptId:C0378073	Glucagon-Like Peptide-1 Receptor
+N47	Reference T14 SemanticType:rcpt	rcpt
+T15	MMLite 614 627	canagliflozin
+N48	Reference T15 SemanticType:orch	orch
+N49	Reference T15 ConceptId:C2974540	canagliflozin
+N50	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 1271 1275	drug
+N51	Reference T16 ConceptId:C0013227	Pharmaceutical Preparations
+N52	Reference T16 SemanticType:phsu	phsu
+T17	MMLite 707 718	haemoglobin
+N53	Reference T17 SemanticType:bacs	bacs
+N54	Reference T17 SemanticType:aapp	aapp
+N55	Reference T17 ConceptId:C0019046	Hemoglobin
+T18	MMLite 23 36	canagliflozin
+N56	Reference T18 SemanticType:orch	orch
+N57	Reference T18 ConceptId:C2974540	canagliflozin
+N58	Reference T18 SemanticType:phsu	phsu
+T19	MMLite 407 420	canagliflozin
+N59	Reference T19 SemanticType:orch	orch
+N60	Reference T19 ConceptId:C2974540	canagliflozin
+N61	Reference T19 SemanticType:phsu	phsu
+T20	MMLite 826 834	baseline
+N62	Reference T20 ConceptId:C0168634	BaseLine dental cement
+N63	Reference T20 SemanticType:bodm	bodm
+T21	MMLite 210 221	transporter
+N64	Reference T21 SemanticType:bacs	bacs
+N65	Reference T21 SemanticType:aapp	aapp
+N66	Reference T21 ConceptId:C0596902	Membrane Transport Proteins
+T22	MMLite 1021 1024	was
+N67	Reference T22 SemanticType:bacs	bacs
+N68	Reference T22 SemanticType:aapp	aapp
+N69	Reference T22 ConceptId:C1565156	WAS protein, human
+T23	MMLite 192 198	Sodium
+N70	Reference T23 SemanticType:bacs	bacs
+N71	Reference T23 ConceptId:C0337443	Sodium measurement
+N72	Reference T23 ConceptId:C0037570	Sodium, Dietary
+N73	Reference T23 SemanticType:lbpr	lbpr
+N74	Reference T23 ConceptId:C0037473	Sodium
+N75	Reference T23 ConceptId:C3541959	Sodium supplements
+N76	Reference T23 SemanticType:elii	elii
+N77	Reference T23 SemanticType:phsu	phsu
+N78	Reference T23 ConceptId:C3714642	Sodium Drug Class
+N79	Reference T23 SemanticType:food	food

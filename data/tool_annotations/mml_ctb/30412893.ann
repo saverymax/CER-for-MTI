@@ -1,0 +1,69 @@
+T1	MMLite 212 220	collagen
+N1	Reference T1 SemanticType:aapp	aapp
+N2	Reference T1 ConceptId:C1325301	collagen activity
+N3	Reference T1 SemanticType:moft	moft
+N4	Reference T1 ConceptId:C0009325	Collagen
+T2	MMLite 257 260	PEG
+N5	Reference T2 ConceptId:C0032478	Polyethylene Glycol 400
+N6	Reference T2 SemanticType:orch	orch
+N7	Reference T2 ConceptId:C0032483	Polyethylene Glycols
+N8	Reference T2 SemanticType:bodm	bodm
+N9	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 857 860	was
+N10	Reference T3 SemanticType:bacs	bacs
+N11	Reference T3 SemanticType:aapp	aapp
+N12	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 1023 1026	PEG
+N13	Reference T4 ConceptId:C0032478	Polyethylene Glycol 400
+N14	Reference T4 SemanticType:orch	orch
+N15	Reference T4 ConceptId:C0032483	Polyethylene Glycols
+N16	Reference T4 SemanticType:bodm	bodm
+N17	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 292 297	oxide
+N18	Reference T5 ConceptId:C0030015	Oxides
+N19	Reference T5 SemanticType:inch	inch
+T6	MMLite 262 265	PEG
+N20	Reference T6 ConceptId:C0032478	Polyethylene Glycol 400
+N21	Reference T6 SemanticType:orch	orch
+N22	Reference T6 ConceptId:C0032483	Polyethylene Glycols
+N23	Reference T6 SemanticType:bodm	bodm
+N24	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 984 987	for
+N25	Reference T7 ConceptId:C1421525	WWOX gene
+N26	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 48 53	oxide
+N27	Reference T8 ConceptId:C0030015	Oxides
+N28	Reference T8 SemanticType:inch	inch
+T9	MMLite 397 405	microRNA
+N29	Reference T9 SemanticType:bacs	bacs
+N30	Reference T9 SemanticType:nnon	nnon
+N31	Reference T9 ConceptId:C1101610	MicroRNAs
+T10	MMLite 26 29	PEG
+N32	Reference T10 ConceptId:C0032478	Polyethylene Glycol 400
+N33	Reference T10 SemanticType:orch	orch
+N34	Reference T10 ConceptId:C0032483	Polyethylene Glycols
+N35	Reference T10 SemanticType:bodm	bodm
+N36	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 889 892	PEG
+N37	Reference T11 ConceptId:C0032478	Polyethylene Glycol 400
+N38	Reference T11 SemanticType:orch	orch
+N39	Reference T11 ConceptId:C0032483	Polyethylene Glycols
+N40	Reference T11 SemanticType:bodm	bodm
+N41	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 552 555	PEG
+N42	Reference T12 ConceptId:C0032478	Polyethylene Glycol 400
+N43	Reference T12 SemanticType:orch	orch
+N44	Reference T12 ConceptId:C0032483	Polyethylene Glycols
+N45	Reference T12 SemanticType:bodm	bodm
+N46	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 148 151	RNA
+N47	Reference T13 SemanticType:celc	celc
+N48	Reference T13 ConceptId:C0035668	RNA
+N49	Reference T13 SemanticType:nnon	nnon
+N50	Reference T13 ConceptId:C1325819	RNA location
+T14	MMLite 493 496	PEG
+N51	Reference T14 ConceptId:C0032478	Polyethylene Glycol 400
+N52	Reference T14 SemanticType:orch	orch
+N53	Reference T14 ConceptId:C0032483	Polyethylene Glycols
+N54	Reference T14 SemanticType:bodm	bodm
+N55	Reference T14 SemanticType:phsu	phsu

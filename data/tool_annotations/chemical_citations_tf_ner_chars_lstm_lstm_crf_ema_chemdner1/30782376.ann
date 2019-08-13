@@ -1,0 +1,11 @@
+T1	FAMILY 0 16	Carboxylic acids
+T2	FORMULA 56 60	H2O2
+T3	FAMILY 86 106	oxidant-peroxy acids
+T4	SYSTEMATIC 156 167	acetic acid
+T5	FORMULA 277 290	H2O2-mediated
+T6	SYSTEMATIC 304 334	3,3',5,5'-tetramethylbenzidine
+T7	FAMILY 460 471	nucleotides
+T8	ABBREVIATION 486 489	AG,
+T9	FAMILY 655 666	nucleotides
+T10	TRIVIAL 680 697	phosphate-induced
+T11	ABBREVIATION 968 981	ALP-catalyzed

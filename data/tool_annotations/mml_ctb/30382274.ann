@@ -1,0 +1,51 @@
+T1	MMLite 614 625	polyphenols
+N1	Reference T1 SemanticType:orch	orch
+N2	Reference T1 ConceptId:C0071649	polyphenols
+N3	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 923 926	end
+N4	Reference T2 SemanticType:aapp	aapp
+N5	Reference T2 SemanticType:imft	imft
+N6	Reference T2 ConceptId:C1366583	ENG gene
+N7	Reference T2 ConceptId:C0082420	Endoglin, human
+N8	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 1427 1430	for
+N9	Reference T3 ConceptId:C1421525	WWOX gene
+N10	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 1283 1286	was
+N11	Reference T4 SemanticType:bacs	bacs
+N12	Reference T4 SemanticType:aapp	aapp
+N13	Reference T4 ConceptId:C1565156	WAS protein, human
+T5	MMLite 1348 1362	insulin levels
+N14	Reference T5 SemanticType:lbpr	lbpr
+N15	Reference T5 ConceptId:C0202098	Insulin measurement
+T6	MMLite 365 376	polyphenols
+N16	Reference T6 SemanticType:orch	orch
+N17	Reference T6 ConceptId:C0071649	polyphenols
+N18	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 1441 1460	insulin sensitivity
+N19	Reference T7 SemanticType:lbpr	lbpr
+N20	Reference T7 ConceptId:C4049919	Insulin Sensitivity Measurement
+T8	MMLite 1043 1046	end
+N21	Reference T8 SemanticType:aapp	aapp
+N22	Reference T8 SemanticType:imft	imft
+N23	Reference T8 ConceptId:C1366583	ENG gene
+N24	Reference T8 ConceptId:C0082420	Endoglin, human
+N25	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 170 181	polyphenols
+N26	Reference T9 SemanticType:orch	orch
+N27	Reference T9 ConceptId:C0071649	polyphenols
+N28	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 995 1002	glucose
+N29	Reference T10 SemanticType:bacs	bacs
+N30	Reference T10 SemanticType:orch	orch
+N31	Reference T10 SemanticType:lbpr	lbpr
+N32	Reference T10 ConceptId:C0017725	Glucose
+N33	Reference T10 ConceptId:C0337438	Glucose measurement
+N34	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 407 418	polyphenols
+N35	Reference T11 SemanticType:orch	orch
+N36	Reference T11 ConceptId:C0071649	polyphenols
+N37	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 91 110	insulin sensitivity
+N38	Reference T12 SemanticType:lbpr	lbpr
+N39	Reference T12 ConceptId:C4049919	Insulin Sensitivity Measurement

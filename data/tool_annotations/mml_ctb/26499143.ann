@@ -1,0 +1,39 @@
+T1	MMLite 782 785	for
+N1	Reference T1 ConceptId:C1421525	WWOX gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 1128 1131	RAS
+N3	Reference T2 SemanticType:orch	orch
+N4	Reference T2 SemanticType:phsu	phsu
+N5	Reference T2 ConceptId:C0525678	rasagiline
+T3	MMLite 424 427	TNM
+N6	Reference T3 SemanticType:orch	orch
+N7	Reference T3 SemanticType:irda	irda
+N8	Reference T3 ConceptId:C0039694	Tetranitromethane
+N9	Reference T3 SemanticType:hops	hops
+T4	MMLite 1150 1154	HER2
+N10	Reference T4 SemanticType:aapp	aapp
+N11	Reference T4 ConceptId:C0069515	erbB-2 Receptor
+N12	Reference T4 ConceptId:C0242957	ERBB2 gene
+N13	Reference T4 SemanticType:enzy	enzy
+N14	Reference T4 SemanticType:rcpt	rcpt
+N15	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 543 547	drug
+N16	Reference T5 ConceptId:C0013227	Pharmaceutical Preparations
+N17	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 500 503	for
+N18	Reference T6 ConceptId:C1421525	WWOX gene
+N19	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 1079 1082	can
+N20	Reference T7 SemanticType:mnob	mnob
+N21	Reference T7 ConceptId:C1704712	Can - object
+T8	MMLite 690 700	CpG island
+N22	Reference T8 SemanticType:bacs	bacs
+N23	Reference T8 SemanticType:nnon	nnon
+N24	Reference T8 ConceptId:C0282523	CpG Islands
+T9	MMLite 1123 1126	MSI
+N25	Reference T9 SemanticType:orch	orch
+N26	Reference T9 ConceptId:C0672152	N-methylsuccinimide
+T10	MMLite 659 673	microsatellite
+N27	Reference T10 SemanticType:bacs	bacs
+N28	Reference T10 SemanticType:nnon	nnon
+N29	Reference T10 ConceptId:C1519302	Short Tandem Repeat

@@ -1,0 +1,81 @@
+T1	MMLite 624 644	alternative splicing
+N1	Reference T1 SemanticType:genf	genf
+N2	Reference T1 ConceptId:C0002345	Alternative Splicing
+T2	MMLite 178 182	GLI2
+N3	Reference T2 SemanticType:bacs	bacs
+N4	Reference T2 SemanticType:aapp	aapp
+N5	Reference T2 ConceptId:C0218975	GLI2 protein, human
+T3	MMLite 881 885	GLI2
+N6	Reference T3 SemanticType:bacs	bacs
+N7	Reference T3 SemanticType:aapp	aapp
+N8	Reference T3 ConceptId:C0218975	GLI2 protein, human
+T4	MMLite 0 4	GLI2
+N9	Reference T4 SemanticType:bacs	bacs
+N10	Reference T4 SemanticType:aapp	aapp
+N11	Reference T4 ConceptId:C0218975	GLI2 protein, human
+T5	MMLite 76 79	RNA
+N12	Reference T5 SemanticType:celc	celc
+N13	Reference T5 ConceptId:C0035668	RNA
+N14	Reference T5 ConceptId:C1325819	RNA location
+N15	Reference T5 SemanticType:nnon	nnon
+T6	MMLite 5 9	cell
+N16	Reference T6 ConceptId:C1413336	CEL gene
+N17	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 532 536	GLI2
+N18	Reference T7 SemanticType:bacs	bacs
+N19	Reference T7 SemanticType:aapp	aapp
+N20	Reference T7 ConceptId:C0218975	GLI2 protein, human
+T8	MMLite 144 147	GLI
+N21	Reference T8 SemanticType:bacs	bacs
+N22	Reference T8 SemanticType:aapp	aapp
+N23	Reference T8 ConceptId:C1449308	GLI1 protein, human
+T9	MMLite 563 579	protein isoforms
+N24	Reference T9 SemanticType:aapp	aapp
+N25	Reference T9 ConceptId:C0597298	Protein Isoforms
+T10	MMLite 1082 1086	GLI2
+N26	Reference T10 SemanticType:bacs	bacs
+N27	Reference T10 SemanticType:aapp	aapp
+N28	Reference T10 ConceptId:C0218975	GLI2 protein, human
+T11	MMLite 155 159	zinc
+N29	Reference T11 ConceptId:C0373748	Zinc measurement
+N30	Reference T11 SemanticType:lbpr	lbpr
+N31	Reference T11 ConceptId:C3541396	Zinc Supplements
+N32	Reference T11 ConceptId:C3714650	Zinc Drug Class
+N33	Reference T11 ConceptId:C0043481	Zinc
+N34	Reference T11 SemanticType:elii	elii
+N35	Reference T11 ConceptId:C2348288	Dietary Zinc
+N36	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 778 782	GLI2
+N37	Reference T12 SemanticType:bacs	bacs
+N38	Reference T12 SemanticType:aapp	aapp
+N39	Reference T12 ConceptId:C0218975	GLI2 protein, human
+T13	MMLite 381 388	leading
+N40	Reference T13 ConceptId:C1522538	Leading
+N41	Reference T13 SemanticType:ftcn	ftcn
+T14	MMLite 426 434	proteins
+N42	Reference T14 SemanticType:bacs	bacs
+N43	Reference T14 SemanticType:aapp	aapp
+N44	Reference T14 ConceptId:C0033684	Proteins
+T15	MMLite 895 903	isoforms
+N45	Reference T15 SemanticType:aapp	aapp
+N46	Reference T15 ConceptId:C0597298	Protein Isoforms
+T16	MMLite 303 307	GLI2
+N47	Reference T16 SemanticType:bacs	bacs
+N48	Reference T16 SemanticType:aapp	aapp
+N49	Reference T16 ConceptId:C0218975	GLI2 protein, human
+T17	MMLite 1027 1030	RNA
+N50	Reference T17 SemanticType:celc	celc
+N51	Reference T17 ConceptId:C0035668	RNA
+N52	Reference T17 SemanticType:nnon	nnon
+N53	Reference T17 ConceptId:C1325819	RNA location
+T18	MMLite 167 174	protein
+N54	Reference T18 SemanticType:bacs	bacs
+N55	Reference T18 SemanticType:aapp	aapp
+N56	Reference T18 ConceptId:C0033684	Proteins
+T19	MMLite 786 793	TGFbeta
+N57	Reference T19 SemanticType:bacs	bacs
+N58	Reference T19 SemanticType:aapp	aapp
+N59	Reference T19 ConceptId:C0040690	Transforming Growth Factor beta
+T20	MMLite 479 482	for
+N60	Reference T20 ConceptId:C1421525	WWOX gene
+N61	Reference T20 SemanticType:gngm	gngm

@@ -1,0 +1,76 @@
+T1	MMLite 294 297	UTI
+N1	Reference T1 SemanticType:aapp	aapp
+N2	Reference T1 ConceptId:C0077906	urinastatin
+N3	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 896 899	can
+N4	Reference T2 SemanticType:mnob	mnob
+N5	Reference T2 ConceptId:C1704712	Can - object
+T3	MMLite 369 381	Zinc sulfide
+N6	Reference T3 ConceptId:C0078795	zinc sulfide
+N7	Reference T3 SemanticType:inch	inch
+N8	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 506 511	glass
+N9	Reference T4 SemanticType:orch	orch
+N10	Reference T4 ConceptId:C0025611	Methamphetamine
+N11	Reference T4 SemanticType:hops	hops
+T5	MMLite 919 922	PCT
+N12	Reference T5 SemanticType:orch	orch
+N13	Reference T5 ConceptId:C0032452	Polychloroterphenyl Compounds
+T6	MMLite 428 431	PCT
+N14	Reference T6 SemanticType:orch	orch
+N15	Reference T6 ConceptId:C0032452	Polychloroterphenyl Compounds
+T7	MMLite 1147 1150	PCT
+N16	Reference T7 SemanticType:orch	orch
+N17	Reference T7 ConceptId:C0032452	Polychloroterphenyl Compounds
+T8	MMLite 779 782	PCT
+N18	Reference T8 SemanticType:orch	orch
+N19	Reference T8 ConceptId:C0032452	Polychloroterphenyl Compounds
+T9	MMLite 235 238	PCT
+N20	Reference T9 SemanticType:orch	orch
+N21	Reference T9 ConceptId:C0032452	Polychloroterphenyl Compounds
+T10	MMLite 241 250	a protein
+N22	Reference T10 SemanticType:aapp	aapp
+N23	Reference T10 SemanticType:imft	imft
+N24	Reference T10 SemanticType:irda	irda
+N25	Reference T10 ConceptId:C0038164	Staphylococcal Protein A
+T11	MMLite 389 405	Cadmium selenide
+N26	Reference T11 SemanticType:irda	irda
+N27	Reference T11 ConceptId:C0636257	cadmium selenide
+N28	Reference T11 SemanticType:inch	inch
+T12	MMLite 487 492	oxide
+N29	Reference T12 ConceptId:C0030015	Oxides
+N30	Reference T12 SemanticType:inch	inch
+T13	MMLite 1154 1157	UTI
+N31	Reference T13 SemanticType:aapp	aapp
+N32	Reference T13 ConceptId:C0077906	urinastatin
+N33	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 483 486	tin
+N34	Reference T14 SemanticType:mnob	mnob
+N35	Reference T14 SemanticType:elii	elii
+N36	Reference T14 ConceptId:C1704712	Can - object
+N37	Reference T14 ConceptId:C0040238	Tin
+T15	MMLite 441 460	monoclonal antibody
+N38	Reference T15 SemanticType:aapp	aapp
+N39	Reference T15 SemanticType:imft	imft
+N40	Reference T15 ConceptId:C0003250	Monoclonal Antibodies
+T16	MMLite 82 85	for
+N41	Reference T16 ConceptId:C1421525	WWOX gene
+N42	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 624 632	electron
+N43	Reference T17 ConceptId:C0013852	Electrons
+N44	Reference T17 SemanticType:qnco	qnco
+T18	MMLite 194 197	for
+N45	Reference T18 ConceptId:C1421525	WWOX gene
+N46	Reference T18 SemanticType:gngm	gngm
+T19	MMLite 462 465	MAb
+N47	Reference T19 SemanticType:aapp	aapp
+N48	Reference T19 SemanticType:imft	imft
+N49	Reference T19 ConceptId:C0003250	Monoclonal Antibodies
+T20	MMLite 476 482	indium
+N50	Reference T20 ConceptId:C0885444	Indium, Homeopathic preparation
+N51	Reference T20 ConceptId:C0021223	Indium
+N52	Reference T20 SemanticType:elii	elii
+N53	Reference T20 SemanticType:phsu	phsu
+T21	MMLite 31 34	for
+N54	Reference T21 ConceptId:C1421525	WWOX gene
+N55	Reference T21 SemanticType:gngm	gngm

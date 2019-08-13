@@ -1,0 +1,108 @@
+T1	MMLite 771 774	for
+N1	Reference T1 ConceptId:C1421525	WWOX gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 884 887	was
+N3	Reference T2 SemanticType:bacs	bacs
+N4	Reference T2 SemanticType:aapp	aapp
+N5	Reference T2 ConceptId:C1565156	WAS protein, human
+T3	MMLite 156 171	flame retardant
+N6	Reference T3 ConceptId:C0016198	Flame Retardants
+N7	Reference T3 SemanticType:chvf	chvf
+T4	MMLite 126 140	diphenyl ether
+N8	Reference T4 SemanticType:orch	orch
+N9	Reference T4 ConceptId:C0070605	Phenyl ether
+T5	MMLite 1154 1157	CED
+N10	Reference T5 SemanticType:orch	orch
+N11	Reference T5 SemanticType:antb	antb
+N12	Reference T5 ConceptId:C0007738	Cephradine
+T6	MMLite 1032 1037	TBARS
+N13	Reference T6 ConceptId:C0162781	Thiobarbituric Acid Reactive Substances
+N14	Reference T6 SemanticType:orch	orch
+N15	Reference T6 SemanticType:irda	irda
+T7	MMLite 991 1030	thiobarbituric acid reactive substances
+N16	Reference T7 ConceptId:C0162781	Thiobarbituric Acid Reactive Substances
+N17	Reference T7 SemanticType:orch	orch
+N18	Reference T7 SemanticType:irda	irda
+T8	MMLite 580 590	creatinine
+N19	Reference T8 SemanticType:bacs	bacs
+N20	Reference T8 ConceptId:C0201975	Creatinine measurement
+N21	Reference T8 ConceptId:C1561535	Creatinine finding
+N22	Reference T8 SemanticType:orch	orch
+N23	Reference T8 SemanticType:lbpr	lbpr
+N24	Reference T8 ConceptId:C0010294	Creatinine
+N25	Reference T8 SemanticType:fndg	fndg
+T9	MMLite 524 527	for
+N26	Reference T9 ConceptId:C1421525	WWOX gene
+N27	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 1190 1195	TBARS
+N28	Reference T10 ConceptId:C0162781	Thiobarbituric Acid Reactive Substances
+N29	Reference T10 SemanticType:orch	orch
+N30	Reference T10 SemanticType:irda	irda
+T11	MMLite 872 883	glutathione
+N31	Reference T11 SemanticType:bacs	bacs
+N32	Reference T11 SemanticType:aapp	aapp
+N33	Reference T11 ConceptId:C0017817	Glutathione
+T12	MMLite 828 831	was
+N34	Reference T12 SemanticType:bacs	bacs
+N35	Reference T12 SemanticType:aapp	aapp
+N36	Reference T12 ConceptId:C1565156	WAS protein, human
+T13	MMLite 293 297	dust
+N37	Reference T13 SemanticType:ftcn	ftcn
+N38	Reference T13 ConceptId:C0013330	Dust
+N39	Reference T13 ConceptId:C1697246	dust - non-drug agent
+N40	Reference T13 SemanticType:sbst	sbst
+N41	Reference T13 ConceptId:C1549536	Dust - Administration Method
+T14	MMLite 733 736	was
+N42	Reference T14 SemanticType:bacs	bacs
+N43	Reference T14 SemanticType:aapp	aapp
+N44	Reference T14 ConceptId:C1565156	WAS protein, human
+T15	MMLite 571 575	urea
+N45	Reference T15 SemanticType:bacs	bacs
+N46	Reference T15 SemanticType:orch	orch
+N47	Reference T15 ConceptId:C0041942	Urea
+N48	Reference T15 SemanticType:lbpr	lbpr
+N49	Reference T15 ConceptId:C0523961	Urea measurement
+N50	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 688 691	for
+N51	Reference T16 ConceptId:C1421525	WWOX gene
+N52	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 904 924	superoxide dismutase
+N53	Reference T17 SemanticType:aapp	aapp
+N54	Reference T17 SemanticType:enzy	enzy
+N55	Reference T17 ConceptId:C0038838	Superoxide Dismutase
+N56	Reference T17 SemanticType:phsu	phsu
+T18	MMLite 1260 1263	can
+N57	Reference T18 SemanticType:mnob	mnob
+N58	Reference T18 ConceptId:C1704712	Can - object
+T19	MMLite 679 682	was
+N59	Reference T19 SemanticType:bacs	bacs
+N60	Reference T19 SemanticType:aapp	aapp
+N61	Reference T19 ConceptId:C1565156	WAS protein, human
+T20	MMLite 1171 1174	for
+N62	Reference T20 ConceptId:C1421525	WWOX gene
+N63	Reference T20 SemanticType:gngm	gngm
+T21	MMLite 722 732	creatinine
+N64	Reference T21 ConceptId:C0201975	Creatinine measurement
+N65	Reference T21 SemanticType:bacs	bacs
+N66	Reference T21 ConceptId:C1561535	Creatinine finding
+N67	Reference T21 SemanticType:orch	orch
+N68	Reference T21 SemanticType:lbpr	lbpr
+N69	Reference T21 ConceptId:C0010294	Creatinine
+N70	Reference T21 SemanticType:fndg	fndg
+T22	MMLite 1242 1245	for
+N71	Reference T22 ConceptId:C1421525	WWOX gene
+N72	Reference T22 SemanticType:gngm	gngm
+T23	MMLite 934 937	was
+N73	Reference T23 SemanticType:bacs	bacs
+N74	Reference T23 SemanticType:aapp	aapp
+N75	Reference T23 ConceptId:C1565156	WAS protein, human
+T24	MMLite 78 92	diphenyl ether
+N76	Reference T24 SemanticType:orch	orch
+N77	Reference T24 ConceptId:C0070605	Phenyl ether
+T25	MMLite 781 785	urea
+N78	Reference T25 SemanticType:bacs	bacs
+N79	Reference T25 SemanticType:orch	orch
+N80	Reference T25 ConceptId:C0041942	Urea
+N81	Reference T25 SemanticType:lbpr	lbpr
+N82	Reference T25 ConceptId:C0523961	Urea measurement
+N83	Reference T25 SemanticType:phsu	phsu

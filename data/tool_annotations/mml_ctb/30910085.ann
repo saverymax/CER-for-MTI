@@ -1,0 +1,30 @@
+T1	MMLite 1200 1203	was
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C1565156	WAS protein, human
+T2	MMLite 141 144	for
+N4	Reference T2 ConceptId:C1421525	WWOX gene
+N5	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 1138 1141	was
+N6	Reference T3 SemanticType:bacs	bacs
+N7	Reference T3 SemanticType:aapp	aapp
+N8	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 1059 1066	acetoin
+N9	Reference T4 SemanticType:bacs	bacs
+N10	Reference T4 SemanticType:orch	orch
+N11	Reference T4 ConceptId:C0000996	Acetoin
+T5	MMLite 731 734	was
+N12	Reference T5 SemanticType:bacs	bacs
+N13	Reference T5 SemanticType:aapp	aapp
+N14	Reference T5 ConceptId:C1565156	WAS protein, human
+T6	MMLite 612 615	was
+N15	Reference T6 SemanticType:bacs	bacs
+N16	Reference T6 SemanticType:aapp	aapp
+N17	Reference T6 ConceptId:C1565156	WAS protein, human
+T7	MMLite 745 748	for
+N18	Reference T7 ConceptId:C1421525	WWOX gene
+N19	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 1071 1079	diacetyl
+N20	Reference T8 SemanticType:bacs	bacs
+N21	Reference T8 SemanticType:orch	orch
+N22	Reference T8 ConceptId:C0011889	Diacetyl

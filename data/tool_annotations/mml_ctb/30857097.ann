@@ -1,0 +1,97 @@
+T1	MMLite 935 938	was
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C1565156	WAS protein, human
+T2	MMLite 832 841	sulfonate
+N4	Reference T2 SemanticType:orch	orch
+N5	Reference T2 ConceptId:C0002072	Alkanesulfonates
+T3	MMLite 468 471	for
+N6	Reference T3 ConceptId:C1421525	WWOX gene
+N7	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 928 933	PFPeA
+N8	Reference T4 SemanticType:unk	unk
+N9	Reference T4 ConceptId:D0008911	JBIR-141
+T5	MMLite 1070 1075	water
+N10	Reference T5 ConceptId:C0043047	Water
+N11	Reference T5 ConceptId:C1547961	Water - Specimen Source Codes
+N12	Reference T5 ConceptId:C0599638	Drinking Water
+N13	Reference T5 SemanticType:inpr	inpr
+N14	Reference T5 SemanticType:inch	inch
+N15	Reference T5 SemanticType:sbst	sbst
+N16	Reference T5 SemanticType:phsu	phsu
+N17	Reference T5 ConceptId:C1550678	Water Specimen
+T6	MMLite 247 250	can
+N18	Reference T6 SemanticType:mnob	mnob
+N19	Reference T6 ConceptId:C1704712	Can - object
+T7	MMLite 1914 1917	for
+N20	Reference T7 ConceptId:C1421525	WWOX gene
+N21	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 1700 1703	was
+N22	Reference T8 SemanticType:bacs	bacs
+N23	Reference T8 SemanticType:aapp	aapp
+N24	Reference T8 ConceptId:C1565156	WAS protein, human
+T9	MMLite 976 981	water
+N25	Reference T9 ConceptId:C0043047	Water
+N26	Reference T9 ConceptId:C1547961	Water - Specimen Source Codes
+N27	Reference T9 ConceptId:C0599638	Drinking Water
+N28	Reference T9 SemanticType:inpr	inpr
+N29	Reference T9 SemanticType:sbst	sbst
+N30	Reference T9 SemanticType:inch	inch
+N31	Reference T9 SemanticType:phsu	phsu
+N32	Reference T9 ConceptId:C1550678	Water Specimen
+T10	MMLite 2033 2038	water
+N33	Reference T10 ConceptId:C0043047	Water
+N34	Reference T10 ConceptId:C1547961	Water - Specimen Source Codes
+N35	Reference T10 ConceptId:C0599638	Drinking Water
+N36	Reference T10 SemanticType:inpr	inpr
+N37	Reference T10 SemanticType:inch	inch
+N38	Reference T10 SemanticType:sbst	sbst
+N39	Reference T10 SemanticType:phsu	phsu
+N40	Reference T10 ConceptId:C1550678	Water Specimen
+T11	MMLite 1764 1767	can
+N41	Reference T11 SemanticType:mnob	mnob
+N42	Reference T11 ConceptId:C1704712	Can - object
+T12	MMLite 743 746	for
+N43	Reference T12 ConceptId:C1421525	WWOX gene
+N44	Reference T12 SemanticType:gngm	gngm
+T13	MMLite 816 831	Perfluorooctane
+N45	Reference T13 SemanticType:orch	orch
+N46	Reference T13 ConceptId:C0166273	perfluorooctane
+T14	MMLite 1011 1016	water
+N47	Reference T14 ConceptId:C0043047	Water
+N48	Reference T14 ConceptId:C1547961	Water - Specimen Source Codes
+N49	Reference T14 ConceptId:C0599638	Drinking Water
+N50	Reference T14 SemanticType:inpr	inpr
+N51	Reference T14 SemanticType:sbst	sbst
+N52	Reference T14 SemanticType:inch	inch
+N53	Reference T14 SemanticType:phsu	phsu
+N54	Reference T14 ConceptId:C1550678	Water Specimen
+T15	MMLite 1457 1462	liver
+N55	Reference T15 SemanticType:orch	orch
+N56	Reference T15 ConceptId:C0023899	Liver Extract
+N57	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 849 852	was
+N58	Reference T16 SemanticType:bacs	bacs
+N59	Reference T16 SemanticType:aapp	aapp
+N60	Reference T16 ConceptId:C1565156	WAS protein, human
+T17	MMLite 903 926	perfluoropentanoic acid
+N61	Reference T17 SemanticType:unk	unk
+N62	Reference T17 ConceptId:D0008911	JBIR-141
+T18	MMLite 1978 1985	CAPSULE
+N63	Reference T18 SemanticType:bodm	bodm
+N64	Reference T18 ConceptId:C0006935	capsule (pharmacologic)
+T19	MMLite 1643 1646	for
+N65	Reference T19 ConceptId:C1421525	WWOX gene
+N66	Reference T19 SemanticType:gngm	gngm
+T20	MMLite 2145 2148	for
+N67	Reference T20 ConceptId:C1421525	WWOX gene
+N68	Reference T20 SemanticType:gngm	gngm
+T21	MMLite 586 591	water
+N69	Reference T21 ConceptId:C0043047	Water
+N70	Reference T21 ConceptId:C1547961	Water - Specimen Source Codes
+N71	Reference T21 ConceptId:C0599638	Drinking Water
+N72	Reference T21 SemanticType:inpr	inpr
+N73	Reference T21 SemanticType:inch	inch
+N74	Reference T21 SemanticType:sbst	sbst
+N75	Reference T21 ConceptId:C1550678	Water Specimen
+N76	Reference T21 SemanticType:phsu	phsu

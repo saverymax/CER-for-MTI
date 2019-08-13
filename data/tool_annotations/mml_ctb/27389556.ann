@@ -1,0 +1,75 @@
+T1	MMLite 392 396	exon
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 ConceptId:C0015295	Exons
+N3	Reference T1 SemanticType:nnon	nnon
+T2	MMLite 1315 1319	CDK8
+N4	Reference T2 ConceptId:C1413289	CDK8 gene
+N5	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 1252 1255	had
+N6	Reference T3 ConceptId:C1415458	HADH gene
+N7	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 243 259	mediator complex
+N8	Reference T4 SemanticType:bacs	bacs
+N9	Reference T4 SemanticType:celc	celc
+N10	Reference T4 ConceptId:C1363844	Mediator of activation protein
+N11	Reference T4 SemanticType:aapp	aapp
+N12	Reference T4 ConceptId:C1167096	mediator complex location
+N13	Reference T4 ConceptId:C2919060	Mediator Complex
+T5	MMLite 0 4	CDK8
+N14	Reference T5 ConceptId:C1413289	CDK8 gene
+N15	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 193 197	CDK8
+N16	Reference T6 ConceptId:C1413289	CDK8 gene
+N17	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 1331 1334	was
+N18	Reference T7 SemanticType:bacs	bacs
+N19	Reference T7 SemanticType:aapp	aapp
+N20	Reference T7 ConceptId:C1565156	WAS protein, human
+T8	MMLite 708 712	CDK8
+N21	Reference T8 ConceptId:C1413289	CDK8 gene
+N22	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 966 969	was
+N23	Reference T9 SemanticType:bacs	bacs
+N24	Reference T9 SemanticType:aapp	aapp
+N25	Reference T9 ConceptId:C1565156	WAS protein, human
+T10	MMLite 1556 1559	can
+N26	Reference T10 SemanticType:mnob	mnob
+N27	Reference T10 ConceptId:C1704712	Can - object
+T11	MMLite 92 100	Mediator
+N28	Reference T11 SemanticType:bacs	bacs
+N29	Reference T11 ConceptId:C1363844	Mediator of activation protein
+N30	Reference T11 SemanticType:aapp	aapp
+T12	MMLite 864 867	was
+N31	Reference T12 SemanticType:bacs	bacs
+N32	Reference T12 SemanticType:aapp	aapp
+N33	Reference T12 ConceptId:C1565156	WAS protein, human
+T13	MMLite 220 235	protein subunit
+N34	Reference T13 SemanticType:aapp	aapp
+N35	Reference T13 ConceptId:C0599220	Protein Subunits
+T14	MMLite 1051 1055	CDK8
+N36	Reference T14 ConceptId:C1413289	CDK8 gene
+N37	Reference T14 SemanticType:gngm	gngm
+T15	MMLite 587 591	CDK8
+N38	Reference T15 ConceptId:C1413289	CDK8 gene
+N39	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 265 268	can
+N40	Reference T16 SemanticType:mnob	mnob
+N41	Reference T16 ConceptId:C1704712	Can - object
+T17	MMLite 1067 1070	was
+N42	Reference T17 SemanticType:bacs	bacs
+N43	Reference T17 SemanticType:aapp	aapp
+N44	Reference T17 ConceptId:C1565156	WAS protein, human
+T18	MMLite 830 834	CDK8
+N45	Reference T18 ConceptId:C1413289	CDK8 gene
+N46	Reference T18 SemanticType:gngm	gngm
+T19	MMLite 198 204	kinase
+N47	Reference T19 SemanticType:aapp	aapp
+N48	Reference T19 SemanticType:enzy	enzy
+N49	Reference T19 ConceptId:C0031727	Phosphotransferases
+T20	MMLite 1375 1379	CDK8
+N50	Reference T20 ConceptId:C1413289	CDK8 gene
+N51	Reference T20 SemanticType:gngm	gngm
+T21	MMLite 1165 1168	was
+N52	Reference T21 SemanticType:bacs	bacs
+N53	Reference T21 SemanticType:aapp	aapp
+N54	Reference T21 ConceptId:C1565156	WAS protein, human

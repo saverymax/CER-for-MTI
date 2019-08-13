@@ -1,0 +1,103 @@
+T1	MMLite 155 159	TPHP
+N1	Reference T1 ConceptId:C0077249	triphenyl phosphate
+N2	Reference T1 SemanticType:orch	orch
+T2	MMLite 1242 1246	TPHP
+N3	Reference T2 ConceptId:C0077249	triphenyl phosphate
+N4	Reference T2 SemanticType:orch	orch
+T3	MMLite 823 827	TPHP
+N5	Reference T3 ConceptId:C0077249	triphenyl phosphate
+N6	Reference T3 SemanticType:orch	orch
+T4	MMLite 1216 1219	CYP
+N7	Reference T4 SemanticType:aapp	aapp
+N8	Reference T4 ConceptId:C0010762	Cytochrome P450
+N9	Reference T4 SemanticType:enzy	enzy
+T5	MMLite 733 741	catalase
+N10	Reference T5 SemanticType:aapp	aapp
+N11	Reference T5 ConceptId:C0007367	CATALASE
+N12	Reference T5 ConceptId:C1413138	CAT gene
+N13	Reference T5 SemanticType:enzy	enzy
+N14	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 538 546	diphenyl
+N15	Reference T6 ConceptId:C0058372	diphenyl (fungicide)
+N16	Reference T6 SemanticType:orch	orch
+N17	Reference T6 ConceptId:C2979948	Diphenyl
+N18	Reference T6 SemanticType:hops	hops
+N19	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 934 952	piperonyl butoxide
+N20	Reference T7 ConceptId:C0031962	Piperonyl Butoxide
+N21	Reference T7 SemanticType:orch	orch
+N22	Reference T7 SemanticType:hops	hops
+N23	Reference T7 SemanticType:phsu	phsu
+T8	MMLite 708 728	superoxide dismutase
+N24	Reference T8 SemanticType:aapp	aapp
+N25	Reference T8 SemanticType:enzy	enzy
+N26	Reference T8 ConceptId:C0038838	Superoxide Dismutase
+N27	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 103 118	cytochrome P450
+N28	Reference T9 SemanticType:aapp	aapp
+N29	Reference T9 ConceptId:C0010762	Cytochrome P450
+N30	Reference T9 SemanticType:enzy	enzy
+T10	MMLite 991 995	TPHP
+N31	Reference T10 ConceptId:C0077249	triphenyl phosphate
+N32	Reference T10 SemanticType:orch	orch
+T11	MMLite 902 917	cytochrome P450
+N33	Reference T11 SemanticType:aapp	aapp
+N34	Reference T11 ConceptId:C0010762	Cytochrome P450
+N35	Reference T11 SemanticType:enzy	enzy
+T12	MMLite 134 153	Triphenyl phosphate
+N36	Reference T12 ConceptId:C0077249	triphenyl phosphate
+N37	Reference T12 SemanticType:orch	orch
+T13	MMLite 1324 1328	TPHP
+N38	Reference T13 ConceptId:C0077249	triphenyl phosphate
+N39	Reference T13 SemanticType:orch	orch
+T14	MMLite 547 556	phosphate
+N40	Reference T14 SemanticType:orch	orch
+N41	Reference T14 ConceptId:C0031603	inorganic phosphate
+N42	Reference T14 ConceptId:C0523826	Phosphate measurement
+N43	Reference T14 SemanticType:lbpr	lbpr
+N44	Reference T14 ConceptId:C0031701	Phosphoric Acid Esters
+N45	Reference T14 SemanticType:inch	inch
+N46	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 458 462	TPHP
+N47	Reference T15 ConceptId:C0077249	triphenyl phosphate
+N48	Reference T15 SemanticType:orch	orch
+T16	MMLite 1418 1422	TPHP
+N49	Reference T16 ConceptId:C0077249	triphenyl phosphate
+N50	Reference T16 SemanticType:orch	orch
+T17	MMLite 339 343	TPHP
+N51	Reference T17 ConceptId:C0077249	triphenyl phosphate
+N52	Reference T17 SemanticType:orch	orch
+T18	MMLite 1109 1112	CYP
+N53	Reference T18 SemanticType:aapp	aapp
+N54	Reference T18 ConceptId:C0010762	Cytochrome P450
+N55	Reference T18 SemanticType:enzy	enzy
+T19	MMLite 368 371	was
+N56	Reference T19 SemanticType:bacs	bacs
+N57	Reference T19 SemanticType:aapp	aapp
+N58	Reference T19 ConceptId:C1565156	WAS protein, human
+T20	MMLite 532 536	TPHP
+N59	Reference T20 ConceptId:C0077249	triphenyl phosphate
+N60	Reference T20 SemanticType:orch	orch
+T21	MMLite 18 37	triphenyl phosphate
+N61	Reference T21 ConceptId:C0077249	triphenyl phosphate
+N62	Reference T21 SemanticType:orch	orch
+T22	MMLite 568 577	phosphate
+N63	Reference T22 SemanticType:orch	orch
+N64	Reference T22 ConceptId:C0031603	inorganic phosphate
+N65	Reference T22 ConceptId:C0523826	Phosphate measurement
+N66	Reference T22 SemanticType:lbpr	lbpr
+N67	Reference T22 ConceptId:C0031701	Phosphoric Acid Esters
+N68	Reference T22 SemanticType:inch	inch
+N69	Reference T22 SemanticType:phsu	phsu
+T23	MMLite 119 132	monooxygenase
+N70	Reference T23 ConceptId:C0020364	Mixed Function Oxygenases
+N71	Reference T23 SemanticType:aapp	aapp
+N72	Reference T23 SemanticType:enzy	enzy
+T24	MMLite 919 922	CYP
+N73	Reference T24 SemanticType:aapp	aapp
+N74	Reference T24 ConceptId:C0010762	Cytochrome P450
+N75	Reference T24 SemanticType:enzy	enzy
+T25	MMLite 753 768	malondialdehyde
+N76	Reference T25 SemanticType:bacs	bacs
+N77	Reference T25 SemanticType:orch	orch
+N78	Reference T25 ConceptId:C0024643	Malondialdehyde

@@ -1,0 +1,22 @@
+T1	Chemlistem 837 843	oxygen
+A1	Score T1 0.95725626
+T2	Chemlistem 896 904	hydroxyl
+A2	Score T2 0.6398203
+T3	Chemlistem 924 936	nitric oxide
+A3	Score T3 0.9833097
+T4	Chemlistem 938 940	NO
+A4	Score T4 0.9645087
+T5	Chemlistem 1055 1065	superoxide
+A5	Score T5 0.92465967
+T6	Chemlistem 1099 1110	glutathione
+A6	Score T6 0.90617317
+T7	Chemlistem 1112 1115	GSH
+A7	Score T7 0.6456596
+T8	Chemlistem 1118 1129	glutathione
+A8	Score T8 0.96024776
+T9	Chemlistem 1159 1164	thiol
+A9	Score T9 0.76272476
+T10	Chemlistem 1510 1519	bilirubin
+A10	Score T10 0.9030177
+T11	Chemlistem 1531 1541	creatinine
+A11	Score T11 0.8943838

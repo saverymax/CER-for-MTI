@@ -1,0 +1,32 @@
+T1	MMLite 956 967	spin labels
+N1	Reference T1 SemanticType:irda	irda
+N2	Reference T1 ConceptId:C0037914	Spin Labels
+T2	MMLite 576 590	monoglycerides
+N3	Reference T2 SemanticType:orch	orch
+N4	Reference T2 ConceptId:C0026481	Monoglycerides
+N5	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 1284 1287	for
+N6	Reference T3 ConceptId:C1421525	WWOX gene
+N7	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 552 565	tartaric acid
+N8	Reference T4 SemanticType:orch	orch
+N9	Reference T4 SemanticType:irda	irda
+N10	Reference T4 ConceptId:C0075821	tartaric acid
+T5	MMLite 88 92	spin
+N11	Reference T5 ConceptId:C1823107	SPIN1 gene
+N12	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 566 572	esters
+N13	Reference T6 ConceptId:C0014898	Esters
+N14	Reference T6 SemanticType:orch	orch
+T7	MMLite 116 124	Electron
+N15	Reference T7 ConceptId:C0013852	Electrons
+N16	Reference T7 SemanticType:qnco	qnco
+T8	MMLite 511 517	TEMPOL
+N17	Reference T8 ConceptId:C3272771	Topical Piperidine Nitroxide MTS-01
+N18	Reference T8 SemanticType:orch	orch
+N19	Reference T8 ConceptId:C0045283	tempol
+N20	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 543 551	diacetyl
+N21	Reference T9 SemanticType:bacs	bacs
+N22	Reference T9 SemanticType:orch	orch
+N23	Reference T9 ConceptId:C0011889	Diacetyl

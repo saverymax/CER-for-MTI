@@ -1,0 +1,28 @@
+T1	Chemlistem 36 45	estrogens
+A1	Score T1 0.7765903
+T2	Chemlistem 320 327	hydroxy
+A2	Score T2 0.8376549
+T3	Chemlistem 332 348	methoxyestrogens
+A3	Score T3 0.8546466
+T4	Chemlistem 503 511	Estrogen
+A4	Score T4 0.895859
+T5	Chemlistem 702 711	estrogens
+A5	Score T5 0.7367737
+T6	Chemlistem 761 770	Estrogens
+A6	Score T6 0.6875298
+T7	Chemlistem 855 905	1-(5-fluoro-2, 4-dinitrophenyl)-4-methylpiperazine
+A7	Score T7 0.9444579
+T8	Chemlistem 907 910	PPZ
+A8	Score T8 0.5952636
+T9	Chemlistem 1580 1587	estrone
+A9	Score T9 0.90401626
+T10	Chemlistem 1597 1606	estradiol
+A10	Score T10 0.9037449
+T11	Chemlistem 1740 1752	2-methoxy-E1
+A11	Score T11 0.70570284
+T12	Chemlistem 1757 1769	4-methoxy-E1
+A12	Score T12 0.8740927
+T13	Chemlistem 1925 1934	estrogens
+A13	Score T13 0.7664573
+T14	Chemlistem 2051 2060	estrogens
+A14	Score T14 0.7962978

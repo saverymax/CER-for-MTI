@@ -1,0 +1,206 @@
+T1	MMLite 1180 1186	apelin
+N1	Reference T1 SemanticType:aapp	aapp
+N2	Reference T1 ConceptId:C1538915	APLN gene
+N3	Reference T1 ConceptId:C3542402	Apelin
+N4	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 1580 1583	DHA
+N5	Reference T2 SemanticType:bacs	bacs
+N6	Reference T2 SemanticType:orch	orch
+N7	Reference T2 ConceptId:C0012968	Docosahexaenoic Acids
+N8	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 540 546	apelin
+N9	Reference T3 SemanticType:aapp	aapp
+N10	Reference T3 ConceptId:C1538915	APLN gene
+N11	Reference T3 ConceptId:C3542402	Apelin
+N12	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 472 475	was
+N13	Reference T4 SemanticType:bacs	bacs
+N14	Reference T4 SemanticType:aapp	aapp
+N15	Reference T4 ConceptId:C1565156	WAS protein, human
+T5	MMLite 14 34	docosahexaenoic acid
+N16	Reference T5 SemanticType:bacs	bacs
+N17	Reference T5 SemanticType:orch	orch
+N18	Reference T5 ConceptId:C0012968	Docosahexaenoic Acids
+N19	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 1483 1486	DHA
+N20	Reference T6 SemanticType:bacs	bacs
+N21	Reference T6 SemanticType:orch	orch
+N22	Reference T6 ConceptId:C0012968	Docosahexaenoic Acids
+N23	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 655 659	MPTP
+N24	Reference T7 SemanticType:orch	orch
+N25	Reference T7 SemanticType:hops	hops
+N26	Reference T7 ConceptId:C0000097	1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T8	MMLite 1002 1005	DHA
+N27	Reference T8 SemanticType:bacs	bacs
+N28	Reference T8 SemanticType:orch	orch
+N29	Reference T8 ConceptId:C0012968	Docosahexaenoic Acids
+N30	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 346 363	anti-inflammatory
+N31	Reference T9 ConceptId:C0003209	Anti-Inflammatory Agents
+N32	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 1102 1105	DHA
+N33	Reference T10 SemanticType:bacs	bacs
+N34	Reference T10 SemanticType:orch	orch
+N35	Reference T10 ConceptId:C0012968	Docosahexaenoic Acids
+N36	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 397 401	same
+N37	Reference T11 SemanticType:bacs	bacs
+N38	Reference T11 ConceptId:C0036002	S-Adenosylmethionine
+N39	Reference T11 SemanticType:aapp	aapp
+N40	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 275 278	DHA
+N41	Reference T12 SemanticType:bacs	bacs
+N42	Reference T12 SemanticType:orch	orch
+N43	Reference T12 ConceptId:C0012968	Docosahexaenoic Acids
+N44	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 1427 1430	DHA
+N45	Reference T13 SemanticType:bacs	bacs
+N46	Reference T13 SemanticType:orch	orch
+N47	Reference T13 ConceptId:C0012968	Docosahexaenoic Acids
+N48	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 1458 1461	DHA
+N49	Reference T14 SemanticType:bacs	bacs
+N50	Reference T14 SemanticType:orch	orch
+N51	Reference T14 ConceptId:C0012968	Docosahexaenoic Acids
+N52	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 237 252	n-3 fatty acids
+N53	Reference T15 SemanticType:bacs	bacs
+N54	Reference T15 SemanticType:orch	orch
+N55	Reference T15 ConceptId:C0015689	Omega-3 Fatty Acids
+N56	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 927 931	mice
+N57	Reference T16 ConceptId:C1413131	CASP14 gene
+N58	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 551 557	apelin
+N59	Reference T17 SemanticType:aapp	aapp
+N60	Reference T17 ConceptId:C1538915	APLN gene
+N61	Reference T17 ConceptId:C3542402	Apelin
+N62	Reference T17 SemanticType:gngm	gngm
+T18	MMLite 1191 1197	apelin
+N63	Reference T18 SemanticType:aapp	aapp
+N64	Reference T18 ConceptId:C1538915	APLN gene
+N65	Reference T18 ConceptId:C3542402	Apelin
+N66	Reference T18 SemanticType:gngm	gngm
+T19	MMLite 1463 1466	DHA
+N67	Reference T19 SemanticType:bacs	bacs
+N68	Reference T19 SemanticType:orch	orch
+N69	Reference T19 ConceptId:C0012968	Docosahexaenoic Acids
+N70	Reference T19 SemanticType:phsu	phsu
+T20	MMLite 886 889	DHA
+N71	Reference T20 SemanticType:bacs	bacs
+N72	Reference T20 SemanticType:orch	orch
+N73	Reference T20 ConceptId:C0012968	Docosahexaenoic Acids
+N74	Reference T20 SemanticType:phsu	phsu
+T21	MMLite 1830 1836	apelin
+N75	Reference T21 SemanticType:aapp	aapp
+N76	Reference T21 ConceptId:C1538915	APLN gene
+N77	Reference T21 SemanticType:gngm	gngm
+N78	Reference T21 ConceptId:C3542402	Apelin
+T22	MMLite 38 44	apelin
+N79	Reference T22 SemanticType:aapp	aapp
+N80	Reference T22 ConceptId:C1538915	APLN gene
+N81	Reference T22 SemanticType:gngm	gngm
+N82	Reference T22 ConceptId:C3542402	Apelin
+T23	MMLite 1781 1784	DHA
+N83	Reference T23 SemanticType:bacs	bacs
+N84	Reference T23 SemanticType:orch	orch
+N85	Reference T23 ConceptId:C0012968	Docosahexaenoic Acids
+N86	Reference T23 SemanticType:phsu	phsu
+T24	MMLite 253 273	docosahexaenoic acid
+N87	Reference T24 SemanticType:bacs	bacs
+N88	Reference T24 SemanticType:orch	orch
+N89	Reference T24 ConceptId:C0012968	Docosahexaenoic Acids
+N90	Reference T24 SemanticType:phsu	phsu
+T25	MMLite 318 321	EPA
+N91	Reference T25 SemanticType:bacs	bacs
+N92	Reference T25 ConceptId:C0014486	Epichlorohydrin
+N93	Reference T25 SemanticType:aapp	aapp
+N94	Reference T25 SemanticType:orch	orch
+N95	Reference T25 ConceptId:C0000545	Eicosapentaenoic Acid
+N96	Reference T25 SemanticType:hops	hops
+N97	Reference T25 ConceptId:C1522552	TIMP1 protein, human
+N98	Reference T25 SemanticType:phsu	phsu
+T26	MMLite 1321 1327	apelin
+N99	Reference T26 SemanticType:aapp	aapp
+N100	Reference T26 ConceptId:C1538915	APLN gene
+N101	Reference T26 ConceptId:C3542402	Apelin
+N102	Reference T26 SemanticType:gngm	gngm
+T27	MMLite 1079 1083	mice
+N103	Reference T27 ConceptId:C1413131	CASP14 gene
+N104	Reference T27 SemanticType:gngm	gngm
+T28	MMLite 1600 1603	DHA
+N105	Reference T28 SemanticType:bacs	bacs
+N106	Reference T28 SemanticType:orch	orch
+N107	Reference T28 ConceptId:C0012968	Docosahexaenoic Acids
+N108	Reference T28 SemanticType:phsu	phsu
+T29	MMLite 1728 1731	DHA
+N109	Reference T29 SemanticType:bacs	bacs
+N110	Reference T29 SemanticType:orch	orch
+N111	Reference T29 ConceptId:C0012968	Docosahexaenoic Acids
+N112	Reference T29 SemanticType:phsu	phsu
+T30	MMLite 1252 1255	was
+N113	Reference T30 SemanticType:bacs	bacs
+N114	Reference T30 SemanticType:aapp	aapp
+N115	Reference T30 ConceptId:C1565156	WAS protein, human
+T31	MMLite 1660 1667	protein
+N116	Reference T31 SemanticType:bacs	bacs
+N117	Reference T31 SemanticType:aapp	aapp
+N118	Reference T31 ConceptId:C0033684	Proteins
+T32	MMLite 295 316	eicosapentaenoic acid
+N119	Reference T32 SemanticType:bacs	bacs
+N120	Reference T32 SemanticType:orch	orch
+N121	Reference T32 ConceptId:C0000545	Eicosapentaenoic Acid
+N122	Reference T32 SemanticType:phsu	phsu
+T33	MMLite 334 340	apelin
+N123	Reference T33 SemanticType:aapp	aapp
+N124	Reference T33 ConceptId:C1538915	APLN gene
+N125	Reference T33 ConceptId:C3542402	Apelin
+N126	Reference T33 SemanticType:gngm	gngm
+T34	MMLite 1019 1023	MPTP
+N127	Reference T34 SemanticType:orch	orch
+N128	Reference T34 SemanticType:hops	hops
+N129	Reference T34 ConceptId:C0000097	1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T35	MMLite 966 969	was
+N130	Reference T35 SemanticType:bacs	bacs
+N131	Reference T35 SemanticType:aapp	aapp
+N132	Reference T35 ConceptId:C1565156	WAS protein, human
+T36	MMLite 1526 1532	Apelin
+N133	Reference T36 SemanticType:aapp	aapp
+N134	Reference T36 ConceptId:C1538915	APLN gene
+N135	Reference T36 SemanticType:gngm	gngm
+N136	Reference T36 ConceptId:C3542402	Apelin
+T37	MMLite 1653 1659	Apelin
+N137	Reference T37 SemanticType:aapp	aapp
+N138	Reference T37 ConceptId:C1538915	APLN gene
+N139	Reference T37 SemanticType:gngm	gngm
+N140	Reference T37 ConceptId:C3542402	Apelin
+T38	MMLite 1122 1125	DHA
+N141	Reference T38 SemanticType:bacs	bacs
+N142	Reference T38 SemanticType:orch	orch
+N143	Reference T38 ConceptId:C0012968	Docosahexaenoic Acids
+N144	Reference T38 SemanticType:phsu	phsu
+T39	MMLite 1362 1365	was
+N145	Reference T39 SemanticType:bacs	bacs
+N146	Reference T39 SemanticType:aapp	aapp
+N147	Reference T39 ConceptId:C1565156	WAS protein, human
+T40	MMLite 513 516	DHA
+N148	Reference T40 SemanticType:bacs	bacs
+N149	Reference T40 SemanticType:orch	orch
+N150	Reference T40 ConceptId:C0012968	Docosahexaenoic Acids
+N151	Reference T40 SemanticType:phsu	phsu
+T41	MMLite 408 414	apelin
+N152	Reference T41 SemanticType:aapp	aapp
+N153	Reference T41 ConceptId:C1538915	APLN gene
+N154	Reference T41 ConceptId:C3542402	Apelin
+N155	Reference T41 SemanticType:gngm	gngm
+T42	MMLite 679 682	DHA
+N156	Reference T42 SemanticType:bacs	bacs
+N157	Reference T42 SemanticType:orch	orch
+N158	Reference T42 ConceptId:C0012968	Docosahexaenoic Acids
+N159	Reference T42 SemanticType:phsu	phsu
+T43	MMLite 1046 1052	apelin
+N160	Reference T43 SemanticType:aapp	aapp
+N161	Reference T43 ConceptId:C1538915	APLN gene
+N162	Reference T43 SemanticType:gngm	gngm
+N163	Reference T43 ConceptId:C3542402	Apelin

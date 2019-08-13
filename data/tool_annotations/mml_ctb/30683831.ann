@@ -1,0 +1,112 @@
+T1	MMLite 1731 1741	neurotoxin
+N1	Reference T1 ConceptId:C0027934	Neurotoxins
+N2	Reference T1 SemanticType:hops	hops
+T2	MMLite 1047 1058	antioxidant
+N3	Reference T2 ConceptId:C0003402	Antioxidants
+N4	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 1298 1301	ACR
+N5	Reference T3 ConceptId:C1412134	ACR gene
+N6	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 757 771	drinking water
+N7	Reference T4 ConceptId:C0599638	Drinking Water
+N8	Reference T4 SemanticType:sbst	sbst
+T5	MMLite 1235 1247	nitric oxide
+N9	Reference T5 SemanticType:bacs	bacs
+N10	Reference T5 SemanticType:lbpr	lbpr
+N11	Reference T5 ConceptId:C3810607	Nitric Oxide Measurement
+N12	Reference T5 SemanticType:inch	inch
+N13	Reference T5 SemanticType:phsu	phsu
+N14	Reference T5 ConceptId:C0028128	Nitric Oxide
+T6	MMLite 1075 1078	CAT
+N15	Reference T6 SemanticType:aapp	aapp
+N16	Reference T6 ConceptId:C1413138	CAT gene
+N17	Reference T6 ConceptId:C0008169	Chloramphenicol O-Acetyltransferase
+N18	Reference T6 SemanticType:enzy	enzy
+N19	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 746 749	PND
+N20	Reference T7 ConceptId:C1417807	NPPA gene
+N21	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 724 727	ACR
+N22	Reference T8 ConceptId:C1412134	ACR gene
+N23	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 610 626	oligosaccharides
+N24	Reference T9 SemanticType:orch	orch
+N25	Reference T9 ConceptId:C0028959	Oligosaccharides
+T10	MMLite 46 62	oligosaccharides
+N26	Reference T10 SemanticType:orch	orch
+N27	Reference T10 ConceptId:C0028959	Oligosaccharides
+T11	MMLite 282 292	acrylamide
+N28	Reference T11 SemanticType:orch	orch
+N29	Reference T11 ConceptId:C0050587	Acrylamide
+N30	Reference T11 SemanticType:hops	hops
+T12	MMLite 1059 1065	enzyme
+N31	Reference T12 SemanticType:orch	orch
+N32	Reference T12 SemanticType:enzy	enzy
+N33	Reference T12 ConceptId:C0014442	Enzymes
+T13	MMLite 1329 1339	prebiotics
+N34	Reference T13 SemanticType:orch	orch
+N35	Reference T13 ConceptId:C2717875	Prebiotics
+T14	MMLite 1430 1432	DA
+N36	Reference T14 ConceptId:C0013030	Dopamine
+N37	Reference T14 SemanticType:bacs	bacs
+N38	Reference T14 SemanticType:orch	orch
+N39	Reference T14 SemanticType:lbpr	lbpr
+N40	Reference T14 SemanticType:phsu	phsu
+N41	Reference T14 ConceptId:C0201989	Dopamine Measurement
+T15	MMLite 1365 1385	acetylcholinesterase
+N42	Reference T15 SemanticType:aapp	aapp
+N43	Reference T15 ConceptId:C0001044	Acetylcholinesterase
+N44	Reference T15 SemanticType:lbpr	lbpr
+N45	Reference T15 SemanticType:enzy	enzy
+N46	Reference T15 ConceptId:C0201829	Acetylcholinesterase measurement
+N47	Reference T15 SemanticType:gngm	gngm
+N48	Reference T15 ConceptId:C1412122	ACHE Gene
+T16	MMLite 1189 1198	prebiotic
+N49	Reference T16 SemanticType:orch	orch
+N50	Reference T16 ConceptId:C2717875	Prebiotics
+T17	MMLite 1387 1391	AChE
+N51	Reference T17 SemanticType:aapp	aapp
+N52	Reference T17 ConceptId:C0001044	Acetylcholinesterase
+N53	Reference T17 SemanticType:lbpr	lbpr
+N54	Reference T17 SemanticType:enzy	enzy
+N55	Reference T17 ConceptId:C0201829	Acetylcholinesterase measurement
+N56	Reference T17 SemanticType:gngm	gngm
+N57	Reference T17 ConceptId:C1412122	ACHE Gene
+T18	MMLite 1420 1428	dopamine
+N58	Reference T18 ConceptId:C0013030	Dopamine
+N59	Reference T18 SemanticType:bacs	bacs
+N60	Reference T18 SemanticType:orch	orch
+N61	Reference T18 SemanticType:lbpr	lbpr
+N62	Reference T18 SemanticType:phsu	phsu
+N63	Reference T18 ConceptId:C0201989	Dopamine Measurement
+T19	MMLite 700 703	PND
+N64	Reference T19 ConceptId:C1417807	NPPA gene
+N65	Reference T19 SemanticType:gngm	gngm
+T20	MMLite 1067 1070	SOD
+N66	Reference T20 SemanticType:aapp	aapp
+N67	Reference T20 SemanticType:enzy	enzy
+N68	Reference T20 ConceptId:C0038838	Superoxide Dismutase
+N69	Reference T20 SemanticType:phsu	phsu
+T21	MMLite 294 297	ACR
+N70	Reference T21 ConceptId:C1412134	ACR gene
+N71	Reference T21 SemanticType:gngm	gngm
+T22	MMLite 1509 1512	was
+N72	Reference T22 SemanticType:bacs	bacs
+N73	Reference T22 SemanticType:aapp	aapp
+N74	Reference T22 ConceptId:C1565156	WAS protein, human
+T23	MMLite 779 782	ACR
+N75	Reference T23 ConceptId:C1412134	ACR gene
+N76	Reference T23 SemanticType:gngm	gngm
+T24	MMLite 109 119	acrylamide
+N77	Reference T24 SemanticType:orch	orch
+N78	Reference T24 ConceptId:C0050587	Acrylamide
+N79	Reference T24 SemanticType:hops	hops
+T25	MMLite 986 989	had
+N80	Reference T25 ConceptId:C1415458	HADH gene
+N81	Reference T25 SemanticType:gngm	gngm
+T26	MMLite 1615 1624	prebiotic
+N82	Reference T26 SemanticType:orch	orch
+N83	Reference T26 ConceptId:C2717875	Prebiotics
+T27	MMLite 1483 1492	prebiotic
+N84	Reference T27 SemanticType:orch	orch
+N85	Reference T27 ConceptId:C2717875	Prebiotics

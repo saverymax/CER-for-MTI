@@ -1,0 +1,78 @@
+T1	MMLite 1046 1051	PI-3K
+N1	Reference T1 SemanticType:aapp	aapp
+N2	Reference T1 SemanticType:enzy	enzy
+N3	Reference T1 ConceptId:C2936824	Phosphatidylinositol 3-Kinases
+T2	MMLite 935 954	toll-like receptors
+N4	Reference T2 SemanticType:aapp	aapp
+N5	Reference T2 ConceptId:C0670896	Toll-like receptors
+N6	Reference T2 SemanticType:rcpt	rcpt
+T3	MMLite 968 1007	extracellular signal-regulated kinase 1
+N7	Reference T3 SemanticType:aapp	aapp
+N8	Reference T3 ConceptId:C1366765	MAPK3 gene
+N9	Reference T3 SemanticType:enzy	enzy
+N10	Reference T3 ConceptId:C4082284	Mitogen-Activated Protein Kinase 3, human
+N11	Reference T3 ConceptId:C0082529	Mitogen-Activated Protein Kinase 3
+N12	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 351 356	gases
+N13	Reference T4 SemanticType:chvs	chvs
+N14	Reference T4 ConceptId:C0017110	Gases
+T5	MMLite 394 399	Xenon
+N15	Reference T5 SemanticType:elii	elii
+N16	Reference T5 ConceptId:C0043339	Xenon
+N17	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 1353 1356	for
+N18	Reference T6 ConceptId:C1421525	WWOX gene
+N19	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 27 32	argon
+N20	Reference T7 SemanticType:euka	euka
+N21	Reference T7 SemanticType:elii	elii
+N22	Reference T7 ConceptId:C0003781	Argon
+N23	Reference T7 ConceptId:C1948015	Argon <invertebrate>
+T8	MMLite 23 26	for
+N24	Reference T8 ConceptId:C1421525	WWOX gene
+N25	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 909 914	argon
+N26	Reference T9 SemanticType:euka	euka
+N27	Reference T9 SemanticType:elii	elii
+N28	Reference T9 ConceptId:C0003781	Argon
+N29	Reference T9 ConceptId:C1948015	Argon <invertebrate>
+T10	MMLite 1357 1362	argon
+N30	Reference T10 SemanticType:euka	euka
+N31	Reference T10 SemanticType:elii	elii
+N32	Reference T10 ConceptId:C0003781	Argon
+N33	Reference T10 ConceptId:C1948015	Argon <invertebrate>
+T11	MMLite 1053 1056	AKT
+N34	Reference T11 SemanticType:aapp	aapp
+N35	Reference T11 SemanticType:enzy	enzy
+N36	Reference T11 ConceptId:C0164786	Proto-Oncogene Proteins c-akt
+T12	MMLite 1084 1089	argon
+N37	Reference T12 SemanticType:euka	euka
+N38	Reference T12 SemanticType:elii	elii
+N39	Reference T12 ConceptId:C0003781	Argon
+N40	Reference T12 ConceptId:C1948015	Argon <invertebrate>
+T13	MMLite 681 686	xenon
+N41	Reference T13 SemanticType:elii	elii
+N42	Reference T13 ConceptId:C0043339	Xenon
+N43	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 568 573	Argon
+N44	Reference T14 SemanticType:euka	euka
+N45	Reference T14 SemanticType:elii	elii
+N46	Reference T14 ConceptId:C0003781	Argon
+N47	Reference T14 ConceptId:C1948015	Argon <invertebrate>
+T15	MMLite 736 741	argon
+N48	Reference T15 SemanticType:euka	euka
+N49	Reference T15 SemanticType:elii	elii
+N50	Reference T15 ConceptId:C0003781	Argon
+N51	Reference T15 ConceptId:C1948015	Argon <invertebrate>
+T16	MMLite 136 158	neuroprotective agents
+N52	Reference T16 ConceptId:C0242912	Neuroprotective Agents
+N53	Reference T16 SemanticType:phsu	phsu
+T17	MMLite 1251 1256	argon
+N54	Reference T17 SemanticType:euka	euka
+N55	Reference T17 SemanticType:elii	elii
+N56	Reference T17 ConceptId:C0003781	Argon
+N57	Reference T17 ConceptId:C1948015	Argon <invertebrate>
+T18	MMLite 1015 1044	phosphatidylinositol 3 kinase
+N58	Reference T18 SemanticType:aapp	aapp
+N59	Reference T18 SemanticType:enzy	enzy
+N60	Reference T18 ConceptId:C0044602	1-Phosphatidylinositol 3-Kinase

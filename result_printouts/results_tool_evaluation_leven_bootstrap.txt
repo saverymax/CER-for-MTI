@@ -1,0 +1,65 @@
+Nested: 
+F-score: 1.0 +/- 0.0
+Precision: 1.0 +/- 0.0
+Recall: 1.0 +/- 0.0
+
+MTI: 
+F-score: 0.4236 +/- 0.0183
+Precision: 0.6131 +/- 0.0216
+Recall: 0.3238 +/- 0.0177
+
+MML + CTB: 
+F-score: 0.4423 +/- 0.016
+Precision: 0.4059 +/- 0.0158
+Recall: 0.4863 +/- 0.0204
+
+PubTator Central: 
+F-score: 0.681 +/- 0.0162
+Precision: 0.8275 +/- 0.0138
+Recall: 0.5788 +/- 0.0198
+
+ChemListem: 
+F-score: 0.4903 +/- 0.0222
+Precision: 0.8278 +/- 0.0164
+Recall: 0.3486 +/- 0.0215
+
+lstm_char_embed_chemdner: 
+F-score: 0.4589 +/- 0.0191
+Precision: 0.7037 +/- 0.0181
+Recall: 0.3408 +/- 0.0192
+
+ChemDataExtractor: 
+F-score: 0.5935 +/- 0.0206
+Precision: 0.8309 +/- 0.0147
+Recall: 0.462 +/- 0.0231
+
+ChemDNER BERT: 
+F-score: 0.5686 +/- 0.0218
+Precision: 0.8146 +/- 0.0158
+Recall: 0.4371 +/- 0.0237
+
+Gene BERT: 
+F-score: 0.5116 +/- 0.0207
+Precision: 0.6791 +/- 0.0213
+Recall: 0.4108 +/- 0.022
+
+BERT Ensemble: 
+F-score: 0.7558 +/- 0.0131
+Precision: 0.7311 +/- 0.0151
+Recall: 0.7823 +/- 0.016
+
+SciBERT Ensemble: 
+F-score: 0.7951 +/- 0.0115
+Precision: 0.7518 +/- 0.0146
+Recall: 0.8437 +/- 0.0122
+
+BioBERT Ensemble: 
+F-score: 0.7919 +/- 0.0116
+Precision: 0.7511 +/- 0.0142
+Recall: 0.8375 +/- 0.013
+
+XLNet ensemble: 
+F-score: 0.6557 +/- 0.0131
+Precision: 0.6023 +/- 0.0153
+Recall: 0.7198 +/- 0.0155
+

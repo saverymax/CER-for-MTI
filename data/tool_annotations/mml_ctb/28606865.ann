@@ -1,0 +1,139 @@
+T1	MMLite 235 242	insulin
+N1	Reference T1 SemanticType:moft	moft
+N2	Reference T1 SemanticType:clna	clna
+N3	Reference T1 ConceptId:C3714501	Insulin Drug Class
+N4	Reference T1 ConceptId:C1533581	Recombinant Insulin
+N5	Reference T1 ConceptId:C1579433	formoterol fumarate dihydrate
+N6	Reference T1 SemanticType:phsu	phsu
+N7	Reference T1 SemanticType:aapp	aapp
+N8	Reference T1 ConceptId:C1145751	insulin activity
+N9	Reference T1 ConceptId:C0021641	Insulin
+N10	Reference T1 SemanticType:lbpr	lbpr
+N11	Reference T1 ConceptId:C0202098	Insulin measurement
+N12	Reference T1 SemanticType:horm	horm
+N13	Reference T1 ConceptId:C1337112	INS gene
+N14	Reference T1 SemanticType:gngm	gngm
+N15	Reference T1 ConceptId:C2739803	Insulin:-:Point in time:^Patient:-
+T2	MMLite 130 138	Hormones
+N16	Reference T2 SemanticType:horm	horm
+N17	Reference T2 ConceptId:C0019932	Hormones
+T3	MMLite 7 21	growth hormone
+N18	Reference T3 SemanticType:aapp	aapp
+N19	Reference T3 ConceptId:C0037663	Growth Hormone
+N20	Reference T3 SemanticType:moft	moft
+N21	Reference T3 SemanticType:lbpr	lbpr
+N22	Reference T3 SemanticType:horm	horm
+N23	Reference T3 ConceptId:C0202056	Growth hormone measurement
+N24	Reference T3 ConceptId:C0169964	Somatropin
+N25	Reference T3 ConceptId:C3714500	Human Growth Hormone
+N26	Reference T3 ConceptId:C0913469	pegvisomant
+N27	Reference T3 ConceptId:C1753283	growth hormone activity
+N28	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 931 934	for
+N29	Reference T4 ConceptId:C1421525	WWOX gene
+N30	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 526 533	hormone
+N31	Reference T5 SemanticType:horm	horm
+N32	Reference T5 ConceptId:C0019932	Hormones
+T6	MMLite 23 28	IGF-I
+N33	Reference T6 SemanticType:bacs	bacs
+N34	Reference T6 SemanticType:aapp	aapp
+N35	Reference T6 ConceptId:C0021665	Insulin-Like Growth Factor I
+N36	Reference T6 ConceptId:C3712803	IGF1 protein, human
+N37	Reference T6 SemanticType:gngm	gngm
+N38	Reference T6 ConceptId:C1334089	IGF1 gene
+T7	MMLite 359 364	drugs
+N39	Reference T7 ConceptId:C0013227	Pharmaceutical Preparations
+N40	Reference T7 SemanticType:phsu	phsu
+T8	MMLite 172 186	growth hormone
+N41	Reference T8 SemanticType:aapp	aapp
+N42	Reference T8 ConceptId:C0037663	Growth Hormone
+N43	Reference T8 SemanticType:moft	moft
+N44	Reference T8 SemanticType:lbpr	lbpr
+N45	Reference T8 ConceptId:C0169964	Somatropin
+N46	Reference T8 SemanticType:horm	horm
+N47	Reference T8 ConceptId:C0202056	Growth hormone measurement
+N48	Reference T8 ConceptId:C3714500	Human Growth Hormone
+N49	Reference T8 ConceptId:C0913469	pegvisomant
+N50	Reference T8 ConceptId:C1753283	growth hormone activity
+N51	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 42 45	for
+N52	Reference T9 ConceptId:C1421525	WWOX gene
+N53	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 1368 1373	IGF-I
+N54	Reference T10 SemanticType:bacs	bacs
+N55	Reference T10 SemanticType:aapp	aapp
+N56	Reference T10 ConceptId:C0021665	Insulin-Like Growth Factor I
+N57	Reference T10 ConceptId:C3712803	IGF1 protein, human
+N58	Reference T10 SemanticType:gngm	gngm
+N59	Reference T10 ConceptId:C1334089	IGF1 gene
+T11	MMLite 188 190	GH
+N60	Reference T11 SemanticType:aapp	aapp
+N61	Reference T11 ConceptId:C0037663	Growth Hormone
+N62	Reference T11 SemanticType:moft	moft
+N63	Reference T11 SemanticType:lbpr	lbpr
+N64	Reference T11 SemanticType:horm	horm
+N65	Reference T11 ConceptId:C0202056	Growth hormone measurement
+N66	Reference T11 ConceptId:C0169964	Somatropin
+N67	Reference T11 ConceptId:C3714500	Human Growth Hormone
+N68	Reference T11 ConceptId:C0913469	pegvisomant
+N69	Reference T11 ConceptId:C1753283	growth hormone activity
+N70	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 1379 1386	insulin
+N71	Reference T12 SemanticType:moft	moft
+N72	Reference T12 SemanticType:clna	clna
+N73	Reference T12 ConceptId:C3714501	Insulin Drug Class
+N74	Reference T12 ConceptId:C1533581	Recombinant Insulin
+N75	Reference T12 ConceptId:C1579433	formoterol fumarate dihydrate
+N76	Reference T12 SemanticType:phsu	phsu
+N77	Reference T12 SemanticType:aapp	aapp
+N78	Reference T12 ConceptId:C1145751	insulin activity
+N79	Reference T12 ConceptId:C0021641	Insulin
+N80	Reference T12 SemanticType:lbpr	lbpr
+N81	Reference T12 SemanticType:horm	horm
+N82	Reference T12 ConceptId:C0202098	Insulin measurement
+N83	Reference T12 ConceptId:C1337112	INS gene
+N84	Reference T12 SemanticType:gngm	gngm
+N85	Reference T12 ConceptId:C2739803	Insulin:-:Point in time:^Patient:-
+T13	MMLite 193 219	insulin-like growth factor
+N86	Reference T13 SemanticType:aapp	aapp
+N87	Reference T13 ConceptId:C0037657	Somatomedins
+N88	Reference T13 SemanticType:horm	horm
+T14	MMLite 34 41	insulin
+N89	Reference T14 SemanticType:moft	moft
+N90	Reference T14 SemanticType:clna	clna
+N91	Reference T14 ConceptId:C3714501	Insulin Drug Class
+N92	Reference T14 ConceptId:C1579433	formoterol fumarate dihydrate
+N93	Reference T14 ConceptId:C1533581	Recombinant Insulin
+N94	Reference T14 SemanticType:phsu	phsu
+N95	Reference T14 SemanticType:aapp	aapp
+N96	Reference T14 ConceptId:C1145751	insulin activity
+N97	Reference T14 ConceptId:C0021641	Insulin
+N98	Reference T14 SemanticType:lbpr	lbpr
+N99	Reference T14 SemanticType:horm	horm
+N100	Reference T14 ConceptId:C0202098	Insulin measurement
+N101	Reference T14 ConceptId:C1337112	INS gene
+N102	Reference T14 SemanticType:gngm	gngm
+N103	Reference T14 ConceptId:C2739803	Insulin:-:Point in time:^Patient:-
+T15	MMLite 1387 1390	for
+N104	Reference T15 ConceptId:C1421525	WWOX gene
+N105	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 223 228	IGF-I
+N106	Reference T16 SemanticType:bacs	bacs
+N107	Reference T16 SemanticType:aapp	aapp
+N108	Reference T16 ConceptId:C0021665	Insulin-Like Growth Factor I
+N109	Reference T16 ConceptId:C3712803	IGF1 protein, human
+N110	Reference T16 SemanticType:gngm	gngm
+N111	Reference T16 ConceptId:C1334089	IGF1 gene
+T17	MMLite 1364 1366	GH
+N112	Reference T17 SemanticType:aapp	aapp
+N113	Reference T17 ConceptId:C0037663	Growth Hormone
+N114	Reference T17 SemanticType:moft	moft
+N115	Reference T17 SemanticType:lbpr	lbpr
+N116	Reference T17 SemanticType:horm	horm
+N117	Reference T17 ConceptId:C0202056	Growth hormone measurement
+N118	Reference T17 ConceptId:C0169964	Somatropin
+N119	Reference T17 ConceptId:C3714500	Human Growth Hormone
+N120	Reference T17 ConceptId:C0913469	pegvisomant
+N121	Reference T17 ConceptId:C1753283	growth hormone activity
+N122	Reference T17 SemanticType:phsu	phsu

@@ -1,0 +1,85 @@
+T1	MMLite 903 906	was
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C1565156	WAS protein, human
+T2	MMLite 103 108	SCA27
+N4	Reference T2 ConceptId:C1414599	FGF14 gene
+N5	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 728 731	was
+N6	Reference T3 SemanticType:bacs	bacs
+N7	Reference T3 SemanticType:aapp	aapp
+N8	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 1363 1376	binding sites
+N9	Reference T4 ConceptId:C0005456	Binding Sites
+N10	Reference T4 SemanticType:rcpt	rcpt
+T5	MMLite 1268 1278	FGF14 gene
+N11	Reference T5 ConceptId:C1414599	FGF14 gene
+N12	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 1254 1258	exon
+N13	Reference T6 SemanticType:bacs	bacs
+N14	Reference T6 ConceptId:C0015295	Exons
+N15	Reference T6 SemanticType:nnon	nnon
+T7	MMLite 1621 1626	FGF14
+N16	Reference T7 ConceptId:C1414599	FGF14 gene
+N17	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 69 74	FGF14
+N18	Reference T8 ConceptId:C1414599	FGF14 gene
+N19	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 1082 1085	for
+N20	Reference T9 ConceptId:C1421525	WWOX gene
+N21	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 1640 1643	for
+N22	Reference T10 ConceptId:C1421525	WWOX gene
+N23	Reference T10 SemanticType:gngm	gngm
+T11	MMLite 643 646	His
+N24	Reference T11 SemanticType:bacs	bacs
+N25	Reference T11 SemanticType:aapp	aapp
+N26	Reference T11 SemanticType:lbpr	lbpr
+N27	Reference T11 ConceptId:C0019602	Histidine
+N28	Reference T11 ConceptId:C0523697	Histidine measurement
+N29	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 422 425	was
+N30	Reference T12 SemanticType:bacs	bacs
+N31	Reference T12 SemanticType:aapp	aapp
+N32	Reference T12 ConceptId:C1565156	WAS protein, human
+T13	MMLite 165 192	fibroblast growth factor 14
+N33	Reference T13 SemanticType:bacs	bacs
+N34	Reference T13 SemanticType:aapp	aapp
+N35	Reference T13 ConceptId:C0907607	fibroblast growth factor-14
+N36	Reference T13 ConceptId:C1414599	FGF14 gene
+N37	Reference T13 SemanticType:gngm	gngm
+T14	MMLite 1355 1362	heparin
+N38	Reference T14 SemanticType:bacs	bacs
+N39	Reference T14 SemanticType:orch	orch
+N40	Reference T14 SemanticType:phsu	phsu
+N41	Reference T14 ConceptId:C0019134	Heparin
+N42	Reference T14 ConceptId:C0770546	heparin, porcine
+T15	MMLite 1644 1649	SCA27
+N43	Reference T15 ConceptId:C1414599	FGF14 gene
+N44	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 1421 1426	FGF14
+N45	Reference T16 ConceptId:C1414599	FGF14 gene
+N46	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 1716 1719	SAS
+N47	Reference T17 ConceptId:C0605290	SAS
+N48	Reference T17 SemanticType:orch	orch
+N49	Reference T17 ConceptId:C1426104	NANS gene
+N50	Reference T17 SemanticType:gngm	gngm
+T18	MMLite 300 303	was
+N51	Reference T18 SemanticType:bacs	bacs
+N52	Reference T18 SemanticType:aapp	aapp
+N53	Reference T18 ConceptId:C1565156	WAS protein, human
+T19	MMLite 652 655	was
+N54	Reference T19 SemanticType:bacs	bacs
+N55	Reference T19 SemanticType:aapp	aapp
+N56	Reference T19 ConceptId:C1565156	WAS protein, human
+T20	MMLite 194 199	FGF14
+N57	Reference T20 ConceptId:C1414599	FGF14 gene
+N58	Reference T20 SemanticType:gngm	gngm
+T21	MMLite 1335 1342	protein
+N59	Reference T21 SemanticType:bacs	bacs
+N60	Reference T21 SemanticType:aapp	aapp
+N61	Reference T21 ConceptId:C0033684	Proteins
+T22	MMLite 1329 1334	FGF14
+N62	Reference T22 ConceptId:C1414599	FGF14 gene
+N63	Reference T22 SemanticType:gngm	gngm

@@ -1,0 +1,12 @@
+T1	Chemlistem 995 999	H2O2
+A1	Score T1 0.7452559
+T2	Chemlistem 1100 1104	H2O2
+A2	Score T2 0.758156
+T3	Chemlistem 1209 1215	oxygen
+A3	Score T3 0.89873457
+T4	Chemlistem 1244 1253	ascorbate
+A4	Score T4 0.8061559
+T5	Chemlistem 1268 1279	glutathione
+A5	Score T5 0.8828954
+T6	Chemlistem 1298 1308	superoxide
+A6	Score T6 0.8389873

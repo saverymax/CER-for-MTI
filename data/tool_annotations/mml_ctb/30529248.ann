@@ -1,0 +1,104 @@
+T1	MMLite 358 362	CD28
+N1	Reference T1 SemanticType:aapp	aapp
+N2	Reference T1 ConceptId:C0075747	CD28 Antigens
+N3	Reference T1 SemanticType:imft	imft
+N4	Reference T1 SemanticType:rcpt	rcpt
+T2	MMLite 1287 1290	was
+N5	Reference T2 SemanticType:bacs	bacs
+N6	Reference T2 SemanticType:aapp	aapp
+N7	Reference T2 ConceptId:C1565156	WAS protein, human
+T3	MMLite 126 137	tributyltin
+N8	Reference T3 SemanticType:orch	orch
+N9	Reference T3 ConceptId:C0077024	tributyltin
+T4	MMLite 451 462	amino acids
+N10	Reference T4 SemanticType:bacs	bacs
+N11	Reference T4 SemanticType:aapp	aapp
+N12	Reference T4 ConceptId:C3539947	Antifibrinolytic amino acids
+N13	Reference T4 ConceptId:C0002520	Amino Acids
+N14	Reference T4 ConceptId:C3539946	Amino Acids, I.V. solution additive
+N15	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 1371 1375	CD28
+N16	Reference T5 SemanticType:aapp	aapp
+N17	Reference T5 ConceptId:C0075747	CD28 Antigens
+N18	Reference T5 SemanticType:imft	imft
+N19	Reference T5 SemanticType:rcpt	rcpt
+T6	MMLite 505 509	CD28
+N20	Reference T6 SemanticType:aapp	aapp
+N21	Reference T6 ConceptId:C0075747	CD28 Antigens
+N22	Reference T6 SemanticType:imft	imft
+N23	Reference T6 SemanticType:rcpt	rcpt
+T7	MMLite 1433 1437	CD28
+N24	Reference T7 SemanticType:aapp	aapp
+N25	Reference T7 ConceptId:C0075747	CD28 Antigens
+N26	Reference T7 SemanticType:imft	imft
+N27	Reference T7 SemanticType:rcpt	rcpt
+T8	MMLite 910 914	CD28
+N28	Reference T8 SemanticType:aapp	aapp
+N29	Reference T8 ConceptId:C0075747	CD28 Antigens
+N30	Reference T8 SemanticType:imft	imft
+N31	Reference T8 SemanticType:rcpt	rcpt
+T9	MMLite 753 776	reactive oxygen species
+N32	Reference T9 SemanticType:bacs	bacs
+N33	Reference T9 SemanticType:elii	elii
+N34	Reference T9 ConceptId:C0162772	Reactive Oxygen Species
+T10	MMLite 1023 1027	CD28
+N35	Reference T10 SemanticType:aapp	aapp
+N36	Reference T10 ConceptId:C0075747	CD28 Antigens
+N37	Reference T10 SemanticType:imft	imft
+N38	Reference T10 SemanticType:rcpt	rcpt
+T11	MMLite 1272 1279	protein
+N39	Reference T11 SemanticType:bacs	bacs
+N40	Reference T11 SemanticType:aapp	aapp
+N41	Reference T11 ConceptId:C0033684	Proteins
+T12	MMLite 188 192	CD28
+N42	Reference T12 SemanticType:aapp	aapp
+N43	Reference T12 ConceptId:C0075747	CD28 Antigens
+N44	Reference T12 SemanticType:imft	imft
+N45	Reference T12 SemanticType:rcpt	rcpt
+T13	MMLite 716 720	CD28
+N46	Reference T13 SemanticType:aapp	aapp
+N47	Reference T13 ConceptId:C0075747	CD28 Antigens
+N48	Reference T13 SemanticType:imft	imft
+N49	Reference T13 SemanticType:rcpt	rcpt
+T14	MMLite 1089 1093	mRNA
+N50	Reference T14 SemanticType:bacs	bacs
+N51	Reference T14 ConceptId:C0035696	RNA, Messenger
+N52	Reference T14 SemanticType:nnon	nnon
+T15	MMLite 18 22	CD28
+N53	Reference T15 SemanticType:aapp	aapp
+N54	Reference T15 ConceptId:C0075747	CD28 Antigens
+N55	Reference T15 SemanticType:imft	imft
+N56	Reference T15 SemanticType:rcpt	rcpt
+T16	MMLite 430 437	peptide
+N57	Reference T16 SemanticType:aapp	aapp
+N58	Reference T16 ConceptId:C0030956	Peptides
+T17	MMLite 363 366	was
+N59	Reference T17 SemanticType:bacs	bacs
+N60	Reference T17 SemanticType:aapp	aapp
+N61	Reference T17 ConceptId:C1565156	WAS protein, human
+T18	MMLite 533 540	protein
+N62	Reference T18 SemanticType:bacs	bacs
+N63	Reference T18 SemanticType:aapp	aapp
+N64	Reference T18 ConceptId:C0033684	Proteins
+T19	MMLite 1267 1271	CD28
+N65	Reference T19 SemanticType:aapp	aapp
+N66	Reference T19 ConceptId:C0075747	CD28 Antigens
+N67	Reference T19 SemanticType:imft	imft
+N68	Reference T19 SemanticType:rcpt	rcpt
+T20	MMLite 1107 1111	CD28
+N69	Reference T20 SemanticType:aapp	aapp
+N70	Reference T20 ConceptId:C0075747	CD28 Antigens
+N71	Reference T20 SemanticType:imft	imft
+N72	Reference T20 SemanticType:rcpt	rcpt
+T21	MMLite 528 532	CD28
+N73	Reference T21 SemanticType:aapp	aapp
+N74	Reference T21 ConceptId:C0075747	CD28 Antigens
+N75	Reference T21 SemanticType:imft	imft
+N76	Reference T21 SemanticType:rcpt	rcpt
+T22	MMLite 1376 1379	for
+N77	Reference T22 ConceptId:C1421525	WWOX gene
+N78	Reference T22 SemanticType:gngm	gngm
+T23	MMLite 991 996	liver
+N79	Reference T23 SemanticType:orch	orch
+N80	Reference T23 ConceptId:C0023899	Liver Extract
+N81	Reference T23 SemanticType:phsu	phsu

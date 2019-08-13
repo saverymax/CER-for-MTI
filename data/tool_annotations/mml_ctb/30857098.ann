@@ -1,0 +1,35 @@
+T1	MMLite 704 711	sulfate
+N1	Reference T1 ConceptId:C0038720	Sulfates, Inorganic
+N2	Reference T1 SemanticType:inch	inch
+T2	MMLite 64 71	mercury
+N3	Reference T2 ConceptId:C2348272	Dietary Mercury
+N4	Reference T2 ConceptId:C0025424	Mercury
+N5	Reference T2 SemanticType:elii	elii
+N6	Reference T2 SemanticType:hops	hops
+T3	MMLite 867 873	carbon
+N7	Reference T3 ConceptId:C0007009	Carbon
+N8	Reference T3 SemanticType:elii	elii
+T4	MMLite 458 471	methylmercury
+N9	Reference T4 SemanticType:orch	orch
+N10	Reference T4 ConceptId:C0025794	Methylmercury Compounds
+N11	Reference T4 SemanticType:hops	hops
+T5	MMLite 107 114	Mercury
+N12	Reference T5 ConceptId:C2348272	Dietary Mercury
+N13	Reference T5 ConceptId:C0025424	Mercury
+N14	Reference T5 SemanticType:elii	elii
+N15	Reference T5 SemanticType:hops	hops
+T6	MMLite 206 213	sulfate
+N16	Reference T6 ConceptId:C0038720	Sulfates, Inorganic
+N17	Reference T6 SemanticType:inch	inch
+T7	MMLite 813 816	was
+N18	Reference T7 SemanticType:bacs	bacs
+N19	Reference T7 SemanticType:aapp	aapp
+N20	Reference T7 ConceptId:C1565156	WAS protein, human
+T8	MMLite 881 891	phosphorus
+N21	Reference T8 ConceptId:C0523826	Phosphate measurement
+N22	Reference T8 ConceptId:C3714498	Phosphorus Drug Class
+N23	Reference T8 SemanticType:lbpr	lbpr
+N24	Reference T8 SemanticType:elii	elii
+N25	Reference T8 ConceptId:C0031705	Phosphorus
+N26	Reference T8 SemanticType:phsu	phsu
+N27	Reference T8 ConceptId:C0080014	Dietary Phosphorus

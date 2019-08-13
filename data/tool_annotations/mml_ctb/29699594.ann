@@ -1,0 +1,212 @@
+T1	MMLite 2033 2036	CRC
+N1	Reference T1 SemanticType:orch	orch
+N2	Reference T1 SemanticType:irda	irda
+N3	Reference T1 ConceptId:C0010467	Curcumin
+N4	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 22 30	curcumin
+N5	Reference T2 SemanticType:orch	orch
+N6	Reference T2 SemanticType:irda	irda
+N7	Reference T2 ConceptId:C0010467	Curcumin
+N8	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 1989 2011	anti-mullerian hormone
+N9	Reference T3 SemanticType:aapp	aapp
+N10	Reference T3 ConceptId:C0687670	Mullerian duct inhibiting substance
+N11	Reference T3 ConceptId:C4048548	Anti-Mullerian Hormone Measurement
+N12	Reference T3 SemanticType:lbpr	lbpr
+N13	Reference T3 SemanticType:celf	celf
+N14	Reference T3 SemanticType:horm	horm
+N15	Reference T3 ConceptId:C0066928	mullerian-inhibiting hormone
+N16	Reference T3 ConceptId:C3714962	anti-Mullerian hormone function
+N17	Reference T3 SemanticType:gngm	gngm
+N18	Reference T3 SemanticType:phsu	phsu
+N19	Reference T3 ConceptId:C1412384	AMH gene
+T4	MMLite 1205 1208	CRC
+N20	Reference T4 SemanticType:orch	orch
+N21	Reference T4 SemanticType:irda	irda
+N22	Reference T4 ConceptId:C0010467	Curcumin
+N23	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 1036 1039	CPS
+N24	Reference T5 SemanticType:orch	orch
+N25	Reference T5 ConceptId:C0006931	Capsaicin
+N26	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 949 952	CRC
+N27	Reference T6 SemanticType:orch	orch
+N28	Reference T6 SemanticType:irda	irda
+N29	Reference T6 ConceptId:C0010467	Curcumin
+N30	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 1047 1063	cyclophosphamide
+N31	Reference T7 SemanticType:orch	orch
+N32	Reference T7 ConceptId:C0010583	Cyclophosphamide
+N33	Reference T7 SemanticType:phsu	phsu
+T8	MMLite 2568 2571	for
+N34	Reference T8 ConceptId:C1421525	WWOX gene
+N35	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 2514 2517	CRC
+N36	Reference T9 SemanticType:orch	orch
+N37	Reference T9 SemanticType:irda	irda
+N38	Reference T9 ConceptId:C0010467	Curcumin
+N39	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 833 849	cyclophosphamide
+N40	Reference T10 SemanticType:orch	orch
+N41	Reference T10 ConceptId:C0010583	Cyclophosphamide
+N42	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 1792 1795	was
+N43	Reference T11 SemanticType:bacs	bacs
+N44	Reference T11 SemanticType:aapp	aapp
+N45	Reference T11 ConceptId:C1565156	WAS protein, human
+T12	MMLite 35 44	capsaicin
+N46	Reference T12 SemanticType:orch	orch
+N47	Reference T12 ConceptId:C0006931	Capsaicin
+N48	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 1728 1731	was
+N49	Reference T13 SemanticType:bacs	bacs
+N50	Reference T13 SemanticType:aapp	aapp
+N51	Reference T13 ConceptId:C1565156	WAS protein, human
+T14	MMLite 1910 1913	CRC
+N52	Reference T14 SemanticType:orch	orch
+N53	Reference T14 SemanticType:irda	irda
+N54	Reference T14 ConceptId:C0010467	Curcumin
+N55	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 2173 2189	cyclophosphamide
+N56	Reference T15 SemanticType:orch	orch
+N57	Reference T15 ConceptId:C0010583	Cyclophosphamide
+N58	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 980 983	CPS
+N59	Reference T16 SemanticType:orch	orch
+N60	Reference T16 ConceptId:C0006931	Capsaicin
+N61	Reference T16 SemanticType:phsu	phsu
+T17	MMLite 1245 1258	Malonaldehyde
+N62	Reference T17 SemanticType:bacs	bacs
+N63	Reference T17 SemanticType:orch	orch
+N64	Reference T17 ConceptId:C0024643	Malondialdehyde
+T18	MMLite 1427 1430	CPS
+N65	Reference T18 SemanticType:orch	orch
+N66	Reference T18 ConceptId:C0006931	Capsaicin
+N67	Reference T18 SemanticType:phsu	phsu
+T19	MMLite 719 728	injection
+N68	Reference T19 SemanticType:topp	topp
+N69	Reference T19 SemanticType:ftcn	ftcn
+N70	Reference T19 ConceptId:C1828121	Injection Route of Drug Administration
+N71	Reference T19 ConceptId:C0021485	Injection of therapeutic agent
+N72	Reference T19 ConceptId:C1533685	Injection procedure
+T20	MMLite 1321 1341	superoxide dismutase
+N73	Reference T20 SemanticType:aapp	aapp
+N74	Reference T20 SemanticType:enzy	enzy
+N75	Reference T20 ConceptId:C0038838	Superoxide Dismutase
+N76	Reference T20 SemanticType:phsu	phsu
+T21	MMLite 577 585	curcumin
+N77	Reference T21 SemanticType:orch	orch
+N78	Reference T21 SemanticType:irda	irda
+N79	Reference T21 ConceptId:C0010467	Curcumin
+N80	Reference T21 SemanticType:phsu	phsu
+T22	MMLite 2138 2141	CRC
+N81	Reference T22 SemanticType:orch	orch
+N82	Reference T22 SemanticType:irda	irda
+N83	Reference T22 ConceptId:C0010467	Curcumin
+N84	Reference T22 SemanticType:phsu	phsu
+T23	MMLite 1862 1881	luteinizing hormone
+N85	Reference T23 SemanticType:aapp	aapp
+N86	Reference T23 ConceptId:C1704298	Recombinant Luteinizing Hormone
+N87	Reference T23 SemanticType:lbpr	lbpr
+N88	Reference T23 ConceptId:C0023607	Luteinizing Hormone
+N89	Reference T23 SemanticType:horm	horm
+N90	Reference T23 ConceptId:C0202123	Luteinizing hormone measurement
+N91	Reference T23 SemanticType:phsu	phsu
+N92	Reference T23 ConceptId:C1271607	Lutropin alfa
+T24	MMLite 789 792	for
+N93	Reference T24 ConceptId:C1421525	WWOX gene
+N94	Reference T24 SemanticType:gngm	gngm
+T25	MMLite 1534 1538	cell
+N95	Reference T25 ConceptId:C1413336	CEL gene
+N96	Reference T25 SemanticType:gngm	gngm
+T26	MMLite 1298 1309	glutathione
+N97	Reference T26 SemanticType:bacs	bacs
+N98	Reference T26 SemanticType:aapp	aapp
+N99	Reference T26 ConceptId:C0017817	Glutathione
+T27	MMLite 1781 1784	CPS
+N100	Reference T27 SemanticType:orch	orch
+N101	Reference T27 ConceptId:C0006931	Capsaicin
+N102	Reference T27 SemanticType:phsu	phsu
+T28	MMLite 1413 1416	CRC
+N103	Reference T28 SemanticType:orch	orch
+N104	Reference T28 SemanticType:irda	irda
+N105	Reference T28 ConceptId:C0010467	Curcumin
+N106	Reference T28 SemanticType:phsu	phsu
+T29	MMLite 1028 1031	CRC
+N107	Reference T29 SemanticType:orch	orch
+N108	Reference T29 SemanticType:irda	irda
+N109	Reference T29 ConceptId:C0010467	Curcumin
+N110	Reference T29 SemanticType:phsu	phsu
+T30	MMLite 615 631	cyclophosphamide
+N111	Reference T30 SemanticType:orch	orch
+N112	Reference T30 ConceptId:C0010583	Cyclophosphamide
+N113	Reference T30 SemanticType:phsu	phsu
+T31	MMLite 742 758	cyclophosphamide
+N114	Reference T31 SemanticType:orch	orch
+N115	Reference T31 ConceptId:C0010583	Cyclophosphamide
+N116	Reference T31 SemanticType:phsu	phsu
+T32	MMLite 2521 2524	CPS
+N117	Reference T32 SemanticType:orch	orch
+N118	Reference T32 ConceptId:C0006931	Capsaicin
+N119	Reference T32 SemanticType:phsu	phsu
+T33	MMLite 2041 2044	CPS
+N120	Reference T33 SemanticType:orch	orch
+N121	Reference T33 ConceptId:C0006931	Capsaicin
+N122	Reference T33 SemanticType:phsu	phsu
+T34	MMLite 596 605	capsaicin
+N123	Reference T34 SemanticType:orch	orch
+N124	Reference T34 ConceptId:C0006931	Capsaicin
+N125	Reference T34 SemanticType:phsu	phsu
+T35	MMLite 1975 1984	estradiol
+N126	Reference T35 SemanticType:orch	orch
+N127	Reference T35 SemanticType:lbpr	lbpr
+N128	Reference T35 SemanticType:horm	horm
+N129	Reference T35 ConceptId:C0337434	Estradiol measurement
+N130	Reference T35 ConceptId:C0014912	Estradiol
+N131	Reference T35 SemanticType:phsu	phsu
+T36	MMLite 607 610	CPS
+N132	Reference T36 SemanticType:orch	orch
+N133	Reference T36 ConceptId:C0006931	Capsaicin
+N134	Reference T36 SemanticType:phsu	phsu
+T37	MMLite 688 691	was
+N135	Reference T37 SemanticType:bacs	bacs
+N136	Reference T37 SemanticType:aapp	aapp
+N137	Reference T37 ConceptId:C1565156	WAS protein, human
+T38	MMLite 48 64	cyclophosphamide
+N138	Reference T38 SemanticType:orch	orch
+N139	Reference T38 ConceptId:C0010583	Cyclophosphamide
+N140	Reference T38 SemanticType:phsu	phsu
+T39	MMLite 1918 1921	CPS
+N141	Reference T39 SemanticType:orch	orch
+N142	Reference T39 ConceptId:C0006931	Capsaicin
+N143	Reference T39 SemanticType:phsu	phsu
+T40	MMLite 1213 1216	CPS
+N144	Reference T40 SemanticType:orch	orch
+N145	Reference T40 ConceptId:C0006931	Capsaicin
+N146	Reference T40 SemanticType:phsu	phsu
+T41	MMLite 1829 1857	follicle-stimulating hormone
+N147	Reference T41 SemanticType:aapp	aapp
+N148	Reference T41 SemanticType:horm	horm
+N149	Reference T41 ConceptId:C0733758	Follicle Stimulating Hormone
+N150	Reference T41 SemanticType:phsu	phsu
+T42	MMLite 1773 1776	CRC
+N151	Reference T42 SemanticType:orch	orch
+N152	Reference T42 SemanticType:irda	irda
+N153	Reference T42 ConceptId:C0010467	Curcumin
+N154	Reference T42 SemanticType:phsu	phsu
+T43	MMLite 2202 2205	had
+N155	Reference T43 ConceptId:C1415458	HADH gene
+N156	Reference T43 SemanticType:gngm	gngm
+T44	MMLite 2572 2588	cyclophosphamide
+N157	Reference T44 SemanticType:orch	orch
+N158	Reference T44 ConceptId:C0010583	Cyclophosphamide
+N159	Reference T44 SemanticType:phsu	phsu
+T45	MMLite 587 590	CRC
+N160	Reference T45 SemanticType:orch	orch
+N161	Reference T45 SemanticType:irda	irda
+N162	Reference T45 ConceptId:C0010467	Curcumin
+N163	Reference T45 SemanticType:phsu	phsu
+T46	MMLite 2146 2149	CPS
+N164	Reference T46 SemanticType:orch	orch
+N165	Reference T46 ConceptId:C0006931	Capsaicin
+N166	Reference T46 SemanticType:phsu	phsu

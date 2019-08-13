@@ -1,0 +1,102 @@
+T1	MMLite 141 149	elements
+N1	Reference T1 ConceptId:C0013879	Elements
+N2	Reference T1 SemanticType:elii	elii
+T2	MMLite 687 690	PAH
+N3	Reference T2 ConceptId:C0032458	Polycyclic Hydrocarbons, Aromatic
+N4	Reference T2 SemanticType:orch	orch
+N5	Reference T2 SemanticType:irda	irda
+N6	Reference T2 ConceptId:C0030123	4-Aminohippuric Acid
+N7	Reference T2 SemanticType:gngm	gngm
+N8	Reference T2 SemanticType:phsu	phsu
+N9	Reference T2 ConceptId:C1418251	PAH gene
+T3	MMLite 1262 1266	PAHs
+N10	Reference T3 ConceptId:C0032458	Polycyclic Hydrocarbons, Aromatic
+N11	Reference T3 SemanticType:orch	orch
+T4	MMLite 973 977	PAHs
+N12	Reference T4 ConceptId:C0032458	Polycyclic Hydrocarbons, Aromatic
+N13	Reference T4 SemanticType:orch	orch
+T5	MMLite 1028 1040	phenanthrene
+N14	Reference T5 SemanticType:orch	orch
+N15	Reference T5 ConceptId:C0031367	phenanthrene
+T6	MMLite 1059 1062	for
+N16	Reference T6 ConceptId:C1421525	WWOX gene
+N17	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 36 68	polycyclic aromatic hydrocarbons
+N18	Reference T7 ConceptId:C0032458	Polycyclic Hydrocarbons, Aromatic
+N19	Reference T7 SemanticType:orch	orch
+T8	MMLite 304 312	Elements
+N20	Reference T8 ConceptId:C0013879	Elements
+N21	Reference T8 SemanticType:elii	elii
+T9	MMLite 428 432	PAHs
+N22	Reference T9 ConceptId:C0032458	Polycyclic Hydrocarbons, Aromatic
+N23	Reference T9 SemanticType:orch	orch
+T10	MMLite 814 817	for
+N24	Reference T10 ConceptId:C1421525	WWOX gene
+N25	Reference T10 SemanticType:gngm	gngm
+T11	MMLite 566 570	PAHs
+N26	Reference T11 ConceptId:C0032458	Polycyclic Hydrocarbons, Aromatic
+N27	Reference T11 SemanticType:orch	orch
+T12	MMLite 897 900	was
+N28	Reference T12 SemanticType:bacs	bacs
+N29	Reference T12 SemanticType:aapp	aapp
+N30	Reference T12 ConceptId:C1565156	WAS protein, human
+T13	MMLite 187 190	was
+N31	Reference T13 SemanticType:bacs	bacs
+N32	Reference T13 SemanticType:aapp	aapp
+N33	Reference T13 ConceptId:C1565156	WAS protein, human
+T14	MMLite 276 280	PAHs
+N34	Reference T14 ConceptId:C0032458	Polycyclic Hydrocarbons, Aromatic
+N35	Reference T14 SemanticType:orch	orch
+T15	MMLite 726 729	for
+N36	Reference T15 ConceptId:C1421525	WWOX gene
+N37	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 886 889	for
+N38	Reference T16 ConceptId:C1421525	WWOX gene
+N39	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 853 856	for
+N40	Reference T17 ConceptId:C1421525	WWOX gene
+N41	Reference T17 SemanticType:gngm	gngm
+T18	MMLite 1332 1335	for
+N42	Reference T18 ConceptId:C1421525	WWOX gene
+N43	Reference T18 SemanticType:gngm	gngm
+T19	MMLite 864 868	PAHs
+N44	Reference T19 ConceptId:C0032458	Polycyclic Hydrocarbons, Aromatic
+N45	Reference T19 SemanticType:orch	orch
+T20	MMLite 799 805	pyrene
+N46	Reference T20 SemanticType:orch	orch
+N47	Reference T20 ConceptId:C0034243	Pyrenes
+N48	Reference T20 SemanticType:hops	hops
+N49	Reference T20 ConceptId:C0072667	pyrene
+T21	MMLite 869 872	was
+N50	Reference T21 SemanticType:bacs	bacs
+N51	Reference T21 SemanticType:aapp	aapp
+N52	Reference T21 ConceptId:C1565156	WAS protein, human
+T22	MMLite 242 274	Polycyclic Aromatic Hydrocarbons
+N53	Reference T22 ConceptId:C0032458	Polycyclic Hydrocarbons, Aromatic
+N54	Reference T22 SemanticType:orch	orch
+T23	MMLite 335 349	β-cyclodextrin
+N55	Reference T23 ConceptId:C0053407	betadex
+N56	Reference T23 SemanticType:orch	orch
+N57	Reference T23 SemanticType:bodm	bodm
+T24	MMLite 549 553	PAHs
+N58	Reference T24 ConceptId:C0032458	Polycyclic Hydrocarbons, Aromatic
+N59	Reference T24 SemanticType:orch	orch
+T25	MMLite 110 118	creosote
+N60	Reference T25 SemanticType:orch	orch
+N61	Reference T25 ConceptId:C0010303	Creosote
+T26	MMLite 818 830	fluoranthene
+N62	Reference T26 SemanticType:orch	orch
+N63	Reference T26 ConceptId:C0060514	fluoranthene
+N64	Reference T26 SemanticType:phsu	phsu
+T27	MMLite 795 798	for
+N65	Reference T27 ConceptId:C1421525	WWOX gene
+N66	Reference T27 SemanticType:gngm	gngm
+T28	MMLite 737 741	PAHs
+N67	Reference T28 ConceptId:C0032458	Polycyclic Hydrocarbons, Aromatic
+N68	Reference T28 SemanticType:orch	orch
+T29	MMLite 1024 1027	for
+N69	Reference T29 ConceptId:C1421525	WWOX gene
+N70	Reference T29 SemanticType:gngm	gngm
+T30	MMLite 515 519	PAHs
+N71	Reference T30 ConceptId:C0032458	Polycyclic Hydrocarbons, Aromatic
+N72	Reference T30 SemanticType:orch	orch

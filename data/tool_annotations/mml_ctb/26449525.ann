@@ -1,0 +1,46 @@
+T1	MMLite 696 700	Cell
+N1	Reference T1 ConceptId:C1413336	CEL gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 905 908	was
+N3	Reference T2 SemanticType:bacs	bacs
+N4	Reference T2 SemanticType:aapp	aapp
+N5	Reference T2 ConceptId:C1565156	WAS protein, human
+T3	MMLite 499 502	was
+N6	Reference T3 SemanticType:bacs	bacs
+N7	Reference T3 SemanticType:aapp	aapp
+N8	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 170 173	for
+N9	Reference T4 ConceptId:C1421525	WWOX gene
+N10	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 275 279	RNAs
+N11	Reference T5 ConceptId:C0035668	RNA
+N12	Reference T5 SemanticType:nnon	nnon
+T6	MMLite 24 43	long non-coding RNA
+N13	Reference T6 SemanticType:bacs	bacs
+N14	Reference T6 SemanticType:nnon	nnon
+N15	Reference T6 ConceptId:C3494264	RNA, Long Untranslated
+T7	MMLite 451 457	lncRNA
+N16	Reference T7 SemanticType:bacs	bacs
+N17	Reference T7 SemanticType:nnon	nnon
+N18	Reference T7 ConceptId:C3494264	RNA, Long Untranslated
+T8	MMLite 625 628	was
+N19	Reference T8 SemanticType:bacs	bacs
+N20	Reference T8 SemanticType:aapp	aapp
+N21	Reference T8 ConceptId:C1565156	WAS protein, human
+T9	MMLite 1034 1041	protein
+N22	Reference T9 SemanticType:bacs	bacs
+N23	Reference T9 SemanticType:aapp	aapp
+N24	Reference T9 ConceptId:C0033684	Proteins
+T10	MMLite 60 64	cell
+N25	Reference T10 ConceptId:C1413336	CEL gene
+N26	Reference T10 SemanticType:gngm	gngm
+T11	MMLite 812 815	was
+N27	Reference T11 SemanticType:bacs	bacs
+N28	Reference T11 SemanticType:aapp	aapp
+N29	Reference T11 ConceptId:C1565156	WAS protein, human
+T12	MMLite 1030 1033	ERK
+N30	Reference T12 SemanticType:aapp	aapp
+N31	Reference T12 ConceptId:C1366882	MAPK1 gene
+N32	Reference T12 ConceptId:C0752312	Mitogen-Activated Protein Kinases
+N33	Reference T12 SemanticType:enzy	enzy
+N34	Reference T12 SemanticType:gngm	gngm

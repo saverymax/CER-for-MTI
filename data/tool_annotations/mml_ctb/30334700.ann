@@ -1,0 +1,59 @@
+T1	MMLite 664 668	CD45
+N1	Reference T1 SemanticType:aapp	aapp
+N2	Reference T1 SemanticType:imft	imft
+N3	Reference T1 ConceptId:C0054961	CD45 Antigens
+N4	Reference T1 SemanticType:enzy	enzy
+T2	MMLite 1638 1642	CD34
+N5	Reference T2 ConceptId:C0054953	CD34 Antigens
+N6	Reference T2 SemanticType:aapp	aapp
+N7	Reference T2 SemanticType:imft	imft
+T3	MMLite 1498 1501	was
+N8	Reference T3 SemanticType:bacs	bacs
+N9	Reference T3 SemanticType:aapp	aapp
+N10	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 967 970	can
+N11	Reference T4 SemanticType:mnob	mnob
+N12	Reference T4 ConceptId:C1704712	Can - object
+T5	MMLite 579 587	adjuvant
+N13	Reference T5 ConceptId:C0001552	Pharmaceutical Adjuvants
+N14	Reference T5 SemanticType:chvf	chvf
+T6	MMLite 73 76	for
+N15	Reference T6 ConceptId:C1421525	WWOX gene
+N16	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 889 892	aim
+N17	Reference T7 SemanticType:aapp	aapp
+N18	Reference T7 SemanticType:imft	imft
+N19	Reference T7 ConceptId:C2744535	CD69 protein, human
+T8	MMLite 961 965	CD34
+N20	Reference T8 ConceptId:C0054953	CD34 Antigens
+N21	Reference T8 SemanticType:aapp	aapp
+N22	Reference T8 SemanticType:imft	imft
+T9	MMLite 1564 1567	for
+N23	Reference T9 ConceptId:C1421525	WWOX gene
+N24	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 1234 1237	was
+N25	Reference T10 SemanticType:bacs	bacs
+N26	Reference T10 SemanticType:aapp	aapp
+N27	Reference T10 ConceptId:C1565156	WAS protein, human
+T11	MMLite 655 659	CD34
+N28	Reference T11 ConceptId:C0054953	CD34 Antigens
+N29	Reference T11 SemanticType:aapp	aapp
+N30	Reference T11 SemanticType:imft	imft
+T12	MMLite 907 910	was
+N31	Reference T12 SemanticType:bacs	bacs
+N32	Reference T12 SemanticType:aapp	aapp
+N33	Reference T12 ConceptId:C1565156	WAS protein, human
+T13	MMLite 68 72	CD34
+N34	Reference T13 ConceptId:C0054953	CD34 Antigens
+N35	Reference T13 SemanticType:aapp	aapp
+N36	Reference T13 SemanticType:imft	imft
+T14	MMLite 1691 1699	adjuvant
+N37	Reference T14 ConceptId:C0001552	Pharmaceutical Adjuvants
+N38	Reference T14 SemanticType:chvf	chvf
+T15	MMLite 593 596	for
+N39	Reference T15 ConceptId:C1421525	WWOX gene
+N40	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 1315 1319	CD34
+N41	Reference T16 ConceptId:C0054953	CD34 Antigens
+N42	Reference T16 SemanticType:aapp	aapp
+N43	Reference T16 SemanticType:imft	imft

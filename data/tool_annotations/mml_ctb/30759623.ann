@@ -1,0 +1,27 @@
+T1	MMLite 153 161	nitrogen
+N1	Reference T1 ConceptId:C1550581	Nitrogen Handling
+N2	Reference T1 ConceptId:C0028158	Nitrogen
+N3	Reference T1 SemanticType:elii	elii
+N4	Reference T1 SemanticType:hcpp	hcpp
+T2	MMLite 1608 1611	DON
+N5	Reference T2 SemanticType:aapp	aapp
+N6	Reference T2 ConceptId:C0012020	Diazooxonorleucine
+N7	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 707 716	acetylene
+N8	Reference T3 SemanticType:orch	orch
+N9	Reference T3 ConceptId:C0001052	Acetylene
+T4	MMLite 734 737	ARA
+N10	Reference T4 ConceptId:C2316832	Arachidonic acid measurement
+N11	Reference T4 SemanticType:lbpr	lbpr
+T5	MMLite 1692 1695	DON
+N12	Reference T5 SemanticType:aapp	aapp
+N13	Reference T5 ConceptId:C0012020	Diazooxonorleucine
+N14	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 79 87	nitrogen
+N15	Reference T6 ConceptId:C1550581	Nitrogen Handling
+N16	Reference T6 ConceptId:C0028158	Nitrogen
+N17	Reference T6 SemanticType:elii	elii
+N18	Reference T6 SemanticType:hcpp	hcpp
+T7	MMLite 1647 1650	for
+N19	Reference T7 ConceptId:C1421525	WWOX gene
+N20	Reference T7 SemanticType:gngm	gngm

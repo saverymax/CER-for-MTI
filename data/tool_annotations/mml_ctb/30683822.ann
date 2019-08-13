@@ -1,0 +1,92 @@
+T1	MMLite 0 18	Lipopolysaccharide
+N1	Reference T1 SemanticType:orch	orch
+N2	Reference T1 ConceptId:C0023810	Lipopolysaccharides
+T2	MMLite 741 764	tumor necrosis factor-α
+N3	Reference T2 SemanticType:bacs	bacs
+N4	Reference T2 ConceptId:C1448177	TNF protein, human
+N5	Reference T2 SemanticType:aapp	aapp
+N6	Reference T2 SemanticType:imft	imft
+N7	Reference T2 ConceptId:C0041368	Tumor Necrosis Factors
+N8	Reference T2 ConceptId:C1456820	Tumor Necrosis Factor-alpha
+T3	MMLite 1103 1107	Cx43
+N9	Reference T3 SemanticType:bacs	bacs
+N10	Reference T3 SemanticType:aapp	aapp
+N11	Reference T3 ConceptId:C1568716	GJA1 protein, human
+N12	Reference T3 ConceptId:C1415068	GJA1 gene
+N13	Reference T3 ConceptId:C0110613	Connexin 43
+N14	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 877 881	Cx43
+N15	Reference T4 SemanticType:bacs	bacs
+N16	Reference T4 SemanticType:aapp	aapp
+N17	Reference T4 ConceptId:C1568716	GJA1 protein, human
+N18	Reference T4 ConceptId:C1415068	GJA1 gene
+N19	Reference T4 ConceptId:C0110613	Connexin 43
+N20	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 56 66	connexin43
+N21	Reference T5 SemanticType:bacs	bacs
+N22	Reference T5 SemanticType:aapp	aapp
+N23	Reference T5 ConceptId:C0110613	Connexin 43
+T6	MMLite 976 979	LPS
+N24	Reference T6 SemanticType:orch	orch
+N25	Reference T6 ConceptId:C0023810	Lipopolysaccharides
+T7	MMLite 1296 1299	LPS
+N26	Reference T7 SemanticType:orch	orch
+N27	Reference T7 ConceptId:C0023810	Lipopolysaccharides
+T8	MMLite 1271 1274	can
+N28	Reference T8 SemanticType:mnob	mnob
+N29	Reference T8 ConceptId:C1704712	Can - object
+T9	MMLite 243 247	Cx43
+N30	Reference T9 SemanticType:bacs	bacs
+N31	Reference T9 SemanticType:aapp	aapp
+N32	Reference T9 ConceptId:C1568716	GJA1 protein, human
+N33	Reference T9 ConceptId:C1415068	GJA1 gene
+N34	Reference T9 SemanticType:gngm	gngm
+N35	Reference T9 ConceptId:C0110613	Connexin 43
+T10	MMLite 805 808	LPS
+N36	Reference T10 SemanticType:orch	orch
+N37	Reference T10 ConceptId:C0023810	Lipopolysaccharides
+T11	MMLite 433 437	Cx43
+N38	Reference T11 SemanticType:bacs	bacs
+N39	Reference T11 SemanticType:aapp	aapp
+N40	Reference T11 ConceptId:C1568716	GJA1 protein, human
+N41	Reference T11 ConceptId:C1415068	GJA1 gene
+N42	Reference T11 ConceptId:C0110613	Connexin 43
+N43	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 501 519	lipopolysaccharide
+N44	Reference T12 SemanticType:orch	orch
+N45	Reference T12 ConceptId:C0023810	Lipopolysaccharides
+T13	MMLite 615 619	Cx43
+N46	Reference T13 SemanticType:bacs	bacs
+N47	Reference T13 SemanticType:aapp	aapp
+N48	Reference T13 ConceptId:C1568716	GJA1 protein, human
+N49	Reference T13 ConceptId:C1415068	GJA1 gene
+N50	Reference T13 ConceptId:C0110613	Connexin 43
+N51	Reference T13 SemanticType:gngm	gngm
+T14	MMLite 521 524	LPS
+N52	Reference T14 SemanticType:orch	orch
+N53	Reference T14 ConceptId:C0023810	Lipopolysaccharides
+T15	MMLite 958 963	TNF-α
+N54	Reference T15 SemanticType:bacs	bacs
+N55	Reference T15 SemanticType:aapp	aapp
+N56	Reference T15 ConceptId:C1448177	TNF protein, human
+N57	Reference T15 SemanticType:imft	imft
+N58	Reference T15 ConceptId:C0041368	Tumor Necrosis Factors
+N59	Reference T15 ConceptId:C1456820	Tumor Necrosis Factor-alpha
+T16	MMLite 766 771	TNF-α
+N60	Reference T16 SemanticType:bacs	bacs
+N61	Reference T16 SemanticType:aapp	aapp
+N62	Reference T16 ConceptId:C1448177	TNF protein, human
+N63	Reference T16 SemanticType:imft	imft
+N64	Reference T16 ConceptId:C0041368	Tumor Necrosis Factors
+N65	Reference T16 ConceptId:C1456820	Tumor Necrosis Factor-alpha
+T17	MMLite 1164 1168	Cx43
+N66	Reference T17 SemanticType:bacs	bacs
+N67	Reference T17 SemanticType:aapp	aapp
+N68	Reference T17 ConceptId:C1568716	GJA1 protein, human
+N69	Reference T17 ConceptId:C1415068	GJA1 gene
+N70	Reference T17 ConceptId:C0110613	Connexin 43
+N71	Reference T17 SemanticType:gngm	gngm
+T18	MMLite 213 241	gap junction alpha-1 protein
+N72	Reference T18 SemanticType:bacs	bacs
+N73	Reference T18 SemanticType:aapp	aapp
+N74	Reference T18 ConceptId:C1568716	GJA1 protein, human

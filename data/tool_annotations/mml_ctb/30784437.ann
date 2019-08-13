@@ -1,0 +1,46 @@
+T1	MMLite 94 99	metal
+N1	Reference T1 ConceptId:C0025552	Metals
+N2	Reference T1 SemanticType:inch	inch
+T2	MMLite 253 256	gas
+N3	Reference T2 SemanticType:chvs	chvs
+N4	Reference T2 SemanticType:gngm	gngm
+N5	Reference T2 ConceptId:C0017110	Gases
+N6	Reference T2 ConceptId:C1439341	GAST gene
+T3	MMLite 180 183	for
+N7	Reference T3 ConceptId:C1421525	WWOX gene
+N8	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 1043 1046	for
+N9	Reference T4 ConceptId:C1421525	WWOX gene
+N10	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 114 117	gas
+N11	Reference T5 SemanticType:chvs	chvs
+N12	Reference T5 SemanticType:gngm	gngm
+N13	Reference T5 ConceptId:C0017110	Gases
+N14	Reference T5 ConceptId:C1439341	GAST gene
+T6	MMLite 343 346	had
+N15	Reference T6 ConceptId:C1415458	HADH gene
+N16	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 871 874	for
+N17	Reference T7 ConceptId:C1421525	WWOX gene
+N18	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 194 201	mercury
+N19	Reference T8 ConceptId:C2348272	Dietary Mercury
+N20	Reference T8 ConceptId:C0025424	Mercury
+N21	Reference T8 SemanticType:elii	elii
+N22	Reference T8 SemanticType:hops	hops
+T9	MMLite 1066 1069	gas
+N23	Reference T9 SemanticType:chvs	chvs
+N24	Reference T9 SemanticType:gngm	gngm
+N25	Reference T9 ConceptId:C0017110	Gases
+N26	Reference T9 ConceptId:C1439341	GAST gene
+T10	MMLite 233 238	metal
+N27	Reference T10 ConceptId:C0025552	Metals
+N28	Reference T10 SemanticType:inch	inch
+T11	MMLite 61 68	mercury
+N29	Reference T11 ConceptId:C2348272	Dietary Mercury
+N30	Reference T11 ConceptId:C0025424	Mercury
+N31	Reference T11 SemanticType:elii	elii
+N32	Reference T11 SemanticType:hops	hops
+T12	MMLite 47 50	for
+N33	Reference T12 ConceptId:C1421525	WWOX gene
+N34	Reference T12 SemanticType:gngm	gngm

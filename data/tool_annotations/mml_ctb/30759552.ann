@@ -1,0 +1,65 @@
+T1	MMLite 776 793	anti-inflammatory
+N1	Reference T1 ConceptId:C0003209	Anti-Inflammatory Agents
+N2	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 179 192	antiparasitic
+N3	Reference T2 ConceptId:C0003404	Antiparasitic Agents
+N4	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 937 948	interleukin
+N5	Reference T3 SemanticType:aapp	aapp
+N6	Reference T3 SemanticType:imft	imft
+N7	Reference T3 ConceptId:C1527200	Recombinant Interleukins
+N8	Reference T3 ConceptId:C0021764	Interleukins
+N9	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 1071 1074	was
+N10	Reference T4 SemanticType:bacs	bacs
+N11	Reference T4 SemanticType:aapp	aapp
+N12	Reference T4 ConceptId:C1565156	WAS protein, human
+T5	MMLite 928 936	cytokine
+N13	Reference T5 SemanticType:aapp	aapp
+N14	Reference T5 SemanticType:imft	imft
+N15	Reference T5 ConceptId:C0079189	cytokine
+T6	MMLite 1339 1352	antiparasitic
+N16	Reference T6 ConceptId:C0003404	Antiparasitic Agents
+N17	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 336 339	was
+N18	Reference T7 SemanticType:bacs	bacs
+N19	Reference T7 SemanticType:aapp	aapp
+N20	Reference T7 ConceptId:C1565156	WAS protein, human
+T8	MMLite 525 528	for
+N21	Reference T8 ConceptId:C1421525	WWOX gene
+N22	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 305 308	was
+N23	Reference T9 SemanticType:bacs	bacs
+N24	Reference T9 SemanticType:aapp	aapp
+N25	Reference T9 ConceptId:C1565156	WAS protein, human
+T10	MMLite 911 914	pro
+N26	Reference T10 SemanticType:bacs	bacs
+N27	Reference T10 SemanticType:aapp	aapp
+N28	Reference T10 ConceptId:C0033382	Proline
+N29	Reference T10 SemanticType:lbpr	lbpr
+N30	Reference T10 ConceptId:C0523852	Proline measurement
+T11	MMLite 866 880	interleukin 10
+N31	Reference T11 SemanticType:aapp	aapp
+N32	Reference T11 SemanticType:imft	imft
+N33	Reference T11 ConceptId:C1699802	IL10 protein, human
+N34	Reference T11 ConceptId:C0085295	Interleukin-10
+T12	MMLite 1033 1055	glutathione peroxidase
+N35	Reference T12 ConceptId:C0017822	GLUTATHIONE PEROXIDASE
+N36	Reference T12 SemanticType:aapp	aapp
+N37	Reference T12 ConceptId:C1415275	GPX1 gene
+N38	Reference T12 SemanticType:enzy	enzy
+N39	Reference T12 SemanticType:gngm	gngm
+T13	MMLite 803 834	transforming growth factor beta
+N40	Reference T13 SemanticType:bacs	bacs
+N41	Reference T13 SemanticType:aapp	aapp
+N42	Reference T13 ConceptId:C1150596	transforming growth factor beta receptor activity
+N43	Reference T13 SemanticType:moft	moft
+N44	Reference T13 ConceptId:C0040690	Transforming Growth Factor beta
+T14	MMLite 736 744	lysozyme
+N45	Reference T14 ConceptId:C0026794	Muramidase
+N46	Reference T14 SemanticType:enzy	enzy
+N47	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 794 802	cytokine
+N48	Reference T15 SemanticType:aapp	aapp
+N49	Reference T15 SemanticType:imft	imft
+N50	Reference T15 ConceptId:C0079189	cytokine

@@ -1,0 +1,54 @@
+T1	MMLite 1538 1552	crystal violet
+N1	Reference T1 ConceptId:C0017440	Gentian Violet
+N2	Reference T1 SemanticType:orch	orch
+N3	Reference T1 SemanticType:irda	irda
+N4	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 1553 1556	dye
+N5	Reference T2 ConceptId:C0013343	Dyes
+N6	Reference T2 SemanticType:irda	irda
+T3	MMLite 1716 1719	for
+N7	Reference T3 ConceptId:C1421525	WWOX gene
+N8	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 276 291	reducing agents
+N9	Reference T4 SemanticType:irda	irda
+N10	Reference T4 ConceptId:C0376446	Reducing Agents
+T5	MMLite 1712 1715	dye
+N11	Reference T5 ConceptId:C0013343	Dyes
+N12	Reference T5 SemanticType:irda	irda
+T6	MMLite 490 493	was
+N13	Reference T6 SemanticType:bacs	bacs
+N14	Reference T6 SemanticType:aapp	aapp
+N15	Reference T6 ConceptId:C1565156	WAS protein, human
+T7	MMLite 657 661	ions
+N16	Reference T7 ConceptId:C0022023	Ions
+N17	Reference T7 SemanticType:elii	elii
+T8	MMLite 1504 1507	was
+N18	Reference T8 SemanticType:bacs	bacs
+N19	Reference T8 SemanticType:aapp	aapp
+N20	Reference T8 ConceptId:C1565156	WAS protein, human
+T9	MMLite 1315 1328	antibacterial
+N21	Reference T9 SemanticType:antb	antb
+N22	Reference T9 ConceptId:C0279516	Anti-Bacterial Agents
+T10	MMLite 835 838	TEM
+N23	Reference T10 ConceptId:C0040975	Triethylenemelamine
+N24	Reference T10 SemanticType:orch	orch
+N25	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 814 822	electron
+N26	Reference T11 ConceptId:C0013852	Electrons
+N27	Reference T11 SemanticType:qnco	qnco
+T12	MMLite 332 335	for
+N28	Reference T12 ConceptId:C1421525	WWOX gene
+N29	Reference T12 SemanticType:gngm	gngm
+T13	MMLite 1159 1172	antibacterial
+N30	Reference T13 SemanticType:antb	antb
+N31	Reference T13 ConceptId:C0279516	Anti-Bacterial Agents
+T14	MMLite 1397 1410	antibacterial
+N32	Reference T14 SemanticType:antb	antb
+N33	Reference T14 ConceptId:C0279516	Anti-Bacterial Agents
+T15	MMLite 723 731	electron
+N34	Reference T15 ConceptId:C0013852	Electrons
+N35	Reference T15 SemanticType:qnco	qnco
+T16	MMLite 16 26	iron oxide
+N36	Reference T16 ConceptId:C0060240	ferric oxide
+N37	Reference T16 SemanticType:inch	inch
+N38	Reference T16 SemanticType:phsu	phsu

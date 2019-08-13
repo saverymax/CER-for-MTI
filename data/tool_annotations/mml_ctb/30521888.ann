@@ -1,0 +1,57 @@
+T1	MMLite 1219 1227	proteins
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C0033684	Proteins
+T2	MMLite 523 529	lncRNA
+N4	Reference T2 SemanticType:bacs	bacs
+N5	Reference T2 SemanticType:nnon	nnon
+N6	Reference T2 ConceptId:C3494264	RNA, Long Untranslated
+T3	MMLite 43 49	lncRNA
+N7	Reference T3 SemanticType:bacs	bacs
+N8	Reference T3 SemanticType:nnon	nnon
+N9	Reference T3 ConceptId:C3494264	RNA, Long Untranslated
+T4	MMLite 769 779	Nucleotide
+N10	Reference T4 SemanticType:nnon	nnon
+N11	Reference T4 ConceptId:C0028630	Nucleotides
+T5	MMLite 848 855	Thymine
+N12	Reference T5 SemanticType:bacs	bacs
+N13	Reference T5 SemanticType:nnon	nnon
+N14	Reference T5 ConceptId:C0040087	Thymine
+T6	MMLite 832 839	Adenine
+N15	Reference T6 SemanticType:bacs	bacs
+N16	Reference T6 SemanticType:nnon	nnon
+N17	Reference T6 ConceptId:C0001407	Adenine
+T7	MMLite 1461 1467	lncRNA
+N18	Reference T7 SemanticType:bacs	bacs
+N19	Reference T7 SemanticType:nnon	nnon
+N20	Reference T7 ConceptId:C3494264	RNA, Long Untranslated
+T8	MMLite 916 922	lncRNA
+N21	Reference T8 SemanticType:bacs	bacs
+N22	Reference T8 SemanticType:nnon	nnon
+N23	Reference T8 ConceptId:C3494264	RNA, Long Untranslated
+T9	MMLite 884 891	Guanine
+N24	Reference T9 SemanticType:nnon	nnon
+N25	Reference T9 ConceptId:C0018321	Guanine
+T10	MMLite 1264 1267	was
+N26	Reference T10 SemanticType:bacs	bacs
+N27	Reference T10 SemanticType:aapp	aapp
+N28	Reference T10 ConceptId:C1565156	WAS protein, human
+T11	MMLite 1250 1256	lncRNA
+N29	Reference T11 SemanticType:bacs	bacs
+N30	Reference T11 SemanticType:nnon	nnon
+N31	Reference T11 ConceptId:C3494264	RNA, Long Untranslated
+T12	MMLite 1201 1207	miRNAs
+N32	Reference T12 SemanticType:bacs	bacs
+N33	Reference T12 SemanticType:nnon	nnon
+N34	Reference T12 ConceptId:C1101610	MicroRNAs
+T13	MMLite 900 908	Cytosine
+N35	Reference T13 SemanticType:bacs	bacs
+N36	Reference T13 SemanticType:orch	orch
+N37	Reference T13 ConceptId:C0010843	Cytosine
+T14	MMLite 1134 1140	lncRNA
+N38	Reference T14 SemanticType:bacs	bacs
+N39	Reference T14 SemanticType:nnon	nnon
+N40	Reference T14 ConceptId:C3494264	RNA, Long Untranslated
+T15	MMLite 1004 1014	nucleotide
+N41	Reference T15 SemanticType:nnon	nnon
+N42	Reference T15 ConceptId:C0028630	Nucleotides

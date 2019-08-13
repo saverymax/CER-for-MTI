@@ -1,0 +1,60 @@
+T1	MMLite 292 295	HMS
+N1	Reference T1 SemanticType:orch	orch
+N2	Reference T1 ConceptId:C0065865	medrysone
+N3	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 284 290	silica
+N4	Reference T2 ConceptId:C0037098	Silicon Dioxide
+N5	Reference T2 SemanticType:bodm	bodm
+N6	Reference T2 SemanticType:inch	inch
+T3	MMLite 1305 1308	was
+N7	Reference T3 SemanticType:bacs	bacs
+N8	Reference T3 SemanticType:aapp	aapp
+N9	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 298 306	titanium
+N10	Reference T4 ConceptId:C0040302	Titanium
+N11	Reference T4 SemanticType:elii	elii
+T5	MMLite 381 388	zeolite
+N12	Reference T5 ConceptId:C0078755	Zeolites
+N13	Reference T5 SemanticType:inch	inch
+T6	MMLite 330 336	silica
+N14	Reference T6 ConceptId:C0037098	Silicon Dioxide
+N15	Reference T6 SemanticType:bodm	bodm
+N16	Reference T6 SemanticType:inch	inch
+T7	MMLite 1253 1256	was
+N17	Reference T7 SemanticType:bacs	bacs
+N18	Reference T7 SemanticType:aapp	aapp
+N19	Reference T7 ConceptId:C1565156	WAS protein, human
+T8	MMLite 1046 1049	was
+N20	Reference T8 SemanticType:bacs	bacs
+N21	Reference T8 SemanticType:aapp	aapp
+N22	Reference T8 ConceptId:C1565156	WAS protein, human
+T9	MMLite 341 344	HMS
+N23	Reference T9 SemanticType:orch	orch
+N24	Reference T9 ConceptId:C0065865	medrysone
+N25	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 52 58	silica
+N26	Reference T10 ConceptId:C0037098	Silicon Dioxide
+N27	Reference T10 SemanticType:bodm	bodm
+N28	Reference T10 SemanticType:inch	inch
+T11	MMLite 786 789	was
+N29	Reference T11 SemanticType:bacs	bacs
+N30	Reference T11 SemanticType:aapp	aapp
+N31	Reference T11 ConceptId:C1565156	WAS protein, human
+T12	MMLite 982 988	SBA-15
+N32	Reference T12 ConceptId:C1721436	SBA-15
+N33	Reference T12 SemanticType:orch	orch
+T13	MMLite 358 364	SBA-15
+N34	Reference T13 ConceptId:C1721436	SBA-15
+N35	Reference T13 SemanticType:orch	orch
+T14	MMLite 1090 1093	for
+N36	Reference T14 ConceptId:C1421525	WWOX gene
+N37	Reference T14 SemanticType:gngm	gngm
+T15	MMLite 978 981	for
+N38	Reference T15 ConceptId:C1421525	WWOX gene
+N39	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 543 551	solution
+N40	Reference T16 SemanticType:bodm	bodm
+N41	Reference T16 ConceptId:C0525069	Pharmaceutical Solutions
+T17	MMLite 1216 1219	ion
+N42	Reference T17 ConceptId:C0022023	Ions
+N43	Reference T17 SemanticType:elii	elii

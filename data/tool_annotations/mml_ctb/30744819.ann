@@ -1,0 +1,135 @@
+T1	MMLite 1438 1442	sLeX
+N1	Reference T1 SemanticType:lbpr	lbpr
+N2	Reference T1 ConceptId:C3828027	Sialyl SSEA-1 Antigen Measurement
+T2	MMLite 1565 1572	epitope
+N3	Reference T2 ConceptId:C0003316	Epitopes
+N4	Reference T2 SemanticType:imft	imft
+T3	MMLite 895 901	fucose
+N5	Reference T3 SemanticType:orch	orch
+N6	Reference T3 ConceptId:C0016786	Fucose
+T4	MMLite 1799 1802	for
+N7	Reference T4 ConceptId:C1421525	WWOX gene
+N8	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 28 35	glycans
+N9	Reference T5 SemanticType:orch	orch
+N10	Reference T5 ConceptId:C0032594	Polysaccharides
+N11	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 1734 1741	glycans
+N12	Reference T6 SemanticType:orch	orch
+N13	Reference T6 ConceptId:C0032594	Polysaccharides
+N14	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 1420 1423	LeB
+N15	Reference T7 ConceptId:C0535350	Mucin 5AC
+N16	Reference T7 SemanticType:bacs	bacs
+N17	Reference T7 SemanticType:aapp	aapp
+T8	MMLite 744 751	glycans
+N18	Reference T8 SemanticType:orch	orch
+N19	Reference T8 ConceptId:C0032594	Polysaccharides
+N20	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 1045 1056	sialic acid
+N21	Reference T9 SemanticType:bacs	bacs
+N22	Reference T9 SemanticType:orch	orch
+N23	Reference T9 ConceptId:C0067762	N-Acetylneuraminic Acid
+T10	MMLite 1682 1685	for
+N24	Reference T10 ConceptId:C1421525	WWOX gene
+N25	Reference T10 SemanticType:gngm	gngm
+T11	MMLite 946 949	for
+N26	Reference T11 ConceptId:C1421525	WWOX gene
+N27	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 368 371	for
+N28	Reference T12 ConceptId:C1421525	WWOX gene
+N29	Reference T12 SemanticType:gngm	gngm
+T13	MMLite 879 890	Sialic acid
+N30	Reference T13 SemanticType:bacs	bacs
+N31	Reference T13 SemanticType:orch	orch
+N32	Reference T13 ConceptId:C0067762	N-Acetylneuraminic Acid
+T14	MMLite 1205 1213	epitopes
+N33	Reference T14 ConceptId:C0003316	Epitopes
+N34	Reference T14 SemanticType:imft	imft
+T15	MMLite 786 794	epitopes
+N35	Reference T15 ConceptId:C0003316	Epitopes
+N36	Reference T15 SemanticType:imft	imft
+T16	MMLite 680 686	fucose
+N37	Reference T16 SemanticType:orch	orch
+N38	Reference T16 ConceptId:C0016786	Fucose
+T17	MMLite 101 104	spp
+N39	Reference T17 ConceptId:C1424276	HM13 gene
+N40	Reference T17 SemanticType:gngm	gngm
+T18	MMLite 714 717	was
+N41	Reference T18 SemanticType:bacs	bacs
+N42	Reference T18 SemanticType:aapp	aapp
+N43	Reference T18 ConceptId:C1565156	WAS protein, human
+T19	MMLite 656 663	glycans
+N44	Reference T19 SemanticType:orch	orch
+N45	Reference T19 ConceptId:C0032594	Polysaccharides
+N46	Reference T19 SemanticType:phsu	phsu
+T20	MMLite 592 605	glycoproteins
+N47	Reference T20 SemanticType:bacs	bacs
+N48	Reference T20 SemanticType:aapp	aapp
+N49	Reference T20 SemanticType:orch	orch
+N50	Reference T20 ConceptId:C0072522	polysaccharide-K
+N51	Reference T20 SemanticType:phsu	phsu
+N52	Reference T20 ConceptId:C0017968	Glycoproteins
+T21	MMLite 332 339	glycans
+N53	Reference T21 SemanticType:orch	orch
+N54	Reference T21 ConceptId:C0032594	Polysaccharides
+N55	Reference T21 SemanticType:phsu	phsu
+T22	MMLite 1214 1217	for
+N56	Reference T22 ConceptId:C1421525	WWOX gene
+N57	Reference T22 SemanticType:gngm	gngm
+T23	MMLite 313 320	protein
+N58	Reference T23 SemanticType:bacs	bacs
+N59	Reference T23 SemanticType:aapp	aapp
+N60	Reference T23 ConceptId:C0033684	Proteins
+T24	MMLite 154 157	can
+N61	Reference T24 SemanticType:mnob	mnob
+N62	Reference T24 ConceptId:C1704712	Can - object
+T25	MMLite 1267 1287	blood group antigens
+N63	Reference T25 SemanticType:imft	imft
+N64	Reference T25 ConceptId:C0005804	Blood Group Antigens
+T26	MMLite 276 289	glycoproteins
+N65	Reference T26 SemanticType:bacs	bacs
+N66	Reference T26 SemanticType:aapp	aapp
+N67	Reference T26 SemanticType:orch	orch
+N68	Reference T26 ConceptId:C0072522	polysaccharide-K
+N69	Reference T26 SemanticType:phsu	phsu
+N70	Reference T26 ConceptId:C0017968	Glycoproteins
+T27	MMLite 1245 1250	sugar
+N71	Reference T27 SemanticType:orch	orch
+N72	Reference T27 ConceptId:C0242209	Sugars
+N73	Reference T27 ConceptId:C0007004	Carbohydrates
+N74	Reference T27 SemanticType:phsu	phsu
+T28	MMLite 359 367	epitopes
+N75	Reference T28 ConceptId:C0003316	Epitopes
+N76	Reference T28 SemanticType:imft	imft
+T29	MMLite 1174 1181	glycans
+N77	Reference T29 SemanticType:orch	orch
+N78	Reference T29 ConceptId:C0032594	Polysaccharides
+N79	Reference T29 SemanticType:phsu	phsu
+T30	MMLite 761 769	proteins
+N80	Reference T30 SemanticType:bacs	bacs
+N81	Reference T30 SemanticType:aapp	aapp
+N82	Reference T30 ConceptId:C0033684	Proteins
+T31	MMLite 1425 1428	LeX
+N83	Reference T31 ConceptId:C0080188	Antigens, CD15
+N84	Reference T31 SemanticType:orch	orch
+N85	Reference T31 SemanticType:imft	imft
+T32	MMLite 1499 1506	protein
+N86	Reference T32 SemanticType:bacs	bacs
+N87	Reference T32 SemanticType:aapp	aapp
+N88	Reference T32 ConceptId:C0033684	Proteins
+T33	MMLite 937 945	epitopes
+N89	Reference T33 ConceptId:C0003316	Epitopes
+N90	Reference T33 SemanticType:imft	imft
+T34	MMLite 795 798	for
+N91	Reference T34 ConceptId:C1421525	WWOX gene
+N92	Reference T34 SemanticType:gngm	gngm
+T35	MMLite 1130 1138	contrast
+N93	Reference T35 SemanticType:irda	irda
+N94	Reference T35 ConceptId:C0009924	Contrast Media
+T36	MMLite 1541 1547	fucose
+N95	Reference T36 SemanticType:orch	orch
+N96	Reference T36 ConceptId:C0016786	Fucose
+T37	MMLite 1029 1035	fucose
+N97	Reference T37 SemanticType:orch	orch
+N98	Reference T37 ConceptId:C0016786	Fucose

@@ -1,0 +1,60 @@
+T1	MMLite 1000 1003	fur
+N1	Reference T1 SemanticType:gngm	gngm
+N2	Reference T1 ConceptId:C0919550	FURIN gene
+T2	MMLite 890 895	liver
+N3	Reference T2 SemanticType:orch	orch
+N4	Reference T2 ConceptId:C0023899	Liver Extract
+N5	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 107 114	isotope
+N6	Reference T3 SemanticType:elii	elii
+N7	Reference T3 ConceptId:C0022262	Isotopes
+T4	MMLite 297 305	isotopes
+N8	Reference T4 SemanticType:elii	elii
+N9	Reference T4 ConceptId:C0022262	Isotopes
+T5	MMLite 804 807	was
+N10	Reference T5 SemanticType:bacs	bacs
+N11	Reference T5 SemanticType:aapp	aapp
+N12	Reference T5 ConceptId:C1565156	WAS protein, human
+T6	MMLite 25 41	mercury isotopes
+N13	Reference T6 ConceptId:C0025426	Mercury Isotopes
+N14	Reference T6 SemanticType:elii	elii
+T7	MMLite 486 491	liver
+N15	Reference T7 SemanticType:orch	orch
+N16	Reference T7 ConceptId:C0023899	Liver Extract
+N17	Reference T7 SemanticType:phsu	phsu
+T8	MMLite 247 250	for
+N18	Reference T8 ConceptId:C1421525	WWOX gene
+N19	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 222 225	for
+N20	Reference T9 ConceptId:C1421525	WWOX gene
+N21	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 1312 1315	fur
+N22	Reference T10 SemanticType:gngm	gngm
+N23	Reference T10 ConceptId:C0919550	FURIN gene
+T11	MMLite 599 612	methylmercury
+N24	Reference T11 SemanticType:orch	orch
+N25	Reference T11 ConceptId:C0025794	Methylmercury Compounds
+N26	Reference T11 SemanticType:hops	hops
+T12	MMLite 1045 1048	fur
+N27	Reference T12 SemanticType:gngm	gngm
+N28	Reference T12 ConceptId:C0919550	FURIN gene
+T13	MMLite 620 623	was
+N29	Reference T13 SemanticType:bacs	bacs
+N30	Reference T13 SemanticType:aapp	aapp
+N31	Reference T13 ConceptId:C1565156	WAS protein, human
+T14	MMLite 1343 1348	thiol
+N32	Reference T14 SemanticType:orch	orch
+N33	Reference T14 ConceptId:C0038734	Sulfhydryl Compounds
+T15	MMLite 1261 1266	liver
+N34	Reference T15 SemanticType:orch	orch
+N35	Reference T15 ConceptId:C0023899	Liver Extract
+N36	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 769 772	for
+N37	Reference T16 ConceptId:C1421525	WWOX gene
+N38	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 1101 1104	can
+N39	Reference T17 SemanticType:mnob	mnob
+N40	Reference T17 ConceptId:C1704712	Can - object
+T18	MMLite 467 470	fur
+N41	Reference T18 SemanticType:gngm	gngm
+N42	Reference T18 ConceptId:C0919550	FURIN gene

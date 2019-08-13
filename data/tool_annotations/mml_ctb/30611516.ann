@@ -1,0 +1,106 @@
+T1	MMLite 1304 1324	membrane transporter
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C0596902	Membrane Transport Proteins
+T2	MMLite 587 590	ATP
+N4	Reference T2 SemanticType:bacs	bacs
+N5	Reference T2 SemanticType:orch	orch
+N6	Reference T2 ConceptId:C0004482	Azathioprine
+N7	Reference T2 SemanticType:nnon	nnon
+N8	Reference T2 SemanticType:hops	hops
+N9	Reference T2 ConceptId:C0001480	Adenosine Triphosphate
+N10	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 711 719	apigenin
+N11	Reference T3 SemanticType:orch	orch
+N12	Reference T3 ConceptId:C0912024	Apigenin
+N13	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 697 706	quercetin
+N14	Reference T4 ConceptId:C0034392	Quercetin
+N15	Reference T4 SemanticType:orch	orch
+N16	Reference T4 SemanticType:vita	vita
+N17	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 109 112	ABC
+N18	Reference T5 ConceptId:C0663655	abacavir
+N19	Reference T5 SemanticType:nnon	nnon
+N20	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 406 415	flavonols
+N21	Reference T6 SemanticType:orch	orch
+N22	Reference T6 ConceptId:C0060444	Flavonols
+N23	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 1338 1344	enzyme
+N24	Reference T7 SemanticType:orch	orch
+N25	Reference T7 SemanticType:enzy	enzy
+N26	Reference T7 ConceptId:C0014442	Enzymes
+T8	MMLite 1100 1112	glycoprotein
+N27	Reference T8 SemanticType:bacs	bacs
+N28	Reference T8 SemanticType:aapp	aapp
+N29	Reference T8 SemanticType:orch	orch
+N30	Reference T8 ConceptId:C0072522	polysaccharide-K
+N31	Reference T8 SemanticType:phsu	phsu
+N32	Reference T8 ConceptId:C0017968	Glycoproteins
+T9	MMLite 113 133	membrane transporter
+N33	Reference T9 SemanticType:bacs	bacs
+N34	Reference T9 SemanticType:aapp	aapp
+N35	Reference T9 ConceptId:C0596902	Membrane Transport Proteins
+T10	MMLite 172 182	flavonoids
+N36	Reference T10 SemanticType:orch	orch
+N37	Reference T10 ConceptId:C0596577	Flavonoids
+T11	MMLite 928 937	flavonoid
+N38	Reference T11 ConceptId:C0284815	3-hydroxyflavone
+N39	Reference T11 SemanticType:orch	orch
+N40	Reference T11 ConceptId:C0596577	Flavonoids
+N41	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 417 426	quercetin
+N42	Reference T12 ConceptId:C0034392	Quercetin
+N43	Reference T12 SemanticType:orch	orch
+N44	Reference T12 SemanticType:vita	vita
+N45	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 880 883	had
+N46	Reference T13 ConceptId:C1415458	HADH gene
+N47	Reference T13 SemanticType:gngm	gngm
+T14	MMLite 1167 1173	ATPase
+N48	Reference T14 ConceptId:C0001473	Adenosine Triphosphatases
+N49	Reference T14 SemanticType:aapp	aapp
+N50	Reference T14 SemanticType:enzy	enzy
+T15	MMLite 991 1000	quercetin
+N51	Reference T15 ConceptId:C0034392	Quercetin
+N52	Reference T15 SemanticType:orch	orch
+N53	Reference T15 SemanticType:vita	vita
+N54	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 374 382	apigenin
+N55	Reference T16 SemanticType:orch	orch
+N56	Reference T16 ConceptId:C0912024	Apigenin
+N57	Reference T16 SemanticType:phsu	phsu
+T17	MMLite 982 990	apigenin
+N58	Reference T17 SemanticType:orch	orch
+N59	Reference T17 ConceptId:C0912024	Apigenin
+N60	Reference T17 SemanticType:phsu	phsu
+T18	MMLite 26 36	flavonoids
+N61	Reference T18 SemanticType:orch	orch
+N62	Reference T18 ConceptId:C0596577	Flavonoids
+T19	MMLite 384 394	naringenin
+N63	Reference T19 SemanticType:orch	orch
+N64	Reference T19 ConceptId:C0068450	naringenin
+N65	Reference T19 SemanticType:phsu	phsu
+T20	MMLite 614 634	membrane transporter
+N66	Reference T20 SemanticType:bacs	bacs
+N67	Reference T20 SemanticType:aapp	aapp
+N68	Reference T20 ConceptId:C0596902	Membrane Transport Proteins
+T21	MMLite 609 612	ABC
+N69	Reference T21 ConceptId:C0663655	abacavir
+N70	Reference T21 SemanticType:nnon	nnon
+N71	Reference T21 SemanticType:phsu	phsu
+T22	MMLite 869 879	naringenin
+N72	Reference T22 SemanticType:orch	orch
+N73	Reference T22 ConceptId:C0068450	naringenin
+N74	Reference T22 SemanticType:phsu	phsu
+T23	MMLite 924 927	for
+N75	Reference T23 ConceptId:C1421525	WWOX gene
+N76	Reference T23 SemanticType:gngm	gngm
+T24	MMLite 1218 1228	flavonoids
+N77	Reference T24 SemanticType:orch	orch
+N78	Reference T24 ConceptId:C0596577	Flavonoids
+T25	MMLite 1056 1071	ABC transporter
+N79	Reference T25 SemanticType:bacs	bacs
+N80	Reference T25 SemanticType:aapp	aapp
+N81	Reference T25 ConceptId:C0242738	ATP-Binding Cassette Transporters

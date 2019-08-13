@@ -1,0 +1,20 @@
+T1	Chemlistem 78 92	diphenyl ether
+A1	Score T1 0.5845304
+T2	Chemlistem 126 140	diphenyl ether
+A2	Score T2 0.8320242
+T3	Chemlistem 142 149	BDE-209
+A3	Score T3 0.60053253
+T4	Chemlistem 571 575	urea
+A4	Score T4 0.8387479
+T5	Chemlistem 580 590	creatinine
+A5	Score T5 0.94667226
+T6	Chemlistem 722 732	creatinine
+A6	Score T6 0.8745744
+T7	Chemlistem 781 785	urea
+A7	Score T7 0.7291345
+T8	Chemlistem 872 883	glutathione
+A8	Score T8 0.93298095
+T9	Chemlistem 904 914	superoxide
+A9	Score T9 0.8970079
+T10	Chemlistem 991 1010	thiobarbituric acid
+A10	Score T10 0.89720035

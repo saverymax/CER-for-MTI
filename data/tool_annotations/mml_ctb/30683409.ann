@@ -1,0 +1,34 @@
+T1	MMLite 714 722	elements
+N1	Reference T1 ConceptId:C0013879	Elements
+N2	Reference T1 SemanticType:elii	elii
+T2	MMLite 227 230	for
+N3	Reference T2 ConceptId:C1421525	WWOX gene
+N4	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 152 160	elements
+N5	Reference T3 ConceptId:C0013879	Elements
+N6	Reference T3 SemanticType:elii	elii
+T4	MMLite 309 313	cell
+N7	Reference T4 ConceptId:C1413336	CEL gene
+N8	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 263 271	elements
+N9	Reference T5 ConceptId:C0013879	Elements
+N10	Reference T5 SemanticType:elii	elii
+T6	MMLite 879 887	elements
+N11	Reference T6 ConceptId:C0013879	Elements
+N12	Reference T6 SemanticType:elii	elii
+T7	MMLite 348 352	same
+N13	Reference T7 SemanticType:bacs	bacs
+N14	Reference T7 ConceptId:C0036002	S-Adenosylmethionine
+N15	Reference T7 SemanticType:aapp	aapp
+N16	Reference T7 SemanticType:phsu	phsu
+T8	MMLite 525 528	PCA
+N17	Reference T8 SemanticType:bacs	bacs
+N18	Reference T8 SemanticType:aapp	aapp
+N19	Reference T8 SemanticType:orch	orch
+N20	Reference T8 ConceptId:C0034330	Pyrrolidonecarboxylic Acid
+N21	Reference T8 SemanticType:irda	irda
+N22	Reference T8 ConceptId:C0030131	p-Chloroamphetamine
+N23	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 1079 1082	for
+N24	Reference T9 ConceptId:C1421525	WWOX gene
+N25	Reference T9 SemanticType:gngm	gngm

@@ -1,0 +1,18 @@
+T1	Chemlistem 6 14	Dopamine
+A1	Score T1 0.9183427
+T2	Chemlistem 413 444	3,4-dihydroxyphenylacetaldehyde
+A2	Score T2 0.9416892
+T3	Chemlistem 446 451	DOPAL
+A3	Score T3 0.5468997
+T4	Chemlistem 469 477	dopamine
+A4	Score T4 0.94897664
+T5	Chemlistem 740 748	aldehyde
+A5	Score T5 0.8894363
+T6	Chemlistem 785 791	carbon
+A6	Score T6 0.80878365
+T7	Chemlistem 792 798	carbon
+A7	Score T7 0.74224526
+T8	Chemlistem 818 823	alkyl
+A8	Score T8 0.7610917
+T9	Chemlistem 845 852	pyrrole
+A9	Score T9 0.9185024

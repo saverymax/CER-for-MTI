@@ -1,0 +1,18 @@
+T1	Chemlistem 36 68	polycyclic aromatic hydrocarbons
+A1	Score T1 0.53923464
+T2	Chemlistem 321 349	Hydroxypropyl-β-cyclodextrin
+A2	Score T2 0.9048755
+T3	Chemlistem 351 356	HPBCD
+A3	Score T3 0.70105016
+T4	Chemlistem 387 399	rhamnolipids
+A4	Score T4 0.83377343
+T5	Chemlistem 593 598	HPBCD
+A5	Score T5 0.5185743
+T6	Chemlistem 799 805	pyrene
+A6	Score T6 0.88208306
+T7	Chemlistem 818 830	fluoranthene
+A7	Score T7 0.93719935
+T8	Chemlistem 1028 1040	phenanthrene
+A8	Score T8 0.927765
+T9	Chemlistem 1063 1074	acenaphtene
+A9	Score T9 0.9127469

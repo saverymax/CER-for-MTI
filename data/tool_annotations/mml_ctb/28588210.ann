@@ -1,0 +1,56 @@
+T1	MMLite 825 832	Isotope
+N1	Reference T1 SemanticType:elii	elii
+N2	Reference T1 ConceptId:C0022262	Isotopes
+T2	MMLite 1131 1141	suspension
+N3	Reference T2 ConceptId:C0038960	Suspensions
+N4	Reference T2 SemanticType:bodm	bodm
+T3	MMLite 576 592	carbon nanotubes
+N5	Reference T3 ConceptId:C1138408	Nanotubes, Carbon
+N6	Reference T3 SemanticType:chvs	chvs
+T4	MMLite 1215 1219	DOPC
+N7	Reference T4 SemanticType:orch	orch
+N8	Reference T4 ConceptId:C0058325	1,2-oleoylphosphatidylcholine
+T5	MMLite 1322 1325	for
+N9	Reference T5 ConceptId:C1421525	WWOX gene
+N10	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 432 439	isotope
+N11	Reference T6 SemanticType:elii	elii
+N12	Reference T6 ConceptId:C0022262	Isotopes
+T7	MMLite 819 823	mice
+N13	Reference T7 ConceptId:C1413131	CASP14 gene
+N14	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 1010 1014	DOPC
+N15	Reference T8 SemanticType:orch	orch
+N16	Reference T8 ConceptId:C0058325	1,2-oleoylphosphatidylcholine
+T9	MMLite 624 638	phosphocholine
+N17	Reference T9 ConceptId:C0031716	Phosphorylcholine
+N18	Reference T9 SemanticType:orch	orch
+N19	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 957 961	mice
+N20	Reference T10 ConceptId:C1413131	CASP14 gene
+N21	Reference T10 SemanticType:gngm	gngm
+T11	MMLite 83 88	Drugs
+N22	Reference T11 ConceptId:C0013227	Pharmaceutical Preparations
+N23	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 640 644	DOPC
+N24	Reference T12 SemanticType:orch	orch
+N25	Reference T12 ConceptId:C0058325	1,2-oleoylphosphatidylcholine
+T13	MMLite 1410 1415	drugs
+N26	Reference T13 ConceptId:C0013227	Pharmaceutical Preparations
+N27	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 36 52	Carbon Nanotubes
+N28	Reference T14 ConceptId:C1138408	Nanotubes, Carbon
+N29	Reference T14 SemanticType:chvs	chvs
+T15	MMLite 1489 1492	for
+N30	Reference T15 ConceptId:C1421525	WWOX gene
+N31	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 649 660	simvastatin
+N32	Reference T16 SemanticType:orch	orch
+N33	Reference T16 SemanticType:phsu	phsu
+N34	Reference T16 ConceptId:C0074554	Simvastatin
+T17	MMLite 900 904	DOPC
+N35	Reference T17 SemanticType:orch	orch
+N36	Reference T17 ConceptId:C0058325	1,2-oleoylphosphatidylcholine
+T18	MMLite 1060 1064	DOPC
+N37	Reference T18 SemanticType:orch	orch
+N38	Reference T18 ConceptId:C0058325	1,2-oleoylphosphatidylcholine

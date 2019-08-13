@@ -1,0 +1,50 @@
+T1	MMLite 982 985	for
+N1	Reference T1 ConceptId:C1421525	WWOX gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 1894 1897	for
+N3	Reference T2 ConceptId:C1421525	WWOX gene
+N4	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 1780 1783	for
+N5	Reference T3 ConceptId:C1421525	WWOX gene
+N6	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 554 557	for
+N7	Reference T4 ConceptId:C1421525	WWOX gene
+N8	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 1075 1082	subunit
+N9	Reference T5 SemanticType:aapp	aapp
+N10	Reference T5 ConceptId:C0599220	Protein Subunits
+T6	MMLite 950 953	Sea
+N11	Reference T6 SemanticType:aapp	aapp
+N12	Reference T6 SemanticType:hops	hops
+N13	Reference T6 ConceptId:C0059385	Staphylococcal enterotoxin A
+T7	MMLite 1797 1800	Sea
+N14	Reference T7 SemanticType:aapp	aapp
+N15	Reference T7 SemanticType:hops	hops
+N16	Reference T7 ConceptId:C0059385	Staphylococcal enterotoxin A
+T8	MMLite 1056 1074	cytochrome oxidase
+N17	Reference T8 SemanticType:aapp	aapp
+N18	Reference T8 ConceptId:C0010760	CYTOCHROME C OXIDASE
+N19	Reference T8 SemanticType:enzy	enzy
+T9	MMLite 30 33	for
+N20	Reference T9 ConceptId:C1421525	WWOX gene
+N21	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 1850 1853	can
+N22	Reference T10 SemanticType:mnob	mnob
+N23	Reference T10 ConceptId:C1704712	Can - object
+T11	MMLite 125 128	for
+N24	Reference T11 ConceptId:C1421525	WWOX gene
+N25	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 1017 1034	mitochondrial DNA
+N26	Reference T12 SemanticType:celc	celc
+N27	Reference T12 SemanticType:bacs	bacs
+N28	Reference T12 ConceptId:C1819717	mitochondrial DNA location
+N29	Reference T12 SemanticType:nnon	nnon
+N30	Reference T12 ConceptId:C0012929	DNA, Mitochondrial
+T13	MMLite 62 65	Sea
+N31	Reference T13 SemanticType:aapp	aapp
+N32	Reference T13 SemanticType:hops	hops
+N33	Reference T13 ConceptId:C0059385	Staphylococcal enterotoxin A
+T14	MMLite 492 495	Sea
+N34	Reference T14 SemanticType:aapp	aapp
+N35	Reference T14 SemanticType:hops	hops
+N36	Reference T14 ConceptId:C0059385	Staphylococcal enterotoxin A

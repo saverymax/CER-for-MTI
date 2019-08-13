@@ -1,0 +1,56 @@
+T1	Chemlistem 14 23	adenosine
+A1	Score T1 0.97745425
+T2	Chemlistem 38 46	xanthine
+A2	Score T2 0.96969587
+T3	Chemlistem 58 71	valproic acid
+A3	Score T3 0.9224276
+T4	Chemlistem 87 99	triglyceride
+A4	Score T4 0.9062789
+T5	Chemlistem 128 143	corticosteroids
+A5	Score T5 0.8662515
+T6	Chemlistem 172 180	estrogen
+A6	Score T6 0.8064983
+T7	Chemlistem 213 222	uric acid
+A7	Score T7 0.96610814
+T8	Chemlistem 291 299	estrogen
+A8	Score T8 0.8933389
+T9	Chemlistem 300 309	progestin
+A9	Score T9 0.6254127
+T10	Chemlistem 455 467	triglyceride
+A10	Score T10 0.93448216
+T11	Chemlistem 469 471	TG
+A11	Score T11 0.82010025
+T12	Chemlistem 524 537	valproic acid
+A12	Score T12 0.9365689
+T13	Chemlistem 539 542	VPA
+A13	Score T13 0.7797639
+T14	Chemlistem 577 586	adenosine
+A14	Score T14 0.97056544
+T15	Chemlistem 607 615	xanthine
+A15	Score T15 0.95936775
+T16	Chemlistem 711 719	estrogen
+A16	Score T16 0.8415332
+T17	Chemlistem 751 767	ethinylestradiol
+A17	Score T17 0.7697499
+T18	Chemlistem 779 793	levonorgestrel
+A18	Score T18 0.743509
+T19	Chemlistem 990 999	uric acid
+A19	Score T19 0.9189414
+T20	Chemlistem 1001 1003	UA
+A20	Score T20 0.7182522
+T21	Chemlistem 1006 1008	TG
+A21	Score T21 0.8679296
+T22	Chemlistem 1009 1024	HDL-cholesterol
+A22	Score T22 0.8578265
+T23	Chemlistem 1032 1043	cholesterol
+A23	Score T23 0.980127
+T24	Chemlistem 1049 1064	malondialdehyde
+A24	Score T24 0.84495544
+T25	Chemlistem 1171 1182	aldosterone
+A25	Score T25 0.9337793
+T26	Chemlistem 1184 1198	corticosterone
+A26	Score T26 0.9572177
+T27	Chemlistem 1234 1244	fatty acid
+A27	Score T27 0.89383525
+T28	Chemlistem 1478 1493	corticosteroids
+A28	Score T28 0.87042105

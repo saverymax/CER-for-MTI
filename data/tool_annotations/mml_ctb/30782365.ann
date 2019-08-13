@@ -1,0 +1,29 @@
+T1	MMLite 998 1004	buffer
+N1	Reference T1 ConceptId:C0006353	Buffers
+N2	Reference T1 SemanticType:irda	irda
+N3	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 1200 1203	was
+N4	Reference T2 SemanticType:bacs	bacs
+N5	Reference T2 SemanticType:aapp	aapp
+N6	Reference T2 ConceptId:C1565156	WAS protein, human
+T3	MMLite 528 535	protein
+N7	Reference T3 SemanticType:bacs	bacs
+N8	Reference T3 SemanticType:aapp	aapp
+N9	Reference T3 ConceptId:C0033684	Proteins
+T4	MMLite 136 143	protein
+N10	Reference T4 SemanticType:bacs	bacs
+N11	Reference T4 SemanticType:aapp	aapp
+N12	Reference T4 ConceptId:C0033684	Proteins
+T5	MMLite 451 454	for
+N13	Reference T5 ConceptId:C1421525	WWOX gene
+N14	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 564 567	was
+N15	Reference T6 SemanticType:bacs	bacs
+N16	Reference T6 SemanticType:aapp	aapp
+N17	Reference T6 ConceptId:C1565156	WAS protein, human
+T7	MMLite 892 895	can
+N18	Reference T7 SemanticType:mnob	mnob
+N19	Reference T7 ConceptId:C1704712	Can - object
+T8	MMLite 63 66	for
+N20	Reference T8 ConceptId:C1421525	WWOX gene
+N21	Reference T8 SemanticType:gngm	gngm

@@ -1,0 +1,1915 @@
+30743888	IL-1β	B-chem
+30743888	IL-6	B-chem
+30743888	KC	B-chem
+30743888	coagulation factor VIII	B-chem
+30743888	coagulation factor VIII	B-chem
+30658746	rice glutelin	B-chem
+30658746	rice glutelin	B-chem
+30658746	rice glutelin	B-chem
+30658746	rice glutelin	B-chem
+30658746	rice glutelin	B-chem
+30658746	rice glutelin	B-chem
+30658746	rice glutelin	B-chem
+30658746	rice glutelin	B-chem
+30658746	rice glutelin	B-chem
+29452802	toll-like receptors 2 and	B-chem
+29452802	extracellular signal-regulated kinase 1/	B-chem
+29452802	phosphatidylinositol 3 kinase	B-chem
+30744889	trehalase	B-chem
+30744889	trehalase	B-chem
+30744889	FgNTH	B-chem
+30744889	trehalase	B-chem
+30744889	FgNTH deletion mutant ΔFgNTH	B-chem
+30744889	pathogenesis	B-chem
+30744889	PR1	B-chem
+30744889	PR2	B-chem
+30744889	PR5	B-chem
+30880703	AcrEF-TolC	B-chem
+30880703	AcrEF-TolC	B-chem
+30880703	AcrE	B-chem
+30880703	AcrF gene	B-chem
+30880703	AcrE	B-chem
+30880703	AcrE	B-chem
+30880703	AcrF	B-chem
+30880703	qnr genes	B-chem
+30880703	gyr region	B-chem
+30880703	AcrEF-TolC	B-chem
+30880703	AcrE	B-chem
+30642509	LYT	B-chem
+30642509	LYT	B-chem
+30642509	LYT	B-chem
+30704719	Gal4	B-chem
+30704719	cuticular proteins	B-chem
+30704719	Cyp4g1	B-chem
+30704719	Lcp1	B-chem
+30704719	cytochrome P450 monooxygenases	B-chem
+30704719	Cyp6g1	B-chem
+30704719	Cyp12d1	B-chem
+30704719	ATP binding cassette transporters	B-chem
+30704719	Mdr50	B-chem
+30704719	Mdr65	B-chem
+30704719	Mrp1	B-chem
+28594000	ROS1	B-chem
+28594000	ALK	B-chem
+28594000	orphan receptor tyrosine kinase	B-chem
+28594000	c-ros oncogene	B-chem
+28594000	ROS1	B-chem
+28594000	anaplastic lymphoma kinase	B-chem
+28594000	ALK	B-chem
+30458286	LncRNAs	B-chem
+30458286	LncRNAs	B-chem
+30458286	LncRNAs	B-chem
+30458286	LncRNAs	B-chem
+30458286	LncRNA-mRNA	B-chem
+30458286	Il6	B-chem
+30458286	LncRNAs	B-chem
+30458286	LncRNAs	B-chem
+30458286	NONRATT009530.2	B-chem
+30458286	LncRNAs	B-chem
+30458286	LncRNAs	B-chem
+30458286	LncRNAs	B-chem
+30458286	Il6	B-chem
+30458286	Ptprc	B-chem
+30458286	TOP2a	B-chem
+30458286	Fos	B-chem
+30458286	Myc	B-chem
+30711101	α-and β-amylase	B-chem
+30593917	Bmo-miR-79	B-chem
+30593917	BmEm4	B-chem
+30593917	E(spl)m4	B-chem
+30593917	Notch	B-chem
+30593917	E(spl)m4	B-chem
+30593917	BmEm4	B-chem
+30593917	E(spl)m4 from Bombyx mori	B-chem
+30593917	bmo-miR-79	B-chem
+30593917	Brd	B-chem
+30593917	BmEm4_3 ' UTR	B-chem
+30593917	dual luciferase	B-chem
+30593917	bmo-miR-79	B-chem
+30593917	BmEm4	B-chem
+30593917	bmo-miR-79	B-chem
+30593917	BmEm4	B-chem
+30593917	bmo-miR-79	B-chem
+30593917	BmAGO2	B-chem
+30593917	Bombyx mori argonaute2 protein	B-chem
+30593917	bmo-miR-79	B-chem
+30593917	BmEm4	B-chem
+30593917	miRISC complexes	B-chem
+30593917	BmAGO2	B-chem
+30593917	bmo-miR-79	B-chem
+30593917	BmEm4	B-chem
+30593917	BmAGO2	B-chem
+26639240	EBV	B-chem
+26639240	EBV	B-chem
+26639240	EBV encoded small RNA	B-chem
+26639240	EBER1	B-chem
+26639240	p16	B-chem
+26639240	p16-positive	B-chem
+26639240	ISH	B-chem
+26639240	HPV18	B-chem
+26639240	EBV	B-chem
+26639240	p16-negative	B-chem
+26639240	ISH	B-chem
+26639240	EBV	B-chem
+26639240	EBV-negative	B-chem
+26639240	EBV-positivity	B-chem
+26639240	EBV-positivity	B-chem
+26639240	HPV	B-chem
+30712583	Microcystin-LR	B-chem
+30712583	G-quadruplex/hemin DNAzyme	B-chem
+30712583	G-quadruplex/hemin	B-chem
+30712583	microcystin-LR	B-chem
+30712583	MC-LR	B-chem
+30712583	MC-LR antigens	B-chem
+30712583	G-quadruplex/	B-chem
+30712583	hemin	B-chem
+30712583	hemin	B-chem
+30712583	MC-LR	B-chem
+30712583	MC-LR	B-chem
+30759593	aquaporin genes	B-chem
+30759593	ZmPAL	B-chem
+30759593	ZmCCR2	B-chem
+30759593	ZmCAD6	B-chem
+30759593	lignin	B-chem
+30759593	ZmF5H	B-chem
+30782374	CDs	B-chem
+30782374	CDs	B-chem
+30782374	glucose oxidase	B-chem
+30784450	16S rRNA	B-chem
+30784450	microcystin	B-chem
+29699594	superoxide dismutase	B-chem
+29699594	serum follicle-stimulating hormone	B-chem
+29699594	luteinizing hormone	B-chem
+29699594	anti-mullerian hormone	B-chem
+26499151	MACC1 protein	B-chem
+26499151	metastasis-associated colon cancer	B-chem
+26499151	MACC1	B-chem
+26499151	MACC1 protein	B-chem
+26499151	MACC1	B-chem
+26499151	MACC1 protein	B-chem
+26499151	MACC1 protein	B-chem
+26499151	MACC1	B-chem
+26499151	MACC1 protein	B-chem
+26499151	MACC1	B-chem
+26499151	MACC1 protein	B-chem
+30658760	β-casein	B-chem
+30658760	lactoferrin	B-chem
+30658760	bile salt-stimulated lipase	B-chem
+30658760	β-casein	B-chem
+30658760	β-casein	B-chem
+29190205	angiotensin peptides	B-chem
+29190205	Renin angiotensin	B-chem
+29190205	RAS	B-chem
+29190205	RAS	B-chem
+29190205	RAS	B-chem
+29190205	angiotensin peptides	B-chem
+29190205	angiotensinogen	B-chem
+29190205	Angiotensin II	B-chem
+29190205	angiotensin(1-12)	B-chem
+29190205	angiotensin	B-chem
+29190205	angiotensin III	B-chem
+29190205	angiotensin II type 1 receptor	B-chem
+29190205	angiotensin II type 2 receptor	B-chem
+29190205	angiotensin II	B-chem
+29190205	angiotensin(1-9)	B-chem
+29190205	angiotensin(1-7)	B-chem
+29190205	angiotensin IV	B-chem
+30744816	SulA protein	B-chem
+30744816	ATP-dependent ClpYQ	B-chem
+30744816	ClpYQ	B-chem
+30744816	HslUV	B-chem
+30744816	ClpQ	B-chem
+30744816	ClpY	B-chem
+30744816	ATPase	B-chem
+30744816	unfoldase	B-chem
+30744816	ClpY	B-chem
+30744816	ClpQ	B-chem
+30744816	ClpYQ protease	B-chem
+30744816	ClpY	B-chem
+30744816	ClpQ hexamers	B-chem
+30744816	Lon	B-chem
+30744816	ClpYQ proteases	B-chem
+30744816	SulA	B-chem
+30744816	SulA	B-chem
+30744816	ClpYQ	B-chem
+30744816	SulA	B-chem
+30744816	MBP-SulA	B-chem
+30744816	SulA	B-chem
+30744816	ClpYQ	B-chem
+30744816	MBP-SulA	B-chem
+30744816	MBP-SulA	B-chem
+30744816	ClpYQ protease	B-chem
+30744816	MBP-SulA	B-chem
+30744816	MBP-SulA	B-chem
+30744816	E . coli ClpYQ protease complex	B-chem
+30744816	ClpY	B-chem
+30744816	SulA	B-chem
+30744816	SulA	B-chem
+30744816	ClpYQ protease	B-chem
+28611362	TGF-β	B-chem
+28611362	Smad	B-chem
+28611362	TGF-β	B-chem
+28611362	Smad	B-chem
+30552979	hsa-mir-15a	B-chem
+30552979	hsa-mir-484	B-chem
+30552979	hsa-mir-30d	B-chem
+30552979	hsa-mir-145	B-chem
+30552979	hsa-mir-363	B-chem
+30552979	has-let-7e	B-chem
+30552979	hsa-mir-30a	B-chem
+30552979	hsa-let-7b	B-chem
+30552979	hsa-mir-146a	B-chem
+30552979	Acid sphingomyelinase	B-chem
+30521888	lncRNA-HOTAIR transcript	B-chem
+30521888	HOTAIR transcript	B-chem
+30521888	HOXC gene cluster	B-chem
+30521888	lncRNA-HOTAIR transcript	B-chem
+30521888	HOTAIR gene promoter	B-chem
+30521888	lncRNA-HOTAIR transcript	B-chem
+30521888	lncRNA-HOTAIR	B-chem
+30521888	lncRNA-HOTAIR	B-chem
+30521888	lncRNA-HOTAIR transcript	B-chem
+30521888	HOTAIR gene promoter	B-chem
+30521888	HOTAIR gene	B-chem
+30782376	alkaline phosphatase	B-chem
+30782376	alkaline phosphatase	B-chem
+30782376	ALP	B-chem
+30782376	ALP	B-chem
+30782376	ALP	B-chem
+30001502	adenosine deaminase	B-chem
+30001502	xanthine oxidase	B-chem
+30001502	adenosine deaminase	B-chem
+30001502	ADA	B-chem
+30001502	xanthine oxidase	B-chem
+30001502	XO	B-chem
+30001502	hepatic ADA	B-chem
+30001502	XO	B-chem
+30001502	HDL-cholesterol	B-chem
+30001502	XO	B-chem
+30001502	ADA	B-chem
+30001502	ADA	B-chem
+30001502	XO	B-chem
+30744893	Hexokinase-1	B-chem
+30744893	Hexokinase	B-chem
+30744893	Hexokinase	B-chem
+30744893	Hex	B-chem
+30744893	Hex-1	B-chem
+30744893	Hex-1	B-chem
+30744893	TZP	B-chem
+30744893	dsHex-1	B-chem
+30744893	Hex-1	B-chem
+30744893	Hex-1	B-chem
+30744893	vitellogenin	B-chem
+30744893	NlVg	B-chem
+30744893	vitellogenin receptor	B-chem
+30744893	NlVgR	B-chem
+30744893	TZP	B-chem
+30744893	dsHex-1	B-chem
+30744893	TZP	B-chem
+30744893	dsGFP	B-chem
+30744893	TZP	B-chem
+30744893	dsHex-1	B-chem
+30744893	vitellogenin	B-chem
+30744893	Vg	B-chem
+30744893	dsGFP	B-chem
+30744893	Hex-1	B-chem
+30744893	NlVg	B-chem
+30543962	mir-30c-1-3p	B-chem
+30543962	transforming growth factor β type II receptor	B-chem
+30543962	Col1a1	B-chem
+30543962	Col3a1	B-chem
+30543962	alpha-SMA	B-chem
+30543962	fibronectin	B-chem
+30543962	TGFβR2	B-chem
+30543962	mir-30c-1-3p	B-chem
+30543962	luciferase reporter	B-chem
+30543962	mir-30c-1-3p	B-chem
+30543962	TGFβR2	B-chem
+30543962	TGFβR2	B-chem
+30543962	mir-30c-1-3p	B-chem
+30543962	Dual-luciferase reporter gene	B-chem
+30543962	TGFβR2	B-chem
+30543962	mir-30c-1-3p	B-chem
+30543962	mir-30c-1-3p	B-chem
+30543962	TGFβR2	B-chem
+30743858	TX5	B-chem
+30743858	TX5	B-chem
+30743858	denitrifying nitrite reductase	B-chem
+30743858	dNiR	B-chem
+29210643	adiponectin	B-chem
+29210643	adipocyte fatty acid binding protein	B-chem
+29210643	C1q	B-chem
+29210643	TNF-related proteins	B-chem
+29210643	interleukin-6	B-chem
+29210643	irisin	B-chem
+29210643	fibroblast growth factor 21	B-chem
+30744819	Lewis blood group antigens	B-chem
+30744819	LeB	B-chem
+30744819	LeX	B-chem
+30744819	LeY	B-chem
+30744819	sLeX	B-chem
+30744819	pentaose	B-chem
+30744819	LeY	B-chem
+30235719	beta-hCG	B-chem
+30235719	Beta-hCG	B-chem
+30235719	ALT	B-chem
+30235719	AST	B-chem
+30235719	beta-hCG	B-chem
+30235719	NLRP7	B-chem
+30235719	KHDC3L	B-chem
+30235719	P-glycoprotein family	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+26454209	high-density lipoproteins	B-chem
+26454209	Aβ	B-chem
+26454209	APP	B-chem
+26454209	PS1	B-chem
+26454209	high-density lipoprotein	B-chem
+26454209	HDL	B-chem
+26454209	apolipoprotein(apo)A-I	B-chem
+26454209	HDL	B-chem
+26454209	apoA-I	B-chem
+26454209	HDL	B-chem
+26454209	rHDL	B-chem
+26454209	human apoA-I	B-chem
+26454209	amyloid beta	B-chem
+26454209	Aβ	B-chem
+26454209	APP	B-chem
+26454209	rHDL	B-chem
+26454209	Aβ42	B-chem
+26454209	rHDL	B-chem
+26454209	Aβ	B-chem
+26454209	rHDL	B-chem
+26454209	rHDL	B-chem
+26454209	rHDL	B-chem
+26454209	Aβ	B-chem
+26454209	rHDL	B-chem
+26454209	Aβ	B-chem
+26454209	rHDL	B-chem
+26454209	Aβ	B-chem
+26454209	apoA-I	B-chem
+30759598	cork	B-chem
+30759598	Cork	B-chem
+30759598	cork	B-chem
+30759598	cork	B-chem
+30080988	Calreticulin type I and II	B-chem
+30080988	Calreticulin	B-chem
+30080988	CALR	B-chem
+30080988	JAK2	B-chem
+30080988	MPL	B-chem
+30080988	CALR	B-chem
+30080988	CALR type I and II mutations	B-chem
+30080988	CALR wild-type and type I and II mutants	B-chem
+30080988	CALR type I and II mutants	B-chem
+30080988	CALR	B-chem
+30080988	CALR	B-chem
+30382274	insulin	B-chem
+30382274	insulinaemia	B-chem
+30382274	insulinaemia	B-chem
+30382274	insulin	B-chem
+30382274	insulin	B-chem
+26499152	NEK-6	B-chem
+26499152	NEK-6	B-chem
+26499152	NEK-6	B-chem
+26499152	NEK-6	B-chem
+26499152	NEK-6	B-chem
+26499152	NEK-6	B-chem
+26499152	NEK-6	B-chem
+26499152	NEK-6	B-chem
+26499152	NEK-6	B-chem
+26499152	NEK-6	B-chem
+26499152	NEK-6	B-chem
+26499152	NEK-6	B-chem
+30784446	GO	B-chem
+30784446	GO	B-chem
+30784446	NIR	B-chem
+30784446	HDH	B-chem
+30744888	CYP51	B-chem
+30744888	CYP51 coding region	B-chem
+30744888	CYP51 gene	B-chem
+30710774	nitrate reductase	B-chem
+30710774	NADH-NR	B-chem
+30710774	EC 1.7.1.1	B-chem
+30710774	nitrite reductase	B-chem
+30710774	ferredoxin [Fd]-NiR	B-chem
+30710774	EC 1.7.7.1	B-chem
+30710774	glutamine synthetase	B-chem
+30710774	GS2	B-chem
+30710774	EC 6.3.1.2	B-chem
+30710774	glutamate synthase	B-chem
+30710774	Fd-GOGAT	B-chem
+30710774	EC 1.4.7.1	B-chem
+30710774	NR	B-chem
+30710774	Fd-NIR	B-chem
+30710774	Fd-GOGAT	B-chem
+30710774	Fd-GOGAT	B-chem
+30710774	Fd-NADP+ reductase	B-chem
+30710774	FNR	B-chem
+30710774	EC 1.6.7.1	B-chem
+30710774	NR	B-chem
+30710774	NIR	B-chem
+30710774	GS2	B-chem
+30710774	Fd-GOGAT	B-chem
+30710774	OPPP enzymes	B-chem
+30710774	FNR	B-chem
+30710774	Fd	B-chem
+30710774	GS1	B-chem
+30759552	lysozyme	B-chem
+30759552	transforming growth factor beta	B-chem
+30759552	interleukin 10	B-chem
+30759552	interleukin 1b	B-chem
+30759552	glutathione peroxidase	B-chem
+23566289	Serum Soluble-Fas	B-chem
+23566289	Serum soluble-Fas	B-chem
+23566289	sFas	B-chem
+23566289	sFas	B-chem
+23566289	sFas	B-chem
+23566289	erythropoietin	B-chem
+23566289	Epo	B-chem
+23566289	hemoglobin	B-chem
+23566289	Hb	B-chem
+23566289	Serum sFas	B-chem
+23566289	Epo	B-chem
+23566289	tumor necrosis factor-alpha	B-chem
+23566289	TNF-α	B-chem
+23566289	interleukin(IL)-6	B-chem
+23566289	IL-10	B-chem
+23566289	Hb	B-chem
+23566289	Epo	B-chem
+23566289	Hb	B-chem
+23566289	Serum sFas	B-chem
+23566289	IL-6	B-chem
+23566289	TNF-α	B-chem
+23566289	ferritin	B-chem
+23566289	Hb	B-chem
+23566289	serum IL-6	B-chem
+23566289	sFas	B-chem
+23566289	Epo	B-chem
+23566289	serum sFas	B-chem
+23566289	IL-6	B-chem
+23566289	serum sFas	B-chem
+23566289	Hb	B-chem
+23566289	Serum Epo	B-chem
+23566289	sFas	B-chem
+30743879	crystal	B-chem
+30743879	Cry	B-chem
+30743879	Cry protein	B-chem
+30743879	Cry1Ab	B-chem
+30743879	Cry1Ac	B-chem
+30743879	Cry protein	B-chem
+30743879	Cry protein	B-chem
+30594026	hyperelatone	B-chem
+30594026	hyperelatones	B-chem
+30594026	hyperelatones	B-chem
+30724222	DATEM	B-chem
+30724222	DATEM	B-chem
+30736902	Anti-IBA-1	B-chem
+30736902	anti-GFAP antibodies	B-chem
+30736902	TUNEL	B-chem
+30683396	peroxidase	B-chem
+30683396	horseradish peroxidase	B-chem
+30683396	HRP	B-chem
+30683396	glucose oxidase	B-chem
+30503395	Zinc finger antisense	B-chem
+30503395	Zinc finger antisense	B-chem
+30503395	ZFAS1	B-chem
+30503395	zinc finger NFX1-type containing	B-chem
+30503395	C/D-box small nucleolar RNAs	B-chem
+30503395	Snord12	B-chem
+30503395	Snord12b	B-chem
+30503395	Snord12c	B-chem
+30503395	ZFAS1	B-chem
+30503395	ZFAS1	B-chem
+30503395	ZFAS1	B-chem
+30503395	ZFAS1	B-chem
+30783609	PINK1	B-chem
+30783609	VCP	B-chem
+30783609	p97	B-chem
+30783609	PKA	B-chem
+30783609	NSFL1C	B-chem
+30783609	p47	B-chem
+30783609	PTEN-induced kinase	B-chem
+30783609	PINK1	B-chem
+30783609	valosin-containing protein	B-chem
+30783609	VCP	B-chem
+30783609	PINK1-interacting	B-chem
+30783609	VCP	B-chem
+30783609	NSFL1C	B-chem
+30783609	p47	B-chem
+30783609	PINK1	B-chem
+30783609	PINK1	B-chem
+30783609	p47	B-chem
+30783609	VCP co-factor	B-chem
+30783609	UFD1	B-chem
+30783609	VCP	B-chem
+30783609	p47	B-chem
+30783609	PKA	B-chem
+30783609	PINK1	B-chem
+30783609	PKA	B-chem
+30783609	PKAcat(pT197)	B-chem
+30783609	PKA holoenzyme	B-chem
+30783609	PKA	B-chem
+30783609	p47	B-chem
+30783609	PINK1	B-chem
+30783609	PKA holoenzyme	B-chem
+30783609	VCP-p47	B-chem
+30783609	PINK1	B-chem
+30783609	PINK1-VCP-PKA-p47	B-chem
+30783609	PINK1	B-chem
+30783609	VCP	B-chem
+30736903	apelin	B-chem
+30736903	apelin	B-chem
+30736903	apelin	B-chem
+30736903	apelin	B-chem
+30736903	apelin receptor	B-chem
+30736903	APJ	B-chem
+30736903	apelin	B-chem
+30736903	apelin	B-chem
+30736903	apelin receptor	B-chem
+30736903	apelin receptor	B-chem
+30736903	Apelin receptor	B-chem
+30736903	Apelin protein	B-chem
+30736903	apelin receptor	B-chem
+30736903	APJ receptor	B-chem
+30712585	peroxidase	B-chem
+30712585	peroxidase	B-chem
+30712585	peroxidase	B-chem
+30712585	Horseradish peroxidase	B-chem
+30712585	HRP	B-chem
+30782361	Ro	B-chem
+30782361	La protein autoantigens	B-chem
+30782361	Ro	B-chem
+30782361	La protein autoantigens	B-chem
+30782361	tdTomato	B-chem
+26506125	NFkB	B-chem
+26506125	EZH2	B-chem
+26506125	NFkB	B-chem
+26506125	NFkB	B-chem
+26506125	SAH-induced	B-chem
+26506125	SAH	B-chem
+26506125	S-adenosylmethionine-dependent methyltransferases	B-chem
+26506125	EZH2 methyltransferase	B-chem
+26506125	SAH-induced	B-chem
+26506125	SAH	B-chem
+26506125	NFkB	B-chem
+26506125	IkB	B-chem
+26506125	SAH	B-chem
+26506125	NFkB	B-chem
+26506125	EZH2	B-chem
+26506125	histone 3 lysine 27	B-chem
+26506125	EZH2	B-chem
+26506125	SAH	B-chem
+26506125	NFkB	B-chem
+26506125	EZH2	B-chem
+26506125	SAH	B-chem
+26506125	NFkB	B-chem
+26506125	SAH	B-chem
+26506125	EZH2	B-chem
+26506125	NFkB	B-chem
+26506125	SAH	B-chem
+30735108	CD40	B-chem
+30735108	TRAF1	B-chem
+30735108	nuclear factor-κκB-dependent	B-chem
+30735108	collagen	B-chem
+30735108	CD40	B-chem
+30735108	tumour necrosis factor receptor-associated factor-1	B-chem
+30735108	TRAF1	B-chem
+30735108	CD40	B-chem
+30735108	TRAF1	B-chem
+30735108	nuclear factor-κB	B-chem
+30735108	NF-κB	B-chem
+30735108	collagen	B-chem
+30735108	CD40	B-chem
+30735108	TRAF1	B-chem
+30735108	NF-κB	B-chem
+30735108	p65	B-chem
+30735108	NF-κB-related gene	B-chem
+30735108	tumour necrosis factor-α	B-chem
+30735108	TNF-α	B-chem
+30735108	interleukin-6	B-chem
+30735108	IL-6	B-chem
+30735108	intercellular adhesion molecule-1	B-chem
+30735108	ICAM-1	B-chem
+30735108	vascular adhesion molecule-1	B-chem
+30735108	VCAM-1	B-chem
+30735108	CD40	B-chem
+30735108	TRAF1	B-chem
+30735108	NF-κB	B-chem
+30735108	p65	B-chem
+30735108	CD40	B-chem
+30735108	TRAF1	B-chem
+30735108	NF-κB	B-chem
+30735108	p65	B-chem
+30735108	phospho-NF-κB p65 proteins	B-chem
+30735108	NF-κB-related gene	B-chem
+30735108	TNFα	B-chem
+30735108	IL-6	B-chem
+30735108	ICAM-1	B-chem
+30735108	VCAM-1	B-chem
+30735108	CD40	B-chem
+30735108	TRAF1	B-chem
+30735108	CD40	B-chem
+30735108	TRAF1 proteins	B-chem
+30735108	NF-κB-dependent	B-chem
+28590721	Iron Phthalocyanine-Albumin	B-chem
+28590721	human serum albumin	B-chem
+30824056	CYCLOPS	B-chem
+30824056	CYCLOPS	B-chem
+30824056	IPD3	B-chem
+30824056	AhCYCLOPS	B-chem
+30824056	AhCYCLOPS	B-chem
+30824056	Medicago truncatula ipd3 mutants	B-chem
+30824056	AhCYCLOPS	B-chem
+30824056	AhCYCLOPS	B-chem
+30824056	AhCYCLOPS	B-chem
+30824056	AhCYCLOPS	B-chem
+30415005	miR-423-5p	B-chem
+30415005	GRIM-19	B-chem
+30415005	miR-423-5p	B-chem
+30415005	miR-423-5p	B-chem
+30415005	GRIM-19	B-chem
+30415005	Dual luciferase reporter	B-chem
+30415005	miR-423-5p	B-chem
+30415005	GRIM-19	B-chem
+30415005	miR-423-5p	B-chem
+30415005	GRIM-19	B-chem
+30415005	miR-423-5p	B-chem
+30415005	anti-	B-chem
+30415005	BCL-2	B-chem
+30415005	GRIM-19	B-chem
+30415005	miR-423-5p	B-chem
+30415005	GRIM-19	B-chem
+30415005	miR-423-5p	B-chem
+30415005	miR-423-5p	B-chem
+30415005	GRIM-19	B-chem
+30415005	miR-423-5p	B-chem
+30415005	miR-423-5p	B-chem
+30415005	GRIM-19	B-chem
+30415005	miR-423-5p	B-chem
+30415005	GRIM-19	B-chem
+30068241	miR-29b	B-chem
+30068241	FOXP1	B-chem
+30068241	miR-29b	B-chem
+30068241	miR-29b	B-chem
+30068241	miR-29b	B-chem
+30068241	CCK-8	B-chem
+30068241	Dual-Luciferase	B-chem
+30068241	miR-29b	B-chem
+30068241	FOXP1	B-chem
+30068241	miR-29b	B-chem
+30068241	miR-29b	B-chem
+30068241	miR-29b	B-chem
+30068241	miR-29b	B-chem
+30068241	FOXP1	B-chem
+30068241	miR-29b	B-chem
+30068241	FOXP1	B-chem
+30068241	miR-29b-induced	B-chem
+30068241	miR-29b	B-chem
+30068241	miR-29b	B-chem
+30068241	FOXP1	B-chem
+30599235	SAP30L-AS1	B-chem
+30599235	SAP30L	B-chem
+30599235	LncRNA SAP30L-AS1	B-chem
+30599235	SAP30L-AS1	B-chem
+30599235	SAP30L-AS1	B-chem
+30599235	SAP30L-AS1	B-chem
+30599235	SAP30L-AS1	B-chem
+30599235	SAP30L-AS1	B-chem
+30599235	SAP30L-AS1	B-chem
+30599235	SAP30L-AS1	B-chem
+30599235	SAP30L-AS1	B-chem
+30599235	SAP30L	B-chem
+30599235	SAP30L	B-chem
+30599235	SAP30L	B-chem
+30599235	SAP30L-AS1	B-chem
+30599235	SAP30L	B-chem
+30599235	SAP30L-AS1	B-chem
+30599235	SAP30L-AS1	B-chem
+30599235	SAP30L	B-chem
+30599235	SAP30L-AS1	B-chem
+26499153	miR-204	B-chem
+26499153	mitochondrial transcription factor	B-chem
+26499153	Mitochondrial transcription factor	B-chem
+26499153	TFAM	B-chem
+26499153	MiR-204	B-chem
+26499153	Dual luciferase	B-chem
+26499153	TFAM	B-chem
+26499153	miR-204	B-chem
+26499153	Anti-miR-204	B-chem
+26499153	miR-240	B-chem
+26499153	miR-204	B-chem
+26499153	TFAM protein	B-chem
+26499153	miR-204	B-chem
+26499153	miR-211	B-chem
+26499153	miR-214	B-chem
+26499153	miR-381	B-chem
+26499153	miR-590-3p	B-chem
+26499153	miR-204	B-chem
+26499153	miR-211	B-chem
+26499153	miR-214	B-chem
+26499153	miR-381	B-chem
+26499153	miR-590-3p	B-chem
+26499153	miR-204	B-chem
+26499153	miR-211	B-chem
+26499153	miR-214	B-chem
+26499153	miR-381	B-chem
+26499153	miR-590-3p	B-chem
+26499153	miR-204	B-chem
+26499153	miR-204	B-chem
+26499153	TFAM	B-chem
+26499153	Dual luciferase	B-chem
+26499153	TFAM	B-chem
+26499153	miR-204	B-chem
+26499153	TFAM	B-chem
+26499153	miR-204	B-chem
+26499153	miR-204	B-chem
+26499153	TFAM	B-chem
+30458287	MiR-202-3p	B-chem
+30458287	interleukin-1β-induced	B-chem
+30458287	matrix metalloproteinase	B-chem
+30458287	miR-202-3p	B-chem
+30458287	interleukin-1β	B-chem
+30458287	IL-1β)-induced	B-chem
+30458287	matrix metalloproteinase	B-chem
+30458287	MMP-1	B-chem
+30458287	IL-1β	B-chem
+30458287	IL-1β-stimulated	B-chem
+30458287	hsa-miR-202-3p	B-chem
+30458287	miR-202-3p	B-chem
+30458287	miR-202-3p	B-chem
+30458287	IL-1β	B-chem
+30458287	MMP-1	B-chem
+30458287	IL-1β-induced	B-chem
+30458287	MAP kinase	B-chem
+30458287	MAPK	B-chem
+30458287	nuclear factor-κB	B-chem
+30458287	NF-κB	B-chem
+30458287	miR-202-3p	B-chem
+30458287	MMP-1	B-chem
+30458287	MiR-202-3p	B-chem
+30458287	IL-1β-induced	B-chem
+30458287	MMP-1	B-chem
+30458287	anti-miR-202-3p	B-chem
+30458287	MMP-1	B-chem
+30458287	miR-202-3p binding site	B-chem
+30458287	MMP-1 mRNA	B-chem
+30458287	miR-202-3p	B-chem
+30458287	miR-202-3p	B-chem
+30458287	type II collagen	B-chem
+30458287	MMP-1	B-chem
+30458287	Lentiviral-shMMP-1	B-chem
+30458287	miR-202-3p	B-chem
+30458287	type II collagen	B-chem
+30458287	miR-202-3p	B-chem
+30458287	MMP-1	B-chem
+28606865	growth hormone	B-chem
+28606865	IGF-I	B-chem
+28606865	insulin	B-chem
+28606865	growth hormone	B-chem
+28606865	GH	B-chem
+28606865	insulin-like growth factor-1	B-chem
+28606865	IGF-I	B-chem
+28606865	insulin	B-chem
+28606865	GH	B-chem
+28606865	IGF-I	B-chem
+28606865	insulin	B-chem
+30765055	CYP6ER1	B-chem
+30765055	cytochrome P450	B-chem
+30765055	P450 genes	B-chem
+30765055	CYP6ER1	B-chem
+30765055	CYP6AY1	B-chem
+30765055	CYP6ER1	B-chem
+30765055	CYP6ER1	B-chem
+26454207	mdx	B-chem
+26454207	dysf(-/-	B-chem
+26454207	phospho-histone H3	B-chem
+26454207	PHH3	B-chem
+26454207	MyoD protein	B-chem
+26454207	mitogen-activated protein kinase	B-chem
+26454207	extracellular signal-regulated protein kinase	B-chem
+26454207	dysf(-/-	B-chem
+26454207	Bax	B-chem
+26454207	Bcl2	B-chem
+26454207	Akt	B-chem
+26454207	phosphinositide-3-kinase	B-chem
+26454207	Akt	B-chem
+30857102	cytochrome P450 monooxygenase	B-chem
+30857102	superoxide dismutase	B-chem
+30857102	catalase	B-chem
+30857102	cytochrome P450	B-chem
+30857102	CYP	B-chem
+30857102	CYP gene	B-chem
+30857102	CYP	B-chem
+26616814	PDZ-binding motif	B-chem
+26616814	TAZ	B-chem
+26616814	PDZ-binding motif	B-chem
+26616814	TAZ protein	B-chem
+26616814	TAZ	B-chem
+26616814	TAZ	B-chem
+26616814	TAZ protein	B-chem
+26616814	TAZ	B-chem
+26616814	TAZ protein	B-chem
+26616814	TAZ	B-chem
+26616814	TAZ	B-chem
+26616814	TAZ	B-chem
+26616814	TAZ protein	B-chem
+30597234	miR-126	B-chem
+30597234	ERRFI1	B-chem
+30597234	miR-126	B-chem
+30597234	miR-126	B-chem
+30597234	miR-126	B-chem
+30597234	miR-126	B-chem
+30597234	Tunel	B-chem
+30597234	JC-1	B-chem
+30597234	LDH	B-chem
+30597234	miR-126	B-chem
+30597234	miR-126	B-chem
+30597234	miR-126	B-chem
+30597234	MiR-126	B-chem
+30597234	JC-1	B-chem
+30597234	miR-126	B-chem
+30597234	miR-126	B-chem
+30597234	ERRFI1	B-chem
+30597234	miR-126	B-chem
+30597234	ERRFI1	B-chem
+30597234	miR-126	B-chem
+30597234	miR-126	B-chem
+30597234	miR-126	B-chem
+30683818	cyclooxygenase-2	B-chem
+30683818	cyclooxygenase-2	B-chem
+30683818	COX-2	B-chem
+30683818	COX-2	B-chem
+30683818	COX-2	B-chem
+30683818	COX-2	B-chem
+30683818	PGE22	B-chem
+30683818	Cyclooxygenases	B-chem
+30683818	COX-2	B-chem
+30683818	PGE2	B-chem
+30683818	COX-2	B-chem
+30683818	PG receptors	B-chem
+30683818	COX-2	B-chem
+30683818	PGE2 receptors	B-chem
+26639231	Cathepsin	B-chem
+26639231	Cathepsin	B-chem
+26639231	CTSL	B-chem
+26639231	lysosomal endopeptidase	B-chem
+26639231	CTSL	B-chem
+26639231	CTSL small hairpin RNAs	B-chem
+26639231	CTSL-shRNA	B-chem
+26639231	CTSL	B-chem
+26639231	CTSL	B-chem
+26639231	CTSL	B-chem
+26639231	CTSL	B-chem
+26639231	CTSL	B-chem
+26639231	CTSL	B-chem
+30621866	Tn6188	B-chem
+30621866	antimicrobial resistance genes	B-chem
+30621866	mprF	B-chem
+30621866	fosX	B-chem
+30621866	mprF antimicrobial resistance gene	B-chem
+30765057	cytochrome P450 CYP6AB60 gene	B-chem
+30765057	cytochrome P450 gene	B-chem
+30765057	CYP6AB60	B-chem
+30765057	P450	B-chem
+30765057	CYP6AB60 transcript	B-chem
+30765057	CYP6AB60	B-chem
+30765057	CYP6AB60	B-chem
+30765057	CYP6AB60	B-chem
+30765057	CYP6AB60	B-chem
+30765057	gene CYP6AB60	B-chem
+30765057	CYP6AB60	B-chem
+30597233	microRNA	B-chem
+30597233	miR160	B-chem
+30597233	miR166	B-chem
+30597233	miR168	B-chem
+30597233	miR172	B-chem
+30597233	miR319	B-chem
+30597233	miR390 families	B-chem
+30597233	miR167	B-chem
+30597233	miR396 families	B-chem
+30597233	miR156	B-chem
+30597233	miR166	B-chem
+30597233	miR167	B-chem
+30597233	miR399	B-chem
+30597233	miR408	B-chem
+30597233	miR2275 families	B-chem
+30597233	miR319	B-chem
+30597233	miR396	B-chem
+29077529	tumor necrosis factor-alpha	B-chem
+29077529	tumor necrosis factor-alpha	B-chem
+29077529	tumor necrosis factor-alpha	B-chem
+25881691	Rat C-peptide	B-chem
+25881691	rat insulin	B-chem
+25881691	VMAT2	B-chem
+25881691	rat insulin	B-chem
+25881691	rat C-peptide	B-chem
+25881691	VMAT2	B-chem
+25881691	insulinomas	B-chem
+25881691	VMAT2	B-chem
+30743866	urease	B-chem
+30743866	Urease	B-chem
+30743866	urease	B-chem
+30743866	Green UreaNV®	B-chem
+30743866	Urea	B-chem
+30743866	Green UreaNV®	B-chem
+30743866	Urea	B-chem
+30743866	Green UreaNV®	B-chem
+30743866	Urea	B-chem
+30611468	HtyOle	B-chem
+30611468	HtyOle	B-chem
+30611468	inducible NO synthase	B-chem
+30611468	cyclooxygenase-2	B-chem
+30611468	interleukin-1β	B-chem
+30611468	HtyOle	B-chem
+30611468	HtyOle	B-chem
+30611468	HtyOle	B-chem
+30857098	MeHg	B-chem
+30591638	Hemp	B-chem
+30591638	hemp	B-chem
+30591638	hemp	B-chem
+30824054	Ca2+-dependent nuclease	B-chem
+30824054	AtCaN2	B-chem
+30824054	Eukaryotic nucleases	B-chem
+30824054	Ca2+-dependent nuclease	B-chem
+30824054	AtCaN2	B-chem
+30824054	AtCaN2	B-chem
+30824054	AtCaN2	B-chem
+30824054	AtCaN2	B-chem
+30824054	atcan2 mutant	B-chem
+30824054	AtAPX1	B-chem
+30824054	AtGPX8	B-chem
+30824054	AtSOD1	B-chem
+30824054	ascorbate peroxidase	B-chem
+30824054	glutathione peroxidase	B-chem
+30824054	superoxide dismutase	B-chem
+30824054	atcan2 mutant	B-chem
+30824054	AtCaN2-overexpressing	B-chem
+30824054	atcan2 mutant	B-chem
+30824054	AtCaN2	B-chem
+30824054	AtCaN2	B-chem
+30841783	Progesterone receptor	B-chem
+30841783	hormone-receptor	B-chem
+30841783	hormone receptor	B-chem
+30841783	growth factor receptor	B-chem
+30841783	progesterone receptor	B-chem
+30841783	Progesterone receptor	B-chem
+30841783	Ki67	B-chem
+30841783	estrogen-receptor	B-chem
+30841783	progesterone-receptor	B-chem
+30841783	progesterone-receptor	B-chem
+30841783	progesterone-receptor	B-chem
+30841783	progesterone-receptor	B-chem
+30841783	progesterone receptor	B-chem
+30841783	progesterone receptor	B-chem
+30841783	Ki67	B-chem
+30841783	progesterone receptor	B-chem
+30841783	estrogen-receptor	B-chem
+30841783	progesterone receptor	B-chem
+30712551	tyrosine kinase	B-chem
+30712551	tyrosine kinase	B-chem
+30712551	Col1A1	B-chem
+30712551	Col3A1	B-chem
+30712551	MMPs	B-chem
+30712551	Col1A1	B-chem
+30712551	Col3A1	B-chem
+30712551	MMP	B-chem
+28005299	Selectin Ligands	B-chem
+28005299	Selectin	B-chem
+28005299	selectin tetrasaccharide sialyl-LewisX	B-chem
+28005299	SLeX	B-chem
+28005299	selectins	B-chem
+28005299	SLeX	B-chem
+28005299	E-, L-, and P-selectins	B-chem
+28588231	EFNA1	B-chem
+28588231	SLC50A1	B-chem
+28588231	MCM6	B-chem
+28588231	LCT	B-chem
+28588231	SI	B-chem
+28588231	MGAM	B-chem
+28588231	MGAM2	B-chem
+28588231	SLC5A10	B-chem
+28588231	SLC5A1	B-chem
+28588231	MCM6	B-chem
+28588231	LCT	B-chem
+28588231	SLC5A10	B-chem
+28588231	HbA1c	B-chem
+28588231	SLC5A1	B-chem
+30725063	HNF1B gene	B-chem
+30725063	hepatocyte nuclear factor 1B	B-chem
+30725063	HNF1B	B-chem
+30725063	HNF1B gene	B-chem
+30725063	HNF1B variants	B-chem
+30725063	HNF1B gene	B-chem
+30806240	Lutein	B-chem
+30806240	PI3K	B-chem
+30806240	AKT	B-chem
+30806240	mTOR	B-chem
+30806240	Lutein	B-chem
+30806240	lutein	B-chem
+30806240	lutein	B-chem
+30806240	lutein	B-chem
+30806240	lutein	B-chem
+30806240	TUNEL	B-chem
+30806240	terminal deoxynucleotidyltransferase	B-chem
+30806240	lutein	B-chem
+30806240	phosphoinositide 3-kinase	B-chem
+30806240	PI3K	B-chem
+30806240	AKT	B-chem
+30806240	lutein	B-chem
+30806240	PI3K	B-chem
+30806240	AKT	B-chem
+28079958	O2-Tolerant Hydrogenase	B-chem
+28079958	NAD+-reducing [ NiFe] hydrogenase	B-chem
+28079958	hydrogenases	B-chem
+30759554	ACT	B-chem
+30759554	ACT	B-chem
+30759554	ACT	B-chem
+30759554	thyroid hormone receptors	B-chem
+30759554	TRα	B-chem
+30759554	TRβ	B-chem
+30759554	deiodinase2	B-chem
+30759554	Dio2	B-chem
+30759554	thyroid-stimulating hormone-β	B-chem
+30759554	TSHβ	B-chem
+30759554	TR	B-chem
+30759554	TRs	B-chem
+30759554	ACT	B-chem
+30759554	THs	B-chem
+30759554	TH-related key genes	B-chem
+30759554	TRs	B-chem
+30686450	metallothioneins	B-chem
+30686450	NFE2-related nuclear factor	B-chem
+30686450	Nrf2	B-chem
+30686450	nuclear transcription factor κB	B-chem
+30686450	NF-κB	B-chem
+30685586	FeONPs	B-chem
+30685586	FeONPs	B-chem
+30685586	FeONPs	B-chem
+30685586	FeONPs	B-chem
+30685586	FeONPs	B-chem
+30685586	FeONPs	B-chem
+30685586	FeONPs	B-chem
+30685586	FeONPs	B-chem
+30453065	miR-328	B-chem
+30453065	PAX6 gene	B-chem
+30453065	miR-328	B-chem
+30453065	PAX6 gene	B-chem
+30453065	paired box homeotic gene	B-chem
+30453065	miR-328	B-chem
+30453065	PAX6(rs662702	B-chem
+30453065	PAX6 gene	B-chem
+30453065	MiR-328	B-chem
+30453065	miR-328	B-chem
+30453065	PAX6 gene(rs662702)	B-chem
+30453065	miR-328	B-chem
+30453065	mir-328	B-chem
+30453065	PAX6 gene(rs662702	B-chem
+30784437	Ag-Hg	B-chem
+30824057	SOC1-like	B-chem
+30824057	AcSVP2	B-chem
+30824057	SHORT VEGETATIVE PHASE(	B-chem
+30824057	SVP)-like	B-chem
+30824057	DORMANCY ASSOCIATED	B-chem
+30824057	MADS-BOX(	B-chem
+30824057	DAM	B-chem
+30824057	AcSVP2	B-chem
+30824057	AcSVP2	B-chem
+30824057	AcSVP2	B-chem
+30824057	histone H3K4	B-chem
+30824057	histone H3	B-chem
+30824057	AcSVP2	B-chem
+30824057	histone H3K27	B-chem
+30824057	H3K9	B-chem
+30824057	AcSVP2 locus	B-chem
+30824057	AcSVP2 transcript	B-chem
+30824057	CONSTANS1	B-chem
+30824057	SOC1	B-chem
+30824057	AcSVP2	B-chem
+30824057	kiwifruit	B-chem
+30824057	SOC1-like genes	B-chem
+30824057	AcSVP2 promoter	B-chem
+30824057	AcSVP2	B-chem
+30765059	Annexin V-FITC	B-chem
+30765059	FITC-phalloidin	B-chem
+30765059	actin	B-chem
+30857630	P450	B-chem
+30857630	P450	B-chem
+30857630	Glutathione-S-transferase	B-chem
+30857630	GST	B-chem
+30857630	GST	B-chem
+30857630	ALS	B-chem
+30857630	ALS	B-chem
+30857630	ALS gene	B-chem
+30857630	ALS gene sequence	B-chem
+30857630	ALS	B-chem
+27159019	Taq	B-chem
+27159019	Vent(exo-)DNA polymerases	B-chem
+27159019	dihydrofolate reductase	B-chem
+30782365	Zika virus nonstructural protein	B-chem
+30782365	Zika virus nonstructural protein	B-chem
+30782365	ZIKV NS1	B-chem
+30782365	ZIKV NS1	B-chem
+30782365	Dengue virus NS1	B-chem
+30782365	ZIKV NS1	B-chem
+30782365	ZIKV NS1	B-chem
+27158766	α-Synuclein	B-chem
+27158766	α-synuclein	B-chem
+27158766	α-synuclein	B-chem
+27158766	α-synuclein	B-chem
+30621871	fol gene	B-chem
+30621871	fol gene	B-chem
+30744899	TRPV channels	B-chem
+30744899	transient receptor potential vanilloid(	B-chem
+30744899	TRPV)channel	B-chem
+30744899	Nanchung	B-chem
+30744899	Nan	B-chem
+30744899	Inactive	B-chem
+30744899	Iav	B-chem
+30744899	Nan	B-chem
+30744899	Iav	B-chem
+30744899	TRPV channel subunits	B-chem
+30744899	NlNan	B-chem
+30744899	NlIav	B-chem
+30744899	NlNan	B-chem
+30744899	NlIav	B-chem
+30744899	NlNan	B-chem
+30744899	NlIav	B-chem
+30744899	fruit fly nan36a mutant	B-chem
+30744899	NlNan	B-chem
+30744899	NlNan	B-chem
+30744899	NlIav	B-chem
+30784458	HAN	B-chem
+30784458	HANs	B-chem
+30562548	Runx2	B-chem
+30562548	lnc-SUPT3H-1	B-chem
+30562548	RUNX2-AS1	B-chem
+30562548	miR-6797-5p	B-chem
+30562548	Parathyroid hormone	B-chem
+30562548	PTH	B-chem
+30562548	Runx2	B-chem
+30562548	PTH	B-chem
+30562548	Runx2	B-chem
+30562548	PTH-treatment	B-chem
+30562548	Runx2 mRNA	B-chem
+30562548	human Runx2 gene	B-chem
+30562548	lnc-SUPT3H-1	B-chem
+30562548	RUNX2-AS1	B-chem
+30562548	PTH-treatment	B-chem
+30562548	miR-6797-5p	B-chem
+30562548	lnc-SUPT3H-1 :	B-chem
+30562548	Runx2	B-chem
+30562548	PTH-treatment	B-chem
+30562548	miR-6797-5p	B-chem
+30562548	miR-6797-5p	B-chem
+30562548	lnc-SUPT3H-1	B-chem
+30562548	luciferase gene reporter	B-chem
+30562548	miR-6797-5p	B-chem
+30562548	lnc-SUPT3H-1	B-chem
+30562548	3' UTR	B-chem
+30562548	Runx2	B-chem
+30562548	PTH	B-chem
+30562548	lnc-SUPT3H-1	B-chem
+30562548	miR-6797-5p	B-chem
+30562548	Runx2	B-chem
+30562548	lnc-SUPT3H-1	B-chem
+30562548	miR-6797-5p	B-chem
+30562548	Runx2	B-chem
+26278388	Lipin-1	B-chem
+26278388	Lipin-1	B-chem
+26278388	mammalian phosphatidic acid phosphatase	B-chem
+26278388	PAP	B-chem
+26278388	PAP enzyme	B-chem
+26278388	lipin-1	B-chem
+26278388	sirtuin	B-chem
+26278388	AMPK	B-chem
+26278388	lipin-1	B-chem
+26278388	SIRT1-AMPK	B-chem
+26278388	lipin-1 gene	B-chem
+26278388	lipin-1-PAP	B-chem
+26278388	nuclear lipin-1	B-chem
+26278388	lipin-1 mRNA	B-chem
+26278388	lipin-1	B-chem
+26278388	lipin-1	B-chem
+30683831	SOD	B-chem
+30683831	CAT	B-chem
+30683831	acetylcholinesterase	B-chem
+30683831	AChE	B-chem
+28588270	PGMA-PEI	B-chem
+29473709	glucagon-like peptide-1 receptor	B-chem
+29473709	Sodium-glucose co-transporter-2	B-chem
+29473709	SGLT2	B-chem
+29473709	glucagon-like peptide-1 receptor	B-chem
+29473709	GLP-1RAs	B-chem
+29473709	SGLT2	B-chem
+29473709	GLP-1RA	B-chem
+29473709	glycated haemoglobin	B-chem
+29473709	HbA1c	B-chem
+29473709	HDL cholesterol	B-chem
+29473709	HbA1c	B-chem
+29473709	HDL cholesterol	B-chem
+29473709	GLP-1RA	B-chem
+30765058	PI3K	B-chem
+30765058	Akt	B-chem
+30765058	mTOR	B-chem
+30765058	Sf-Atg8	B-chem
+30765058	PI3K	B-chem
+30765058	Akt	B-chem
+30765058	mTOR	B-chem
+30765058	PI3K	B-chem
+30765058	Akt	B-chem
+30765058	mTOR	B-chem
+30797458	procalcitonin	B-chem
+30797458	Procalcitonin	B-chem
+30797458	PCT	B-chem
+30797458	PCT specific monoclonal antibody	B-chem
+30797458	MAb	B-chem
+30797458	PCT	B-chem
+30797458	PCT	B-chem
+30797458	PCT	B-chem
+30124384	BCR-ABL variants	B-chem
+30124384	Tyrosine kinase	B-chem
+30124384	TKI	B-chem
+26925791	long noncoding RNA PVT1	B-chem
+26925791	LncRNA PVT1	B-chem
+26925791	PVT1	B-chem
+26925791	PVT1	B-chem
+26925791	PVT1	B-chem
+26925791	PVT1	B-chem
+26925791	PVT1	B-chem
+26925791	PVT1	B-chem
+26925791	PVT1	B-chem
+26925791	PVT1	B-chem
+30743956	RL	B-chem
+30743956	RL	B-chem
+30743956	RL	B-chem
+30658754	anthocyanins	B-chem
+30658754	anthocyanins	B-chem
+30139310	IL-2	B-chem
+30139310	Interleukin-2	B-chem
+30139310	IL-2	B-chem
+30139310	TCGF	B-chem
+30139310	Lymphokine	B-chem
+30139310	interleukin	B-chem
+30139310	IL-2	B-chem
+30139310	BMP	B-chem
+30139310	IL-2	B-chem
+30139310	IL-2	B-chem
+30139310	IL-2	B-chem
+30139310	BMP	B-chem
+30139310	IL-2	B-chem
+30139310	BMP	B-chem
+30139310	IL-2	B-chem
+30139310	IL-2	B-chem
+30139310	IL-2	B-chem
+30848745	carcinoembryonic antigen	B-chem
+30848745	CEA	B-chem
+30848745	alpha-fetoprotein	B-chem
+30848745	AFP	B-chem
+30848745	CA 19-9	B-chem
+30848745	CA 125	B-chem
+30848745	prostate specific antigen	B-chem
+30848745	PSA	B-chem
+30848745	CA 19-9	B-chem
+30848745	CA 19-9	B-chem
+30910085	rpoB gene	B-chem
+30594254	Anti-ICAM-1	B-chem
+30594254	anti-intercellular adhesion molecule	B-chem
+30594254	anti-ICAM-1	B-chem
+30594254	ICAM	B-chem
+30594254	DEX	B-chem
+30594254	ICAM	B-chem
+30594254	DEX	B-chem
+30594254	ICAM	B-chem
+30594254	DEX	B-chem
+30594254	ICAM	B-chem
+30594254	DEX	B-chem
+30594254	ICAM	B-chem
+30594254	DEX	B-chem
+30594254	ODA-NLCs	B-chem
+30594254	ICAM	B-chem
+30594254	DEX	B-chem
+30594254	ICAM	B-chem
+30594254	DEX	B-chem
+30594254	TNF-α	B-chem
+30594254	IL-6	B-chem
+30594254	ICAM	B-chem
+30594254	DEX	B-chem
+30594254	ICAM	B-chem
+30594254	DEX	B-chem
+26676538	superoxide dismutase	B-chem
+30121041	VC	B-chem
+30017992	FGF14	B-chem
+30017992	fibroblast growth factor 14	B-chem
+30017992	FGF14	B-chem
+30017992	FGF14 gene	B-chem
+30017992	truncated FGF14 protein	B-chem
+30017992	FGF14	B-chem
+30017992	FGF14	B-chem
+30017992	SCA27	B-chem
+30759596	β-glucosidase	B-chem
+30759596	GLU	B-chem
+30759596	l-leucine aminopeptidase	B-chem
+30759596	LAP	B-chem
+26774155	CDK2	B-chem
+26774155	PAK4	B-chem
+26774155	cyclin-dependent kinase	B-chem
+26774155	CDK2	B-chem
+26774155	p21 protein	B-chem
+26774155	PAK4	B-chem
+26774155	CDK2	B-chem
+26774155	PAK4	B-chem
+26774155	CDK2-PAK4	B-chem
+26774155	CDK2	B-chem
+26774155	PAK4	B-chem
+26634950	Chitosan	B-chem
+26634950	CS	B-chem
+26634950	Carboxymethyl chitosan	B-chem
+26634950	CMCS	B-chem
+26634950	CS	B-chem
+26634950	CS	B-chem
+30576808	Circular RNA HIPK3	B-chem
+30576808	miR-124-3p	B-chem
+30576808	circ-HIPK3	B-chem
+30576808	STAT3	B-chem
+30576808	miR-124-3p	B-chem
+30576808	circ-HIPK3	B-chem
+30576808	miR-124-3p	B-chem
+30576808	STAT3	B-chem
+30576808	circ-HIPK3	B-chem
+30576808	miR-124-3p	B-chem
+30576808	STAT3	B-chem
+30576808	Dual-luciferase reporter gene	B-chem
+30576808	circ-HIPK3	B-chem
+30576808	miR-124-3p	B-chem
+30576808	STAT3	B-chem
+30576808	circ-HIPK3	B-chem
+30576808	STAT3	B-chem
+30576808	miR-124-3p	B-chem
+30576808	circ-HIPK3	B-chem
+30576808	miR-124-3p	B-chem
+30576808	Dual-luciferase reporter gene	B-chem
+30576808	circ-HIPK3	B-chem
+30576808	miR-124-3p	B-chem
+30576808	STAT3	B-chem
+30576808	miR-124-3p	B-chem
+30576808	circ-HIPK3	B-chem
+30576808	STAT3	B-chem
+30576808	miR-124-3p	B-chem
+30576808	STAT3	B-chem
+30576808	circ-HIPK3	B-chem
+30576808	miR-124-3p	B-chem
+30576808	circ-HIPK3	B-chem
+30576808	miR-124-3p	B-chem
+30576808	STAT3	B-chem
+30613015	Cathepsin	B-chem
+30613015	TLR4	B-chem
+30613015	cathepsin	B-chem
+30613015	Toll-like receptor	B-chem
+30613015	TLR-4	B-chem
+30613015	TLR4-knockout	B-chem
+30613015	TLR4-/	B-chem
+30613015	cathepsin	B-chem
+30613015	TLR4-/	B-chem
+30613015	cathepsin	B-chem
+30613015	IL-1α	B-chem
+30613015	IL-1β	B-chem
+30613015	TNF-α	B-chem
+30613015	IL-18	B-chem
+30613015	TLR4-/	B-chem
+30613015	TLR4-/	B-chem
+30613015	cathepsin	B-chem
+30613015	TLR4-/	B-chem
+30613015	cathepsin	B-chem
+30613015	Cathepsin	B-chem
+30613015	TLR4	B-chem
+26639236	p53	B-chem
+26639236	cytochrome	B-chem
+26639236	caspase	B-chem
+26639236	10-hydroxycamptothecin	B-chem
+26639236	HCPT	B-chem
+26639236	HCPT	B-chem
+26639236	HCPT	B-chem
+26639236	HCPT	B-chem
+26639236	HCPT	B-chem
+26639236	p53	B-chem
+26639236	cytoplasmic cytochrome	B-chem
+26639236	cleaved caspase-3	B-chem
+26639236	poly ADP-ribose polymerase	B-chem
+26639236	PARP	B-chem
+26639236	mitochondrial cytochrome	B-chem
+26639236	pro-caspase-3 proteins	B-chem
+26639236	B-cell lymphoma	B-chem
+26639236	Bcl-2-associated X proteins	B-chem
+26639236	HCPT	B-chem
+26639236	p53	B-chem
+26639236	cytochrome	B-chem
+26639236	caspase-3	B-chem
+26639236	PARP	B-chem
+26639236	HCPT	B-chem
+26459048	GLI2	B-chem
+26459048	GLI family zinc finger protein	B-chem
+26459048	GLI2	B-chem
+26459048	GLI2∆N	B-chem
+26459048	GLI2	B-chem
+26459048	GLI2∆N activator proteins	B-chem
+26459048	GLI2	B-chem
+26459048	GLI2	B-chem
+26459048	TGFbeta	B-chem
+26459048	GLI2∆N	B-chem
+26459048	C-terminally truncated GLI2	B-chem
+26459048	GLI2∆C	B-chem
+26459048	GLI2	B-chem
+30334700	CD34	B-chem
+30334700	CD34	B-chem
+30334700	CD45	B-chem
+30334700	CD34	B-chem
+30334700	CD34	B-chem
+30334700	TCRγδ	B-chem
+30334700	CD34	B-chem
+30658742	ACE	B-chem
+30658742	angiotensin-I converting enzyme	B-chem
+30658742	ACE	B-chem
+30658742	ACE	B-chem
+28588210	DOPC	B-chem
+28588210	TD	B-chem
+28588210	TD	B-chem
+30824055	Eukaryotic peptide chain release factor	B-chem
+30824055	rice esp1 mutants	B-chem
+30824055	ESP1	B-chem
+30824055	ESP1 gene	B-chem
+30824055	eukaryotic peptide chain release factor	B-chem
+30824055	eRF1	B-chem
+30824055	ESP1	B-chem
+30824055	eRF1	B-chem
+30824055	esp1 mutants	B-chem
+30824055	ESP1	B-chem
+30824055	eRF1	B-chem
+30824055	ESP1	B-chem
+30824055	eRF1	B-chem
+30857097	PFAS	B-chem
+30857097	PFAS	B-chem
+30857097	PFAS	B-chem
+26774144	H19	B-chem
+26774144	H19	B-chem
+26774144	LncRNA	B-chem
+26774144	H19	B-chem
+26774144	H19	B-chem
+26774144	H19	B-chem
+26774144	H19	B-chem
+26774144	H19	B-chem
+26774144	H19	B-chem
+26774144	H19	B-chem
+26774144	H19	B-chem
+26774144	E-cadherin protein	B-chem
+26774144	H19	B-chem
+30744820	Sestrin-like protein	B-chem
+30744820	Sestrins	B-chem
+30744820	AMPK	B-chem
+30744820	mTOR	B-chem
+30744820	Sestrin protein	B-chem
+30744820	DdSesn-like gene	B-chem
+30744820	DdSesn	B-chem
+30744820	DdSesn	B-chem
+30744820	SesnOE	B-chem
+30744820	sesn	B-chem
+30744820	sesn	B-chem
+30744820	sesn	B-chem
+30744820	p4EBP1	B-chem
+30744820	DdSesn	B-chem
+30736907	Non-integrin laminin receptors	B-chem
+30736907	Laminins	B-chem
+30736907	integrins	B-chem
+30736907	laminin receptors	B-chem
+30736907	non-integrin laminin receptors	B-chem
+30736907	non-integrin laminin receptors	B-chem
+30736907	dystroglycan	B-chem
+30736907	37/67 laminin receptor	B-chem
+30736907	37/67LR	B-chem
+30736907	dystrophin-associated glycoprotein complex	B-chem
+30736907	37/67LR	B-chem
+30736907	laminin receptor	B-chem
+30529248	CD28	B-chem
+30529248	TLR	B-chem
+30529248	MyD88	B-chem
+30529248	Cluster of differentiation 28	B-chem
+30529248	CD28	B-chem
+30529248	To-CD28	B-chem
+30529248	To-CD28	B-chem
+30529248	CD28 protein	B-chem
+30529248	To-CD28	B-chem
+30529248	To-CD28	B-chem
+30529248	To-CD28	B-chem
+30529248	To-CD28	B-chem
+30529248	TLR-MyD88	B-chem
+30529248	To-CD28 protein	B-chem
+30529248	To-CD28	B-chem
+30529248	To-CD28	B-chem
+30693063	Xylanase	B-chem
+30693063	xylanase	B-chem
+30693063	xylanase	B-chem
+30693063	FPHC	B-chem
+30693063	xylanase	B-chem
+30693063	xylanase	B-chem
+30693063	xylanase	B-chem
+30693063	16S rRNA	B-chem
+30693063	Serum tumor necrosis factor-(TNF-)α	B-chem
+30693063	interleukin-1β	B-chem
+30693063	IL-1β	B-chem
+30693063	IL-1 receptor antagonist	B-chem
+30693063	IL-1ra	B-chem
+30693063	IL-10	B-chem
+30693063	superoxide dismutase	B-chem
+30693063	SOD	B-chem
+30693063	glutathione peroxidase	B-chem
+30693063	GSH-Px	B-chem
+30693063	coagulase	B-chem
+30693063	Xylanase	B-chem
+30693063	FPHC	B-chem
+30693063	SOD	B-chem
+30693063	Xylanase	B-chem
+30693063	IL-1ra	B-chem
+30693063	IL-10	B-chem
+30693063	IL-1β	B-chem
+30693063	TNF-α	B-chem
+30503393	nanos	B-chem
+30503393	piwil	B-chem
+30503393	dnd	B-chem
+30503393	vasa	B-chem
+30503393	pum genes	B-chem
+30503393	nanos	B-chem
+30503393	piwil	B-chem
+30503393	dnd1	B-chem
+30503393	vasa	B-chem
+30503393	pum genes	B-chem
+30503393	nanos2	B-chem
+30503393	nanos3	B-chem
+30503393	piwil1	B-chem
+30503393	piwil2	B-chem
+30503393	dnd1	B-chem
+30503393	vasa	B-chem
+30503393	pum2	B-chem
+30503393	pum3	B-chem
+30503393	nanos1a	B-chem
+30503393	nanos1b	B-chem
+30503393	pum1	B-chem
+30503393	nanos2	B-chem
+30503393	nanos1a	B-chem
+30503393	nanos1b	B-chem
+30503393	pum1	B-chem
+30503393	pum2	B-chem
+30503393	pum3	B-chem
+30503393	nanos3	B-chem
+30503393	piwil1	B-chem
+30503393	piwil2	B-chem
+30503393	dnd1	B-chem
+30503393	vasa	B-chem
+30503393	nanos2	B-chem
+30503393	nanos3	B-chem
+30503393	piwil1	B-chem
+30503393	piwil2	B-chem
+30503393	dnd1	B-chem
+30503393	vasa	B-chem
+30580162	miR838	B-chem
+30580162	miR398 target	B-chem
+30580162	Cu-Zn/SOD	B-chem
+30580162	TCP	B-chem
+30580162	miR159	B-chem
+30580162	miR319	B-chem
+30580162	miR395	B-chem
+30580162	sulphate transporter	B-chem
+30580162	sulphate adenyltransferase gene	B-chem
+30580162	sulphate transporter	B-chem
+30580162	2r3 myb gene	B-chem
+30580162	r2r3 myb	B-chem
+30580162	MYB family members	B-chem
+30024839	MTHFR genetic polymorphisms	B-chem
+30024839	methylenetetrahydrofolate reductase	B-chem
+30024839	MTHFR	B-chem
+30024839	MTHFR	B-chem
+30024839	MTHFR	B-chem
+30024839	MTHFR C677T	B-chem
+26435084	Bcl-xL	B-chem
+26435084	LRRK2	B-chem
+26435084	Bcl-xL	B-chem
+26435084	Bcl-xL	B-chem
+26435084	leucine-rich repeat kinase	B-chem
+26435084	LRRK2	B-chem
+26435084	Neo	B-chem
+26435084	Bcl-xL	B-chem
+26435084	Bcl-xL	B-chem
+26435084	dynamin related protein-1	B-chem
+26435084	Bax	B-chem
+26435084	Neo	B-chem
+26435084	Bcl-xL	B-chem
+26435084	Bcl-xL protein	B-chem
+26435084	Neo	B-chem
+26435084	Bcl-xL	B-chem
+26435084	LRRK2	B-chem
+26435084	tubulin	B-chem
+26435084	Bcl-xL	B-chem
+26435084	tubulin	B-chem
+26435084	Neo	B-chem
+26435084	LRRK2	B-chem
+26435084	Bcl-xL	B-chem
+30683827	Host nuclear factor erythroid 2-related factor-2	B-chem
+30683827	cyclooxygenase-2	B-chem
+30683827	COX-2	B-chem
+30683827	nuclear factor-κB	B-chem
+30683827	NF-κB	B-chem
+30683827	heme oxygenase-1	B-chem
+30683827	HO-1	B-chem
+30683827	NADPH quinone oxidoreductase-1	B-chem
+30683827	NQO1	B-chem
+30683827	γ-glutamylcysteine synthetase	B-chem
+30683827	γ-GCS	B-chem
+30683827	nuclear factor erythroid 2-related factor-2	B-chem
+30683827	Nrf2	B-chem
+30683827	keap1	B-chem
+30683827	COX-2-/	B-chem
+30683827	Nrf2-/	B-chem
+30683827	COX-2	B-chem
+30683827	NF-κB	B-chem
+30683827	HO-1	B-chem
+30683827	Nrf2	B-chem
+30683827	Nrf2	B-chem
+30683827	keap1	B-chem
+30683827	HO-1	B-chem
+30683827	NF-κB	B-chem
+30683827	COX-2-/	B-chem
+30683827	HO-1	B-chem
+30683827	NQO1	B-chem
+30683827	Nrf2-/	B-chem
+30683827	COX-2	B-chem
+30683827	HO-1	B-chem
+30683827	γ-GCS	B-chem
+30683827	Nrf2	B-chem
+30744895	β2-tubulin dsRNA	B-chem
+30744895	Faβ2Tub-3 dsRNA	B-chem
+30744895	β2-tubulin gene	B-chem
+30744895	Faβ2Tub-3	B-chem
+30744895	β2-tubulin segments	B-chem
+30744895	β1-tubulin	B-chem
+30744895	β2-tubulin genes	B-chem
+30744895	Faβ2Tub-3 sequence	B-chem
+30744895	Faβ2Tub-3 dsRNA	B-chem
+30744895	Faβ2Tub-3 dsRNA	B-chem
+30744895	Faβ2Tub-3 dsRNA	B-chem
+30744895	Faβ2Tub-3 dsRNA	B-chem
+30683372	microRNA-16	B-chem
+30683372	microRNA	B-chem
+30683372	miRNA	B-chem
+30683372	miRNA-16	B-chem
+30759623	BNF	B-chem
+30759623	BNF	B-chem
+30759623	BNF	B-chem
+30759623	BNF	B-chem
+30759623	BNF	B-chem
+30759623	BNF	B-chem
+30759623	BNF	B-chem
+30759623	BNF	B-chem
+30759623	BNF	B-chem
+30759623	BNF	B-chem
+28691448	TLC	B-chem
+30744896	vitellogenin	B-chem
+30744896	MsVg	B-chem
+30744896	vitellogenin receptor	B-chem
+30744896	MsVgR	B-chem
+30744896	MsVg	B-chem
+30744896	MsVgR	B-chem
+27389556	CDK8	B-chem
+27389556	Mediator	B-chem
+27389556	CDK8 kinase complex	B-chem
+27389556	MED12 exon 2 mutations	B-chem
+27389556	CDK8	B-chem
+27389556	CDK8	B-chem
+27389556	MED12	B-chem
+27389556	CDK8	B-chem
+27389556	MED12	B-chem
+27389556	MED12	B-chem
+27389556	CDK8	B-chem
+27389556	CDK8	B-chem
+27389556	CDK8	B-chem
+30468908	miRNA-9	B-chem
+30468908	miRNA-34a	B-chem
+30468908	miR-9	B-chem
+30468908	miR-34a	B-chem
+30468908	miR-9	B-chem
+30468908	miR-34a	B-chem
+30468908	CDH1	B-chem
+30468908	miR-9	B-chem
+30468908	miR-34a	B-chem
+30468908	miR-9	B-chem
+30468908	miR-34a	B-chem
+30468908	miR-9	B-chem
+30468908	miR-34a	B-chem
+30468908	CDH1	B-chem
+30468908	miR-9	B-chem
+30468908	miR-34a	B-chem
+30468908	miR-34a	B-chem
+30468908	miR-9	B-chem
+30468908	miR-34a	B-chem
+30468908	miR-9	B-chem
+30468908	miR-34a	B-chem
+30611507	lipase	B-chem
+28029034	PEDOT	B-chem
+30572096	cytochrome oxidase subunit	B-chem
+30572096	COI	B-chem
+30572096	12srRNA genes	B-chem
+30572096	12srRNA	B-chem
+30572096	COI genes	B-chem
+30471602	sul1	B-chem
+30471602	blaTEM	B-chem
+30471602	blaNDM-1	B-chem
+30471602	blaCTX-M-32	B-chem
+30471602	mcr-1	B-chem
+30471602	sulfonamide resistance gene sul1	B-chem
+30471602	β-lactamase genes	B-chem
+30471602	blaTEM	B-chem
+30471602	blaNDM-1-encoding	B-chem
+30471602	β-lactamase gene	B-chem
+30471602	blaCTX-M-32	B-chem
+30471602	colistin resistance gene	B-chem
+30471602	mcr-1	B-chem
+30744898	Jack Bean Urease	B-chem
+30744898	voltage-gated sodium channels	B-chem
+30744898	Jbtx	B-chem
+30744898	Canavalia ensiformis urease	B-chem
+30744898	Jbtx	B-chem
+30744898	Jbtx	B-chem
+30744898	Jbtx	B-chem
+30744898	Jbtx	B-chem
+30744898	Jbtx	B-chem
+30744898	Jbtx	B-chem
+30744898	Nav 1.1 channels	B-chem
+30744898	Jbtx	B-chem
+30744898	voltage-gated sodium channels	B-chem
+30658758	bovine β-lactoglobulin	B-chem
+30658758	Bovine β-lactoglobulin	B-chem
+30658758	βLG	B-chem
+30658758	whey	B-chem
+30658758	βLG	B-chem
+30658758	βLG	B-chem
+30658758	βLG	B-chem
+30658758	βLG	B-chem
+30704714	insect nicotinic acetylcholine receptors	B-chem
+30704714	Nicotinic acetylcholine receptors	B-chem
+30704714	nAChRs	B-chem
+30704714	nAChR subtypes	B-chem
+30704714	insect nAChRs	B-chem
+30704714	insect nAChRs	B-chem
+30704714	nAChR binding sites	B-chem
+30704714	neonicotinoid-nAChR	B-chem
+30528268	ABCG1	B-chem
+30528268	ABCG1	B-chem
+30528268	ABCG1	B-chem
+30528268	ABCG1	B-chem
+30528268	ABCG1	B-chem
+30528268	ABCG1	B-chem
+30528268	ABCG1	B-chem
+30528268	ABCG1	B-chem
+26499143	MSI	B-chem
+26499143	RAS	B-chem
+26499143	BRAF	B-chem
+26499143	PI3KCA	B-chem
+26499143	HER2	B-chem
+30683822	myocardial connexin43	B-chem
+30683822	gap junction alpha-1 protein	B-chem
+30683822	Cx43	B-chem
+30683822	Cx43	B-chem
+30683822	Cx43	B-chem
+30683822	nuclear factor-κB	B-chem
+30683822	NFκB	B-chem
+30683822	tumor necrosis factor-α	B-chem
+30683822	TNF-α	B-chem
+30683822	Cx43	B-chem
+30683822	NFκB	B-chem
+30683822	TNF-α	B-chem
+30683822	Cx43	B-chem
+30683822	Cx43	B-chem
+30824020	lysophosphatidic acid acyltransferases	B-chem
+30824020	2-lysophosphatidic acid acyltransferase	B-chem
+30824020	LPAAT	B-chem
+30824020	class A microsomal LPAAT2 isoforms	B-chem
+30824020	LPAAT2A	B-chem
+30824020	LPAAT2A2	B-chem
+30824020	LPAAT2B	B-chem
+30824020	LPAAT	B-chem
+30824020	JC201	B-chem
+30824020	LPAAT2A isoform	B-chem
+30824020	LPAAT2A2	B-chem
+30824020	LPAAT2B	B-chem
+30824020	LPAAT2A	B-chem
+30824020	LPAAT2A	B-chem
+30412893	let-7	B-chem
+30412893	bli-1	B-chem
+30412893	cuticular collagen	B-chem
+30412893	bli-1	B-chem
+30412893	let-7	B-chem
+30412893	let-7	B-chem
+30412893	bli-1(RNAi	B-chem
+30412893	let-7	B-chem
+30412893	HBL-1	B-chem
+30412893	LIN-41	B-chem
+30412893	bli-1	B-chem
+30412893	hbl-1	B-chem
+30412893	lin-41	B-chem
+30412893	BLI-1-let-7-HBL-1	B-chem
+30412893	LIN-41	B-chem
+30412893	let-7	B-chem
+30412893	bli-1(RNAi)	B-chem
+30010491	superoxide dismutase	B-chem
+30010491	SOD	B-chem
+30010491	catalase	B-chem
+30010491	CAT	B-chem
+30010491	glutathione peroxidase	B-chem
+30010491	GPx	B-chem
+30010491	haemoglobin	B-chem
+30611516	ABC membrane transporter	B-chem
+30611516	ATP binding cassette(ABC)membrane transporter	B-chem
+30611516	ABC transporter	B-chem
+30611516	P-glycoprotein	B-chem
+30611516	ATPase	B-chem
+30611516	phase II enzyme	B-chem
+30712592	microcystins	B-chem
+30712592	Microcystins	B-chem
+30712592	MCs	B-chem
+30712592	MCs	B-chem
+30712592	MCs	B-chem
+30712592	MCs	B-chem
+26449525	WT1-AS	B-chem
+26449525	WT1-AS	B-chem
+26449525	WT1-AS	B-chem
+26449525	WT1-AS	B-chem
+26449525	WT1-AS	B-chem
+26449525	WT1-AS	B-chem
+26449525	ERK protein	B-chem
+26449525	WT1-AS	B-chem
+30765056	ATP-binding cassette(ABC)transporters	B-chem
+30765056	ABC transporter superfamily	B-chem
+30765056	ABC transporters	B-chem
+30765056	ABC transporters	B-chem
+30765056	P-gp	B-chem
+30765056	ABCs	B-chem
+30824031	Maize factors	B-chem
+30824031	ZmUBP15	B-chem
+30824031	ZmUBP16	B-chem
+30824031	ZmUBP19	B-chem
+30824031	Ubiquitin-Specific Protease16	B-chem
+30824031	UBP16	B-chem
+30824031	ZmUBP15	B-chem
+30824031	ZmUBP16	B-chem
+30824031	ZmUBP19	B-chem
+30824031	Arabidopsis UBP16 homologs	B-chem
+30824031	ZmUBP15	B-chem
+30824031	ZmUBP16	B-chem
+30824031	ZmUBP19	B-chem
+30824031	ZmUBP15	B-chem
+30824031	ZmUBP16	B-chem
+30824031	ZmUBP19 proteins	B-chem
+30824031	ZmUBP15	B-chem
+30824031	ZmUBP16	B-chem
+30824031	ubp16-1	B-chem
+30824031	ZmUBP15	B-chem
+30824031	ZmUBP16	B-chem
+30824031	ZmUBP19	B-chem
+30824031	ZmUBP15	B-chem
+30824031	ZmUBP16	B-chem
+30824031	ZmUBP19	B-chem
+30824031	ZmUBP15	B-chem
+30824031	ZmUBP16	B-chem
+30824031	ZmUBP19	B-chem
+30824031	ZmUBP15	B-chem
+30824031	ZmUBP16	B-chem
+30824031	ZmUBP19	B-chem
+30824031	ubp16-1	B-chem
+30824031	ZmUBP15	B-chem
+30824031	ZmUBP16	B-chem

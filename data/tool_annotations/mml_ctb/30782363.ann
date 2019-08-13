@@ -1,0 +1,118 @@
+T1	MMLite 1413 1423	amino acid
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C0002520	Amino Acids
+N4	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 985 992	peptide
+N5	Reference T2 SemanticType:aapp	aapp
+N6	Reference T2 ConceptId:C0030956	Peptides
+T3	MMLite 1359 1367	peptides
+N7	Reference T3 SemanticType:aapp	aapp
+N8	Reference T3 ConceptId:C0030956	Peptides
+T4	MMLite 1179 1186	leucine
+N9	Reference T4 SemanticType:bacs	bacs
+N10	Reference T4 SemanticType:aapp	aapp
+N11	Reference T4 SemanticType:lbpr	lbpr
+N12	Reference T4 ConceptId:C0023401	Leucine
+N13	Reference T4 ConceptId:C0428209	Leucine measurement
+N14	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 1779 1786	protein
+N15	Reference T5 SemanticType:bacs	bacs
+N16	Reference T5 SemanticType:aapp	aapp
+N17	Reference T5 ConceptId:C0033684	Proteins
+T6	MMLite 1469 1476	leucine
+N18	Reference T6 SemanticType:bacs	bacs
+N19	Reference T6 SemanticType:aapp	aapp
+N20	Reference T6 SemanticType:lbpr	lbpr
+N21	Reference T6 ConceptId:C0023401	Leucine
+N22	Reference T6 ConceptId:C0428209	Leucine measurement
+N23	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 1424 1432	peptides
+N24	Reference T7 SemanticType:aapp	aapp
+N25	Reference T7 ConceptId:C0030956	Peptides
+T8	MMLite 434 438	cell
+N26	Reference T8 ConceptId:C1413336	CEL gene
+N27	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 370 374	cell
+N28	Reference T9 ConceptId:C1413336	CEL gene
+N29	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 1650 1657	peptide
+N30	Reference T10 SemanticType:aapp	aapp
+N31	Reference T10 ConceptId:C0030956	Peptides
+T11	MMLite 1297 1304	peptide
+N32	Reference T11 SemanticType:aapp	aapp
+N33	Reference T11 ConceptId:C0030956	Peptides
+T12	MMLite 1491 1495	coil
+N34	Reference T12 ConceptId:C1413568	COIL gene
+N35	Reference T12 SemanticType:gngm	gngm
+T13	MMLite 1548 1551	PTM
+N36	Reference T13 SemanticType:orch	orch
+N37	Reference T13 ConceptId:C0031448	Phentolamine
+N38	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 459 462	PTM
+N39	Reference T14 SemanticType:orch	orch
+N40	Reference T14 ConceptId:C0031448	Phentolamine
+N41	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 817 820	for
+N42	Reference T15 ConceptId:C1421525	WWOX gene
+N43	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 71 78	protein
+N44	Reference T16 SemanticType:bacs	bacs
+N45	Reference T16 SemanticType:aapp	aapp
+N46	Reference T16 ConceptId:C0033684	Proteins
+T17	MMLite 138 146	peptides
+N47	Reference T17 SemanticType:aapp	aapp
+N48	Reference T17 ConceptId:C0030956	Peptides
+T18	MMLite 245 248	for
+N49	Reference T18 ConceptId:C1421525	WWOX gene
+N50	Reference T18 SemanticType:gngm	gngm
+T19	MMLite 12 19	peptide
+N51	Reference T19 SemanticType:aapp	aapp
+N52	Reference T19 ConceptId:C0030956	Peptides
+T20	MMLite 1715 1718	for
+N53	Reference T20 ConceptId:C1421525	WWOX gene
+N54	Reference T20 SemanticType:gngm	gngm
+T21	MMLite 198 205	peptide
+N55	Reference T21 SemanticType:aapp	aapp
+N56	Reference T21 ConceptId:C0030956	Peptides
+T22	MMLite 413 420	protein
+N57	Reference T22 SemanticType:bacs	bacs
+N58	Reference T22 SemanticType:aapp	aapp
+N59	Reference T22 ConceptId:C0033684	Proteins
+T23	MMLite 773 780	peptide
+N60	Reference T23 SemanticType:aapp	aapp
+N61	Reference T23 ConceptId:C0030956	Peptides
+T24	MMLite 1610 1616	enzyme
+N62	Reference T24 SemanticType:orch	orch
+N63	Reference T24 SemanticType:enzy	enzy
+N64	Reference T24 ConceptId:C0014442	Enzymes
+T25	MMLite 1246 1249	PTM
+N65	Reference T25 SemanticType:orch	orch
+N66	Reference T25 ConceptId:C0031448	Phentolamine
+N67	Reference T25 SemanticType:phsu	phsu
+T26	MMLite 865 872	peptide
+N68	Reference T26 SemanticType:aapp	aapp
+N69	Reference T26 ConceptId:C0030956	Peptides
+T27	MMLite 993 1000	peptide
+N70	Reference T27 SemanticType:aapp	aapp
+N71	Reference T27 ConceptId:C0030956	Peptides
+T28	MMLite 1688 1696	peptides
+N72	Reference T28 SemanticType:aapp	aapp
+N73	Reference T28 ConceptId:C0030956	Peptides
+T29	MMLite 705 708	PTM
+N74	Reference T29 SemanticType:orch	orch
+N75	Reference T29 ConceptId:C0031448	Phentolamine
+N76	Reference T29 SemanticType:phsu	phsu
+T30	MMLite 32 35	for
+N77	Reference T30 ConceptId:C1421525	WWOX gene
+N78	Reference T30 SemanticType:gngm	gngm
+T31	MMLite 1312 1315	for
+N79	Reference T31 ConceptId:C1421525	WWOX gene
+N80	Reference T31 SemanticType:gngm	gngm
+T32	MMLite 1727 1734	peptide
+N81	Reference T32 SemanticType:aapp	aapp
+N82	Reference T32 ConceptId:C0030956	Peptides
+T33	MMLite 831 834	PTM
+N83	Reference T33 SemanticType:orch	orch
+N84	Reference T33 ConceptId:C0031448	Phentolamine
+N85	Reference T33 SemanticType:phsu	phsu

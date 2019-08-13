@@ -1,0 +1,140 @@
+T1	MMLite 651 658	insulin
+N1	Reference T1 SemanticType:moft	moft
+N2	Reference T1 SemanticType:clna	clna
+N3	Reference T1 ConceptId:C3714501	Insulin Drug Class
+N4	Reference T1 ConceptId:C1533581	Recombinant Insulin
+N5	Reference T1 ConceptId:C1579433	formoterol fumarate dihydrate
+N6	Reference T1 SemanticType:phsu	phsu
+N7	Reference T1 SemanticType:aapp	aapp
+N8	Reference T1 ConceptId:C1145751	insulin activity
+N9	Reference T1 ConceptId:C0021641	Insulin
+N10	Reference T1 SemanticType:lbpr	lbpr
+N11	Reference T1 ConceptId:C0202098	Insulin measurement
+N12	Reference T1 SemanticType:horm	horm
+N13	Reference T1 ConceptId:C1337112	INS gene
+N14	Reference T1 SemanticType:gngm	gngm
+N15	Reference T1 ConceptId:C2739803	Insulin:-:Point in time:^Patient:-
+T2	MMLite 181 184	BCM
+N16	Reference T2 ConceptId:C0065839	mecarzole
+N17	Reference T2 SemanticType:orch	orch
+N18	Reference T2 SemanticType:hops	hops
+N19	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 922 925	was
+N20	Reference T3 SemanticType:bacs	bacs
+N21	Reference T3 SemanticType:aapp	aapp
+N22	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 730 733	was
+N23	Reference T4 SemanticType:bacs	bacs
+N24	Reference T4 SemanticType:aapp	aapp
+N25	Reference T4 ConceptId:C1565156	WAS protein, human
+T5	MMLite 1641 1644	for
+N26	Reference T5 ConceptId:C1421525	WWOX gene
+N27	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 349 358	xenograft
+N28	Reference T6 ConceptId:C0522537	Xenograft type of graft
+N29	Reference T6 SemanticType:bodm	bodm
+T7	MMLite 1503 1506	was
+N30	Reference T7 SemanticType:bacs	bacs
+N31	Reference T7 SemanticType:aapp	aapp
+N32	Reference T7 ConceptId:C1565156	WAS protein, human
+T8	MMLite 810 814	same
+N33	Reference T8 SemanticType:bacs	bacs
+N34	Reference T8 ConceptId:C0036002	S-Adenosylmethionine
+N35	Reference T8 SemanticType:aapp	aapp
+N36	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 1143 1152	C-peptide
+N37	Reference T9 SemanticType:bacs	bacs
+N38	Reference T9 SemanticType:aapp	aapp
+N39	Reference T9 SemanticType:lbpr	lbpr
+N40	Reference T9 ConceptId:C0006558	C-Peptide
+N41	Reference T9 ConceptId:C0202100	Insulin C-peptide measurement
+T10	MMLite 1054 1058	mice
+N42	Reference T10 ConceptId:C1413131	CASP14 gene
+N43	Reference T10 SemanticType:gngm	gngm
+T11	MMLite 859 862	was
+N44	Reference T11 SemanticType:bacs	bacs
+N45	Reference T11 SemanticType:aapp	aapp
+N46	Reference T11 ConceptId:C1565156	WAS protein, human
+T12	MMLite 1308 1311	was
+N47	Reference T12 SemanticType:bacs	bacs
+N48	Reference T12 SemanticType:aapp	aapp
+N49	Reference T12 ConceptId:C1565156	WAS protein, human
+T13	MMLite 1032 1039	insulin
+N50	Reference T13 SemanticType:clna	clna
+N51	Reference T13 SemanticType:moft	moft
+N52	Reference T13 ConceptId:C3714501	Insulin Drug Class
+N53	Reference T13 ConceptId:C1533581	Recombinant Insulin
+N54	Reference T13 ConceptId:C1579433	formoterol fumarate dihydrate
+N55	Reference T13 SemanticType:phsu	phsu
+N56	Reference T13 SemanticType:aapp	aapp
+N57	Reference T13 ConceptId:C1145751	insulin activity
+N58	Reference T13 ConceptId:C0021641	Insulin
+N59	Reference T13 SemanticType:lbpr	lbpr
+N60	Reference T13 SemanticType:horm	horm
+N61	Reference T13 ConceptId:C0202098	Insulin measurement
+N62	Reference T13 ConceptId:C1337112	INS gene
+N63	Reference T13 SemanticType:gngm	gngm
+N64	Reference T13 ConceptId:C2739803	Insulin:-:Point in time:^Patient:-
+T14	MMLite 537 541	mice
+N65	Reference T14 ConceptId:C1413131	CASP14 gene
+N66	Reference T14 SemanticType:gngm	gngm
+T15	MMLite 170 174	cell
+N67	Reference T15 ConceptId:C1413336	CEL gene
+N68	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 1415 1418	was
+N69	Reference T16 SemanticType:bacs	bacs
+N70	Reference T16 SemanticType:aapp	aapp
+N71	Reference T16 ConceptId:C1565156	WAS protein, human
+T17	MMLite 126 130	cell
+N72	Reference T17 ConceptId:C1413336	CEL gene
+N73	Reference T17 SemanticType:gngm	gngm
+T18	MMLite 1666 1669	BCM
+N74	Reference T18 ConceptId:C0065839	mecarzole
+N75	Reference T18 SemanticType:orch	orch
+N76	Reference T18 SemanticType:hops	hops
+N77	Reference T18 SemanticType:phsu	phsu
+T19	MMLite 1059 1062	was
+N78	Reference T19 SemanticType:bacs	bacs
+N79	Reference T19 SemanticType:aapp	aapp
+N80	Reference T19 ConceptId:C1565156	WAS protein, human
+T20	MMLite 17 37	dihydrotetrabenazine
+N81	Reference T20 ConceptId:C0058123	dihydrotetrabenazine
+N82	Reference T20 SemanticType:orch	orch
+N83	Reference T20 SemanticType:irda	irda
+T21	MMLite 774 781	18F-FDG
+N84	Reference T21 SemanticType:orch	orch
+N85	Reference T21 SemanticType:irda	irda
+N86	Reference T21 ConceptId:C0046056	Fluorodeoxyglucose F18
+T22	MMLite 1364 1368	DOPA
+N87	Reference T22 SemanticType:bacs	bacs
+N88	Reference T22 ConceptId:C0013023	Dopa
+N89	Reference T22 SemanticType:aapp	aapp
+N90	Reference T22 SemanticType:phsu	phsu
+T23	MMLite 698 718	dihydrotetrabenazine
+N91	Reference T23 ConceptId:C0058123	dihydrotetrabenazine
+N92	Reference T23 SemanticType:orch	orch
+N93	Reference T23 SemanticType:irda	irda
+T24	MMLite 815 819	mice
+N94	Reference T24 ConceptId:C1413131	CASP14 gene
+N95	Reference T24 SemanticType:gngm	gngm
+T25	MMLite 609 618	C-peptide
+N96	Reference T25 SemanticType:bacs	bacs
+N97	Reference T25 SemanticType:aapp	aapp
+N98	Reference T25 SemanticType:lbpr	lbpr
+N99	Reference T25 ConceptId:C0006558	C-Peptide
+N100	Reference T25 ConceptId:C0202100	Insulin C-peptide measurement
+T26	MMLite 619 622	was
+N101	Reference T26 SemanticType:bacs	bacs
+N102	Reference T26 SemanticType:aapp	aapp
+N103	Reference T26 ConceptId:C1565156	WAS protein, human
+T27	MMLite 392 396	mice
+N104	Reference T27 ConceptId:C1413131	CASP14 gene
+N105	Reference T27 SemanticType:gngm	gngm
+T28	MMLite 51 60	xenograft
+N106	Reference T28 ConceptId:C0522537	Xenograft type of graft
+N107	Reference T28 SemanticType:bodm	bodm
+T29	MMLite 790 794	DOPA
+N108	Reference T29 SemanticType:bacs	bacs
+N109	Reference T29 ConceptId:C0013023	Dopa
+N110	Reference T29 SemanticType:aapp	aapp
+N111	Reference T29 SemanticType:phsu	phsu

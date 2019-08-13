@@ -1,0 +1,28 @@
+T1	Chemlistem 154 163	quinolone
+A1	Score T1 0.70744336
+T2	Chemlistem 270 279	quinolone
+A2	Score T2 0.8200885
+T3	Chemlistem 401 411	quinolones
+A3	Score T3 0.92629
+T4	Chemlistem 416 427	carbapenems
+A4	Score T4 0.5291917
+T5	Chemlistem 779 791	levofloxacin
+A5	Score T5 0.94722825
+T6	Chemlistem 796 805	ofloxacin
+A6	Score T6 0.95108634
+T7	Chemlistem 930 938	amikacin
+A7	Score T7 0.9446539
+T8	Chemlistem 948 958	gentamicin
+A8	Score T8 0.96132076
+T9	Chemlistem 968 976	cefepime
+A9	Score T9 0.95348006
+T10	Chemlistem 989 1000	pipercillin
+A10	Score T10 0.8444321
+T11	Chemlistem 1001 1011	tazobactam
+A11	Score T11 0.94739825
+T12	Chemlistem 1155 1170	fluoroquinolone
+A12	Score T12 0.87644905
+T13	Chemlistem 1249 1261	levofloxacin
+A13	Score T13 0.95616287
+T14	Chemlistem 1266 1275	ofloxacin
+A14	Score T14 0.9591067

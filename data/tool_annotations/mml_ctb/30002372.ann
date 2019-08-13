@@ -1,0 +1,14 @@
+T1	MMLite 895 898	was
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C1565156	WAS protein, human
+T2	MMLite 125 128	for
+N4	Reference T2 ConceptId:C1421525	WWOX gene
+N5	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 299 302	for
+N6	Reference T3 ConceptId:C1421525	WWOX gene
+N7	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 675 678	was
+N8	Reference T4 SemanticType:bacs	bacs
+N9	Reference T4 SemanticType:aapp	aapp
+N10	Reference T4 ConceptId:C1565156	WAS protein, human

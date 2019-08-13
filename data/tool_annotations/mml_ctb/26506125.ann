@@ -1,0 +1,150 @@
+T1	MMLite 590 593	SAH
+N1	Reference T1 ConceptId:C0036001	S-Adenosylhomocysteine
+N2	Reference T1 SemanticType:bacs	bacs
+N3	Reference T1 SemanticType:aapp	aapp
+T2	MMLite 1102 1105	SAH
+N4	Reference T2 ConceptId:C0036001	S-Adenosylhomocysteine
+N5	Reference T2 SemanticType:bacs	bacs
+N6	Reference T2 SemanticType:aapp	aapp
+T3	MMLite 356 360	NFkB
+N7	Reference T3 SemanticType:aapp	aapp
+N8	Reference T3 ConceptId:C0079904	NF-kappa B
+N9	Reference T3 SemanticType:imft	imft
+T4	MMLite 652 655	SAH
+N10	Reference T4 ConceptId:C0036001	S-Adenosylhomocysteine
+N11	Reference T4 SemanticType:bacs	bacs
+N12	Reference T4 SemanticType:aapp	aapp
+T5	MMLite 793 796	was
+N13	Reference T5 SemanticType:bacs	bacs
+N14	Reference T5 SemanticType:aapp	aapp
+N15	Reference T5 ConceptId:C1565156	WAS protein, human
+T6	MMLite 364 367	SAH
+N16	Reference T6 ConceptId:C0036001	S-Adenosylhomocysteine
+N17	Reference T6 SemanticType:bacs	bacs
+N18	Reference T6 SemanticType:aapp	aapp
+T7	MMLite 139 142	SAH
+N19	Reference T7 ConceptId:C0036001	S-Adenosylhomocysteine
+N20	Reference T7 SemanticType:bacs	bacs
+N21	Reference T7 SemanticType:aapp	aapp
+T8	MMLite 282 290	mediator
+N22	Reference T8 SemanticType:bacs	bacs
+N23	Reference T8 ConceptId:C1363844	Mediator of activation protein
+N24	Reference T8 SemanticType:aapp	aapp
+T9	MMLite 74 77	for
+N25	Reference T9 ConceptId:C1421525	WWOX gene
+N26	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 1225 1234	cytokines
+N27	Reference T10 ConceptId:C1524094	Recombinant Cytokines
+N28	Reference T10 SemanticType:aapp	aapp
+N29	Reference T10 SemanticType:imft	imft
+N30	Reference T10 ConceptId:C0079189	cytokine
+N31	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 0 22	S-adenosylhomocysteine
+N32	Reference T11 ConceptId:C0036001	S-Adenosylhomocysteine
+N33	Reference T11 SemanticType:bacs	bacs
+N34	Reference T11 SemanticType:aapp	aapp
+T12	MMLite 291 295	NFkB
+N35	Reference T12 SemanticType:aapp	aapp
+N36	Reference T12 ConceptId:C0079904	NF-kappa B
+N37	Reference T12 SemanticType:imft	imft
+T13	MMLite 876 879	IkB
+N38	Reference T13 SemanticType:bacs	bacs
+N39	Reference T13 SemanticType:aapp	aapp
+N40	Reference T13 ConceptId:C0167954	I-kappa B Proteins
+N41	Reference T13 SemanticType:imft	imft
+N42	Reference T13 ConceptId:C0166033	I kappa B beta protein
+T14	MMLite 1526 1529	SAH
+N43	Reference T14 ConceptId:C0036001	S-Adenosylhomocysteine
+N44	Reference T14 SemanticType:bacs	bacs
+N45	Reference T14 SemanticType:aapp	aapp
+T15	MMLite 972 976	NFkB
+N46	Reference T15 SemanticType:aapp	aapp
+N47	Reference T15 ConceptId:C0079904	NF-kappa B
+N48	Reference T15 SemanticType:imft	imft
+T16	MMLite 614 618	cell
+N49	Reference T16 ConceptId:C1413336	CEL gene
+N50	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 115 137	S-adenosylhomocysteine
+N51	Reference T17 ConceptId:C0036001	S-Adenosylhomocysteine
+N52	Reference T17 SemanticType:bacs	bacs
+N53	Reference T17 SemanticType:aapp	aapp
+T18	MMLite 707 716	cytokines
+N54	Reference T18 ConceptId:C1524094	Recombinant Cytokines
+N55	Reference T18 SemanticType:aapp	aapp
+N56	Reference T18 SemanticType:imft	imft
+N57	Reference T18 ConceptId:C0079189	cytokine
+N58	Reference T18 SemanticType:phsu	phsu
+T19	MMLite 442 445	SAH
+N59	Reference T19 ConceptId:C0036001	S-Adenosylhomocysteine
+N60	Reference T19 SemanticType:bacs	bacs
+N61	Reference T19 SemanticType:aapp	aapp
+T20	MMLite 503 521	methyltransferases
+N62	Reference T20 SemanticType:aapp	aapp
+N63	Reference T20 ConceptId:C0025831	Methyltransferase
+N64	Reference T20 SemanticType:enzy	enzy
+T21	MMLite 327 330	was
+N65	Reference T21 SemanticType:bacs	bacs
+N66	Reference T21 SemanticType:aapp	aapp
+N67	Reference T21 ConceptId:C1565156	WAS protein, human
+T22	MMLite 1025 1031	lysine
+N68	Reference T22 SemanticType:bacs	bacs
+N69	Reference T22 ConceptId:C0024337	Lysine
+N70	Reference T22 SemanticType:aapp	aapp
+N71	Reference T22 ConceptId:C0523760	Lysine measurement
+N72	Reference T22 SemanticType:lbpr	lbpr
+N73	Reference T22 SemanticType:phsu	phsu
+T23	MMLite 1015 1022	histone
+N74	Reference T23 SemanticType:bacs	bacs
+N75	Reference T23 SemanticType:aapp	aapp
+N76	Reference T23 ConceptId:C0019652	Histones
+T24	MMLite 472 492	S-adenosylmethionine
+N77	Reference T24 SemanticType:bacs	bacs
+N78	Reference T24 ConceptId:C0036002	S-Adenosylmethionine
+N79	Reference T24 SemanticType:aapp	aapp
+N80	Reference T24 SemanticType:phsu	phsu
+T25	MMLite 52 56	NFkB
+N81	Reference T25 SemanticType:aapp	aapp
+N82	Reference T25 ConceptId:C0079904	NF-kappa B
+N83	Reference T25 SemanticType:imft	imft
+T26	MMLite 891 894	SAH
+N84	Reference T26 ConceptId:C0036001	S-Adenosylhomocysteine
+N85	Reference T26 SemanticType:bacs	bacs
+N86	Reference T26 SemanticType:aapp	aapp
+T27	MMLite 144 147	can
+N87	Reference T27 SemanticType:mnob	mnob
+N88	Reference T27 ConceptId:C1704712	Can - object
+T28	MMLite 1442 1445	SAH
+N89	Reference T28 ConceptId:C0036001	S-Adenosylhomocysteine
+N90	Reference T28 SemanticType:bacs	bacs
+N91	Reference T28 SemanticType:aapp	aapp
+T29	MMLite 98 102	cell
+N92	Reference T29 ConceptId:C1413336	CEL gene
+N93	Reference T29 SemanticType:gngm	gngm
+T30	MMLite 555 572	methyltransferase
+N94	Reference T30 SemanticType:aapp	aapp
+N95	Reference T30 ConceptId:C0025831	Methyltransferase
+N96	Reference T30 SemanticType:enzy	enzy
+T31	MMLite 1317 1320	SAH
+N97	Reference T31 ConceptId:C0036001	S-Adenosylhomocysteine
+N98	Reference T31 SemanticType:bacs	bacs
+N99	Reference T31 SemanticType:aapp	aapp
+T32	MMLite 1150 1154	NFkB
+N100	Reference T32 SemanticType:aapp	aapp
+N101	Reference T32 ConceptId:C0079904	NF-kappa B
+N102	Reference T32 SemanticType:imft	imft
+T33	MMLite 323 326	aim
+N103	Reference T33 SemanticType:aapp	aapp
+N104	Reference T33 SemanticType:imft	imft
+N105	Reference T33 ConceptId:C2744535	CD69 protein, human
+T34	MMLite 860 874	NFkB inhibitor
+N106	Reference T34 SemanticType:aapp	aapp
+N107	Reference T34 ConceptId:C0167954	I-kappa B Proteins
+N108	Reference T34 SemanticType:imft	imft
+T35	MMLite 1339 1343	NFkB
+N109	Reference T35 SemanticType:aapp	aapp
+N110	Reference T35 ConceptId:C0079904	NF-kappa B
+N111	Reference T35 SemanticType:imft	imft
+T36	MMLite 1498 1502	NFkB
+N112	Reference T36 SemanticType:aapp	aapp
+N113	Reference T36 ConceptId:C0079904	NF-kappa B
+N114	Reference T36 SemanticType:imft	imft

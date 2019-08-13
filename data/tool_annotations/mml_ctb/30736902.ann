@@ -1,0 +1,64 @@
+T1	MMLite 912 914	KA
+N1	Reference T1 ConceptId:C0022471	Kainic Acid
+N2	Reference T1 SemanticType:orch	orch
+N3	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 800 811	Fluoro-Jade
+N4	Reference T2 ConceptId:C1097415	fluoro jade
+N5	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 1136 1138	KA
+N6	Reference T3 ConceptId:C0022471	Kainic Acid
+N7	Reference T3 SemanticType:orch	orch
+N8	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 673 683	antibodies
+N9	Reference T4 SemanticType:aapp	aapp
+N10	Reference T4 SemanticType:imft	imft
+N11	Reference T4 ConceptId:C0003241	Antibodies
+T5	MMLite 1091 1094	was
+N12	Reference T5 SemanticType:bacs	bacs
+N13	Reference T5 SemanticType:aapp	aapp
+N14	Reference T5 ConceptId:C1565156	WAS protein, human
+T6	MMLite 1267 1269	KA
+N15	Reference T6 ConceptId:C0022471	Kainic Acid
+N16	Reference T6 SemanticType:orch	orch
+N17	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 614 623	injection
+N18	Reference T7 SemanticType:topp	topp
+N19	Reference T7 SemanticType:ftcn	ftcn
+N20	Reference T7 ConceptId:C1828121	Injection Route of Drug Administration
+N21	Reference T7 ConceptId:C0021485	Injection of therapeutic agent
+N22	Reference T7 ConceptId:C1533685	Injection procedure
+T8	MMLite 291 293	KA
+N23	Reference T8 ConceptId:C0022471	Kainic Acid
+N24	Reference T8 SemanticType:orch	orch
+N25	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 402 404	KA
+N26	Reference T9 ConceptId:C0022471	Kainic Acid
+N27	Reference T9 SemanticType:orch	orch
+N28	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 577 579	KA
+N29	Reference T10 ConceptId:C0022471	Kainic Acid
+N30	Reference T10 SemanticType:orch	orch
+N31	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 78 89	kainic acid
+N32	Reference T11 ConceptId:C0022471	Kainic Acid
+N33	Reference T11 SemanticType:orch	orch
+N34	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 901 910	apoptosis
+N35	Reference T12 ConceptId:C0162638	Apoptosis
+N36	Reference T12 SemanticType:celf	celf
+T13	MMLite 252 255	was
+N37	Reference T13 SemanticType:bacs	bacs
+N38	Reference T13 SemanticType:aapp	aapp
+N39	Reference T13 ConceptId:C1565156	WAS protein, human
+T14	MMLite 278 289	kainic acid
+N40	Reference T14 ConceptId:C0022471	Kainic Acid
+N41	Reference T14 SemanticType:orch	orch
+N42	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 668 672	GFAP
+N43	Reference T15 SemanticType:celc	celc
+N44	Reference T15 SemanticType:bacs	bacs
+N45	Reference T15 SemanticType:aapp	aapp
+N46	Reference T15 ConceptId:C0017626	Glial Fibrillary Acidic Protein
+N47	Reference T15 ConceptId:C1325793	glial fibrillary acidic protein location
+N48	Reference T15 ConceptId:C1415042	GFAP gene
+N49	Reference T15 SemanticType:gngm	gngm

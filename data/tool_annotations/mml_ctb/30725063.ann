@@ -1,0 +1,61 @@
+T1	MMLite 1205 1208	had
+N1	Reference T1 ConceptId:C1415458	HADH gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 1716 1719	for
+N3	Reference T2 ConceptId:C1421525	WWOX gene
+N4	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 809 814	April
+N5	Reference T3 ConceptId:C3811652	A Proliferation-Inducing Ligand Measurement
+N6	Reference T3 SemanticType:lbpr	lbpr
+T4	MMLite 908 911	DNA
+N7	Reference T4 SemanticType:celc	celc
+N8	Reference T4 SemanticType:bacs	bacs
+N9	Reference T4 ConceptId:C0012854	DNA
+N10	Reference T4 ConceptId:C1325786	DNA location
+N11	Reference T4 SemanticType:nnon	nnon
+T5	MMLite 250 253	for
+N12	Reference T5 ConceptId:C1421525	WWOX gene
+N13	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 1325 1329	same
+N14	Reference T6 SemanticType:bacs	bacs
+N15	Reference T6 ConceptId:C0036002	S-Adenosylmethionine
+N16	Reference T6 SemanticType:aapp	aapp
+N17	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 1359 1362	was
+N18	Reference T7 SemanticType:bacs	bacs
+N19	Reference T7 SemanticType:aapp	aapp
+N20	Reference T7 ConceptId:C1565156	WAS protein, human
+T8	MMLite 1466 1470	same
+N21	Reference T8 SemanticType:bacs	bacs
+N22	Reference T8 ConceptId:C0036002	S-Adenosylmethionine
+N23	Reference T8 SemanticType:aapp	aapp
+N24	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 254 279	hepatocyte nuclear factor
+N25	Reference T9 SemanticType:bacs	bacs
+N26	Reference T9 SemanticType:aapp	aapp
+N27	Reference T9 ConceptId:C0872184	Hepatocyte Nuclear Factors
+T10	MMLite 1375 1379	exon
+N28	Reference T10 SemanticType:bacs	bacs
+N29	Reference T10 ConceptId:C0015295	Exons
+N30	Reference T10 SemanticType:nnon	nnon
+T11	MMLite 882 887	exons
+N31	Reference T11 SemanticType:bacs	bacs
+N32	Reference T11 ConceptId:C0015295	Exons
+N33	Reference T11 SemanticType:nnon	nnon
+T12	MMLite 1107 1111	exon
+N34	Reference T12 SemanticType:bacs	bacs
+N35	Reference T12 ConceptId:C0015295	Exons
+N36	Reference T12 SemanticType:nnon	nnon
+T13	MMLite 954 961	enzymes
+N37	Reference T13 ConceptId:C3540017	Enzymes, hematological
+N38	Reference T13 SemanticType:orch	orch
+N39	Reference T13 ConceptId:C3540048	ENZYMES FOR TREATMENT OF WOUNDS AND ULCERS
+N40	Reference T13 ConceptId:C3541394	Enzymes, antithrombotic
+N41	Reference T13 SemanticType:ftcn	ftcn
+N42	Reference T13 SemanticType:enzy	enzy
+N43	Reference T13 ConceptId:C3540772	Enzymes FOR DISORDERS OF THE MUSCULO-SKELETAL SYSTEM
+N44	Reference T13 ConceptId:C3540790	Enzymes, peripheral vasodilators
+N45	Reference T13 ConceptId:C0014442	Enzymes
+N46	Reference T13 SemanticType:phsu	phsu
+N47	Reference T13 ConceptId:C3542456	Enzymes for ALIMENTARY TRACT AND METABOLISM
+N48	Reference T13 ConceptId:C0014445	enzymology

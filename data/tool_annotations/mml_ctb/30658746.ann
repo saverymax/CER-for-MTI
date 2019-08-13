@@ -1,0 +1,58 @@
+T1	MMLite 580 583	NH2
+N1	Reference T1 ConceptId:C0002508	Amines
+N2	Reference T1 SemanticType:orch	orch
+N3	Reference T1 SemanticType:hops	hops
+N4	Reference T1 SemanticType:phsu	phsu
+N5	Reference T1 ConceptId:C0025033	Mechlorethamine
+T2	MMLite 198 204	sodium
+N6	Reference T2 SemanticType:bacs	bacs
+N7	Reference T2 ConceptId:C0337443	Sodium measurement
+N8	Reference T2 ConceptId:C0037570	Sodium, Dietary
+N9	Reference T2 SemanticType:lbpr	lbpr
+N10	Reference T2 ConceptId:C0037473	Sodium
+N11	Reference T2 ConceptId:C3541959	Sodium supplements
+N12	Reference T2 SemanticType:elii	elii
+N13	Reference T2 ConceptId:C3714642	Sodium Drug Class
+N14	Reference T2 SemanticType:phsu	phsu
+N15	Reference T2 SemanticType:food	food
+T3	MMLite 612 618	sodium
+N16	Reference T3 SemanticType:bacs	bacs
+N17	Reference T3 ConceptId:C0337443	Sodium measurement
+N18	Reference T3 ConceptId:C0037570	Sodium, Dietary
+N19	Reference T3 SemanticType:lbpr	lbpr
+N20	Reference T3 ConceptId:C0037473	Sodium
+N21	Reference T3 ConceptId:C3541959	Sodium supplements
+N22	Reference T3 SemanticType:elii	elii
+N23	Reference T3 SemanticType:phsu	phsu
+N24	Reference T3 ConceptId:C3714642	Sodium Drug Class
+N25	Reference T3 SemanticType:food	food
+T4	MMLite 11 17	sodium
+N26	Reference T4 SemanticType:bacs	bacs
+N27	Reference T4 ConceptId:C0337443	Sodium measurement
+N28	Reference T4 ConceptId:C0037570	Sodium, Dietary
+N29	Reference T4 SemanticType:lbpr	lbpr
+N30	Reference T4 ConceptId:C0037473	Sodium
+N31	Reference T4 SemanticType:elii	elii
+N32	Reference T4 ConceptId:C3541959	Sodium supplements
+N33	Reference T4 SemanticType:food	food
+N34	Reference T4 ConceptId:C3714642	Sodium Drug Class
+N35	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 235 241	sodium
+N36	Reference T5 SemanticType:bacs	bacs
+N37	Reference T5 ConceptId:C0337443	Sodium measurement
+N38	Reference T5 ConceptId:C0037570	Sodium, Dietary
+N39	Reference T5 SemanticType:lbpr	lbpr
+N40	Reference T5 ConceptId:C0037473	Sodium
+N41	Reference T5 SemanticType:elii	elii
+N42	Reference T5 ConceptId:C3541959	Sodium supplements
+N43	Reference T5 SemanticType:food	food
+N44	Reference T5 ConceptId:C3714642	Sodium Drug Class
+N45	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 550 553	was
+N46	Reference T6 SemanticType:bacs	bacs
+N47	Reference T6 SemanticType:aapp	aapp
+N48	Reference T6 ConceptId:C1565156	WAS protein, human
+T7	MMLite 182 185	was
+N49	Reference T7 SemanticType:bacs	bacs
+N50	Reference T7 SemanticType:aapp	aapp
+N51	Reference T7 ConceptId:C1565156	WAS protein, human

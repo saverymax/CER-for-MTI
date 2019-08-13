@@ -1,0 +1,47 @@
+T1	MMLite 1605 1608	had
+N1	Reference T1 ConceptId:C1415458	HADH gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 469 472	for
+N3	Reference T2 ConceptId:C1421525	WWOX gene
+N4	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 773 776	RNA
+N5	Reference T3 SemanticType:celc	celc
+N6	Reference T3 ConceptId:C0035668	RNA
+N7	Reference T3 ConceptId:C1325819	RNA location
+N8	Reference T3 SemanticType:nnon	nnon
+T4	MMLite 1557 1560	was
+N9	Reference T4 SemanticType:bacs	bacs
+N10	Reference T4 SemanticType:aapp	aapp
+N11	Reference T4 ConceptId:C1565156	WAS protein, human
+T5	MMLite 2152 2155	for
+N12	Reference T5 ConceptId:C1421525	WWOX gene
+N13	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 326 329	PGC
+N14	Reference T6 SemanticType:lbpr	lbpr
+N15	Reference T6 ConceptId:C3538998	Pepsinogen C Measurement
+T7	MMLite 969 972	RNA
+N16	Reference T7 SemanticType:celc	celc
+N17	Reference T7 ConceptId:C0035668	RNA
+N18	Reference T7 ConceptId:C1325819	RNA location
+N19	Reference T7 SemanticType:nnon	nnon
+T8	MMLite 1854 1862	contrast
+N20	Reference T8 SemanticType:irda	irda
+N21	Reference T8 ConceptId:C0009924	Contrast Media
+T9	MMLite 312 316	cell
+N22	Reference T9 ConceptId:C1413336	CEL gene
+N23	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 608 611	pum
+N24	Reference T10 SemanticType:aapp	aapp
+N25	Reference T10 ConceptId:C0057628	Mucin-1 protein
+N26	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 513 517	mRNA
+N27	Reference T11 SemanticType:bacs	bacs
+N28	Reference T11 ConceptId:C0035696	RNA, Messenger
+N29	Reference T11 SemanticType:nnon	nnon
+T12	MMLite 50 53	pum
+N30	Reference T12 SemanticType:aapp	aapp
+N31	Reference T12 ConceptId:C0057628	Mucin-1 protein
+N32	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 891 894	for
+N33	Reference T13 ConceptId:C1421525	WWOX gene
+N34	Reference T13 SemanticType:gngm	gngm

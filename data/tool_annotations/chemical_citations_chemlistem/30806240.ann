@@ -1,0 +1,24 @@
+T1	Chemlistem 0 6	Lutein
+A1	Score T1 0.86555433
+T2	Chemlistem 479 485	Lutein
+A2	Score T2 0.89518076
+T3	Chemlistem 505 515	ε-carotene
+A3	Score T3 0.74720746
+T4	Chemlistem 520 530	carotenoid
+A4	Score T4 0.88881826
+T5	Chemlistem 704 710	lutein
+A5	Score T5 0.93977475
+T6	Chemlistem 789 795	lutein
+A6	Score T6 0.8942846
+T7	Chemlistem 883 886	MTT
+A7	Score T7 0.6477271
+T8	Chemlistem 888 948	3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide
+A8	Score T8 0.9241381
+T9	Chemlistem 1029 1035	lutein
+A9	Score T9 0.88015246
+T10	Chemlistem 1117 1123	lutein
+A10	Score T10 0.9176107
+T11	Chemlistem 1364 1370	lutein
+A11	Score T11 0.89900386
+T12	Chemlistem 1544 1550	lutein
+A12	Score T12 0.9170842

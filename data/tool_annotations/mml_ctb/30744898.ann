@@ -1,0 +1,37 @@
+T1	MMLite 74 103	voltage-gated sodium channels
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C3494197	Voltage-Gated Sodium Channels
+T2	MMLite 169 176	peptide
+N4	Reference T2 SemanticType:aapp	aapp
+N5	Reference T2 ConceptId:C0030956	Peptides
+T3	MMLite 920 923	was
+N6	Reference T3 SemanticType:bacs	bacs
+N7	Reference T3 SemanticType:aapp	aapp
+N8	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 21 32	insecticide
+N9	Reference T4 SemanticType:hops	hops
+N10	Reference T4 ConceptId:C0021576	Insecticides
+T5	MMLite 1533 1562	voltage-gated sodium channels
+N11	Reference T5 SemanticType:bacs	bacs
+N12	Reference T5 SemanticType:aapp	aapp
+N13	Reference T5 ConceptId:C3494197	Voltage-Gated Sodium Channels
+T6	MMLite 211 217	urease
+N14	Reference T6 SemanticType:aapp	aapp
+N15	Reference T6 ConceptId:C0041945	Urease
+N16	Reference T6 SemanticType:enzy	enzy
+T7	MMLite 56 62	Urease
+N17	Reference T7 SemanticType:aapp	aapp
+N18	Reference T7 ConceptId:C0041945	Urease
+N19	Reference T7 SemanticType:enzy	enzy
+T8	MMLite 1362 1368	sodium
+N20	Reference T8 SemanticType:bacs	bacs
+N21	Reference T8 ConceptId:C0337443	Sodium measurement
+N22	Reference T8 ConceptId:C0037570	Sodium, Dietary
+N23	Reference T8 SemanticType:lbpr	lbpr
+N24	Reference T8 ConceptId:C0037473	Sodium
+N25	Reference T8 ConceptId:C3541959	Sodium supplements
+N26	Reference T8 SemanticType:elii	elii
+N27	Reference T8 ConceptId:C3714642	Sodium Drug Class
+N28	Reference T8 SemanticType:phsu	phsu
+N29	Reference T8 SemanticType:food	food

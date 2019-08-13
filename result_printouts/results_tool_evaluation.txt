@@ -1,0 +1,65 @@
+Nested on nested
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+
+MTI on nested
+Precision: 0.575187969924812
+Recall: 0.30297029702970296
+F1-score: 0.3968871595330739
+
+MML + CTB on nested
+Precision: 0.39447513812154694
+Recall: 0.47128712871287126
+F1-score: 0.42947368421052623
+
+PubTator Central on nested
+Precision: 0.7954545454545454
+Recall: 0.5544554455445545
+F1-score: 0.6534422403733956
+
+ChemListem on nested
+Precision: 0.8140625
+Recall: 0.3438943894389439
+F1-score: 0.4835266821345708
+
+lstm_char_embed_chemdner on nested
+Precision: 0.6480218281036835
+Recall: 0.31353135313531355
+F1-score: 0.4225978647686833
+
+ChemDataExtractor on nested
+Precision: 0.8202380952380952
+Recall: 0.4547854785478548
+F1-score: 0.5851380042462845
+
+ChemDNER BERT on nested
+Precision: 0.7931034482758621
+Recall: 0.4250825082508251
+F1-score: 0.5535023635582295
+
+Gene BERT on nested
+Precision: 0.6206140350877193
+Recall: 0.3735973597359736
+F1-score: 0.46641944787803874
+
+BERT Ensemble on nested
+Precision: 0.6920693928128873
+Recall: 0.7372937293729372
+F1-score: 0.7139661233620965
+
+SciBERT Ensemble on nested
+Precision: 0.7122557726465364
+Recall: 0.7940594059405941
+F1-score: 0.7509363295880149
+
+BioBERT Ensemble on nested
+Precision: 0.7060226595110316
+Recall: 0.7815181518151815
+F1-score: 0.7418546365914788
+
+XLNet ensemble on nested
+Precision: 0.5268996117581808
+Recall: 0.6270627062706271
+F1-score: 0.5726341169379144
+

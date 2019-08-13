@@ -1,0 +1,1787 @@
+30743888	carbon	B-chem
+30743888	ZnO	B-chem
+30743888	ZnO	B-chem
+30743888	ZnO	B-chem
+30743888	ZnO	B-chem
+30658746	sodium tripolyphosphate	B-chem
+30658746	sodium tripolyphosphate	B-chem
+30658746	sodium tripolyphosphate	B-chem
+30658746	sodium tripolyphosphate	B-chem
+29452802	argon	B-chem
+29452802	Xenon	B-chem
+29452802	Argon	B-chem
+29452802	xenon	B-chem
+29452802	argon	B-chem
+29452802	argon	B-chem
+29452802	argon	B-chem
+29452802	argon	B-chem
+29452802	argon	B-chem
+30744889	validamycin	B-chem
+30744889	DON	B-chem
+30744889	Validamycin	B-chem
+30744889	validamycin	B-chem
+30744889	validamycin	B-chem
+30744889	deoxynivalenol	B-chem
+30744889	DON	B-chem
+30744889	glucose	B-chem
+30744889	pyruvate	B-chem
+30744889	DON	B-chem
+30744889	validamycin	B-chem
+30744889	validamycin	B-chem
+30744889	DON	B-chem
+30744889	validamycin	B-chem
+30744889	DON	B-chem
+30744889	DON	B-chem
+30744889	validamycin	B-chem
+30744889	triazole	B-chem
+30744889	metconazole	B-chem
+30880703	quinolone	B-chem
+30880703	quinolone	B-chem
+30880703	quinolones	B-chem
+30880703	carbapenems	B-chem
+30880703	levofloxacin	B-chem
+30880703	ofloxacin	B-chem
+30880703	carbapenems	B-chem
+30880703	amikacin	B-chem
+30880703	gentamicin	B-chem
+30880703	cefepime	B-chem
+30880703	pipercillin	B-chem
+30880703	tazobactam	B-chem
+30880703	fluoroquinolone	B-chem
+30880703	levofloxacin	B-chem
+30880703	ofloxacin	B-chem
+30642509	theanine	B-chem
+30642509	l-Theanine	B-chem
+30642509	N-Ethylacetamide	B-chem
+30642509	l-theanine	B-chem
+30642509	l-theanine	B-chem
+30704719	DDT	B-chem
+30704719	4,4'-dichlorodiphenyltrichloroethane	B-chem
+30704719	DDT	B-chem
+30704719	DDT	B-chem
+30704719	DDT	B-chem
+30704719	DDT	B-chem
+30704719	ATP	B-chem
+30704719	DDT	B-chem
+30704719	DDT	B-chem
+30857079	NO3	B-chem
+30857079	NH4	B-chem
+30857079	PO4	B-chem
+30857079	NO3	B-chem
+30857079	NH4	B-chem
+30857079	PO4	B-chem
+28594000	11C	B-chem
+28594000	18F	B-chem
+28594000	lorlatinib	B-chem
+28594000	Lorlatinib	B-chem
+28594000	PF-06463922	B-chem
+28594000	tyrosine	B-chem
+28594000	11C-	B-chem
+28594000	18F-isotopologues	B-chem
+28594000	lorlatinib	B-chem
+28594000	11C-labelling	B-chem
+28594000	iodonium	B-chem
+28594000	Carbon-11	B-chem
+28594000	lorlatinib	B-chem
+30784447	arsenate	B-chem
+30784447	zinc ferrite	B-chem
+30784447	zinc	B-chem
+30784447	zinc ferrite	B-chem
+30784447	zinc	B-chem
+30784447	ZnxFe3-xO4	B-chem
+30784447	As (V)	B-chem
+30784447	ZnxFe3-xO4	B-chem
+30784447	zinc	B-chem
+30784447	ZnxFe3-xO4	B-chem
+30784447	zinc	B-chem
+30784447	Zinc ferrite	B-chem
+30784447	As (V)	B-chem
+30784447	zinc	B-chem
+30784447	hydroxyl	B-chem
+30784447	ferrite	B-chem
+30784447	ferrite	B-chem
+30784447	As (V)	B-chem
+30458286	adriamycin	B-chem
+30458286	adriamycin	B-chem
+30458286	adriamycin	B-chem
+30784464	C-doped Bi2MoO6	B-chem
+30784464	In2O3-ZnO	B-chem
+30784464	C-doped Bi2MoO6	B-chem
+30784464	In2O3-ZnO	B-chem
+30784464	doxycycline	B-chem
+30784464	carbon	B-chem
+30784464	carbon	B-chem
+30784464	Bi2MoO6	B-chem
+30784464	In2O3-ZnO	B-chem
+30784464	carbon	B-chem
+30784464	Bi2MoO6	B-chem
+30784464	In2O3-ZnO	B-chem
+30784464	carbon	B-chem
+30784464	doxycycline	B-chem
+30784464	Bi2MoO6	B-chem
+30784464	ZnInAl-CLDH	B-chem
+30784464	hydroxides	B-chem
+30784464	C-doping	B-chem
+30712596	estrogens	B-chem
+30712596	Estrogens	B-chem
+30712596	hydroxy methoxyestrogens	B-chem
+30712596	Estrogen	B-chem
+30712596	estrogens	B-chem
+30712596	Estrogens	B-chem
+30712596	1-(5-fluoro-2,4-dinitrophenyl)-4-methylpiperazine	B-chem
+30712596	PPZ	B-chem
+30712596	MPPZ	B-chem
+30712596	MPPZ	B-chem
+30712596	estrone	B-chem
+30712596	estradiol	B-chem
+30712596	16-hydroxy-E1	B-chem
+30712596	16-hydroxy-E2	B-chem
+30712596	2-methoxy-E1	B-chem
+30712596	4-methoxy-E1	B-chem
+30712596	estrogens	B-chem
+30712596	MPPZ	B-chem
+30712596	estrogens	B-chem
+30712583	Copper hydroxide	B-chem
+30712583	copper hydroxide	B-chem
+30712583	silica	B-chem
+30712583	nickel silicate	B-chem
+30712583	Cu(OH)2	B-chem
+30712583	Cu(OH)2	B-chem
+30712583	Cu(OH)2	B-chem
+30712583	2,2'-azinobis-(3-ethylbenzothiazoline-6-sulfonic acid )	B-chem
+30712583	ABTS	B-chem
+30759593	La2O3	B-chem
+30759593	rare earth oxide	B-chem
+30759593	lanthanum oxide	B-chem
+30759593	La2O3	B-chem
+30759593	La2O3	B-chem
+30759593	La2O3	B-chem
+30759593	abscisic acid	B-chem
+30759593	La2O3	B-chem
+30759593	La2O3	B-chem
+30759593	S	B-chem
+30759593	La2O3	B-chem
+30759593	La2O3	B-chem
+30759593	La2O3	B-chem
+30782374	carbon	B-chem
+30782374	silver	B-chem
+30782374	H2O2	B-chem
+30782374	H2O2	B-chem
+30782374	H2O2	B-chem
+30782374	silver	B-chem
+30782374	H2O2	B-chem
+30782374	carbon	B-chem
+30782374	silver	B-chem
+30782374	H2O2	B-chem
+30782374	H2O2	B-chem
+30782374	H2O2-generation	B-chem
+30782374	glucose	B-chem
+30782374	glucose	B-chem
+30784450	carbon	B-chem
+30784450	carbon	B-chem
+30784450	DIC	B-chem
+30784450	carbon	B-chem
+30784450	DIC	B-chem
+30784450	DIC	B-chem
+30784450	H13CO3-into	B-chem
+30784450	ammonia	B-chem
+30784450	H13CO3-metabolized	B-chem
+30784450	microcystin	B-chem
+30784450	DIC	B-chem
+29699594	curcumin	B-chem
+29699594	capsaicin	B-chem
+29699594	cyclophosphamide	B-chem
+29699594	curcumin	B-chem
+29699594	capsaicin	B-chem
+29699594	CPS	B-chem
+29699594	cyclophosphamide	B-chem
+29699594	cyclophosphamide	B-chem
+29699594	cyclophosphamide	B-chem
+29699594	CRC	B-chem
+29699594	CPS	B-chem
+29699594	CPS	B-chem
+29699594	cyclophosphamide	B-chem
+29699594	CPS	B-chem
+29699594	Malonaldehyde	B-chem
+29699594	glutathione	B-chem
+29699594	superoxide	B-chem
+29699594	CRC	B-chem
+29699594	CPS	B-chem
+29699594	CPS	B-chem
+29699594	CPS	B-chem
+29699594	estradiol	B-chem
+29699594	CPS	B-chem
+29699594	cyclophosphamide	B-chem
+29699594	cyclophosphamide	B-chem
+30784451	CeO2	B-chem
+30784451	NO	B-chem
+30784451	NH3	B-chem
+30784451	sulfuric acid	B-chem
+30784451	CeO2	B-chem
+30784451	NOx	B-chem
+30784451	NH3	B-chem
+30784451	NH3-SCR	B-chem
+30784451	sulfate	B-chem
+30784451	CeO2	B-chem
+30784451	NOx	B-chem
+30784451	4H2SO4	B-chem
+30784451	CeO2	B-chem
+30784451	CeO2	B-chem
+30784451	NH3	B-chem
+30784451	N2	B-chem
+30784451	sulfate	B-chem
+30784451	NOx	B-chem
+30784451	N2	B-chem
+30784451	ceria	B-chem
+30857089	carbon	B-chem
+30857089	13C	B-chem
+30857089	13C	B-chem
+30857089	Carbon	B-chem
+30857089	C	B-chem
+30857089	13C	B-chem
+30857089	CO2	B-chem
+30857089	K2SO4-extractable	B-chem
+30857089	C	B-chem
+30857089	CO2	B-chem
+30857089	13C	B-chem
+30857089	13C	B-chem
+30857089	13C	B-chem
+30857089	13C	B-chem
+30857089	13C	B-chem
+30857089	C	B-chem
+30857089	13C	B-chem
+30857089	C	B-chem
+30857089	C	B-chem
+30857089	C	B-chem
+30658760	bile salt	B-chem
+29190205	amino acid	B-chem
+29190205	alamandine	B-chem
+30744816	ATP-dependent	B-chem
+30744816	ATP-dependent	B-chem
+30744816	C-	B-chem
+30744816	phenylalanine	B-chem
+30744816	tyrosine	B-chem
+30744816	phenylalanine	B-chem
+30744816	asparagine	B-chem
+30744816	C-	B-chem
+28611362	Zinc	B-chem
+28611362	Calcium Silicate	B-chem
+28611362	zinc	B-chem
+28611362	calcium silicate	B-chem
+28611362	Zn	B-chem
+28611362	Ti-6Al-4V	B-chem
+28611362	zinc	B-chem
+28611362	calcium silicate	B-chem
+28611362	zinc	B-chem
+28611362	Zn	B-chem
+28611362	Zn	B-chem
+28611362	calcium silicate	B-chem
+28611362	Zn	B-chem
+28611362	Zn	B-chem
+28611362	calcium silicate	B-chem
+30552979	vitamin D	B-chem
+30552979	vitamin D	B-chem
+30521888	Nucleotide	B-chem
+30521888	Adenine	B-chem
+30521888	Thymine	B-chem
+30521888	Guanine	B-chem
+30521888	Cytosine	B-chem
+30521888	nucleotide	B-chem
+30782376	Carboxylic acids	B-chem
+30782376	H2O2	B-chem
+30782376	peroxy acids	B-chem
+30782376	acetic acid	B-chem
+30782376	H2O2	B-chem
+30782376	3,3',5,5'-tetramethylbenzidine	B-chem
+30782376	TMB	B-chem
+30782376	nucleotides	B-chem
+30782376	nucleotides	B-chem
+30782376	phosphate	B-chem
+30782376	peracetic acid	B-chem
+30001502	adenosine	B-chem
+30001502	xanthine	B-chem
+30001502	valproic acid	B-chem
+30001502	triglyceride	B-chem
+30001502	corticosteroids	B-chem
+30001502	estrogen	B-chem
+30001502	progestin	B-chem
+30001502	uric acid	B-chem
+30001502	estrogen	B-chem
+30001502	progestin	B-chem
+30001502	triglyceride	B-chem
+30001502	valproic acid	B-chem
+30001502	VPA	B-chem
+30001502	adenosine	B-chem
+30001502	xanthine	B-chem
+30001502	estrogen	B-chem
+30001502	progestin	B-chem
+30001502	steroids	B-chem
+30001502	ethinylestradiol	B-chem
+30001502	levonorgestrel	B-chem
+30001502	VPA	B-chem
+30001502	uric acid	B-chem
+30001502	cholesterol	B-chem
+30001502	malondialdehyde	B-chem
+30001502	VPA	B-chem
+30001502	VPA	B-chem
+30001502	aldosterone	B-chem
+30001502	corticosterone	B-chem
+30001502	fatty acid	B-chem
+30001502	VPA	B-chem
+30001502	corticosteroids	B-chem
+30001502	VPA	B-chem
+30744893	triazophos	B-chem
+30744893	glucose	B-chem
+30744893	glucose	B-chem
+30744893	glucose	B-chem
+30744893	Triazophos	B-chem
+30744893	TZP	B-chem
+30744893	sugar	B-chem
+30744893	trehalose	B-chem
+30744893	glucose	B-chem
+30744893	TZP	B-chem
+30744893	TZP	B-chem
+30744893	TZP	B-chem
+30744893	TZP	B-chem
+30744893	TZP	B-chem
+30744893	TZP	B-chem
+30691637	carbon	B-chem
+30691637	carbon	B-chem
+30691637	CO2	B-chem
+30691637	Ci	B-chem
+30691637	Ca	B-chem
+30691637	N	B-chem
+30691637	C	B-chem
+30691637	13C	B-chem
+30691637	15N	B-chem
+30691637	carbon	B-chem
+30691637	nitrogen	B-chem
+30543962	sulfur dioxide	B-chem
+30543962	polycyclic aromatic hydrocarbons	B-chem
+30543962	SO2	B-chem
+30543962	PAHs	B-chem
+30543962	coal	B-chem
+30543962	SO2	B-chem
+30543962	BaP	B-chem
+30543962	MTT	B-chem
+30543962	BaP	B-chem
+30543962	SO2	B-chem
+30543962	SO2	B-chem
+30543962	BaP	B-chem
+30543962	SO2	B-chem
+30543962	BaP	B-chem
+30543962	SO2	B-chem
+30543962	BaP	B-chem
+30543962	SO2	B-chem
+30543962	PAHs	B-chem
+30743858	NH4 +-N	B-chem
+30743858	carbon	B-chem
+30743858	NH4 +-N	B-chem
+30743858	nitrite	B-chem
+30743858	nitrogen	B-chem
+29210643	fatty acid	B-chem
+30744819	N-glycans	B-chem
+30744819	fucose	B-chem
+30744819	Sialic acid	B-chem
+30744819	fucose	B-chem
+30744819	fucose	B-chem
+30744819	sialic acid	B-chem
+30744819	N-glycans	B-chem
+30744819	sugar	B-chem
+30744819	pentaose	B-chem
+30744819	fucose	B-chem
+30235719	actinomycin D	B-chem
+30235719	actinomycin D	B-chem
+30235719	actinomycin D	B-chem
+30235719	polyene phosphatidyl choline	B-chem
+30235719	magnesium isoglycyrrhizinate	B-chem
+30235719	actinomycin D	B-chem
+29936200	d-β-hydroxybutyrate	B-chem
+29936200	melatonin	B-chem
+29936200	d-β-hydroxybutyrate	B-chem
+29936200	melatonin	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	dimethyl sulfoxide	B-chem
+29936200	DMSO	B-chem
+29936200	melatonin	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	DMSO	B-chem
+29936200	polyvinylpyrrolidone	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	PVP	B-chem
+29936200	hydroxypropyl-β-cyclodextrin	B-chem
+29936200	PVP	B-chem
+29936200	polyethylene glycol 400	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	DMSO	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	DMSO	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	PVP	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	DMSO	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	PVP	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	DMSO	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	DMSO	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+29936200	PVP	B-chem
+29936200	BHB	B-chem
+29936200	MLT	B-chem
+26454209	cholesterol	B-chem
+26454209	phosphatidylcholine	B-chem
+30857087	mercury	B-chem
+30857087	Hg	B-chem
+30857087	Hg	B-chem
+30857087	Hg	B-chem
+30857087	methylmercury	B-chem
+30857087	MeHg	B-chem
+30857087	Hg	B-chem
+30857087	Hg	B-chem
+30857087	Hg	B-chem
+30857087	Hg	B-chem
+30857087	thiol	B-chem
+30682765	β-methylamino-l-alanine	B-chem
+30682765	β-methylamino-l-alanine	B-chem
+30682765	BMAA	B-chem
+30682765	BMAA-contaminated	B-chem
+30682765	BMAA	B-chem
+30682765	BMAA	B-chem
+30682765	BMAA-contaminated	B-chem
+30682765	BMAA	B-chem
+30682765	BMAA	B-chem
+30682765	BMAA	B-chem
+30682765	BMAA	B-chem
+30682765	BMAA	B-chem
+30682765	BMAA	B-chem
+30759598	nitrate	B-chem
+30759598	nitrate	B-chem
+30759598	nitrogen	B-chem
+30759598	nitrogen	B-chem
+30759598	nitrate	B-chem
+30759598	nitrogen	B-chem
+30759598	nitrate	B-chem
+30759598	nitrate	B-chem
+30759598	nitrogen	B-chem
+30759598	ammonia	B-chem
+30759598	nitrite	B-chem
+30759598	nitrogen	B-chem
+30382274	polyphenols	B-chem
+30382274	polyphenols	B-chem
+30382274	polyphenols	B-chem
+30382274	polyphenols	B-chem
+30382274	glucose	B-chem
+30784446	graphene oxide	B-chem
+30784446	Ag	B-chem
+30784446	graphene oxides	B-chem
+30784446	Ag	B-chem
+30784446	Ag	B-chem
+30784446	Ag	B-chem
+30784446	Ag	B-chem
+30784452	Carboxymethyl	B-chem
+30784452	thiol	B-chem
+30784452	Hg (II)	B-chem
+30784452	Sulfur	B-chem
+30784452	Hg (II)	B-chem
+30784452	Cysteamine	B-chem
+30784452	Hg (II)	B-chem
+30784452	epichlorohydrin	B-chem
+30784452	carboxylated carboxymethyl	B-chem
+30784452	amide	B-chem
+30784452	Hg (II)	B-chem
+30784452	Hg (II)	B-chem
+30784452	Cu2+	B-chem
+30784452	Zn2+	B-chem
+30784452	Co2+	B-chem
+30784452	Pb2+	B-chem
+30784452	Cd2+	B-chem
+30784452	Hg (II)	B-chem
+30744888	propiconazole	B-chem
+30744888	Propiconazole	B-chem
+30744888	triazole	B-chem
+30744888	propiconazole	B-chem
+30744888	propiconazole	B-chem
+30744888	propiconazole	B-chem
+30744888	ergosterol	B-chem
+30744888	propiconazole	B-chem
+30710774	nitrate	B-chem
+30710774	glutamate	B-chem
+30710774	15N-tracing	B-chem
+30710774	nitrate	B-chem
+30710774	nitrogen	B-chem
+30710774	nitrate	B-chem
+30710774	glutamate	B-chem
+30710774	nitrate	B-chem
+30710774	glutamate	B-chem
+30710774	15N-tracing	B-chem
+30710774	nitrate	B-chem
+30710774	15N-labeled	B-chem
+30710774	nitrate	B-chem
+30710774	ammonia	B-chem
+30710774	nitrate	B-chem
+30710774	nitrite	B-chem
+30710774	ammonia	B-chem
+30710774	glutamine amide	B-chem
+30710774	glutamate	B-chem
+30710774	nitrate	B-chem
+30710774	NADH-NR	B-chem
+30710774	nitrite	B-chem
+30710774	glutamine	B-chem
+30710774	glutamate	B-chem
+30710774	NADH	B-chem
+30710774	NADPH	B-chem
+30710774	pentose phosphate	B-chem
+30710774	NADPH	B-chem
+30710774	nitrate	B-chem
+30710774	nitrate	B-chem
+30710774	ammonia	B-chem
+30710774	NADH-GOGAT	B-chem
+30759552	formalin	B-chem
+30759552	Formalin	B-chem
+30759552	formalin	B-chem
+30759552	glutathione	B-chem
+30759552	formalin	B-chem
+30759552	formalin	B-chem
+23566289	iron	B-chem
+23566289	iron	B-chem
+23566289	iron	B-chem
+30594026	Polycyclic polyprenylated acylphloroglucinol	B-chem
+30594026	phenolic	B-chem
+30594026	polycyclic polyprenylated acylphloroglucinol	B-chem
+30594026	hyperelatone A	B-chem
+30594026	phenolic	B-chem
+30594026	hyperelatones B-H	B-chem
+30594026	hyperelatones A-H	B-chem
+30594026	hydrogen peroxide	B-chem
+30594026	nitric oxide	B-chem
+30594026	NO	B-chem
+30594026	Hyperelatones B-D and H	B-chem
+30594026	cinchonain Ib	B-chem
+30594026	tenuiside A	B-chem
+30594026	Hyperelatones D , G , and H	B-chem
+30594026	(-)-epicatechin	B-chem
+30594026	tenuiside A	B-chem
+30594026	(Z)-3-hexenyl-β-D-glucopyranoside	B-chem
+30724222	DATEM	B-chem
+30724222	(4-hydroxy-2,2,6,6-tetramethylpiperidin-1-oxyl	B-chem
+30724222	TEMPOL	B-chem
+30724222	diacetyl tartaric acid esters of	B-chem
+30724222	monoglycerides	B-chem
+30724222	DATEM	B-chem
+30724222	DATEM	B-chem
+30736902	kainic acid	B-chem
+30736902	kainic acid	B-chem
+30736902	KA-induced	B-chem
+30736902	KA-injected	B-chem
+30736902	KA-injected	B-chem
+30736902	KA-injected	B-chem
+30683396	acetate	B-chem
+30683396	glucose	B-chem
+30683396	Acetate	B-chem
+30683396	acetate	B-chem
+30683396	Acetate	B-chem
+30683396	hydrogen peroxide	B-chem
+30683396	Acetate	B-chem
+30683396	tetramethylbenzidine	B-chem
+30683396	TMB	B-chem
+30683396	H2O2	B-chem
+30683396	glucose	B-chem
+30683396	glucose	B-chem
+30683396	H2O2	B-chem
+30683396	glucose	B-chem
+30683396	acetate	B-chem
+30683396	H2O2	B-chem
+30683396	glucose	B-chem
+30683396	H2O2	B-chem
+30683396	glucose	B-chem
+30683396	glucose	B-chem
+30683396	glucose	B-chem
+30503395	zinc	B-chem
+28590728	Aspartic Acids	B-chem
+28590728	aspartic acid	B-chem
+28590728	Asp	B-chem
+28590728	d-Asp	B-chem
+28590728	l-Asp	B-chem
+30583435	nucleoside	B-chem
+30583435	nucleoside	B-chem
+30583435	nucleoside	B-chem
+30583435	cytidine	B-chem
+30583435	uridine	B-chem
+30583435	adenosine	B-chem
+30583435	guanosine	B-chem
+30583435	formic acid	B-chem
+30583435	nucleoside	B-chem
+30736903	docosahexaenoic acid	B-chem
+30736903	fatty acids	B-chem
+30736903	docosahexaenoic acid	B-chem
+30736903	DHA	B-chem
+30736903	C22 : 6n-3	B-chem
+30736903	eicosapentaenoic acid	B-chem
+30736903	EPA	B-chem
+30736903	DHA	B-chem
+30736903	1-methyl-4-phenyl-1,2,3,6 tetrahydropyridine	B-chem
+30736903	DHA	B-chem
+30736903	DHA	B-chem
+30736903	DHA	B-chem
+30736903	MPTP	B-chem
+30736903	DHA	B-chem
+30736903	DHA	B-chem
+30736903	DHA	B-chem
+30736903	DHA	B-chem
+30736903	DHA	B-chem
+30736903	DHA	B-chem
+30736903	DHA	B-chem
+30736903	DHA	B-chem
+30736903	DHA	B-chem
+30736903	DHA	B-chem
+30712585	carbon	B-chem
+30712585	H2O2	B-chem
+30712585	ascorbic acid	B-chem
+30712585	carbon	B-chem
+30712585	3,3',5,5'-tetramethylbenzidine	B-chem
+30712585	TMB	B-chem
+30712585	H2O2	B-chem
+30712585	H2O2	B-chem
+30712585	TMB	B-chem
+30712585	H2O2	B-chem
+30712585	TMB	B-chem
+30712585	TMB	B-chem
+30712585	ascorbic acid	B-chem
+30712585	ascorbic acid	B-chem
+26506125	S-adenosylhomocysteine	B-chem
+26506125	S-adenosylhomocysteine	B-chem
+26506125	SAH	B-chem
+26506125	SAH-induced	B-chem
+26506125	SAH	B-chem
+26506125	S-adenosylmethionine-	B-chem
+26506125	SAH-induced	B-chem
+26506125	SAH	B-chem
+26506125	SAH	B-chem
+26506125	lysine	B-chem
+26506125	SAH	B-chem
+26506125	SAH	B-chem
+26506125	SAH	B-chem
+26506125	SAH	B-chem
+30724260	deoxynivalenol	B-chem
+28590721	Iron Phthalocyanine-Albumin	B-chem
+28590721	iron (II) phthalocyanine	B-chem
+28590721	FePc	B-chem
+30415005	MTT	B-chem
+30857108	hydrogen	B-chem
+30857108	glycerol	B-chem
+30857108	TiO2	B-chem
+30857108	TiO2	B-chem
+30857108	TiO2	B-chem
+30857108	TiO2	B-chem
+30857108	hydrogen	B-chem
+30857108	glycerol	B-chem
+30857108	TiO2	B-chem
+30857108	hydrogen	B-chem
+30857108	H2	B-chem
+26499153	MTT	B-chem
+26499153	BrdU	B-chem
+30536466	ethylene oxide	B-chem
+30536466	propylene oxide	B-chem
+30536466	N7-alkyl	B-chem
+30536466	hydroxyalkylguanine	B-chem
+30536466	ethylene oxide	B-chem
+30536466	propylene oxide	B-chem
+30536466	N7-alkyl	B-chem
+30536466	hydroxyalkylguanine	B-chem
+30765055	clothianidin	B-chem
+30765055	clothianidin	B-chem
+30765055	clothianidin	B-chem
+30765055	clothianidin	B-chem
+30765055	nitenpyram	B-chem
+30765055	dinotefuran	B-chem
+30765055	chlorpyrifos	B-chem
+30765055	clothianidin	B-chem
+30765055	clothianidin	B-chem
+30765055	clothianidin	B-chem
+30611515	glycosides	B-chem
+30611515	glycosides	B-chem
+30611515	glycosides	B-chem
+30611515	glycosides	B-chem
+30611515	glucose	B-chem
+30611515	glycosides	B-chem
+26454207	Halofuginone	B-chem
+26454207	Halofuginone	B-chem
+26454207	halofuginone	B-chem
+26454207	halofuginone	B-chem
+26454207	BrdU	B-chem
+26454207	phospho	B-chem
+26454207	BrdU	B-chem
+26454207	halofuginone's	B-chem
+26454207	halofuginone	B-chem
+26454207	halofuginone	B-chem
+26454207	halofuginone's	B-chem
+26454207	halofuginone	B-chem
+30857102	triphenyl phosphate	B-chem
+30857102	Triphenyl phosphate	B-chem
+30857102	TPHP	B-chem
+30857102	TPHP	B-chem
+30857102	TPHP	B-chem
+30857102	TPHP	B-chem
+30857102	diphenyl phosphate	B-chem
+30857102	phenyl phosphate	B-chem
+30857102	superoxide	B-chem
+30857102	malondialdehyde	B-chem
+30857102	TPHP	B-chem
+30857102	piperonyl butoxide	B-chem
+30857102	TPHP	B-chem
+30857102	TPHP	B-chem
+30857102	TPHP	B-chem
+30857102	TPHP	B-chem
+30683409	Mn	B-chem
+30683409	Se	B-chem
+30683409	Cu	B-chem
+30683409	Ti	B-chem
+30683409	Mg	B-chem
+30683409	Fe	B-chem
+30683409	Co	B-chem
+30683409	Zn	B-chem
+30683409	Sr	B-chem
+30683409	Ca	B-chem
+30683409	Mn	B-chem
+30683409	Se	B-chem
+30683409	Cu	B-chem
+30683409	Ti	B-chem
+30597234	H2O2	B-chem
+30597234	CoCl2	B-chem
+30597234	H2O2	B-chem
+30597234	CoCl2	B-chem
+30683818	prostaglandin E2	B-chem
+30683818	prostaglandin E2	B-chem
+30683818	PGE2	B-chem
+30683818	prostaglandins	B-chem
+30683818	PGs	B-chem
+30683818	PGE22	B-chem
+30683818	PGs	B-chem
+30683818	PGE2	B-chem
+30683818	PG	B-chem
+30683818	PGE2	B-chem
+30765057	coumarin	B-chem
+30765057	COU	B-chem
+30765057	xanthotoxin	B-chem
+30765057	XAN	B-chem
+30765057	tomatine	B-chem
+30765057	TOM	B-chem
+29077529	melatonin	B-chem
+29077529	nitric oxide	B-chem
+29077529	melatonin	B-chem
+29077529	melatonin	B-chem
+29077529	minocycline	B-chem
+29077529	nitric oxide	B-chem
+29077529	melatonin	B-chem
+29077529	nitric oxide	B-chem
+29077529	Melatonin	B-chem
+29077529	melatonin	B-chem
+29077529	melatonin	B-chem
+29077529	nitric oxide	B-chem
+30759618	metal oxide	B-chem
+30759618	Ag	B-chem
+30759618	metal oxide	B-chem
+30759618	zinc oxide	B-chem
+30759618	ZnO	B-chem
+30759618	titanium dioxide	B-chem
+30759618	TiO2	B-chem
+30759618	silver	B-chem
+30759618	ZnO	B-chem
+30759618	Ag	B-chem
+30759618	ZnO	B-chem
+30759618	silver	B-chem
+30759618	TiO2	B-chem
+30759618	Ag	B-chem
+30759618	TiO2	B-chem
+30759618	Ag	B-chem
+30759618	ZnO	B-chem
+30759618	Ag	B-chem
+30759618	ZnO	B-chem
+30759618	ZnO	B-chem
+30759618	Ag	B-chem
+30759618	metal oxides	B-chem
+30759618	metal oxides	B-chem
+30759618	Ag	B-chem
+30759618	ZnO	B-chem
+30759618	ZnO	B-chem
+25881691	11C-dihydrotetrabenazine	B-chem
+25881691	11C-( + )-α-dihydrotetrabenazine	B-chem
+25881691	11C-DTBZ	B-chem
+25881691	18F-FDG	B-chem
+25881691	18F-DOPA	B-chem
+25881691	11C-DTBZ	B-chem
+25881691	11C-DTBZ	B-chem
+25881691	18F-DOPA	B-chem
+25881691	11C-DTBZ	B-chem
+25881691	11C-DTBZ	B-chem
+30743866	ammonia	B-chem
+30743866	nitrous oxide	B-chem
+30743866	ammonia	B-chem
+30743866	NH3	B-chem
+30743866	nitrous oxide	B-chem
+30743866	N2O	B-chem
+30743866	N-(n-butyl)thiophosphoric triamide	B-chem
+30743866	NBPT	B-chem
+30743866	3,4-dimethylpyrazole phosphate	B-chem
+30743866	DMPP	B-chem
+30743866	NH3	B-chem
+30743866	N2O	B-chem
+30743866	urea	B-chem
+30743866	nitrogen	B-chem
+30743866	N	B-chem
+30743866	urea	B-chem
+30743866	urea	B-chem
+30743866	N	B-chem
+30784468	copper	B-chem
+30784468	Cu-	B-chem
+30784468	Pb-contaminated	B-chem
+30611468	hydroxytyrosyl oleate	B-chem
+30611468	hydroxytyrosol	B-chem
+30611468	Hydroxytyrosyl esters	B-chem
+30611468	acyl	B-chem
+30611468	nitric oxide	B-chem
+30611468	NO	B-chem
+30611468	C18 esters	B-chem
+30611468	hydroxytyrosyl stearate	B-chem
+30611468	HtySte	B-chem
+30611468	hydroxytyrosyl oleate	B-chem
+30611468	HtyOle	B-chem
+30611468	NO	B-chem
+30611468	hydroxytyrosol	B-chem
+30611468	HtyOle	B-chem
+30611468	prostaglandin E2	B-chem
+30611468	HtyOle	B-chem
+30611468	NO	B-chem
+30611468	HtyOle	B-chem
+30611468	HtyOle	B-chem
+30611468	HtyOle	B-chem
+30611468	hydroxytyrosol	B-chem
+30857098	mercury	B-chem
+30857098	Mercury	B-chem
+30857098	Hg	B-chem
+30857098	Hg	B-chem
+30857098	sulfate	B-chem
+30857098	methylmercury	B-chem
+30857098	Hg	B-chem
+30857098	sulfate	B-chem
+30857098	carbon	B-chem
+30857098	DOC	B-chem
+30857098	phosphorus	B-chem
+30857098	Hg	B-chem
+30857098	MeHg	B-chem
+30591638	fatty acid	B-chem
+30591638	phytosterol	B-chem
+30591638	phenolics	B-chem
+30591638	fatty acid	B-chem
+30591638	β-sitosterol	B-chem
+30591638	phytosterols	B-chem
+30591638	sterols	B-chem
+30591638	polyphenols	B-chem
+30591638	DPPH	B-chem
+30591638	2,2-Diphenyl-1-picrylhydrazyl	B-chem
+30591638	K	B-chem
+30591638	Mg	B-chem
+30591638	Fe	B-chem
+30591638	Cu	B-chem
+30591638	Ni	B-chem
+30591638	Mn	B-chem
+30824054	Ca2 +	B-chem
+30824054	Ca2 +	B-chem
+30824054	H2O2	B-chem
+30824054	H2O2	B-chem
+30824054	oxygen	B-chem
+30824054	ascorbate	B-chem
+30824054	glutathione	B-chem
+30824054	superoxide	B-chem
+30784453	NOx	B-chem
+30784453	O3	B-chem
+30784453	ozone	B-chem
+30784453	NOx	B-chem
+30784453	ozone	B-chem
+30784453	NOx	B-chem
+30784453	ozone	B-chem
+30784453	ozone	B-chem
+30784453	ozone	B-chem
+30784453	NOx	B-chem
+30784453	alkanes	B-chem
+30784453	alkenes	B-chem
+30784453	aromatics	B-chem
+30784453	acetylene	B-chem
+30784453	halohydrocarbons	B-chem
+30784453	Ozone	B-chem
+30784453	NOx	B-chem
+30784453	Aromatics	B-chem
+30784453	alkenes	B-chem
+30784453	ozone	B-chem
+30784453	alkenes	B-chem
+30784453	alkanes	B-chem
+30784453	halogenated hydrocarbons	B-chem
+30784453	acetylene	B-chem
+30784453	ethylene	B-chem
+30784453	m-xylene	B-chem
+30784453	toluene	B-chem
+30784453	propylene	B-chem
+30784453	o-xylene	B-chem
+30784453	ozone	B-chem
+30784453	Ozone	B-chem
+30784453	NOx	B-chem
+30784453	ozone	B-chem
+30784453	ozone	B-chem
+30784453	NOx	B-chem
+30784453	ozone	B-chem
+30784453	NOx	B-chem
+30841783	Progesterone	B-chem
+30841783	estrogen	B-chem
+30841783	progesterone	B-chem
+30841783	Progesterone	B-chem
+30841783	estrogen	B-chem
+30841783	progesterone	B-chem
+30841783	progesterone	B-chem
+30841783	progesterone	B-chem
+30841783	progesterone	B-chem
+30841783	progesterone	B-chem
+30841783	progesterone	B-chem
+30841783	progesterone	B-chem
+30841783	estrogen	B-chem
+30841783	progesterone	B-chem
+28965682	Lithium disilicate	B-chem
+28965682	zirconia	B-chem
+28965682	lithium disilicate	B-chem
+28965682	zirconia	B-chem
+28965682	zirconia	B-chem
+28965682	zirconia	B-chem
+30712551	tyrosine	B-chem
+30712551	tyrosine	B-chem
+30712551	imatinib	B-chem
+28005299	sialyl-LewisX	B-chem
+28005299	poly(2-hydroxypropyl) methacrylamide	B-chem
+28005299	PHPMA	B-chem
+28005299	O-sulfated tyramine	B-chem
+28005299	carbohydrate	B-chem
+28005299	fucose	B-chem
+28005299	galactose	B-chem
+28005299	sialic acid	B-chem
+28005299	PHPMA	B-chem
+28005299	O-sulfated tyramine	B-chem
+28005299	polyHPMA	B-chem
+30893392	halobetasol propionate	B-chem
+30893392	corticosteroids	B-chem
+30893392	halobetasol propionate	B-chem
+28588231	1,5-anhydroglucitol	B-chem
+28588231	glucose	B-chem
+28588231	1,5-anhydroglucitol	B-chem
+28588231	1,5-AG	B-chem
+28588231	glucose	B-chem
+28588231	1,5-AG	B-chem
+28588231	glucose	B-chem
+28588231	1,5-AG	B-chem
+28588231	1,5-AG-associated	B-chem
+28588231	glucose	B-chem
+28588231	glucose	B-chem
+28588231	1,5-AG-associated	B-chem
+28588231	carbohydrate	B-chem
+28588231	glucose	B-chem
+28588231	1,5-AG	B-chem
+28588231	glucose	B-chem
+30806240	Lutein	B-chem
+30806240	Lutein	B-chem
+30806240	3,3'-dihydroxy-β,ε-carotene	B-chem
+30806240	lutein	B-chem
+30806240	lutein	B-chem
+30806240	MTT	B-chem
+30806240	3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide	B-chem
+30806240	lutein	B-chem
+30806240	lutein	B-chem
+30806240	dUTP	B-chem
+30806240	DAPI	B-chem
+30806240	4',6-diamidino-2-phenylindole	B-chem
+30806240	lutein	B-chem
+30806240	lutein	B-chem
+28079958	S-Oxygenated [NiFe]	B-chem
+28079958	Sulfenate	B-chem
+28079958	O2-Tolerant	B-chem
+28079958	O2-tolerant	B-chem
+28079958	hydrogen	B-chem
+28079958	NAD+	B-chem
+28079958	S-oxygenated [NiFe]	B-chem
+28079958	oxygen	B-chem
+28079958	[NiFe	B-chem
+28079958	sulfenato	B-chem
+28079958	S-oxygenated	B-chem
+30759554	chloroacetamide	B-chem
+30759554	acetochlor	B-chem
+30759554	Acetochlor	B-chem
+30759554	ACT	B-chem
+30759554	chloroacetamide	B-chem
+30759554	ACT	B-chem
+30759554	ACT	B-chem
+30759554	ACT	B-chem
+30759554	thyroxine	B-chem
+30759554	triiodothyronine	B-chem
+30759554	( + )-S-ACT	B-chem
+30759554	( + )-S-ACT	B-chem
+30759554	ACT	B-chem
+30686450	Cu	B-chem
+30686450	Hg	B-chem
+30686450	Cu	B-chem
+30686450	Hg	B-chem
+30686450	Cu	B-chem
+30686450	Hg	B-chem
+30686450	Cu	B-chem
+30686450	oxygen	B-chem
+30686450	Cu	B-chem
+30686450	Hg	B-chem
+30686450	Cu	B-chem
+30686450	Hg	B-chem
+30686450	Cu-exposed	B-chem
+30686450	Cu	B-chem
+30686450	Hg	B-chem
+30686450	Cu	B-chem
+30686450	Hg	B-chem
+30841381	nitrous acid	B-chem
+30841381	nitrite	B-chem
+30841381	Nitrite	B-chem
+30841381	nitrous acid	B-chem
+30841381	FNA	B-chem
+30841381	nitrite	B-chem
+30841381	nitrite	B-chem
+30841381	FNA	B-chem
+30841381	nitrite	B-chem
+30841381	fatty acids	B-chem
+30841381	VFAs	B-chem
+30841381	FNA	B-chem
+30841381	VFA	B-chem
+30841381	nitrite	B-chem
+30841381	FNA	B-chem
+30841381	methane	B-chem
+30841381	methane	B-chem
+30841381	nitrite	B-chem
+30841381	FNA	B-chem
+30841381	nitrite	B-chem
+30841381	nitrite	B-chem
+30841381	FNA	B-chem
+30841381	nitrite	B-chem
+30685586	iron oxide	B-chem
+30685586	FeONPs	B-chem
+30685586	FeONPs	B-chem
+30685586	Fe	B-chem
+30685586	FeONPs	B-chem
+30685586	FeONPs	B-chem
+30685586	FeONPs	B-chem
+30685586	FeONPs	B-chem
+30685586	FeONPs	B-chem
+30685586	crystal violet	B-chem
+30685586	FeONPs	B-chem
+30453065	nucleotide	B-chem
+30784437	Ag-SiO2@Fe3O4	B-chem
+30784437	mercury	B-chem
+30784437	Ag-SiO2@Fe3O4	B-chem
+30784437	mercury	B-chem
+30784437	Hg0	B-chem
+30784437	Ag-SiO2@Fe3O4	B-chem
+30784437	Hg0	B-chem
+30784437	Fe3O4	B-chem
+30784437	SiO2@Fe3O4	B-chem
+30784437	Hg0	B-chem
+30784437	O2	B-chem
+30784437	Ag	B-chem
+30784437	SiO2@Fe3O4	B-chem
+30784437	SiO2	B-chem
+30784437	Hg	B-chem
+30784437	Ag	B-chem
+30784437	Ag-Hg	B-chem
+30765059	Benzothiazole	B-chem
+30765059	Benzothiazole	B-chem
+30765059	BZO	B-chem
+30765059	BZO	B-chem
+30765059	BZO	B-chem
+30765059	BZO	B-chem
+30765059	BZO	B-chem
+30765059	FITC-phalloidin	B-chem
+30765059	BZO	B-chem
+30765059	BZO	B-chem
+30857630	tribenuron-methyl	B-chem
+30857630	tribenuron-methyl	B-chem
+30857630	florasulam	B-chem
+30857630	tribenuron-methyl	B-chem
+30857630	flucarbazone-Na	B-chem
+30857630	pyroxsulam	B-chem
+30857630	pyrithiobac [UNK] sodium	B-chem
+30857630	florasulam	B-chem
+30857630	diflufenican	B-chem
+30857630	imazethapyr	B-chem
+30857630	2,4-D butylate	B-chem
+30857630	fluroxypyr-meptyl	B-chem
+30857630	isoproturon	B-chem
+30857630	malathion	B-chem
+30857630	tribenuron-methyl	B-chem
+30857630	tribenuron-methyl	B-chem
+30857630	Glutathione-S-transferase	B-chem
+30857630	tribenuron-methyl	B-chem
+30857630	tribenuron-methyl	B-chem
+30857630	tribenuron-methyl	B-chem
+27159019	nucleobases	B-chem
+27159019	nucleotide triphosphate	B-chem
+27159019	5-chloro-2'-deoxyuridine	B-chem
+27159019	7-deaza-2'-deoxyadenosine	B-chem
+27159019	5-fluoro-2'-deoxycytidine	B-chem
+27159019	7-deaza-2'deoxyguanosine	B-chem
+27159019	dihydrofolate	B-chem
+27159019	nucleotides	B-chem
+27159019	trimethoprim	B-chem
+27158766	Dopamine	B-chem
+27158766	DOPAL	B-chem
+27158766	Dicatechol Pyrrole	B-chem
+27158766	Lysines	B-chem
+27158766	catecholaldehyde	B-chem
+27158766	3,4-dihydroxyphenylacetaldehyde	B-chem
+27158766	DOPAL	B-chem
+27158766	dopamine	B-chem
+27158766	DOPAL	B-chem
+27158766	dicatechol pyrrole lysine	B-chem
+27158766	DOPAL	B-chem
+27158766	Lys	B-chem
+27158766	amine	B-chem
+27158766	aldehyde	B-chem
+27158766	carbon	B-chem
+27158766	carbon	B-chem
+27158766	pyrrole	B-chem
+27158766	DOPAL	B-chem
+27158766	DOPAL-induced	B-chem
+30621871	folate	B-chem
+30621871	folic acid	B-chem
+30621871	lactic acid	B-chem
+30621871	folate	B-chem
+30621871	folate	B-chem
+30621871	glucose	B-chem
+30621871	carbon	B-chem
+30621871	folate	B-chem
+30621871	folate	B-chem
+30744899	Pymetrozine	B-chem
+30744899	pymetrozine	B-chem
+30744899	pymetrozine	B-chem
+30744899	pymetrozine	B-chem
+30744899	pymetrozine	B-chem
+30744899	pymetrozine	B-chem
+30744899	pymetrozine	B-chem
+30784458	haloacetonitriles	B-chem
+30784458	silica	B-chem
+30784458	haloacetonitriles	B-chem
+30784458	HANs	B-chem
+30784458	silica	B-chem
+30784458	HMS	B-chem
+30784458	titanium	B-chem
+30784458	silica	B-chem
+30784458	Ti-HMS	B-chem
+30784458	SBA-15	B-chem
+30784458	zeolite NaY	B-chem
+30784458	HANs	B-chem
+30784458	NaY	B-chem
+30784458	mono-HANs	B-chem
+30784458	tri-HAN	B-chem
+30784458	tri-HAN	B-chem
+30784458	mono-HANs	B-chem
+30784458	SBA-15	B-chem
+30784458	HANs	B-chem
+30784458	HAN	B-chem
+30784458	HANs	B-chem
+30562548	calcium	B-chem
+26278388	phosphatidic acid	B-chem
+26278388	triglyceride	B-chem
+26278388	ethanol	B-chem
+26278388	ethanol	B-chem
+30683831	fructo-	B-chem
+30683831	acrylamide	B-chem
+30683831	acrylamide	B-chem
+30683831	ACR	B-chem
+30683831	fructo-and xylo oligosaccharides	B-chem
+30683831	FOS	B-chem
+30683831	XOS	B-chem
+30683831	ACR	B-chem
+30683831	ACR	B-chem
+30683831	FOS	B-chem
+30683831	XOS	B-chem
+30683831	FOS	B-chem
+30683831	XOS	B-chem
+30683831	nitric oxide	B-chem
+30683831	ACR	B-chem
+30683831	dopamine	B-chem
+28588270	poly(glycidyl methacrylate )	B-chem
+28588270	PGMA	B-chem
+28588270	PGMA	B-chem
+28588270	poly(ethyleneimine)	B-chem
+28588270	PEI	B-chem
+28588270	PGMA-PEI	B-chem
+29473709	canagliflozin	B-chem
+29473709	Sodium	B-chem
+29473709	glucose	B-chem
+29473709	canagliflozin	B-chem
+29473709	canagliflozin	B-chem
+29473709	glucose	B-chem
+29473709	cholesterol	B-chem
+29473709	canagliflozin	B-chem
+29473709	cholesterol	B-chem
+29473709	canagliflozin	B-chem
+30583411	amino acids	B-chem
+30583411	FAAs	B-chem
+30583411	5'-nucleotides	B-chem
+30583411	FAA	B-chem
+30583411	FAAs	B-chem
+30583411	nucleotide	B-chem
+30583411	5'-GMP	B-chem
+30583411	5'-GMP	B-chem
+30765058	β-carboline alkaloids	B-chem
+30765058	β-carboline alkaloids	B-chem
+30765058	indole alkaloids	B-chem
+30765058	harmala alkaloids	B-chem
+30765058	unsaturated β-carboline alkaloids	B-chem
+30765058	harmine	B-chem
+30765058	harmol	B-chem
+30765058	monodansylcadaverineand	B-chem
+30765058	β-carbolines	B-chem
+30765058	β-carbolines	B-chem
+30765058	harmine	B-chem
+29687582	LiF	B-chem
+29687582	Mg	B-chem
+29687582	Cu	B-chem
+29687582	Ag	B-chem
+29687582	LiF	B-chem
+29687582	Mg	B-chem
+29687582	Cu	B-chem
+29687582	Ag	B-chem
+29687582	LiF	B-chem
+29687582	Mg	B-chem
+29687582	Cu	B-chem
+29687582	P	B-chem
+29687582	silver	B-chem
+29687582	Ag	B-chem
+29687582	Ag	B-chem
+29687582	Ag	B-chem
+30797458	Zinc sulfide	B-chem
+30797458	Cadmium selenide	B-chem
+30797458	indium-tin-oxide	B-chem
+30797458	ITO	B-chem
+30124384	Tyrosine	B-chem
+30124384	nucleotides	B-chem
+30782363	leucine	B-chem
+30782363	amino acid	B-chem
+30782363	leucine	B-chem
+30743956	polycyclic aromatic hydrocarbons	B-chem
+30743956	creosote	B-chem
+30743956	Polycyclic Aromatic Hydrocarbons	B-chem
+30743956	PAHs	B-chem
+30743956	Hydroxypropyl-β-cyclodextrin	B-chem
+30743956	HPBCD	B-chem
+30743956	PAHs	B-chem
+30743956	PAHs	B-chem
+30743956	PAHs	B-chem
+30743956	PAHs	B-chem
+30743956	HPBCD	B-chem
+30743956	HPBCD	B-chem
+30743956	PAH	B-chem
+30743956	PAHs	B-chem
+30743956	HPBCD	B-chem
+30743956	pyrene	B-chem
+30743956	fluoranthene	B-chem
+30743956	PAHs	B-chem
+30743956	PAHs	B-chem
+30743956	phenanthrene	B-chem
+30743956	acenaphtene	B-chem
+30743956	PAHs	B-chem
+30658754	sucrose	B-chem
+30658754	anthocyanins	B-chem
+30658754	Cyanidin-3-O-glucosylrutinoside	B-chem
+30658754	cyanidin-3-O-rutinoside	B-chem
+30658754	Sucrose	B-chem
+30658754	gallic acid	B-chem
+30658754	anthocyanins	B-chem
+30658754	sucrose	B-chem
+30658754	anthocyanins	B-chem
+30658754	sucrose	B-chem
+30658754	anthocyanins	B-chem
+30658754	anthocyanins	B-chem
+30658754	anthocyanins	B-chem
+30658754	cyanidin-3-O-glucosylrutinoside	B-chem
+30658754	cyanidin-3-O-rutinoside	B-chem
+30658754	Cyanidin-3-O-glucosylrutinoside	B-chem
+30658754	sugar	B-chem
+30658754	cyanidine-3-rutinoside	B-chem
+30658754	sugar	B-chem
+30658754	anthocyanin	B-chem
+30658754	anthocyanin	B-chem
+30910085	acetoin	B-chem
+30910085	diacetyl	B-chem
+30594254	dexamethasone	B-chem
+30594254	DEX	B-chem
+30594254	DEX-loaded	B-chem
+30594254	DEX	B-chem
+30594254	octadecylamine	B-chem
+30594254	ODA	B-chem
+30594254	DEX	B-chem
+30594254	ODA-NLCs	B-chem
+30594254	DEX	B-chem
+30594254	DEX	B-chem
+30594254	ODA-NLCs	B-chem
+30594254	DEX	B-chem
+30594254	ODA-NLCs	B-chem
+30594254	DEX	B-chem
+30594254	DEX	B-chem
+30594254	DEX	B-chem
+30594254	DEX	B-chem
+30594254	DEX	B-chem
+26676538	decabrominated diphenyl ether diphenyl ether	B-chem
+26676538	BDE-209	B-chem
+26676538	BDE-209	B-chem
+26676538	BDE-209	B-chem
+26676538	urea	B-chem
+26676538	creatinine	B-chem
+26676538	creatinine	B-chem
+26676538	urea	B-chem
+26676538	BDE-209	B-chem
+26676538	reduced glutathione	B-chem
+26676538	superoxide	B-chem
+26676538	BDE-209	B-chem
+26676538	thiobarbituric acid	B-chem
+26676538	BDE-209	B-chem
+26676538	BDE-209	B-chem
+30121041	carbon	B-chem
+30121041	chlorine	B-chem
+30121041	1,1,2-trichloroethane ethanes	B-chem
+30121041	carbon	B-chem
+30121041	chlorine	B-chem
+30121041	1,1,2-trichloroethane	B-chem
+30121041	1,1,2-TCA	B-chem
+30121041	1,1,2-TCA	B-chem
+30121041	vinyl chloride	B-chem
+30121041	carbon	B-chem
+30121041	C-Cl	B-chem
+30121041	CCl	B-chem
+30121041	1,1,2-TCA	B-chem
+30121041	CCl	B-chem
+30121041	1,1,2-TCA	B-chem
+30759596	copper oxide	B-chem
+30759596	copper oxide	B-chem
+30759596	CuO	B-chem
+30759596	CuO	B-chem
+30759596	Cu2 +	B-chem
+30759596	Cu(NO3)2 )	B-chem
+30759596	oxygen	B-chem
+30759596	CuO	B-chem
+30759596	CuO	B-chem
+30759596	oxygen	B-chem
+30759596	CuO	B-chem
+30759596	CuO	B-chem
+30759596	carbohydrate	B-chem
+30759596	l-leucine	B-chem
+30759596	CuO	B-chem
+30759596	carbon	B-chem
+30759596	nitrogen	B-chem
+30759596	CuO	B-chem
+30759600	copper	B-chem
+30759600	Cu	B-chem
+30759600	cadmium	B-chem
+30759600	Cd	B-chem
+30759600	Pb	B-chem
+30759600	arsenic	B-chem
+30759600	As	B-chem
+30759600	mercury	B-chem
+30759600	Hg	B-chem
+30759600	zinc	B-chem
+30759600	Zn	B-chem
+30759600	Cd	B-chem
+30759600	Cd	B-chem
+30759600	Cd	B-chem
+30759600	Hg	B-chem
+30759600	Cu	B-chem
+30759600	Cd	B-chem
+30759600	Cd	B-chem
+30759600	phosphates	B-chem
+30759600	oxalate	B-chem
+30759600	Cd	B-chem
+30759600	Zn	B-chem
+30759600	Cu	B-chem
+30759600	Cd	B-chem
+30759600	Hg	B-chem
+30759600	As	B-chem
+30759600	Pb	B-chem
+30759600	Cd	B-chem
+30759600	Hg	B-chem
+26634950	Carboxymethyl	B-chem
+26634950	Carboxymethyl	B-chem
+26634950	etamsylate	B-chem
+26634950	DIC	B-chem
+26634950	DIC	B-chem
+30743847	Pb	B-chem
+30743847	phosphate	B-chem
+30613015	CA-074	B-chem
+30613015	CA-074	B-chem
+30613015	CA-074	B-chem
+30613015	CA-074	B-chem
+26639236	10-Hydroxycamptothecin	B-chem
+26639236	10-hydroxycamptothecin	B-chem
+26639236	HCPT	B-chem
+26639236	HCPT	B-chem
+26639236	HCPT	B-chem
+26639236	MTT	B-chem
+26639236	DAPI	B-chem
+26639236	HCPT	B-chem
+26639236	DAPI	B-chem
+26639236	HCPT	B-chem
+26639236	poly ADP-ribose	B-chem
+26639236	HCPT	B-chem
+26639236	HCPT	B-chem
+26459048	zinc	B-chem
+26459048	N	B-chem
+26459048	C-	B-chem
+30658742	phenolic acid	B-chem
+30658742	phenolic	B-chem
+30658742	phenolic	B-chem
+30658742	DPPH	B-chem
+30658742	DPPH	B-chem
+30658742	DPPH	B-chem
+30658742	phenolic acids	B-chem
+30658742	phenolics	B-chem
+30759589	mercury	B-chem
+30759589	Mercury	B-chem
+30759589	mercury	B-chem
+30759589	mercury	B-chem
+30759589	mercury	B-chem
+30759589	mercury	B-chem
+30759589	mercury	B-chem
+30759589	mercury	B-chem
+30759589	mercury	B-chem
+30759589	mercury	B-chem
+28588210	Carbon	B-chem
+28588210	carbon	B-chem
+28588210	1,2-dioleoyl-sn-glycero-3-phosphocholine	B-chem
+28588210	DOPC	B-chem
+28588210	simvastatin	B-chem
+28588210	DOPC	B-chem
+28588210	DOPC	B-chem
+28588210	DOPC	B-chem
+28588210	DOPC	B-chem
+30824055	cysteine	B-chem
+30824055	prolamines	B-chem
+30824055	Prolamines	B-chem
+30824055	alcohol	B-chem
+30824055	cysteine	B-chem
+30824055	cysteine	B-chem
+30824055	alcohol	B-chem
+30824055	prolamines	B-chem
+30824055	prolamine	B-chem
+30824055	prolamine	B-chem
+30824055	nucleotide	B-chem
+30824055	prolamines	B-chem
+30824055	prolamines	B-chem
+30857097	PFASs	B-chem
+30857097	Perfluorinated alkyl	B-chem
+30857097	PFASs	B-chem
+30857097	PFASs	B-chem
+30857097	PFASs	B-chem
+30857097	PFASs	B-chem
+30857097	Perfluorooctane sulfonate	B-chem
+30857097	PFOS	B-chem
+30857097	PFAS	B-chem
+30857097	perfluoropentanoic acid	B-chem
+30857097	PFPeA	B-chem
+30857097	PFAS	B-chem
+30857097	PFAS	B-chem
+30857097	PFAS	B-chem
+30857097	PFOS	B-chem
+30857097	PFOS	B-chem
+30857097	PFASs	B-chem
+30857097	PFAS-contaminated	B-chem
+30857097	PFAS	B-chem
+30744820	Sestrins	B-chem
+30529248	tributyltin chloride	B-chem
+30529248	TBT-Cl	B-chem
+30529248	amino acids	B-chem
+30529248	TBT-Cl	B-chem
+30529248	TBT-Cl	B-chem
+30529248	oxygen	B-chem
+30529248	TBT-Cl	B-chem
+30529248	TBT-Cl	B-chem
+30529248	TBT-Cl	B-chem
+30529248	TBT-Cl	B-chem
+30529248	TBT-Cl	B-chem
+30693063	xylanase	B-chem
+30693063	xylanase	B-chem
+30693063	superoxide	B-chem
+30693063	glutathione	B-chem
+30693063	GSH-Px	B-chem
+30693063	malondialdehyde	B-chem
+30693063	MDA	B-chem
+30693063	GSH-Px	B-chem
+30693063	MDA	B-chem
+31011396	beryllium	B-chem
+31011396	beryllium	B-chem
+31011396	Beryllium's	B-chem
+31011396	Beryllium's	B-chem
+31011396	Beryllium	B-chem
+30580162	nickel	B-chem
+30580162	nickel	B-chem
+30580162	nickel	B-chem
+30580162	nickel	B-chem
+30580162	Ni2+	B-chem
+30580162	Cu-Zn	B-chem
+30580162	sulphate	B-chem
+30580162	sulphate	B-chem
+30580162	sulphate	B-chem
+30580162	nickel	B-chem
+30580162	nickel	B-chem
+30024839	methotrexate	B-chem
+30024839	methotrexate	B-chem
+30024839	MTX	B-chem
+30024839	methylenetetrahydrofolate	B-chem
+30024839	MTX	B-chem
+30024839	MTX	B-chem
+30024839	MTX	B-chem
+26435084	leucine	B-chem
+26435084	GSK2578215A	B-chem
+26435084	GSK2578215A	B-chem
+26435084	oxygen	B-chem
+26435084	dichlorofluorescein	B-chem
+26435084	4-hydroxynonenal	B-chem
+26435084	GSK2578215A	B-chem
+26435084	GSK2578215A	B-chem
+26435084	GSK2578215A	B-chem
+26435084	tempol	B-chem
+26435084	GSK2578215A-induced	B-chem
+30683827	sodium	B-chem
+30683827	sodium	B-chem
+30683827	heme	B-chem
+30683827	NADPH	B-chem
+30683827	quinone	B-chem
+30683827	γ-glutamylcysteine	B-chem
+30744895	carbendazim	B-chem
+30744895	MBC	B-chem
+30744895	MBC	B-chem
+30744895	MBC	B-chem
+30683372	Au	B-chem
+30683372	PPy-rGO	B-chem
+30683372	polypyrrole	B-chem
+30683372	graphene oxide	B-chem
+30683372	Au	B-chem
+30683372	PPy-rGO	B-chem
+30683372	Au	B-chem
+30683372	PPy-rGO	B-chem
+30683372	Au	B-chem
+30683372	PPy-rGO	B-chem
+30683372	Au-S	B-chem
+30683372	methylene blue	B-chem
+30759623	N2	B-chem
+30759623	nitrogen	B-chem
+30759623	nitrogen	B-chem
+30759623	N2	B-chem
+30759623	N	B-chem
+30759623	N2	B-chem
+30759623	N	B-chem
+30759623	N2-fixing	B-chem
+30759623	acetylene	B-chem
+30759623	N	B-chem
+30759623	N	B-chem
+30759623	N	B-chem
+30759623	N	B-chem
+30759623	NH4-N	B-chem
+30759623	NO3-N	B-chem
+30759623	N	B-chem
+30759623	N	B-chem
+30759623	N	B-chem
+30759623	N	B-chem
+30759623	N	B-chem
+30759623	N	B-chem
+28691448	calcium silicate	B-chem
+28691448	apatite	B-chem
+30744896	lambda-cyhalothrin	B-chem
+30744896	Lambda-cyhalothrin	B-chem
+30744896	lambda-cyhalothrin	B-chem
+30744896	lambda-cyhalothrin	B-chem
+30744896	lambda-cyhalothrin	B-chem
+30744896	lambda-cyhalothrin	B-chem
+30744896	lambda-cyhalothrin	B-chem
+30744896	lambda-cyhalothrin	B-chem
+30744896	lambda-cyhalothrin	B-chem
+30744896	lambda-cyhalothrin	B-chem
+30744896	lambda-cyhalothrin	B-chem
+30744896	lambda-cyhalothrin	B-chem
+30782366	PtNi	B-chem
+30782366	MoS2	B-chem
+30782366	dopamine	B-chem
+30782366	uric acid	B-chem
+30782366	MoS2	B-chem
+30782366	PtNi	B-chem
+30782366	MoS2	B-chem
+30782366	PtNi@MoS2	B-chem
+30782366	carbon	B-chem
+30782366	PtNi@MoS2	B-chem
+30782366	dopamine	B-chem
+30782366	uric acid	B-chem
+30611507	lactose lauryl ester	B-chem
+30611507	aluminosilicate zeolite	B-chem
+30611507	lactose	B-chem
+30611507	lauric acid	B-chem
+30611507	aluminosilicate zeolite	B-chem
+30611507	lactose	B-chem
+30611507	lactose	B-chem
+30611507	sodium dodecyl sulfate	B-chem
+30611507	SDS	B-chem
+30611507	SDS	B-chem
+30611507	SDS	B-chem
+30611507	aluminosilicate zeolites	B-chem
+30611507	lactose esters	B-chem
+28029034	Carbon	B-chem
+28029034	Carbon	B-chem
+28029034	carbon	B-chem
+28029034	poly(3,4-ethylenedioxythiophene)	B-chem
+28029034	PEDOT	B-chem
+28029034	PEDOT	B-chem
+30642511	hexanal	B-chem
+30642511	(E,E)-2,4-nonadienal	B-chem
+30642511	(E,E)-2,4-decadienal	B-chem
+30642511	3-methyl-1-butanol	B-chem
+30642511	1-hexanol	B-chem
+30642511	2-pentyl-furan	B-chem
+30471602	sulfonamide	B-chem
+30002372	NaYF4	B-chem
+30002372	Nd	B-chem
+30744898	Jaburetox	B-chem
+30744898	sodium	B-chem
+30744898	Jaburetox	B-chem
+30744898	Jbtx	B-chem
+30744898	Jbtx	B-chem
+30744898	Jbtx	B-chem
+30744898	Jbtx	B-chem
+30744898	Jbtx	B-chem
+30744898	Jbtx	B-chem
+30744898	Jbtx	B-chem
+30744898	sodium	B-chem
+30744898	Jbtx	B-chem
+30744898	sodium	B-chem
+30658758	anthraquinones	B-chem
+30658758	Anthraquinones	B-chem
+30658758	polyphenolic	B-chem
+30658758	anthraquinones	B-chem
+30658758	anthraquinones	B-chem
+30658758	rhein	B-chem
+30658758	emodin	B-chem
+30658758	chrysophanol	B-chem
+30658758	anthraquinones	B-chem
+30658758	Trp19-Arg124	B-chem
+30658758	rhein	B-chem
+30658758	emodin	B-chem
+30658758	chrysophanol	B-chem
+30658758	anthraquinones	B-chem
+30704714	acetylcholine	B-chem
+30704714	acetylcholine	B-chem
+30704714	[3H]-α-bungarotoxin	B-chem
+30704714	[3H]-imidacloprid	B-chem
+30528268	fatty acid	B-chem
+26499143	CpG	B-chem
+30824020	lysophosphatidic acid	B-chem
+30824020	α-linolenic acid	B-chem
+30824020	polyunsaturated fatty acid	B-chem
+30824020	2-lysophosphatidic acid	B-chem
+30824020	α-linolenic acid	B-chem
+30824020	unsaturated oleic , linoleic and linolenic acids	B-chem
+30824020	linoleic and linolenic acids	B-chem
+30824020	saturated fatty acids	B-chem
+30824020	linoleic and linolenic acids	B-chem
+30412893	PEG	B-chem
+30412893	graphene oxide	B-chem
+30412893	PEG	B-chem
+30412893	graphene oxide	B-chem
+30010491	oxygen	B-chem
+30010491	hydroxyl	B-chem
+30010491	HO •	B-chem
+30010491	nitric oxide	B-chem
+30010491	NO	B-chem
+30010491	superoxide	B-chem
+30010491	glutathione	B-chem
+30010491	GSH	B-chem
+30010491	glutathione	B-chem
+30010491	thiol	B-chem
+30010491	bilirubin	B-chem
+30010491	creatinine	B-chem
+30611516	flavonoids	B-chem
+30611516	flavonoids	B-chem
+30611516	3-deoxyflavonoids	B-chem
+30611516	apigenin	B-chem
+30611516	naringenin	B-chem
+30611516	flavonols	B-chem
+30611516	quercetin	B-chem
+30611516	ATP	B-chem
+30611516	quercetin	B-chem
+30611516	apigenin	B-chem
+30611516	naringenin	B-chem
+30611516	flavonoid C2C3	B-chem
+30611516	apigenin	B-chem
+30611516	quercetin	B-chem
+30611516	flavonoids	B-chem
+30712592	microcystins	B-chem
+30712592	Microcystins	B-chem
+30712592	MCs	B-chem
+30712592	γ-cyclodextrin	B-chem
+30712592	Fe3O4@PDA@γ-CDP	B-chem
+30712592	Fe3O4@PDA@γ-CDP	B-chem
+30712592	MCs	B-chem
+30765056	ATP	B-chem
+30765056	abamectin	B-chem
+30765056	indoxacarb	B-chem
+30784465	SO3	B-chem
+30784465	mercury	B-chem
+30784465	carbon	B-chem
+30784465	Mercury	B-chem
+30784465	Hg	B-chem
+30784465	coal	B-chem
+30784465	Mercury	B-chem
+30784465	Hg	B-chem
+30784465	carbon	B-chem
+30784465	Hg	B-chem
+30784465	Hg	B-chem
+30784465	sulfur trioxide	B-chem
+30784465	SO3	B-chem
+30784465	SO3	B-chem
+30784465	Hg	B-chem
+30784465	sulfur dioxide	B-chem
+30784465	SO2	B-chem
+30784465	nitric oxide	B-chem
+30784465	NO	B-chem
+30784465	Hg	B-chem
+30784465	Hg	B-chem
+30784465	Hg	B-chem
+30784465	SO3	B-chem
+30784465	sulfur	B-chem
+30784465	SO3	B-chem
+30824031	cadmium	B-chem
+30824031	cadmium	B-chem
+30824031	cadmium	B-chem
+30824031	cadmium	B-chem
+30824031	cadmium	B-chem
+30824031	cadmium	B-chem

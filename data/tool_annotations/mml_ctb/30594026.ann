@@ -1,0 +1,56 @@
+T1	MMLite 899 902	LPS
+N1	Reference T1 SemanticType:orch	orch
+N2	Reference T1 ConceptId:C0023810	Lipopolysaccharides
+T2	MMLite 182 195	phytochemical
+N3	Reference T2 ConceptId:C0577749	Phytochemicals
+N4	Reference T2 SemanticType:bacs	bacs
+N5	Reference T2 SemanticType:orch	orch
+T3	MMLite 772 789	hydrogen peroxide
+N6	Reference T3 ConceptId:C3814447	Hydrogen Peroxide Sterilization
+N7	Reference T3 SemanticType:acty	acty
+N8	Reference T3 SemanticType:irda	irda
+N9	Reference T3 ConceptId:C0020281	Hydrogen Peroxide
+N10	Reference T3 SemanticType:inch	inch
+N11	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 879 897	lipopolysaccharide
+N12	Reference T4 SemanticType:orch	orch
+N13	Reference T4 ConceptId:C0023810	Lipopolysaccharides
+T5	MMLite 579 586	crystal
+N14	Reference T5 SemanticType:orch	orch
+N15	Reference T5 ConceptId:C0025611	Methamphetamine
+N16	Reference T5 SemanticType:hops	hops
+T6	MMLite 805 809	cell
+N17	Reference T6 ConceptId:C1413336	CEL gene
+N18	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 791 795	H2O2
+N19	Reference T7 SemanticType:irda	irda
+N20	Reference T7 ConceptId:C0020281	Hydrogen Peroxide
+N21	Reference T7 SemanticType:inch	inch
+N22	Reference T7 SemanticType:phsu	phsu
+T8	MMLite 926 928	NO
+N23	Reference T8 SemanticType:bacs	bacs
+N24	Reference T8 SemanticType:lbpr	lbpr
+N25	Reference T8 ConceptId:C3810607	Nitric Oxide Measurement
+N26	Reference T8 SemanticType:inch	inch
+N27	Reference T8 SemanticType:phsu	phsu
+N28	Reference T8 ConceptId:C0028128	Nitric Oxide
+T9	MMLite 729 732	for
+N29	Reference T9 ConceptId:C1421525	WWOX gene
+N30	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 841 846	PC-12
+N31	Reference T10 ConceptId:C0662453	PC 12 ester
+N32	Reference T10 SemanticType:orch	orch
+N33	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 992 1005	cinchonain Ib
+N34	Reference T11 SemanticType:orch	orch
+N35	Reference T11 ConceptId:C1744417	cinchonain Ib
+T12	MMLite 1157 1186	3-hexenyl-β-D-glucopyranoside
+N36	Reference T12 SemanticType:orch	orch
+N37	Reference T12 ConceptId:C0526342	3-hexenyl-beta-glucopyranoside
+T13	MMLite 912 924	nitric oxide
+N38	Reference T13 SemanticType:bacs	bacs
+N39	Reference T13 SemanticType:lbpr	lbpr
+N40	Reference T13 ConceptId:C3810607	Nitric Oxide Measurement
+N41	Reference T13 SemanticType:inch	inch
+N42	Reference T13 SemanticType:phsu	phsu
+N43	Reference T13 ConceptId:C0028128	Nitric Oxide

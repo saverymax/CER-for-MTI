@@ -1,0 +1,24 @@
+T1	Chemlistem 114 130	Carboxylic acids
+A1	Score T1 0.9671729
+T2	Chemlistem 170 174	H2O2
+A2	Score T2 0.7300717
+T3	Chemlistem 208 220	peroxy acids
+A3	Score T3 0.6561582
+T4	Chemlistem 270 281	acetic acid
+A4	Score T4 0.9430151
+T5	Chemlistem 391 395	H2O2
+A5	Score T5 0.595517
+T6	Chemlistem 418 448	3,3',5,5'-tetramethylbenzidine
+A6	Score T6 0.9637157
+T7	Chemlistem 496 512	oligonucleotides
+A7	Score T7 0.791143
+T8	Chemlistem 596 598	TG
+A8	Score T8 0.7215718
+T9	Chemlistem 600 602	AG
+A9	Score T9 0.5038003
+T10	Chemlistem 794 803	phosphate
+A10	Score T10 0.87255865
+T11	Chemlistem 851 865	peracetic acid
+A11	Score T11 0.8312022
+T12	Chemlistem 1008 1024	oligonucleotides
+A12	Score T12 0.6631954

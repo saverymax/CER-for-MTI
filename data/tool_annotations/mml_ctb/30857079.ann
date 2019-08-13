@@ -1,0 +1,16 @@
+T1	MMLite 1041 1044	was
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C1565156	WAS protein, human
+T2	MMLite 1303 1308	water
+N4	Reference T2 ConceptId:C0043047	Water
+N5	Reference T2 ConceptId:C1547961	Water - Specimen Source Codes
+N6	Reference T2 ConceptId:C0599638	Drinking Water
+N7	Reference T2 SemanticType:inpr	inpr
+N8	Reference T2 SemanticType:inch	inch
+N9	Reference T2 SemanticType:sbst	sbst
+N10	Reference T2 ConceptId:C1550678	Water Specimen
+N11	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 1646 1649	can
+N12	Reference T3 SemanticType:mnob	mnob
+N13	Reference T3 ConceptId:C1704712	Can - object

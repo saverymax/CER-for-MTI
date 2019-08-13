@@ -1,0 +1,93 @@
+T1	MMLite 1385 1393	nitrogen
+N1	Reference T1 ConceptId:C1550581	Nitrogen Handling
+N2	Reference T1 ConceptId:C0028158	Nitrogen
+N3	Reference T1 SemanticType:elii	elii
+N4	Reference T1 SemanticType:hcpp	hcpp
+T2	MMLite 491 496	water
+N5	Reference T2 ConceptId:C0043047	Water
+N6	Reference T2 ConceptId:C1547961	Water - Specimen Source Codes
+N7	Reference T2 ConceptId:C0599638	Drinking Water
+N8	Reference T2 SemanticType:inpr	inpr
+N9	Reference T2 SemanticType:inch	inch
+N10	Reference T2 SemanticType:sbst	sbst
+N11	Reference T2 SemanticType:phsu	phsu
+N12	Reference T2 ConceptId:C1550678	Water Specimen
+T3	MMLite 1867 1872	water
+N13	Reference T3 ConceptId:C0043047	Water
+N14	Reference T3 ConceptId:C1547961	Water - Specimen Source Codes
+N15	Reference T3 ConceptId:C0599638	Drinking Water
+N16	Reference T3 SemanticType:inpr	inpr
+N17	Reference T3 SemanticType:inch	inch
+N18	Reference T3 SemanticType:sbst	sbst
+N19	Reference T3 SemanticType:phsu	phsu
+N20	Reference T3 ConceptId:C1550678	Water Specimen
+T4	MMLite 1294 1301	isotope
+N21	Reference T4 SemanticType:elii	elii
+N22	Reference T4 ConceptId:C0022262	Isotopes
+T5	MMLite 350 357	isotope
+N23	Reference T5 SemanticType:elii	elii
+N24	Reference T5 ConceptId:C0022262	Isotopes
+T6	MMLite 242 245	can
+N25	Reference T6 SemanticType:mnob	mnob
+N26	Reference T6 ConceptId:C1704712	Can - object
+T7	MMLite 454 457	CO2
+N27	Reference T7 SemanticType:bacs	bacs
+N28	Reference T7 ConceptId:C0007012	Carbon Dioxide
+N29	Reference T7 SemanticType:lbpr	lbpr
+N30	Reference T7 ConceptId:C0201930	Carbon dioxide content measurement
+N31	Reference T7 SemanticType:inch	inch
+T8	MMLite 385 392	isotope
+N32	Reference T8 SemanticType:elii	elii
+N33	Reference T8 ConceptId:C0022262	Isotopes
+T9	MMLite 541 548	protein
+N34	Reference T9 SemanticType:bacs	bacs
+N35	Reference T9 SemanticType:aapp	aapp
+N36	Reference T9 ConceptId:C0033684	Proteins
+T10	MMLite 1944 1947	for
+N37	Reference T10 ConceptId:C1421525	WWOX gene
+N38	Reference T10 SemanticType:gngm	gngm
+T11	MMLite 343 349	carbon
+N39	Reference T11 ConceptId:C0007009	Carbon
+N40	Reference T11 SemanticType:elii	elii
+T12	MMLite 1015 1018	for
+N41	Reference T12 ConceptId:C1421525	WWOX gene
+N42	Reference T12 SemanticType:gngm	gngm
+T13	MMLite 2047 2050	SAS
+N43	Reference T13 ConceptId:C0605290	SAS
+N44	Reference T13 SemanticType:orch	orch
+N45	Reference T13 ConceptId:C1426104	NANS gene
+N46	Reference T13 SemanticType:gngm	gngm
+T14	MMLite 1200 1204	salt
+N47	Reference T14 SemanticType:bacs	bacs
+N48	Reference T14 SemanticType:chvs	chvs
+N49	Reference T14 SemanticType:inch	inch
+N50	Reference T14 ConceptId:C0037494	Sodium Chloride
+N51	Reference T14 ConceptId:C0036140	Salts
+N52	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 1585 1588	was
+N53	Reference T15 SemanticType:bacs	bacs
+N54	Reference T15 SemanticType:aapp	aapp
+N55	Reference T15 ConceptId:C1565156	WAS protein, human
+T16	MMLite 1164 1167	for
+N56	Reference T16 ConceptId:C1421525	WWOX gene
+N57	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 378 384	carbon
+N58	Reference T17 ConceptId:C0007009	Carbon
+N59	Reference T17 SemanticType:elii	elii
+T18	MMLite 155 158	for
+N60	Reference T18 ConceptId:C1421525	WWOX gene
+N61	Reference T18 SemanticType:gngm	gngm
+T19	MMLite 1534 1538	salt
+N62	Reference T19 SemanticType:bacs	bacs
+N63	Reference T19 SemanticType:chvs	chvs
+N64	Reference T19 SemanticType:inch	inch
+N65	Reference T19 ConceptId:C0037494	Sodium Chloride
+N66	Reference T19 SemanticType:phsu	phsu
+N67	Reference T19 ConceptId:C0036140	Salts
+T20	MMLite 1413 1420	protein
+N68	Reference T20 SemanticType:bacs	bacs
+N69	Reference T20 SemanticType:aapp	aapp
+N70	Reference T20 ConceptId:C0033684	Proteins
+T21	MMLite 1374 1380	carbon
+N71	Reference T21 ConceptId:C0007009	Carbon
+N72	Reference T21 SemanticType:elii	elii

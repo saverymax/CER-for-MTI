@@ -1,0 +1,142 @@
+T1	MMLite 590 599	apoptosis
+N1	Reference T1 ConceptId:C0162638	Apoptosis
+N2	Reference T1 SemanticType:celf	celf
+T2	MMLite 559 563	cell
+N3	Reference T2 ConceptId:C1413336	CEL gene
+N4	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 1268 1272	cell
+N5	Reference T3 ConceptId:C1413336	CEL gene
+N6	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 1162 1165	for
+N7	Reference T4 ConceptId:C1421525	WWOX gene
+N8	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 738 747	Xenograft
+N9	Reference T5 ConceptId:C0522537	Xenograft type of graft
+N10	Reference T5 SemanticType:bodm	bodm
+T6	MMLite 1166 1169	miR
+N11	Reference T6 SemanticType:bacs	bacs
+N12	Reference T6 SemanticType:nnon	nnon
+N13	Reference T6 ConceptId:C1101610	MicroRNAs
+T7	MMLite 1390 1393	miR
+N14	Reference T7 SemanticType:bacs	bacs
+N15	Reference T7 SemanticType:nnon	nnon
+N16	Reference T7 ConceptId:C1101610	MicroRNAs
+T8	MMLite 1106 1115	apoptosis
+N17	Reference T8 ConceptId:C0162638	Apoptosis
+N18	Reference T8 SemanticType:celf	celf
+T9	MMLite 719 722	miR
+N19	Reference T9 SemanticType:bacs	bacs
+N20	Reference T9 SemanticType:nnon	nnon
+N21	Reference T9 ConceptId:C1101610	MicroRNAs
+T10	MMLite 1273 1278	lines
+N22	Reference T10 SemanticType:bacs	bacs
+N23	Reference T10 SemanticType:nnon	nnon
+N24	Reference T10 ConceptId:C1517938	Long Interspersed Elements
+T11	MMLite 409 412	miR
+N25	Reference T11 SemanticType:bacs	bacs
+N26	Reference T11 SemanticType:nnon	nnon
+N27	Reference T11 ConceptId:C1101610	MicroRNAs
+T12	MMLite 1209 1212	miR
+N28	Reference T12 SemanticType:bacs	bacs
+N29	Reference T12 SemanticType:nnon	nnon
+N30	Reference T12 ConceptId:C1101610	MicroRNAs
+T13	MMLite 793 796	miR
+N31	Reference T13 SemanticType:bacs	bacs
+N32	Reference T13 SemanticType:nnon	nnon
+N33	Reference T13 ConceptId:C1101610	MicroRNAs
+T14	MMLite 122 125	miR
+N34	Reference T14 SemanticType:bacs	bacs
+N35	Reference T14 SemanticType:nnon	nnon
+N36	Reference T14 ConceptId:C1101610	MicroRNAs
+T15	MMLite 622 632	Luciferase
+N37	Reference T15 ConceptId:C0024075	Luciferases
+N38	Reference T15 SemanticType:aapp	aapp
+N39	Reference T15 SemanticType:irda	irda
+N40	Reference T15 SemanticType:enzy	enzy
+T16	MMLite 1248 1251	pro
+N41	Reference T16 SemanticType:bacs	bacs
+N42	Reference T16 SemanticType:aapp	aapp
+N43	Reference T16 ConceptId:C0033382	Proline
+N44	Reference T16 SemanticType:lbpr	lbpr
+N45	Reference T16 ConceptId:C0523852	Proline measurement
+T17	MMLite 423 427	cell
+N46	Reference T17 ConceptId:C1413336	CEL gene
+N47	Reference T17 SemanticType:gngm	gngm
+T18	MMLite 1368 1372	mice
+N48	Reference T18 ConceptId:C1413131	CASP14 gene
+N49	Reference T18 SemanticType:gngm	gngm
+T19	MMLite 341 344	miR
+N50	Reference T19 SemanticType:bacs	bacs
+N51	Reference T19 SemanticType:nnon	nnon
+N52	Reference T19 ConceptId:C1101610	MicroRNAs
+T20	MMLite 895 900	lines
+N53	Reference T20 SemanticType:bacs	bacs
+N54	Reference T20 SemanticType:nnon	nnon
+N55	Reference T20 ConceptId:C1517938	Long Interspersed Elements
+T21	MMLite 861 864	was
+N56	Reference T21 SemanticType:bacs	bacs
+N57	Reference T21 SemanticType:aapp	aapp
+N58	Reference T21 ConceptId:C1565156	WAS protein, human
+T22	MMLite 203 207	cell
+N59	Reference T22 ConceptId:C1413336	CEL gene
+N60	Reference T22 SemanticType:gngm	gngm
+T23	MMLite 446 449	was
+N61	Reference T23 SemanticType:bacs	bacs
+N62	Reference T23 SemanticType:aapp	aapp
+N63	Reference T23 ConceptId:C1565156	WAS protein, human
+T24	MMLite 428 433	lines
+N64	Reference T24 SemanticType:bacs	bacs
+N65	Reference T24 SemanticType:nnon	nnon
+N66	Reference T24 ConceptId:C1517938	Long Interspersed Elements
+T25	MMLite 931 934	miR
+N67	Reference T25 SemanticType:bacs	bacs
+N68	Reference T25 SemanticType:nnon	nnon
+N69	Reference T25 ConceptId:C1101610	MicroRNAs
+T26	MMLite 1315 1318	miR
+N70	Reference T26 SemanticType:bacs	bacs
+N71	Reference T26 SemanticType:nnon	nnon
+N72	Reference T26 ConceptId:C1101610	MicroRNAs
+T27	MMLite 223 232	apoptosis
+N73	Reference T27 ConceptId:C0162638	Apoptosis
+N74	Reference T27 SemanticType:celf	celf
+T28	MMLite 500 505	CCK-8
+N75	Reference T28 SemanticType:aapp	aapp
+N76	Reference T28 ConceptId:C0037167	Sincalide
+N77	Reference T28 SemanticType:horm	horm
+N78	Reference T28 SemanticType:phsu	phsu
+T29	MMLite 1123 1126	was
+N79	Reference T29 SemanticType:bacs	bacs
+N80	Reference T29 SemanticType:aapp	aapp
+N81	Reference T29 ConceptId:C1565156	WAS protein, human
+T30	MMLite 0 3	miR
+N82	Reference T30 SemanticType:bacs	bacs
+N83	Reference T30 SemanticType:nnon	nnon
+N84	Reference T30 ConceptId:C1101610	MicroRNAs
+T31	MMLite 1252 1261	apoptosis
+N85	Reference T31 ConceptId:C0162638	Apoptosis
+N86	Reference T31 SemanticType:celf	celf
+T32	MMLite 1502 1505	for
+N87	Reference T32 ConceptId:C1421525	WWOX gene
+N88	Reference T32 SemanticType:gngm	gngm
+T33	MMLite 1033 1036	miR
+N89	Reference T33 SemanticType:bacs	bacs
+N90	Reference T33 SemanticType:nnon	nnon
+N91	Reference T33 ConceptId:C1101610	MicroRNAs
+T34	MMLite 842 845	miR
+N92	Reference T34 SemanticType:bacs	bacs
+N93	Reference T34 SemanticType:nnon	nnon
+N94	Reference T34 ConceptId:C1101610	MicroRNAs
+T35	MMLite 754 757	was
+N95	Reference T35 SemanticType:bacs	bacs
+N96	Reference T35 SemanticType:aapp	aapp
+N97	Reference T35 ConceptId:C1565156	WAS protein, human
+T36	MMLite 939 942	was
+N98	Reference T36 SemanticType:bacs	bacs
+N99	Reference T36 SemanticType:aapp	aapp
+N100	Reference T36 ConceptId:C1565156	WAS protein, human
+T37	MMLite 1084 1088	cell
+N101	Reference T37 ConceptId:C1413336	CEL gene
+N102	Reference T37 SemanticType:gngm	gngm
+T38	MMLite 890 894	cell
+N103	Reference T38 ConceptId:C1413336	CEL gene
+N104	Reference T38 SemanticType:gngm	gngm

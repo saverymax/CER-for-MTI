@@ -1,0 +1,81 @@
+T1	MMLite 869 872	had
+N1	Reference T1 ConceptId:C1415458	HADH gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 1333 1336	had
+N3	Reference T2 ConceptId:C1415458	HADH gene
+N4	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 1574 1577	for
+N5	Reference T3 ConceptId:C1421525	WWOX gene
+N6	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 1167 1170	MiR
+N7	Reference T4 SemanticType:bacs	bacs
+N8	Reference T4 SemanticType:nnon	nnon
+N9	Reference T4 ConceptId:C1101610	MicroRNAs
+T5	MMLite 80 83	UTR
+N10	Reference T5 SemanticType:nnon	nnon
+N11	Reference T5 ConceptId:C0600680	Untranslated Regions
+T6	MMLite 498 501	miR
+N12	Reference T6 SemanticType:bacs	bacs
+N13	Reference T6 SemanticType:nnon	nnon
+N14	Reference T6 ConceptId:C1101610	MicroRNAs
+T7	MMLite 899 902	had
+N15	Reference T7 ConceptId:C1415458	HADH gene
+N16	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 506 509	was
+N17	Reference T8 SemanticType:bacs	bacs
+N18	Reference T8 SemanticType:aapp	aapp
+N19	Reference T8 ConceptId:C1565156	WAS protein, human
+T9	MMLite 1748 1751	mir
+N20	Reference T9 SemanticType:bacs	bacs
+N21	Reference T9 SemanticType:nnon	nnon
+N22	Reference T9 ConceptId:C1101610	MicroRNAs
+T10	MMLite 213 216	UTR
+N23	Reference T10 SemanticType:nnon	nnon
+N24	Reference T10 ConceptId:C0600680	Untranslated Regions
+T11	MMLite 1360 1363	miR
+N25	Reference T11 SemanticType:bacs	bacs
+N26	Reference T11 SemanticType:nnon	nnon
+N27	Reference T11 ConceptId:C1101610	MicroRNAs
+T12	MMLite 160 163	miR
+N28	Reference T12 SemanticType:bacs	bacs
+N29	Reference T12 SemanticType:nnon	nnon
+N30	Reference T12 ConceptId:C1101610	MicroRNAs
+T13	MMLite 1610 1613	miR
+N31	Reference T13 SemanticType:bacs	bacs
+N32	Reference T13 SemanticType:nnon	nnon
+N33	Reference T13 ConceptId:C1101610	MicroRNAs
+T14	MMLite 1105 1108	was
+N34	Reference T14 SemanticType:bacs	bacs
+N35	Reference T14 SemanticType:aapp	aapp
+N36	Reference T14 ConceptId:C1565156	WAS protein, human
+T15	MMLite 987 990	had
+N37	Reference T15 ConceptId:C1415458	HADH gene
+N38	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 1068 1071	for
+N39	Reference T16 ConceptId:C1421525	WWOX gene
+N40	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 544 554	nucleotide
+N41	Reference T17 SemanticType:nnon	nnon
+N42	Reference T17 ConceptId:C0028630	Nucleotides
+T18	MMLite 1644 1647	was
+N43	Reference T18 SemanticType:bacs	bacs
+N44	Reference T18 SemanticType:aapp	aapp
+N45	Reference T18 ConceptId:C1565156	WAS protein, human
+T19	MMLite 426 429	DNA
+N46	Reference T19 SemanticType:celc	celc
+N47	Reference T19 SemanticType:bacs	bacs
+N48	Reference T19 ConceptId:C0012854	DNA
+N49	Reference T19 ConceptId:C1325786	DNA location
+N50	Reference T19 SemanticType:nnon	nnon
+T20	MMLite 434 437	RNA
+N51	Reference T20 SemanticType:celc	celc
+N52	Reference T20 ConceptId:C0035668	RNA
+N53	Reference T20 SemanticType:nnon	nnon
+N54	Reference T20 ConceptId:C1325819	RNA location
+T21	MMLite 39 42	miR
+N55	Reference T21 SemanticType:bacs	bacs
+N56	Reference T21 SemanticType:nnon	nnon
+N57	Reference T21 ConceptId:C1101610	MicroRNAs
+T22	MMLite 958 961	had
+N58	Reference T22 ConceptId:C1415458	HADH gene
+N59	Reference T22 SemanticType:gngm	gngm

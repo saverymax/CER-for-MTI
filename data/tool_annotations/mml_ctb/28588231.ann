@@ -1,0 +1,91 @@
+T1	MMLite 1112 1119	glucose
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:orch	orch
+N3	Reference T1 SemanticType:lbpr	lbpr
+N4	Reference T1 ConceptId:C0017725	Glucose
+N5	Reference T1 ConceptId:C0337438	Glucose measurement
+N6	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 1059 1065	SLC5A1
+N7	Reference T2 ConceptId:C1420200	SLC5A1 gene
+N8	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 1386 1393	glucose
+N9	Reference T3 SemanticType:bacs	bacs
+N10	Reference T3 SemanticType:orch	orch
+N11	Reference T3 SemanticType:lbpr	lbpr
+N12	Reference T3 ConceptId:C0017725	Glucose
+N13	Reference T3 ConceptId:C0337438	Glucose measurement
+N14	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 265 272	glucose
+N15	Reference T4 SemanticType:bacs	bacs
+N16	Reference T4 SemanticType:orch	orch
+N17	Reference T4 SemanticType:lbpr	lbpr
+N18	Reference T4 ConceptId:C0017725	Glucose
+N19	Reference T4 ConceptId:C0337438	Glucose measurement
+N20	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 847 850	LCT
+N21	Reference T5 ConceptId:C1416808	LCT gene
+N22	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 33 52	1,5-anhydroglucitol
+N23	Reference T6 SemanticType:orch	orch
+N24	Reference T6 SemanticType:lbpr	lbpr
+N25	Reference T6 ConceptId:C0044029	1,5-Anhydrosorbitol
+N26	Reference T6 ConceptId:C4085918	1,5-Anhydroglucitol Measurement
+T7	MMLite 113 132	1,5-anhydroglucitol
+N27	Reference T7 SemanticType:orch	orch
+N28	Reference T7 SemanticType:lbpr	lbpr
+N29	Reference T7 ConceptId:C0044029	1,5-Anhydrosorbitol
+N30	Reference T7 ConceptId:C4085918	1,5-Anhydroglucitol Measurement
+T8	MMLite 1145 1154	direction
+N31	Reference T8 ConceptId:C0700158	Direction brand of orthodontic bonding material
+N32	Reference T8 SemanticType:bodm	bodm
+T9	MMLite 93 100	glucose
+N33	Reference T9 SemanticType:bacs	bacs
+N34	Reference T9 SemanticType:orch	orch
+N35	Reference T9 SemanticType:lbpr	lbpr
+N36	Reference T9 ConceptId:C0017725	Glucose
+N37	Reference T9 ConceptId:C0337438	Glucose measurement
+N38	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 842 846	MCM6
+N39	Reference T10 SemanticType:gngm	gngm
+N40	Reference T10 ConceptId:C1334493	MCM6 gene
+T11	MMLite 134 140	1,5-AG
+N41	Reference T11 SemanticType:orch	orch
+N42	Reference T11 SemanticType:lbpr	lbpr
+N43	Reference T11 ConceptId:C0044029	1,5-Anhydrosorbitol
+N44	Reference T11 ConceptId:C4085918	1,5-Anhydroglucitol Measurement
+T12	MMLite 635 641	SLC5A1
+N45	Reference T12 ConceptId:C1420200	SLC5A1 gene
+N46	Reference T12 SemanticType:gngm	gngm
+T13	MMLite 994 1001	glucose
+N47	Reference T13 SemanticType:bacs	bacs
+N48	Reference T13 SemanticType:orch	orch
+N49	Reference T13 SemanticType:lbpr	lbpr
+N50	Reference T13 ConceptId:C0017725	Glucose
+N51	Reference T13 ConceptId:C0337438	Glucose measurement
+N52	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 1268 1275	glucose
+N53	Reference T14 SemanticType:bacs	bacs
+N54	Reference T14 SemanticType:orch	orch
+N55	Reference T14 SemanticType:lbpr	lbpr
+N56	Reference T14 ConceptId:C0017725	Glucose
+N57	Reference T14 ConceptId:C0337438	Glucose measurement
+N58	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 340 347	glucose
+N59	Reference T15 SemanticType:bacs	bacs
+N60	Reference T15 SemanticType:orch	orch
+N61	Reference T15 SemanticType:lbpr	lbpr
+N62	Reference T15 ConceptId:C0017725	Glucose
+N63	Reference T15 ConceptId:C0337438	Glucose measurement
+N64	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 600 603	LCT
+N65	Reference T16 ConceptId:C1416808	LCT gene
+N66	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 595 599	MCM6
+N67	Reference T17 SemanticType:gngm	gngm
+N68	Reference T17 ConceptId:C1334493	MCM6 gene
+T18	MMLite 300 303	can
+N69	Reference T18 SemanticType:mnob	mnob
+N70	Reference T18 ConceptId:C1704712	Can - object
+T19	MMLite 1224 1236	carbohydrate
+N71	Reference T19 SemanticType:orch	orch
+N72	Reference T19 ConceptId:C0007004	Carbohydrates

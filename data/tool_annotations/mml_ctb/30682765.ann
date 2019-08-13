@@ -1,0 +1,42 @@
+T1	MMLite 146 149	can
+N1	Reference T1 SemanticType:mnob	mnob
+N2	Reference T1 ConceptId:C1704712	Can - object
+T2	MMLite 1345 1355	neurotoxin
+N3	Reference T2 ConceptId:C0027934	Neurotoxins
+N4	Reference T2 SemanticType:hops	hops
+T3	MMLite 186 209	β-methylamino-l-alanine
+N5	Reference T3 SemanticType:aapp	aapp
+N6	Reference T3 SemanticType:hops	hops
+N7	Reference T3 ConceptId:C0124981	beta-N-methylamino-L-alanine
+T4	MMLite 41 64	β-methylamino-l-alanine
+N8	Reference T4 SemanticType:aapp	aapp
+N9	Reference T4 SemanticType:hops	hops
+N10	Reference T4 ConceptId:C0124981	beta-N-methylamino-L-alanine
+T5	MMLite 480 484	lead
+N11	Reference T5 ConceptId:C1704733	Lead - Device Component
+N12	Reference T5 SemanticType:elii	elii
+N13	Reference T5 SemanticType:hops	hops
+N14	Reference T5 ConceptId:C1442948	Plumbum metallicum, homeopathic preparation
+N15	Reference T5 ConceptId:C3275067	Cardiac Lead Procedure
+N16	Reference T5 SemanticType:phsu	phsu
+N17	Reference T5 ConceptId:C1522538	Leading
+N18	Reference T5 SemanticType:topp	topp
+N19	Reference T5 SemanticType:mnob	mnob
+N20	Reference T5 ConceptId:C0023175	Lead
+N21	Reference T5 SemanticType:ftcn	ftcn
+N22	Reference T5 ConceptId:C2348269	Dietary Lead
+N23	Reference T5 SemanticType:inch	inch
+T6	MMLite 175 185	neurotoxin
+N24	Reference T6 ConceptId:C0027934	Neurotoxins
+N25	Reference T6 SemanticType:hops	hops
+T7	MMLite 1220 1223	was
+N26	Reference T7 SemanticType:bacs	bacs
+N27	Reference T7 SemanticType:aapp	aapp
+N28	Reference T7 ConceptId:C1565156	WAS protein, human
+T8	MMLite 924 931	protein
+N29	Reference T8 SemanticType:bacs	bacs
+N30	Reference T8 SemanticType:aapp	aapp
+N31	Reference T8 ConceptId:C0033684	Proteins
+T9	MMLite 29 39	neurotoxin
+N32	Reference T9 ConceptId:C0027934	Neurotoxins
+N33	Reference T9 SemanticType:hops	hops

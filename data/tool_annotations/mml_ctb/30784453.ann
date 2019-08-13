@@ -1,0 +1,136 @@
+T1	MMLite 1102 1126	halogenated hydrocarbons
+N1	Reference T1 SemanticType:orch	orch
+N2	Reference T1 ConceptId:C3543420	Halogenated hydrocarbons, general anesthetics
+N3	Reference T1 ConceptId:C0020250	Hydrocarbons, Halogenated
+N4	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 538 541	was
+N5	Reference T2 SemanticType:bacs	bacs
+N6	Reference T2 SemanticType:aapp	aapp
+N7	Reference T2 ConceptId:C1565156	WAS protein, human
+T3	MMLite 1076 1083	alkanes
+N8	Reference T3 SemanticType:orch	orch
+N9	Reference T3 ConceptId:C0002065	Alkanes
+T4	MMLite 130 135	ozone
+N10	Reference T4 SemanticType:acty	acty
+N11	Reference T4 ConceptId:C3640178	Ozone Sterilization
+N12	Reference T4 SemanticType:chem	chem
+N13	Reference T4 ConceptId:C0030106	Ozone
+T5	MMLite 756 759	was
+N14	Reference T5 SemanticType:bacs	bacs
+N15	Reference T5 SemanticType:aapp	aapp
+N16	Reference T5 ConceptId:C1565156	WAS protein, human
+T6	MMLite 515 520	ozone
+N17	Reference T6 SemanticType:acty	acty
+N18	Reference T6 ConceptId:C3640178	Ozone Sterilization
+N19	Reference T6 SemanticType:chem	chem
+N20	Reference T6 ConceptId:C0030106	Ozone
+T7	MMLite 1257 1265	o-xylene
+N21	Reference T7 SemanticType:orch	orch
+N22	Reference T7 SemanticType:hops	hops
+N23	Reference T7 ConceptId:C0046596	o-xylene
+T8	MMLite 1224 1232	m-xylene
+N24	Reference T8 SemanticType:orch	orch
+N25	Reference T8 ConceptId:C0047730	3-xylene
+T9	MMLite 1243 1252	propylene
+N26	Reference T9 ConceptId:C0072221	propylene
+N27	Reference T9 SemanticType:orch	orch
+N28	Reference T9 SemanticType:irda	irda
+T10	MMLite 1498 1503	ozone
+N29	Reference T10 SemanticType:acty	acty
+N30	Reference T10 ConceptId:C3640178	Ozone Sterilization
+N31	Reference T10 SemanticType:chem	chem
+N32	Reference T10 ConceptId:C0030106	Ozone
+T11	MMLite 1234 1241	toluene
+N33	Reference T11 SemanticType:orch	orch
+N34	Reference T11 ConceptId:C0040383	Toluene
+T12	MMLite 432 435	for
+N35	Reference T12 ConceptId:C1421525	WWOX gene
+N36	Reference T12 SemanticType:gngm	gngm
+T13	MMLite 937 944	alkenes
+N37	Reference T13 SemanticType:orch	orch
+N38	Reference T13 ConceptId:C0002068	Alkenes
+T14	MMLite 167 170	was
+N39	Reference T14 SemanticType:bacs	bacs
+N40	Reference T14 SemanticType:aapp	aapp
+N41	Reference T14 ConceptId:C1565156	WAS protein, human
+T15	MMLite 1214 1222	ethylene
+N42	Reference T15 SemanticType:orch	orch
+N43	Reference T15 ConceptId:C0015096	Ethylenes
+N44	Reference T15 SemanticType:phsu	phsu
+N45	Reference T15 ConceptId:C0015075	Ethylene
+T16	MMLite 616 619	was
+N46	Reference T16 SemanticType:bacs	bacs
+N47	Reference T16 SemanticType:aapp	aapp
+N48	Reference T16 ConceptId:C1565156	WAS protein, human
+T17	MMLite 653 660	alkenes
+N49	Reference T17 SemanticType:orch	orch
+N50	Reference T17 ConceptId:C0002068	Alkenes
+T18	MMLite 684 693	acetylene
+N51	Reference T18 SemanticType:orch	orch
+N52	Reference T18 ConceptId:C0001052	Acetylene
+T19	MMLite 1637 1640	was
+N53	Reference T19 SemanticType:bacs	bacs
+N54	Reference T19 SemanticType:aapp	aapp
+N55	Reference T19 ConceptId:C1565156	WAS protein, human
+T20	MMLite 436 441	ozone
+N56	Reference T20 SemanticType:acty	acty
+N57	Reference T20 ConceptId:C3640178	Ozone Sterilization
+N58	Reference T20 SemanticType:chem	chem
+N59	Reference T20 ConceptId:C0030106	Ozone
+T21	MMLite 1373 1378	Ozone
+N60	Reference T21 SemanticType:acty	acty
+N61	Reference T21 ConceptId:C3640178	Ozone Sterilization
+N62	Reference T21 SemanticType:chem	chem
+N63	Reference T21 ConceptId:C0030106	Ozone
+T22	MMLite 270 275	ozone
+N64	Reference T22 SemanticType:acty	acty
+N65	Reference T22 ConceptId:C3640178	Ozone Sterilization
+N66	Reference T22 SemanticType:chem	chem
+N67	Reference T22 ConceptId:C0030106	Ozone
+T23	MMLite 638 645	alkanes
+N68	Reference T23 SemanticType:orch	orch
+N69	Reference T23 ConceptId:C0002065	Alkanes
+T24	MMLite 1361 1364	was
+N70	Reference T24 SemanticType:bacs	bacs
+N71	Reference T24 SemanticType:aapp	aapp
+N72	Reference T24 ConceptId:C1565156	WAS protein, human
+T25	MMLite 368 373	ozone
+N73	Reference T25 SemanticType:acty	acty
+N74	Reference T25 ConceptId:C3640178	Ozone Sterilization
+N75	Reference T25 SemanticType:chem	chem
+N76	Reference T25 ConceptId:C0030106	Ozone
+T26	MMLite 736 741	Ozone
+N77	Reference T26 SemanticType:acty	acty
+N78	Reference T26 ConceptId:C3640178	Ozone Sterilization
+N79	Reference T26 SemanticType:chem	chem
+N80	Reference T26 ConceptId:C0030106	Ozone
+T27	MMLite 1045 1052	alkenes
+N81	Reference T27 SemanticType:orch	orch
+N82	Reference T27 ConceptId:C0002068	Alkenes
+T28	MMLite 1674 1679	ozone
+N83	Reference T28 SemanticType:acty	acty
+N84	Reference T28 ConceptId:C3640178	Ozone Sterilization
+N85	Reference T28 SemanticType:chem	chem
+N86	Reference T28 ConceptId:C0030106	Ozone
+T29	MMLite 1321 1326	ozone
+N87	Reference T29 SemanticType:acty	acty
+N88	Reference T29 ConceptId:C3640178	Ozone Sterilization
+N89	Reference T29 SemanticType:chem	chem
+N90	Reference T29 ConceptId:C0030106	Ozone
+T30	MMLite 1485 1488	was
+N91	Reference T30 SemanticType:bacs	bacs
+N92	Reference T30 SemanticType:aapp	aapp
+N93	Reference T30 ConceptId:C1565156	WAS protein, human
+T31	MMLite 1580 1585	ozone
+N94	Reference T31 SemanticType:acty	acty
+N95	Reference T31 ConceptId:C3640178	Ozone Sterilization
+N96	Reference T31 SemanticType:chem	chem
+N97	Reference T31 ConceptId:C0030106	Ozone
+T32	MMLite 1137 1146	acetylene
+N98	Reference T32 SemanticType:orch	orch
+N99	Reference T32 ConceptId:C0001052	Acetylene
+T33	MMLite 1003 1008	ozone
+N100	Reference T33 SemanticType:acty	acty
+N101	Reference T33 ConceptId:C3640178	Ozone Sterilization
+N102	Reference T33 SemanticType:chem	chem
+N103	Reference T33 ConceptId:C0030106	Ozone

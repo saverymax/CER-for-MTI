@@ -1,0 +1,75 @@
+T1	MMLite 456 473	anti-inflammatory
+N1	Reference T1 ConceptId:C0003209	Anti-Inflammatory Agents
+N2	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 1301 1312	interleukin
+N3	Reference T2 SemanticType:aapp	aapp
+N4	Reference T2 SemanticType:imft	imft
+N5	Reference T2 ConceptId:C1527200	Recombinant Interleukins
+N6	Reference T2 ConceptId:C0021764	Interleukins
+N7	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 717 727	adipokines
+N8	Reference T3 SemanticType:bacs	bacs
+N9	Reference T3 SemanticType:aapp	aapp
+N10	Reference T3 ConceptId:C1955907	Adipokines
+T4	MMLite 1224 1235	adiponectin
+N11	Reference T4 SemanticType:bacs	bacs
+N12	Reference T4 ConceptId:C2700366	Adiponectin Measurement
+N13	Reference T4 SemanticType:aapp	aapp
+N14	Reference T4 SemanticType:lbpr	lbpr
+N15	Reference T4 ConceptId:C2986675	ADIPOQ wt Allele
+N16	Reference T4 ConceptId:C1540187	ADIPOQ gene
+N17	Reference T4 ConceptId:C1438411	ADIPOQ protein, human
+N18	Reference T4 SemanticType:gngm	gngm
+N19	Reference T4 ConceptId:C0389071	Adiponectin
+T5	MMLite 877 887	adipokines
+N20	Reference T5 SemanticType:bacs	bacs
+N21	Reference T5 SemanticType:aapp	aapp
+N22	Reference T5 ConceptId:C1955907	Adipokines
+T6	MMLite 1413 1416	For
+N23	Reference T6 ConceptId:C1421525	WWOX gene
+N24	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 155 164	cytokines
+N25	Reference T7 ConceptId:C1524094	Recombinant Cytokines
+N26	Reference T7 SemanticType:aapp	aapp
+N27	Reference T7 SemanticType:imft	imft
+N28	Reference T7 ConceptId:C0079189	cytokine
+N29	Reference T7 SemanticType:phsu	phsu
+T8	MMLite 1329 1356	fibroblast growth factor 21
+N30	Reference T8 SemanticType:bacs	bacs
+N31	Reference T8 SemanticType:aapp	aapp
+N32	Reference T8 ConceptId:C3812687	Fibroblast Growth Factor 21 Measurement
+N33	Reference T8 SemanticType:lbpr	lbpr
+N34	Reference T8 ConceptId:C1333538	FGF21 gene
+N35	Reference T8 SemanticType:gngm	gngm
+N36	Reference T8 ConceptId:C0972232	fibroblast growth factor 21
+N37	Reference T8 ConceptId:C3887831	Fibroblast Growth Factor 21, human
+T9	MMLite 0 10	Adipokines
+N38	Reference T9 SemanticType:bacs	bacs
+N39	Reference T9 SemanticType:aapp	aapp
+N40	Reference T9 ConceptId:C1955907	Adipokines
+T10	MMLite 474 484	adipokines
+N41	Reference T10 SemanticType:bacs	bacs
+N42	Reference T10 SemanticType:aapp	aapp
+N43	Reference T10 ConceptId:C1955907	Adipokines
+T11	MMLite 1291 1299	proteins
+N44	Reference T11 SemanticType:bacs	bacs
+N45	Reference T11 SemanticType:aapp	aapp
+N46	Reference T11 ConceptId:C0033684	Proteins
+T12	MMLite 1191 1201	adipokines
+N47	Reference T12 SemanticType:bacs	bacs
+N48	Reference T12 SemanticType:aapp	aapp
+N49	Reference T12 ConceptId:C1955907	Adipokines
+T13	MMLite 1247 1273	fatty acid binding protein
+N50	Reference T13 SemanticType:bacs	bacs
+N51	Reference T13 SemanticType:aapp	aapp
+N52	Reference T13 ConceptId:C0060095	Fatty Acid-Binding Proteins
+T14	MMLite 962 965	for
+N53	Reference T14 ConceptId:C1421525	WWOX gene
+N54	Reference T14 SemanticType:gngm	gngm
+T15	MMLite 1279 1282	TNF
+N55	Reference T15 SemanticType:bacs	bacs
+N56	Reference T15 SemanticType:aapp	aapp
+N57	Reference T15 ConceptId:C1448177	TNF protein, human
+N58	Reference T15 ConceptId:C1522668	Recombinant Tumor Necrosis Factor Family Protein
+N59	Reference T15 SemanticType:imft	imft
+N60	Reference T15 ConceptId:C0041368	Tumor Necrosis Factors

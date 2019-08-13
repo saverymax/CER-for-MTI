@@ -1,0 +1,69 @@
+T1	MMLite 805 810	MTHFR
+N1	Reference T1 SemanticType:aapp	aapp
+N2	Reference T1 SemanticType:enzy	enzy
+N3	Reference T1 ConceptId:C0066357	Methylenetetrahydrofolate reductase (NADPH)
+T2	MMLite 1364 1369	MTHFR
+N4	Reference T2 SemanticType:aapp	aapp
+N5	Reference T2 SemanticType:enzy	enzy
+N6	Reference T2 ConceptId:C0066357	Methylenetetrahydrofolate reductase (NADPH)
+T3	MMLite 1488 1491	MTX
+N7	Reference T3 ConceptId:C0025677	Methotrexate
+N8	Reference T3 SemanticType:orch	orch
+N9	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 570 573	was
+N10	Reference T4 SemanticType:bacs	bacs
+N11	Reference T4 SemanticType:aapp	aapp
+N12	Reference T4 ConceptId:C1565156	WAS protein, human
+T5	MMLite 1219 1222	for
+N13	Reference T5 ConceptId:C1421525	WWOX gene
+N14	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 175 178	MTX
+N15	Reference T6 ConceptId:C0025677	Methotrexate
+N16	Reference T6 SemanticType:orch	orch
+N17	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 161 173	methotrexate
+N18	Reference T7 ConceptId:C0025677	Methotrexate
+N19	Reference T7 SemanticType:orch	orch
+N20	Reference T7 SemanticType:phsu	phsu
+T8	MMLite 17 22	MTHFR
+N21	Reference T8 SemanticType:aapp	aapp
+N22	Reference T8 SemanticType:enzy	enzy
+N23	Reference T8 ConceptId:C0066357	Methylenetetrahydrofolate reductase (NADPH)
+T9	MMLite 1417 1420	for
+N24	Reference T9 ConceptId:C1421525	WWOX gene
+N25	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 995 1000	MTHFR
+N26	Reference T10 SemanticType:aapp	aapp
+N27	Reference T10 SemanticType:enzy	enzy
+N28	Reference T10 ConceptId:C0066357	Methylenetetrahydrofolate reductase (NADPH)
+T11	MMLite 424 427	MTX
+N29	Reference T11 ConceptId:C0025677	Methotrexate
+N30	Reference T11 SemanticType:orch	orch
+N31	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 72 84	methotrexate
+N32	Reference T12 ConceptId:C0025677	Methotrexate
+N33	Reference T12 SemanticType:orch	orch
+N34	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 1202 1205	was
+N35	Reference T13 SemanticType:bacs	bacs
+N36	Reference T13 SemanticType:aapp	aapp
+N37	Reference T13 ConceptId:C1565156	WAS protein, human
+T14	MMLite 1102 1105	MTX
+N38	Reference T14 ConceptId:C0025677	Methotrexate
+N39	Reference T14 SemanticType:orch	orch
+N40	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 620 623	was
+N41	Reference T15 SemanticType:bacs	bacs
+N42	Reference T15 SemanticType:aapp	aapp
+N43	Reference T15 ConceptId:C1565156	WAS protein, human
+T16	MMLite 360 365	MTHFR
+N44	Reference T16 SemanticType:aapp	aapp
+N45	Reference T16 SemanticType:enzy	enzy
+N46	Reference T16 ConceptId:C0066357	Methylenetetrahydrofolate reductase (NADPH)
+T17	MMLite 323 358	methylenetetrahydrofolate reductase
+N47	Reference T17 SemanticType:aapp	aapp
+N48	Reference T17 SemanticType:enzy	enzy
+N49	Reference T17 ConceptId:C0066357	Methylenetetrahydrofolate reductase (NADPH)
+T18	MMLite 463 466	for
+N50	Reference T18 ConceptId:C1421525	WWOX gene
+N51	Reference T18 SemanticType:gngm	gngm

@@ -1,0 +1,29 @@
+T1	MMLite 746 749	STs
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 ConceptId:C1420490	STS gene
+N3	Reference T1 ConceptId:C0080145	Sequence Tagged Sites
+N4	Reference T1 SemanticType:orch	orch
+N5	Reference T1 SemanticType:nnon	nnon
+N6	Reference T1 ConceptId:C0074774	sodium thiosulfate
+N7	Reference T1 SemanticType:inch	inch
+N8	Reference T1 SemanticType:gngm	gngm
+N9	Reference T1 SemanticType:phsu	phsu
+N10	Reference T1 ConceptId:C0037556	Sodium Tetradecyl Sulfate
+T2	MMLite 495 498	was
+N11	Reference T2 SemanticType:bacs	bacs
+N12	Reference T2 SemanticType:aapp	aapp
+N13	Reference T2 ConceptId:C1565156	WAS protein, human
+T3	MMLite 596 608	disinfectant
+N14	Reference T3 ConceptId:C0012682	Disinfectants
+N15	Reference T3 SemanticType:sbst	sbst
+T4	MMLite 161 164	was
+N16	Reference T4 SemanticType:bacs	bacs
+N17	Reference T4 SemanticType:aapp	aapp
+N18	Reference T4 ConceptId:C1565156	WAS protein, human
+T5	MMLite 571 574	for
+N19	Reference T5 ConceptId:C1421525	WWOX gene
+N20	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 490 493	AMR
+N21	Reference T6 SemanticType:bacs	bacs
+N22	Reference T6 SemanticType:aapp	aapp
+N23	Reference T6 ConceptId:C0051755	Amphiregulin

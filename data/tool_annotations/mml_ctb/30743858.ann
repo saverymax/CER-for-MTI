@@ -1,0 +1,36 @@
+T1	MMLite 489 495	carbon
+N1	Reference T1 ConceptId:C0007009	Carbon
+N2	Reference T1 SemanticType:elii	elii
+T2	MMLite 582 585	for
+N3	Reference T2 ConceptId:C1421525	WWOX gene
+N4	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 1019 1027	nitrogen
+N5	Reference T3 ConceptId:C1550581	Nitrogen Handling
+N6	Reference T3 ConceptId:C0028158	Nitrogen
+N7	Reference T3 SemanticType:elii	elii
+N8	Reference T3 SemanticType:hcpp	hcpp
+T4	MMLite 203 206	was
+N9	Reference T4 SemanticType:bacs	bacs
+N10	Reference T4 SemanticType:aapp	aapp
+N11	Reference T4 ConceptId:C1565156	WAS protein, human
+T5	MMLite 554 557	for
+N12	Reference T5 ConceptId:C1421525	WWOX gene
+N13	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 964 981	nitrite reductase
+N14	Reference T6 SemanticType:aapp	aapp
+N15	Reference T6 ConceptId:C0028135	Nitrite Reductase
+N16	Reference T6 SemanticType:enzy	enzy
+T7	MMLite 724 730	enzyme
+N17	Reference T7 SemanticType:orch	orch
+N18	Reference T7 SemanticType:enzy	enzy
+N19	Reference T7 ConceptId:C0014442	Enzymes
+T8	MMLite 609 612	for
+N20	Reference T8 ConceptId:C1421525	WWOX gene
+N21	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 703 710	isotope
+N22	Reference T9 SemanticType:elii	elii
+N23	Reference T9 ConceptId:C0022262	Isotopes
+T10	MMLite 630 633	was
+N24	Reference T10 SemanticType:bacs	bacs
+N25	Reference T10 SemanticType:aapp	aapp
+N26	Reference T10 ConceptId:C1565156	WAS protein, human

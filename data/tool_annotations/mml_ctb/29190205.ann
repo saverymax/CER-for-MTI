@@ -1,0 +1,162 @@
+T1	MMLite 745 760	angiotensin III
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C0003012	Angiotensin III
+T2	MMLite 232 235	RAS
+N4	Reference T2 SemanticType:orch	orch
+N5	Reference T2 SemanticType:phsu	phsu
+N6	Reference T2 ConceptId:C0525678	rasagiline
+T3	MMLite 945 949	cell
+N7	Reference T3 ConceptId:C1413336	CEL gene
+N8	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 989 1003	angiotensin II
+N9	Reference T4 SemanticType:bacs	bacs
+N10	Reference T4 SemanticType:aapp	aapp
+N11	Reference T4 ConceptId:C1366631	AGT gene
+N12	Reference T4 ConceptId:C0003009	Angiotensin II
+N13	Reference T4 SemanticType:lbpr	lbpr
+N14	Reference T4 ConceptId:C3714928	Angiotensin-2
+N15	Reference T4 SemanticType:horm	horm
+N16	Reference T4 ConceptId:C0373546	Angiotensin II Assay
+N17	Reference T4 SemanticType:gngm	gngm
+N18	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 1021 1035	angiotensin II
+N19	Reference T5 SemanticType:bacs	bacs
+N20	Reference T5 SemanticType:aapp	aapp
+N21	Reference T5 ConceptId:C1366631	AGT gene
+N22	Reference T5 ConceptId:C0003009	Angiotensin II
+N23	Reference T5 SemanticType:lbpr	lbpr
+N24	Reference T5 ConceptId:C3714928	Angiotensin-2
+N25	Reference T5 SemanticType:horm	horm
+N26	Reference T5 ConceptId:C0373546	Angiotensin II Assay
+N27	Reference T5 SemanticType:gngm	gngm
+N28	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 556 564	peptides
+N29	Reference T6 SemanticType:aapp	aapp
+N30	Reference T6 ConceptId:C0030956	Peptides
+T7	MMLite 140 147	hormone
+N31	Reference T7 SemanticType:horm	horm
+N32	Reference T7 ConceptId:C0019932	Hormones
+T8	MMLite 609 624	angiotensinogen
+N33	Reference T8 SemanticType:bacs	bacs
+N34	Reference T8 ConceptId:C1366631	AGT gene
+N35	Reference T8 SemanticType:aapp	aapp
+N36	Reference T8 SemanticType:lbpr	lbpr
+N37	Reference T8 ConceptId:C0003017	Angiotensinogen
+N38	Reference T8 SemanticType:gngm	gngm
+N39	Reference T8 ConceptId:C0523500	Angiotensinogen measurement
+T9	MMLite 366 374	peptides
+N40	Reference T9 SemanticType:aapp	aapp
+N41	Reference T9 ConceptId:C0030956	Peptides
+T10	MMLite 1165 1175	alamandine
+N42	Reference T10 SemanticType:aapp	aapp
+N43	Reference T10 ConceptId:C3657282	alamandine
+T11	MMLite 691 705	Angiotensin II
+N44	Reference T11 SemanticType:bacs	bacs
+N45	Reference T11 SemanticType:aapp	aapp
+N46	Reference T11 ConceptId:C1366631	AGT gene
+N47	Reference T11 ConceptId:C0003009	Angiotensin II
+N48	Reference T11 SemanticType:lbpr	lbpr
+N49	Reference T11 ConceptId:C3714928	Angiotensin-2
+N50	Reference T11 SemanticType:horm	horm
+N51	Reference T11 ConceptId:C0373546	Angiotensin II Assay
+N52	Reference T11 SemanticType:gngm	gngm
+N53	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 1127 1138	angiotensin
+N54	Reference T12 SemanticType:bacs	bacs
+N55	Reference T12 SemanticType:aapp	aapp
+N56	Reference T12 ConceptId:C0003018	Angiotensins
+N57	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 727 740	angiotensin A
+N58	Reference T13 SemanticType:aapp	aapp
+N59	Reference T13 ConceptId:C1873000	angiotensin A
+T14	MMLite 36 44	peptides
+N60	Reference T14 SemanticType:aapp	aapp
+N61	Reference T14 ConceptId:C0030956	Peptides
+T15	MMLite 1146 1157	angiotensin
+N62	Reference T15 SemanticType:bacs	bacs
+N63	Reference T15 SemanticType:aapp	aapp
+N64	Reference T15 ConceptId:C0003018	Angiotensins
+N65	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 1180 1191	angiotensin
+N66	Reference T16 SemanticType:bacs	bacs
+N67	Reference T16 SemanticType:aapp	aapp
+N68	Reference T16 ConceptId:C0003018	Angiotensins
+N69	Reference T16 SemanticType:phsu	phsu
+T17	MMLite 118 121	RAS
+N70	Reference T17 SemanticType:orch	orch
+N71	Reference T17 SemanticType:phsu	phsu
+N72	Reference T17 ConceptId:C0525678	rasagiline
+T18	MMLite 349 352	RAS
+N73	Reference T18 SemanticType:orch	orch
+N74	Reference T18 SemanticType:phsu	phsu
+N75	Reference T18 ConceptId:C0525678	rasagiline
+T19	MMLite 1093 1097	cell
+N76	Reference T19 ConceptId:C1413336	CEL gene
+N77	Reference T19 SemanticType:gngm	gngm
+T20	MMLite 640 648	peptides
+N78	Reference T20 SemanticType:aapp	aapp
+N79	Reference T20 ConceptId:C0030956	Peptides
+T21	MMLite 24 35	angiotensin
+N80	Reference T21 SemanticType:bacs	bacs
+N81	Reference T21 SemanticType:aapp	aapp
+N82	Reference T21 ConceptId:C0003018	Angiotensins
+N83	Reference T21 SemanticType:phsu	phsu
+T22	MMLite 779 793	angiotensin II
+N84	Reference T22 SemanticType:bacs	bacs
+N85	Reference T22 ConceptId:C1366631	AGT gene
+N86	Reference T22 SemanticType:aapp	aapp
+N87	Reference T22 ConceptId:C0003009	Angiotensin II
+N88	Reference T22 SemanticType:lbpr	lbpr
+N89	Reference T22 ConceptId:C3714928	Angiotensin-2
+N90	Reference T22 SemanticType:horm	horm
+N91	Reference T22 SemanticType:gngm	gngm
+N92	Reference T22 ConceptId:C0373546	Angiotensin II Assay
+N93	Reference T22 SemanticType:phsu	phsu
+T23	MMLite 1063 1070	peptide
+N94	Reference T23 SemanticType:aapp	aapp
+N95	Reference T23 ConceptId:C0030956	Peptides
+T24	MMLite 98 109	angiotensin
+N96	Reference T24 SemanticType:bacs	bacs
+N97	Reference T24 SemanticType:aapp	aapp
+N98	Reference T24 ConceptId:C0003018	Angiotensins
+N99	Reference T24 SemanticType:phsu	phsu
+T25	MMLite 354 365	angiotensin
+N100	Reference T25 SemanticType:bacs	bacs
+N101	Reference T25 SemanticType:aapp	aapp
+N102	Reference T25 ConceptId:C0003018	Angiotensins
+N103	Reference T25 SemanticType:phsu	phsu
+T26	MMLite 92 97	Renin
+N104	Reference T26 ConceptId:C1419338	REN gene
+N105	Reference T26 SemanticType:aapp	aapp
+N106	Reference T26 SemanticType:lbpr	lbpr
+N107	Reference T26 SemanticType:enzy	enzy
+N108	Reference T26 ConceptId:C0035094	Renin
+N109	Reference T26 SemanticType:gngm	gngm
+N110	Reference T26 ConceptId:C0373719	Renin measurement
+T27	MMLite 707 718	angiotensin
+N111	Reference T27 SemanticType:bacs	bacs
+N112	Reference T27 SemanticType:aapp	aapp
+N113	Reference T27 ConceptId:C0003018	Angiotensins
+N114	Reference T27 SemanticType:phsu	phsu
+T28	MMLite 1113 1121	peptides
+N115	Reference T28 SemanticType:aapp	aapp
+N116	Reference T28 ConceptId:C0030956	Peptides
+T29	MMLite 682 689	enzymes
+N117	Reference T29 ConceptId:C3540017	Enzymes, hematological
+N118	Reference T29 SemanticType:orch	orch
+N119	Reference T29 ConceptId:C3540048	ENZYMES FOR TREATMENT OF WOUNDS AND ULCERS
+N120	Reference T29 ConceptId:C3541394	Enzymes, antithrombotic
+N121	Reference T29 SemanticType:ftcn	ftcn
+N122	Reference T29 SemanticType:enzy	enzy
+N123	Reference T29 ConceptId:C3540772	Enzymes FOR DISORDERS OF THE MUSCULO-SKELETAL SYSTEM
+N124	Reference T29 ConceptId:C3540790	Enzymes, peripheral vasodilators
+N125	Reference T29 ConceptId:C0014442	Enzymes
+N126	Reference T29 SemanticType:phsu	phsu
+N127	Reference T29 ConceptId:C3542456	Enzymes for ALIMENTARY TRACT AND METABOLISM
+N128	Reference T29 ConceptId:C0014445	enzymology
+T30	MMLite 387 397	amino acid
+N129	Reference T30 SemanticType:bacs	bacs
+N130	Reference T30 SemanticType:aapp	aapp
+N131	Reference T30 ConceptId:C0002520	Amino Acids
+N132	Reference T30 SemanticType:phsu	phsu

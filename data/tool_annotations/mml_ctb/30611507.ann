@@ -1,0 +1,154 @@
+T1	MMLite 518 521	for
+N1	Reference T1 ConceptId:C1421525	WWOX gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 99 104	Sugar
+N3	Reference T2 SemanticType:orch	orch
+N4	Reference T2 ConceptId:C0242209	Sugars
+N5	Reference T2 ConceptId:C0007004	Carbohydrates
+N6	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 347 355	solvents
+N7	Reference T3 SemanticType:irda	irda
+N8	Reference T3 SemanticType:sbst	sbst
+N9	Reference T3 ConceptId:C0037638	Solvents
+N10	Reference T3 ConceptId:C1697819	solvents - non-drug agent
+T4	MMLite 60 75	aluminosilicate
+N11	Reference T4 ConceptId:C0051508	aluminosilicate
+N12	Reference T4 SemanticType:inch	inch
+T5	MMLite 889 904	aluminosilicate
+N13	Reference T5 ConceptId:C0051508	aluminosilicate
+N14	Reference T5 SemanticType:inch	inch
+T6	MMLite 406 421	aluminosilicate
+N15	Reference T6 ConceptId:C0051508	aluminosilicate
+N16	Reference T6 SemanticType:inch	inch
+T7	MMLite 199 202	for
+N17	Reference T7 ConceptId:C1421525	WWOX gene
+N18	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 905 913	zeolites
+N19	Reference T8 ConceptId:C0078755	Zeolites
+N20	Reference T8 SemanticType:inch	inch
+T9	MMLite 493 496	for
+N21	Reference T9 ConceptId:C1421525	WWOX gene
+N22	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 699 721	sodium dodecyl sulfate
+N23	Reference T10 SemanticType:orch	orch
+N24	Reference T10 ConceptId:C0037506	Sodium Dodecyl Sulfate
+N25	Reference T10 SemanticType:bodm	bodm
+N26	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 370 376	lipase
+N27	Reference T11 ConceptId:C0023764	Lipase
+N28	Reference T11 SemanticType:aapp	aapp
+N29	Reference T11 Negated:lipase	lipase
+N30	Reference T11 SemanticType:lbpr	lbpr
+N31	Reference T11 ConceptId:C1561534	Lipase Adverse Event
+N32	Reference T11 SemanticType:fndg	fndg
+N33	Reference T11 SemanticType:enzy	enzy
+N34	Reference T11 ConceptId:C0373670	Lipase measurement
+N35	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 28 33	ester
+N36	Reference T12 ConceptId:C0014898	Esters
+N37	Reference T12 SemanticType:orch	orch
+T13	MMLite 863 866	SDS
+N38	Reference T13 SemanticType:orch	orch
+N39	Reference T13 ConceptId:C0037506	Sodium Dodecyl Sulfate
+N40	Reference T13 SemanticType:bodm	bodm
+N41	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 771 774	SDS
+N42	Reference T14 SemanticType:orch	orch
+N43	Reference T14 ConceptId:C0037506	Sodium Dodecyl Sulfate
+N44	Reference T14 SemanticType:bodm	bodm
+N45	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 947 954	lactose
+N46	Reference T15 SemanticType:bacs	bacs
+N47	Reference T15 SemanticType:orch	orch
+N48	Reference T15 ConceptId:C0022949	Lactose
+N49	Reference T15 SemanticType:sbst	sbst
+N50	Reference T15 ConceptId:C1260222	Saccharum lactis, Homeopathic preparation
+N51	Reference T15 ConceptId:C1696723	lactose - non-drug agent
+N52	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 955 961	esters
+N53	Reference T16 ConceptId:C0014898	Esters
+N54	Reference T16 SemanticType:orch	orch
+T17	MMLite 914 917	can
+N55	Reference T17 SemanticType:mnob	mnob
+N56	Reference T17 ConceptId:C1704712	Can - object
+T18	MMLite 45 53	solvents
+N57	Reference T18 SemanticType:irda	irda
+N58	Reference T18 SemanticType:sbst	sbst
+N59	Reference T18 ConceptId:C0037638	Solvents
+N60	Reference T18 ConceptId:C1697819	solvents - non-drug agent
+T19	MMLite 502 509	lactose
+N61	Reference T19 SemanticType:bacs	bacs
+N62	Reference T19 SemanticType:orch	orch
+N63	Reference T19 ConceptId:C0022949	Lactose
+N64	Reference T19 ConceptId:C1260222	Saccharum lactis, Homeopathic preparation
+N65	Reference T19 SemanticType:sbst	sbst
+N66	Reference T19 SemanticType:phsu	phsu
+N67	Reference T19 ConceptId:C1696723	lactose - non-drug agent
+T20	MMLite 386 393	enzymes
+N68	Reference T20 ConceptId:C3540017	Enzymes, hematological
+N69	Reference T20 SemanticType:orch	orch
+N70	Reference T20 ConceptId:C3540048	ENZYMES FOR TREATMENT OF WOUNDS AND ULCERS
+N71	Reference T20 ConceptId:C3541394	Enzymes, antithrombotic
+N72	Reference T20 SemanticType:ftcn	ftcn
+N73	Reference T20 SemanticType:enzy	enzy
+N74	Reference T20 ConceptId:C3540790	Enzymes, peripheral vasodilators
+N75	Reference T20 ConceptId:C3540772	Enzymes FOR DISORDERS OF THE MUSCULO-SKELETAL SYSTEM
+N76	Reference T20 ConceptId:C0014442	Enzymes
+N77	Reference T20 SemanticType:phsu	phsu
+N78	Reference T20 ConceptId:C0014445	enzymology
+N79	Reference T20 ConceptId:C3542456	Enzymes for ALIMENTARY TRACT AND METABOLISM
+T21	MMLite 314 325	lauric acid
+N80	Reference T21 SemanticType:bacs	bacs
+N81	Reference T21 SemanticType:orch	orch
+N82	Reference T21 ConceptId:C0023139	lauric acid
+T22	MMLite 1015 1018	for
+N83	Reference T22 ConceptId:C1421525	WWOX gene
+N84	Reference T22 SemanticType:gngm	gngm
+T23	MMLite 926 929	for
+N85	Reference T23 ConceptId:C1421525	WWOX gene
+N86	Reference T23 SemanticType:gngm	gngm
+T24	MMLite 422 429	zeolite
+N87	Reference T24 ConceptId:C0078755	Zeolites
+N88	Reference T24 SemanticType:inch	inch
+T25	MMLite 859 862	for
+N89	Reference T25 ConceptId:C1421525	WWOX gene
+N90	Reference T25 SemanticType:gngm	gngm
+T26	MMLite 76 83	zeolite
+N91	Reference T26 ConceptId:C0078755	Zeolites
+N92	Reference T26 SemanticType:inch	inch
+T27	MMLite 526 533	lactose
+N93	Reference T27 SemanticType:bacs	bacs
+N94	Reference T27 SemanticType:orch	orch
+N95	Reference T27 ConceptId:C0022949	Lactose
+N96	Reference T27 ConceptId:C1260222	Saccharum lactis, Homeopathic preparation
+N97	Reference T27 SemanticType:sbst	sbst
+N98	Reference T27 SemanticType:phsu	phsu
+N99	Reference T27 ConceptId:C1696723	lactose - non-drug agent
+T28	MMLite 13 20	lactose
+N100	Reference T28 SemanticType:bacs	bacs
+N101	Reference T28 SemanticType:orch	orch
+N102	Reference T28 ConceptId:C0022949	Lactose
+N103	Reference T28 SemanticType:sbst	sbst
+N104	Reference T28 ConceptId:C1260222	Saccharum lactis, Homeopathic preparation
+N105	Reference T28 ConceptId:C1696723	lactose - non-drug agent
+N106	Reference T28 SemanticType:phsu	phsu
+T29	MMLite 301 308	lactose
+N107	Reference T29 SemanticType:bacs	bacs
+N108	Reference T29 SemanticType:orch	orch
+N109	Reference T29 ConceptId:C0022949	Lactose
+N110	Reference T29 SemanticType:sbst	sbst
+N111	Reference T29 ConceptId:C1260222	Saccharum lactis, Homeopathic preparation
+N112	Reference T29 ConceptId:C1696723	lactose - non-drug agent
+N113	Reference T29 SemanticType:phsu	phsu
+T30	MMLite 430 433	was
+N114	Reference T30 SemanticType:bacs	bacs
+N115	Reference T30 SemanticType:aapp	aapp
+N116	Reference T30 ConceptId:C1565156	WAS protein, human
+T31	MMLite 723 726	SDS
+N117	Reference T31 SemanticType:orch	orch
+N118	Reference T31 ConceptId:C0037506	Sodium Dodecyl Sulfate
+N119	Reference T31 SemanticType:bodm	bodm
+N120	Reference T31 SemanticType:phsu	phsu
+T32	MMLite 767 770	for
+N121	Reference T32 ConceptId:C1421525	WWOX gene
+N122	Reference T32 SemanticType:gngm	gngm

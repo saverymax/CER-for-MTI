@@ -1,0 +1,74 @@
+T1	MMLite 792 795	XAN
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 ConceptId:C0025684	Methoxsalen
+N3	Reference T1 SemanticType:orch	orch
+N4	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 773 776	COU
+N5	Reference T2 SemanticType:orch	orch
+N6	Reference T2 ConceptId:C0010206	coumarin
+N7	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 763 771	coumarin
+N8	Reference T3 SemanticType:orch	orch
+N9	Reference T3 ConceptId:C0010206	coumarin
+N10	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 830 834	P450
+N11	Reference T4 SemanticType:aapp	aapp
+N12	Reference T4 ConceptId:C0010762	Cytochrome P450
+N13	Reference T4 SemanticType:enzy	enzy
+T5	MMLite 138 145	tobacco
+N14	Reference T5 ConceptId:C0040329	Tobacco
+N15	Reference T5 SemanticType:orch	orch
+N16	Reference T5 SemanticType:hops	hops
+T6	MMLite 1292 1311	double-stranded RNA
+N17	Reference T6 SemanticType:bacs	bacs
+N18	Reference T6 SemanticType:nnon	nnon
+N19	Reference T6 ConceptId:C0035693	RNA, Double-Stranded
+T7	MMLite 573 588	cytochrome P450
+N20	Reference T7 SemanticType:aapp	aapp
+N21	Reference T7 ConceptId:C0010762	Cytochrome P450
+N22	Reference T7 SemanticType:enzy	enzy
+T8	MMLite 810 813	TOM
+N23	Reference T8 SemanticType:orch	orch
+N24	Reference T8 SemanticType:irda	irda
+N25	Reference T8 ConceptId:C0040392	Tomatine
+N26	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 885 888	fat
+N27	Reference T9 SemanticType:orch	orch
+N28	Reference T9 ConceptId:C0015677	Fatty acid glycerol esters
+N29	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 1313 1318	dsRNA
+N30	Reference T10 SemanticType:bacs	bacs
+N31	Reference T10 SemanticType:nnon	nnon
+N32	Reference T10 ConceptId:C0035693	RNA, Double-Stranded
+T11	MMLite 1688 1691	can
+N33	Reference T11 SemanticType:mnob	mnob
+N34	Reference T11 ConceptId:C1704712	Can - object
+T12	MMLite 1090 1093	was
+N35	Reference T12 SemanticType:bacs	bacs
+N36	Reference T12 SemanticType:aapp	aapp
+N37	Reference T12 ConceptId:C1565156	WAS protein, human
+T13	MMLite 610 617	tobacco
+N38	Reference T13 ConceptId:C0040329	Tobacco
+N39	Reference T13 SemanticType:orch	orch
+N40	Reference T13 SemanticType:hops	hops
+T14	MMLite 989 992	was
+N41	Reference T14 SemanticType:bacs	bacs
+N42	Reference T14 SemanticType:aapp	aapp
+N43	Reference T14 ConceptId:C1565156	WAS protein, human
+T15	MMLite 779 790	xanthotoxin
+N44	Reference T15 SemanticType:bacs	bacs
+N45	Reference T15 ConceptId:C0025684	Methoxsalen
+N46	Reference T15 SemanticType:orch	orch
+N47	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 800 808	tomatine
+N48	Reference T16 SemanticType:orch	orch
+N49	Reference T16 SemanticType:irda	irda
+N50	Reference T16 ConceptId:C0040392	Tomatine
+N51	Reference T16 SemanticType:phsu	phsu
+T17	MMLite 364 368	cope
+N52	Reference T17 SemanticType:orch	orch
+N53	Reference T17 ConceptId:C0068301	N-succinyl-1,2-dioleoylphosphatidylethanolamine
+T18	MMLite 20 35	cytochrome P450
+N54	Reference T18 SemanticType:aapp	aapp
+N55	Reference T18 ConceptId:C0010762	Cytochrome P450
+N56	Reference T18 SemanticType:enzy	enzy

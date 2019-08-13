@@ -1,0 +1,99 @@
+T1	MMLite 1159 1162	was
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C1565156	WAS protein, human
+T2	MMLite 1679 1682	PAH
+N4	Reference T2 ConceptId:C0032458	Polycyclic Hydrocarbons, Aromatic
+N5	Reference T2 SemanticType:orch	orch
+N6	Reference T2 SemanticType:irda	irda
+N7	Reference T2 ConceptId:C0030123	4-Aminohippuric Acid
+N8	Reference T2 SemanticType:gngm	gngm
+N9	Reference T2 SemanticType:phsu	phsu
+N10	Reference T2 ConceptId:C1418251	PAH gene
+T3	MMLite 503 511	Estrogen
+N11	Reference T3 SemanticType:orch	orch
+N12	Reference T3 ConceptId:C0014939	Estrogens
+N13	Reference T3 SemanticType:horm	horm
+N14	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 1197 1200	PFP
+N15	Reference T4 ConceptId:C1418887	PRF1 gene
+N16	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 1597 1606	estradiol
+N17	Reference T5 SemanticType:orch	orch
+N18	Reference T5 SemanticType:lbpr	lbpr
+N19	Reference T5 SemanticType:horm	horm
+N20	Reference T5 ConceptId:C0337434	Estradiol measurement
+N21	Reference T5 ConceptId:C0014912	Estradiol
+N22	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 761 770	Estrogens
+N23	Reference T6 SemanticType:orch	orch
+N24	Reference T6 ConceptId:C3537250	ESTROGENS, SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM
+N25	Reference T6 ConceptId:C3714615	Estrogens Drug Class
+N26	Reference T6 SemanticType:horm	horm
+N27	Reference T6 ConceptId:C0014939	Estrogens
+N28	Reference T6 ConceptId:C3541386	Estrogens, endocrine therapy drugs
+N29	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 1181 1184	ACE
+N30	Reference T7 SemanticType:bacs	bacs
+N31	Reference T7 SemanticType:aapp	aapp
+N32	Reference T7 ConceptId:C1452534	ACE protein, human
+N33	Reference T7 ConceptId:C1413931	ACE gene
+N34	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 702 711	estrogens
+N35	Reference T8 SemanticType:orch	orch
+N36	Reference T8 ConceptId:C3537250	ESTROGENS, SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM
+N37	Reference T8 ConceptId:C3714615	Estrogens Drug Class
+N38	Reference T8 SemanticType:horm	horm
+N39	Reference T8 ConceptId:C0014939	Estrogens
+N40	Reference T8 ConceptId:C3541386	Estrogens, endocrine therapy drugs
+N41	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 497 500	PAH
+N42	Reference T9 ConceptId:C0032458	Polycyclic Hydrocarbons, Aromatic
+N43	Reference T9 SemanticType:orch	orch
+N44	Reference T9 SemanticType:irda	irda
+N45	Reference T9 ConceptId:C0030123	4-Aminohippuric Acid
+N46	Reference T9 SemanticType:gngm	gngm
+N47	Reference T9 SemanticType:phsu	phsu
+N48	Reference T9 ConceptId:C1418251	PAH gene
+T10	MMLite 2007 2010	for
+N49	Reference T10 ConceptId:C1421525	WWOX gene
+N50	Reference T10 SemanticType:gngm	gngm
+T11	MMLite 36 45	estrogens
+N51	Reference T11 ConceptId:C3537250	ESTROGENS, SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM
+N52	Reference T11 SemanticType:orch	orch
+N53	Reference T11 ConceptId:C3714615	Estrogens Drug Class
+N54	Reference T11 SemanticType:horm	horm
+N55	Reference T11 ConceptId:C0014939	Estrogens
+N56	Reference T11 ConceptId:C3541386	Estrogens, endocrine therapy drugs
+N57	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 1925 1934	estrogens
+N58	Reference T12 ConceptId:C3537250	ESTROGENS, SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM
+N59	Reference T12 SemanticType:orch	orch
+N60	Reference T12 ConceptId:C3714615	Estrogens Drug Class
+N61	Reference T12 SemanticType:horm	horm
+N62	Reference T12 ConceptId:C0014939	Estrogens
+N63	Reference T12 ConceptId:C3541386	Estrogens, endocrine therapy drugs
+N64	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 1580 1587	estrone
+N65	Reference T13 SemanticType:orch	orch
+N66	Reference T13 SemanticType:lbpr	lbpr
+N67	Reference T13 ConceptId:C0236379	ESTRONE MEASUREMENT
+N68	Reference T13 SemanticType:horm	horm
+N69	Reference T13 ConceptId:C0014942	Estrone
+N70	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 2051 2060	estrogens
+N71	Reference T14 ConceptId:C3537250	ESTROGENS, SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM
+N72	Reference T14 SemanticType:orch	orch
+N73	Reference T14 ConceptId:C3714615	Estrogens Drug Class
+N74	Reference T14 SemanticType:horm	horm
+N75	Reference T14 ConceptId:C0014939	Estrogens
+N76	Reference T14 ConceptId:C3541386	Estrogens, endocrine therapy drugs
+N77	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 145 154	Estrogens
+N78	Reference T15 SemanticType:orch	orch
+N79	Reference T15 ConceptId:C3537250	ESTROGENS, SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM
+N80	Reference T15 ConceptId:C3714615	Estrogens Drug Class
+N81	Reference T15 SemanticType:horm	horm
+N82	Reference T15 ConceptId:C0014939	Estrogens
+N83	Reference T15 ConceptId:C3541386	Estrogens, endocrine therapy drugs
+N84	Reference T15 SemanticType:phsu	phsu

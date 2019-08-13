@@ -1,0 +1,78 @@
+T1	MMLite 926 932	emodin
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:orch	orch
+N3	Reference T1 ConceptId:C0013982	Emodin
+N4	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 1128 1142	anthraquinones
+N5	Reference T2 ConceptId:C0003174	Anthraquinones
+N6	Reference T2 SemanticType:orch	orch
+N7	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 216 230	anthraquinones
+N8	Reference T3 ConceptId:C0003174	Anthraquinones
+N9	Reference T3 SemanticType:orch	orch
+N10	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 428 433	rhein
+N11	Reference T4 SemanticType:orch	orch
+N12	Reference T4 ConceptId:C0073177	rhein
+N13	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 339 342	for
+N14	Reference T5 ConceptId:C1421525	WWOX gene
+N15	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 70 85	β-lactoglobulin
+N16	Reference T6 ConceptId:C1418244	PAEP gene
+N17	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 412 426	anthraquinones
+N18	Reference T7 ConceptId:C0003174	Anthraquinones
+N19	Reference T7 SemanticType:orch	orch
+N20	Reference T7 SemanticType:phsu	phsu
+T8	MMLite 44 58	anthraquinones
+N21	Reference T8 ConceptId:C0003174	Anthraquinones
+N22	Reference T8 SemanticType:orch	orch
+N23	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 87 101	Anthraquinones
+N24	Reference T9 ConceptId:C0003174	Anthraquinones
+N25	Reference T9 SemanticType:orch	orch
+N26	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 447 459	chrysophanol
+N27	Reference T10 SemanticType:orch	orch
+N28	Reference T10 ConceptId:C0055666	chrysophanic acid
+N29	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 918 923	rhein
+N30	Reference T11 SemanticType:orch	orch
+N31	Reference T11 ConceptId:C0073177	rhein
+N32	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 274 289	β-lactoglobulin
+N33	Reference T12 ConceptId:C1418244	PAEP gene
+N34	Reference T12 SemanticType:gngm	gngm
+T13	MMLite 435 441	emodin
+N35	Reference T13 SemanticType:bacs	bacs
+N36	Reference T13 SemanticType:orch	orch
+N37	Reference T13 ConceptId:C0013982	Emodin
+N38	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 291 294	βLG
+N39	Reference T14 ConceptId:C1418244	PAEP gene
+N40	Reference T14 SemanticType:gngm	gngm
+T15	MMLite 785 788	βLG
+N41	Reference T15 ConceptId:C1418244	PAEP gene
+N42	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 465 468	βLG
+N43	Reference T16 ConceptId:C1418244	PAEP gene
+N44	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 610 624	anthraquinones
+N45	Reference T17 ConceptId:C0003174	Anthraquinones
+N46	Reference T17 SemanticType:orch	orch
+N47	Reference T17 SemanticType:phsu	phsu
+T18	MMLite 664 667	βLG
+N48	Reference T18 ConceptId:C1418244	PAEP gene
+N49	Reference T18 SemanticType:gngm	gngm
+T19	MMLite 1077 1080	βLG
+N50	Reference T19 ConceptId:C1418244	PAEP gene
+N51	Reference T19 SemanticType:gngm	gngm
+T20	MMLite 935 947	chrysophanol
+N52	Reference T20 SemanticType:orch	orch
+N53	Reference T20 ConceptId:C0055666	chrysophanic acid
+N54	Reference T20 SemanticType:phsu	phsu
+T21	MMLite 310 317	protein
+N55	Reference T21 SemanticType:bacs	bacs
+N56	Reference T21 SemanticType:aapp	aapp
+N57	Reference T21 ConceptId:C0033684	Proteins

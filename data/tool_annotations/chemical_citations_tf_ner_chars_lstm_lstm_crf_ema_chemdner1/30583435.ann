@@ -1,0 +1,7 @@
+T1	FAMILY 78 88	nucleoside
+T2	FAMILY 40 50	nucleoside
+T3	FAMILY 246 256	nucleoside
+T4	TRIVIAL 296 306	adenosine,
+T5	TRIVIAL 311 321	guanosine,
+T6	SYSTEMATIC 609 620	formic acid
+T7	FAMILY 712 722	nucleoside

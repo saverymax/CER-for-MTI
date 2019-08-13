@@ -1,0 +1,127 @@
+T1	MMLite 372 376	zinc
+N1	Reference T1 ConceptId:C0373748	Zinc measurement
+N2	Reference T1 SemanticType:lbpr	lbpr
+N3	Reference T1 ConceptId:C3541396	Zinc Supplements
+N4	Reference T1 ConceptId:C0043481	Zinc
+N5	Reference T1 SemanticType:elii	elii
+N6	Reference T1 ConceptId:C3714650	Zinc Drug Class
+N7	Reference T1 ConceptId:C2348288	Dietary Zinc
+N8	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 421 424	for
+N9	Reference T2 ConceptId:C1421525	WWOX gene
+N10	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 563 567	zinc
+N11	Reference T3 ConceptId:C0373748	Zinc measurement
+N12	Reference T3 SemanticType:lbpr	lbpr
+N13	Reference T3 ConceptId:C3541396	Zinc Supplements
+N14	Reference T3 ConceptId:C0043481	Zinc
+N15	Reference T3 SemanticType:elii	elii
+N16	Reference T3 ConceptId:C3714650	Zinc Drug Class
+N17	Reference T3 ConceptId:C2348288	Dietary Zinc
+N18	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 768 772	Zinc
+N19	Reference T4 ConceptId:C0373748	Zinc measurement
+N20	Reference T4 SemanticType:lbpr	lbpr
+N21	Reference T4 ConceptId:C3541396	Zinc Supplements
+N22	Reference T4 ConceptId:C0043481	Zinc
+N23	Reference T4 SemanticType:elii	elii
+N24	Reference T4 ConceptId:C3714650	Zinc Drug Class
+N25	Reference T4 ConceptId:C2348288	Dietary Zinc
+N26	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 81 85	zinc
+N27	Reference T5 ConceptId:C0373748	Zinc measurement
+N28	Reference T5 SemanticType:lbpr	lbpr
+N29	Reference T5 ConceptId:C3541396	Zinc Supplements
+N30	Reference T5 ConceptId:C0043481	Zinc
+N31	Reference T5 SemanticType:elii	elii
+N32	Reference T5 ConceptId:C3714650	Zinc Drug Class
+N33	Reference T5 ConceptId:C2348288	Dietary Zinc
+N34	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 1090 1095	metal
+N35	Reference T6 ConceptId:C0025552	Metals
+N36	Reference T6 SemanticType:inch	inch
+T7	MMLite 191 194	was
+N37	Reference T7 SemanticType:bacs	bacs
+N38	Reference T7 SemanticType:aapp	aapp
+N39	Reference T7 ConceptId:C1565156	WAS protein, human
+T8	MMLite 1131 1138	ferrite
+N40	Reference T8 SemanticType:irda	irda
+N41	Reference T8 ConceptId:C0060259	ferrite
+N42	Reference T8 SemanticType:inch	inch
+T9	MMLite 938 946	hydroxyl
+N43	Reference T9 ConceptId:C0063146	Hydroxyl Radical
+N44	Reference T9 SemanticType:inch	inch
+T10	MMLite 42 46	zinc
+N45	Reference T10 ConceptId:C0373748	Zinc measurement
+N46	Reference T10 SemanticType:lbpr	lbpr
+N47	Reference T10 ConceptId:C3541396	Zinc Supplements
+N48	Reference T10 ConceptId:C3714650	Zinc Drug Class
+N49	Reference T10 SemanticType:elii	elii
+N50	Reference T10 ConceptId:C0043481	Zinc
+N51	Reference T10 ConceptId:C2348288	Dietary Zinc
+N52	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 47 54	ferrite
+N53	Reference T11 SemanticType:irda	irda
+N54	Reference T11 ConceptId:C0060259	ferrite
+N55	Reference T11 SemanticType:inch	inch
+T12	MMLite 241 244	for
+N56	Reference T12 ConceptId:C1421525	WWOX gene
+N57	Reference T12 SemanticType:gngm	gngm
+T13	MMLite 1139 1145	spinel
+N58	Reference T13 ConceptId:C0672472	spinell
+N59	Reference T13 SemanticType:inch	inch
+T14	MMLite 901 905	zinc
+N60	Reference T14 ConceptId:C0373748	Zinc measurement
+N61	Reference T14 SemanticType:lbpr	lbpr
+N62	Reference T14 ConceptId:C3541396	Zinc Supplements
+N63	Reference T14 ConceptId:C3714650	Zinc Drug Class
+N64	Reference T14 ConceptId:C0043481	Zinc
+N65	Reference T14 SemanticType:elii	elii
+N66	Reference T14 ConceptId:C2348288	Dietary Zinc
+N67	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 164 168	zinc
+N68	Reference T15 ConceptId:C0373748	Zinc measurement
+N69	Reference T15 SemanticType:lbpr	lbpr
+N70	Reference T15 ConceptId:C3541396	Zinc Supplements
+N71	Reference T15 ConceptId:C0043481	Zinc
+N72	Reference T15 SemanticType:elii	elii
+N73	Reference T15 ConceptId:C3714650	Zinc Drug Class
+N74	Reference T15 ConceptId:C2348288	Dietary Zinc
+N75	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 142 148	spinel
+N76	Reference T16 ConceptId:C0672472	spinell
+N77	Reference T16 SemanticType:inch	inch
+T17	MMLite 129 133	zinc
+N78	Reference T17 ConceptId:C0373748	Zinc measurement
+N79	Reference T17 SemanticType:lbpr	lbpr
+N80	Reference T17 ConceptId:C3541396	Zinc Supplements
+N81	Reference T17 ConceptId:C0043481	Zinc
+N82	Reference T17 SemanticType:elii	elii
+N83	Reference T17 ConceptId:C3714650	Zinc Drug Class
+N84	Reference T17 ConceptId:C2348288	Dietary Zinc
+N85	Reference T17 SemanticType:phsu	phsu
+T18	MMLite 134 141	ferrite
+N86	Reference T18 SemanticType:irda	irda
+N87	Reference T18 ConceptId:C0060259	ferrite
+N88	Reference T18 SemanticType:inch	inch
+T19	MMLite 773 780	ferrite
+N89	Reference T19 SemanticType:irda	irda
+N90	Reference T19 ConceptId:C0060259	ferrite
+N91	Reference T19 SemanticType:inch	inch
+T20	MMLite 965 971	spinel
+N92	Reference T20 ConceptId:C0672472	spinell
+N93	Reference T20 SemanticType:inch	inch
+T21	MMLite 35 41	spinel
+N94	Reference T21 ConceptId:C0672472	spinell
+N95	Reference T21 SemanticType:inch	inch
+T22	MMLite 957 964	ferrite
+N96	Reference T22 SemanticType:irda	irda
+N97	Reference T22 ConceptId:C0060259	ferrite
+N98	Reference T22 SemanticType:inch	inch
+T23	MMLite 271 279	solution
+N99	Reference T23 SemanticType:bodm	bodm
+N100	Reference T23 ConceptId:C0525069	Pharmaceutical Solutions
+T24	MMLite 335 342	crystal
+N101	Reference T24 SemanticType:orch	orch
+N102	Reference T24 ConceptId:C0025611	Methamphetamine
+N103	Reference T24 SemanticType:hops	hops

@@ -1,0 +1,128 @@
+T1	MMLite 259 262	HDL
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C0392885	High density lipoprotein measurement
+N4	Reference T1 ConceptId:C0023821	High Density Lipoproteins
+N5	Reference T1 SemanticType:lbpr	lbpr
+T2	MMLite 1606 1609	for
+N6	Reference T2 ConceptId:C1421525	WWOX gene
+N7	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 1277 1284	amyloid
+N8	Reference T3 SemanticType:bacs	bacs
+N9	Reference T3 SemanticType:aapp	aapp
+N10	Reference T3 Negated:amyloid	amyloid
+N11	Reference T3 ConceptId:C0002726	Amyloidosis
+N12	Reference T3 ConceptId:C0611285	APP protein, human
+N13	Reference T3 SemanticType:dsyn	dsyn
+N14	Reference T3 ConceptId:C0002716	Amyloid
+N15	Reference T3 ConceptId:C1456454	Amyloid Proteins
+T4	MMLite 102 106	mice
+N16	Reference T4 ConceptId:C1413131	CASP14 gene
+N17	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 222 225	apo
+N18	Reference T5 SemanticType:bacs	bacs
+N19	Reference T5 SemanticType:aapp	aapp
+N20	Reference T5 ConceptId:C0003591	Apolipoproteins
+T6	MMLite 520 526	apoA-I
+N21	Reference T6 SemanticType:bacs	bacs
+N22	Reference T6 SemanticType:aapp	aapp
+N23	Reference T6 ConceptId:C1677784	APOA1 protein, human
+N24	Reference T6 ConceptId:C0085201	Apolipoprotein A-I
+T7	MMLite 1314 1317	CSF
+N25	Reference T7 SemanticType:bacs	bacs
+N26	Reference T7 SemanticType:aapp	aapp
+N27	Reference T7 ConceptId:C0079460	Granulocyte-Macrophage Colony-Stimulating Factor
+N28	Reference T7 SemanticType:imft	imft
+N29	Reference T7 ConceptId:C0009392	Colony-Stimulating Factors
+T8	MMLite 643 647	mice
+N30	Reference T8 ConceptId:C1413131	CASP14 gene
+N31	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 356 367	cholesterol
+N32	Reference T9 SemanticType:bacs	bacs
+N33	Reference T9 SemanticType:orch	orch
+N34	Reference T9 SemanticType:lbpr	lbpr
+N35	Reference T9 ConceptId:C0201950	Cholesterol measurement test
+N36	Reference T9 ConceptId:C0008377	Cholesterol
+T10	MMLite 206 220	apolipoprotein
+N37	Reference T10 SemanticType:bacs	bacs
+N38	Reference T10 SemanticType:aapp	aapp
+N39	Reference T10 ConceptId:C0003591	Apolipoproteins
+T11	MMLite 489 492	HDL
+N40	Reference T11 SemanticType:bacs	bacs
+N41	Reference T11 SemanticType:aapp	aapp
+N42	Reference T11 ConceptId:C0392885	High density lipoprotein measurement
+N43	Reference T11 ConceptId:C0023821	High Density Lipoproteins
+N44	Reference T11 SemanticType:lbpr	lbpr
+T12	MMLite 174 185	lipoprotein
+N45	Reference T12 SemanticType:bacs	bacs
+N46	Reference T12 SemanticType:aapp	aapp
+N47	Reference T12 ConceptId:C0023820	Lipoproteins
+T13	MMLite 691 702	amyloidosis
+N48	Reference T13 ConceptId:C0002726	Amyloidosis
+N49	Reference T13 SemanticType:dsyn	dsyn
+T14	MMLite 595 602	amyloid
+N50	Reference T14 SemanticType:bacs	bacs
+N51	Reference T14 SemanticType:aapp	aapp
+N52	Reference T14 ConceptId:C0002726	Amyloidosis
+N53	Reference T14 ConceptId:C0611285	APP protein, human
+N54	Reference T14 SemanticType:dsyn	dsyn
+N55	Reference T14 ConceptId:C0002716	Amyloid
+N56	Reference T14 ConceptId:C1456454	Amyloid Proteins
+T15	MMLite 14 39	high-density lipoproteins
+N57	Reference T15 SemanticType:bacs	bacs
+N58	Reference T15 SemanticType:aapp	aapp
+N59	Reference T15 ConceptId:C0023821	High Density Lipoproteins
+T16	MMLite 983 991	contrast
+N60	Reference T16 SemanticType:irda	irda
+N61	Reference T16 ConceptId:C0009924	Contrast Media
+T17	MMLite 1554 1557	can
+N62	Reference T17 SemanticType:mnob	mnob
+N63	Reference T17 ConceptId:C1704712	Can - object
+T18	MMLite 1684 1687	for
+N64	Reference T18 ConceptId:C1421525	WWOX gene
+N65	Reference T18 SemanticType:gngm	gngm
+T19	MMLite 94 97	APP
+N66	Reference T19 ConceptId:C0085151	Amyloid beta-Protein Precursor
+N67	Reference T19 SemanticType:bacs	bacs
+N68	Reference T19 SemanticType:aapp	aapp
+N69	Reference T19 ConceptId:C0611285	APP protein, human
+T20	MMLite 570 573	for
+N70	Reference T20 ConceptId:C1421525	WWOX gene
+N71	Reference T20 SemanticType:gngm	gngm
+T21	MMLite 635 638	APP
+N72	Reference T21 ConceptId:C0085151	Amyloid beta-Protein Precursor
+N73	Reference T21 SemanticType:bacs	bacs
+N74	Reference T21 SemanticType:aapp	aapp
+N75	Reference T21 ConceptId:C0611285	APP protein, human
+T22	MMLite 187 190	HDL
+N76	Reference T22 SemanticType:bacs	bacs
+N77	Reference T22 SemanticType:aapp	aapp
+N78	Reference T22 ConceptId:C0392885	High density lipoprotein measurement
+N79	Reference T22 ConceptId:C0023821	High Density Lipoproteins
+N80	Reference T22 SemanticType:lbpr	lbpr
+T23	MMLite 550 569	phosphatidylcholine
+N81	Reference T23 SemanticType:bacs	bacs
+N82	Reference T23 SemanticType:orch	orch
+N83	Reference T23 ConceptId:C1959616	Phosphatidylcholines
+N84	Reference T23 SemanticType:phsu	phsu
+T24	MMLite 157 160	for
+N85	Reference T24 ConceptId:C1421525	WWOX gene
+N86	Reference T24 SemanticType:gngm	gngm
+T25	MMLite 263 269	apoA-I
+N87	Reference T25 SemanticType:bacs	bacs
+N88	Reference T25 SemanticType:aapp	aapp
+N89	Reference T25 ConceptId:C1677784	APOA1 protein, human
+N90	Reference T25 ConceptId:C0085201	Apolipoprotein A-I
+T26	MMLite 300 305	liver
+N91	Reference T26 SemanticType:orch	orch
+N92	Reference T26 ConceptId:C0023899	Liver Extract
+N93	Reference T26 SemanticType:phsu	phsu
+T27	MMLite 1664 1670	apoA-I
+N94	Reference T27 SemanticType:bacs	bacs
+N95	Reference T27 SemanticType:aapp	aapp
+N96	Reference T27 ConceptId:C1677784	APOA1 protein, human
+N97	Reference T27 ConceptId:C0085201	Apolipoprotein A-I
+T28	MMLite 113 118	lines
+N98	Reference T28 SemanticType:bacs	bacs
+N99	Reference T28 SemanticType:nnon	nnon
+N100	Reference T28 ConceptId:C1517938	Long Interspersed Elements

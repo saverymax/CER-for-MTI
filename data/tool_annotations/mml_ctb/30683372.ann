@@ -1,0 +1,111 @@
+T1	MMLite 1077 1085	polymers
+N1	Reference T1 SemanticType:chvs	chvs
+N2	Reference T1 ConceptId:C0032521	Polymers
+N3	Reference T1 SemanticType:bodm	bodm
+T2	MMLite 493 496	PPy
+N4	Reference T2 ConceptId:C1418856	PPY gene
+N5	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 236 241	miRNA
+N6	Reference T3 SemanticType:bacs	bacs
+N7	Reference T3 SemanticType:nnon	nnon
+N8	Reference T3 ConceptId:C1101610	MicroRNAs
+T4	MMLite 1028 1036	solution
+N9	Reference T4 SemanticType:bodm	bodm
+N10	Reference T4 ConceptId:C0525069	Pharmaceutical Solutions
+T5	MMLite 320 331	polypyrrole
+N11	Reference T5 SemanticType:bacs	bacs
+N12	Reference T5 SemanticType:orch	orch
+N13	Reference T5 ConceptId:C0137873	polypyrrole
+T6	MMLite 226 234	microRNA
+N14	Reference T6 SemanticType:bacs	bacs
+N15	Reference T6 SemanticType:nnon	nnon
+N16	Reference T6 ConceptId:C1101610	MicroRNAs
+T7	MMLite 1539 1542	for
+N17	Reference T7 ConceptId:C1421525	WWOX gene
+N18	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 1120 1134	methylene blue
+N19	Reference T8 SemanticType:orch	orch
+N20	Reference T8 ConceptId:C0025746	Methylene blue
+N21	Reference T8 SemanticType:irda	irda
+N22	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 501 504	was
+N23	Reference T9 SemanticType:bacs	bacs
+N24	Reference T9 SemanticType:aapp	aapp
+N25	Reference T9 ConceptId:C1565156	WAS protein, human
+T10	MMLite 1211 1216	dsDNA
+N26	Reference T10 SemanticType:bacs	bacs
+N27	Reference T10 ConceptId:C0012854	DNA
+N28	Reference T10 SemanticType:nnon	nnon
+T11	MMLite 976 979	DNA
+N29	Reference T11 SemanticType:celc	celc
+N30	Reference T11 SemanticType:bacs	bacs
+N31	Reference T11 ConceptId:C0012854	DNA
+N32	Reference T11 ConceptId:C1325786	DNA location
+N33	Reference T11 SemanticType:nnon	nnon
+T12	MMLite 349 354	oxide
+N34	Reference T12 ConceptId:C0030015	Oxides
+N35	Reference T12 SemanticType:inch	inch
+T13	MMLite 866 871	miRNA
+N36	Reference T13 SemanticType:bacs	bacs
+N37	Reference T13 SemanticType:nnon	nnon
+N38	Reference T13 ConceptId:C1101610	MicroRNAs
+T14	MMLite 1217 1225	polymers
+N39	Reference T14 SemanticType:chvs	chvs
+N40	Reference T14 ConceptId:C0032521	Polymers
+N41	Reference T14 SemanticType:bodm	bodm
+T15	MMLite 745 750	miRNA
+N42	Reference T15 SemanticType:bacs	bacs
+N43	Reference T15 SemanticType:nnon	nnon
+N44	Reference T15 ConceptId:C1101610	MicroRNAs
+T16	MMLite 698 701	PPy
+N45	Reference T16 ConceptId:C1418856	PPY gene
+N46	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 301 305	gold
+N47	Reference T17 SemanticType:lbpr	lbpr
+N48	Reference T17 ConceptId:C0018026	Gold
+N49	Reference T17 ConceptId:C0337451	Gold measurement
+N50	Reference T17 SemanticType:elii	elii
+N51	Reference T17 ConceptId:C1304897	Gold color
+N52	Reference T17 SemanticType:qlco	qlco
+N53	Reference T17 SemanticType:phsu	phsu
+T18	MMLite 3 9	enzyme
+N54	Reference T18 SemanticType:orch	orch
+N55	Reference T18 SemanticType:enzy	enzy
+N56	Reference T18 ConceptId:C0014442	Enzymes
+T19	MMLite 556 559	can
+N57	Reference T19 SemanticType:mnob	mnob
+N58	Reference T19 ConceptId:C1704712	Can - object
+T20	MMLite 1160 1163	was
+N59	Reference T20 SemanticType:bacs	bacs
+N60	Reference T20 SemanticType:aapp	aapp
+N61	Reference T20 ConceptId:C1565156	WAS protein, human
+T21	MMLite 1136 1138	MB
+N62	Reference T21 SemanticType:orch	orch
+N63	Reference T21 ConceptId:C0025746	Methylene blue
+N64	Reference T21 SemanticType:irda	irda
+N65	Reference T21 SemanticType:phsu	phsu
+T22	MMLite 935 941	enzyme
+N66	Reference T22 SemanticType:orch	orch
+N67	Reference T22 SemanticType:enzy	enzy
+N68	Reference T22 ConceptId:C0014442	Enzymes
+T23	MMLite 1071 1076	dsDNA
+N69	Reference T23 SemanticType:bacs	bacs
+N70	Reference T23 ConceptId:C0012854	DNA
+N71	Reference T23 SemanticType:nnon	nnon
+T24	MMLite 825 832	leading
+N72	Reference T24 ConceptId:C1522538	Leading
+N73	Reference T24 SemanticType:ftcn	ftcn
+T25	MMLite 128 131	PPy
+N74	Reference T25 ConceptId:C1418856	PPY gene
+N75	Reference T25 SemanticType:gngm	gngm
+T26	MMLite 1310 1315	miRNA
+N76	Reference T26 SemanticType:bacs	bacs
+N77	Reference T26 SemanticType:nnon	nnon
+N78	Reference T26 ConceptId:C1101610	MicroRNAs
+T27	MMLite 41 49	microRNA
+N79	Reference T27 SemanticType:bacs	bacs
+N80	Reference T27 SemanticType:nnon	nnon
+N81	Reference T27 ConceptId:C1101610	MicroRNAs
+T28	MMLite 359 362	PPy
+N82	Reference T28 ConceptId:C1418856	PPY gene
+N83	Reference T28 SemanticType:gngm	gngm

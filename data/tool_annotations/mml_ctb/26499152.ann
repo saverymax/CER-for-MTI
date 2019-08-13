@@ -1,0 +1,105 @@
+T1	MMLite 1624 1627	was
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C1565156	WAS protein, human
+T2	MMLite 1759 1762	TNM
+N4	Reference T2 SemanticType:orch	orch
+N5	Reference T2 SemanticType:irda	irda
+N6	Reference T2 ConceptId:C0039694	Tetranitromethane
+N7	Reference T2 SemanticType:hops	hops
+T3	MMLite 407 412	lines
+N8	Reference T3 SemanticType:bacs	bacs
+N9	Reference T3 SemanticType:nnon	nnon
+N10	Reference T3 ConceptId:C1517938	Long Interspersed Elements
+T4	MMLite 533 537	cell
+N11	Reference T4 ConceptId:C1413336	CEL gene
+N12	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 402 406	cell
+N13	Reference T5 ConceptId:C1413336	CEL gene
+N14	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 690 695	siRNA
+N15	Reference T6 SemanticType:bacs	bacs
+N16	Reference T6 SemanticType:nnon	nnon
+N17	Reference T6 ConceptId:C1099354	RNA, Small Interfering
+T7	MMLite 1522 1527	siRNA
+N18	Reference T7 SemanticType:bacs	bacs
+N19	Reference T7 SemanticType:nnon	nnon
+N20	Reference T7 ConceptId:C1099354	RNA, Small Interfering
+T8	MMLite 1255 1258	had
+N21	Reference T8 ConceptId:C1415458	HADH gene
+N22	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 499 503	cell
+N23	Reference T9 ConceptId:C1413336	CEL gene
+N24	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 538 543	lines
+N25	Reference T10 SemanticType:bacs	bacs
+N26	Reference T10 SemanticType:nnon	nnon
+N27	Reference T10 ConceptId:C1517938	Long Interspersed Elements
+T11	MMLite 1030 1033	had
+N28	Reference T11 ConceptId:C1415458	HADH gene
+N29	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 1995 1998	can
+N30	Reference T12 SemanticType:mnob	mnob
+N31	Reference T12 ConceptId:C1704712	Can - object
+T13	MMLite 1663 1666	was
+N32	Reference T13 SemanticType:bacs	bacs
+N33	Reference T13 SemanticType:aapp	aapp
+N34	Reference T13 ConceptId:C1565156	WAS protein, human
+T14	MMLite 1347 1352	lines
+N35	Reference T14 SemanticType:bacs	bacs
+N36	Reference T14 SemanticType:nnon	nnon
+N37	Reference T14 ConceptId:C1517938	Long Interspersed Elements
+T15	MMLite 1436 1441	siRNA
+N38	Reference T15 SemanticType:bacs	bacs
+N39	Reference T15 SemanticType:nnon	nnon
+N40	Reference T15 ConceptId:C1099354	RNA, Small Interfering
+T16	MMLite 1572 1580	paraffin
+N41	Reference T16 ConceptId:C0497805	PARAFFIN, PER POUND
+N42	Reference T16 SemanticType:orch	orch
+N43	Reference T16 SemanticType:bodm	bodm
+N44	Reference T16 ConceptId:C0030415	Paraffin
+T17	MMLite 1249 1254	lines
+N45	Reference T17 SemanticType:bacs	bacs
+N46	Reference T17 SemanticType:nnon	nnon
+N47	Reference T17 ConceptId:C1517938	Long Interspersed Elements
+T18	MMLite 894 897	was
+N48	Reference T18 SemanticType:bacs	bacs
+N49	Reference T18 SemanticType:aapp	aapp
+N50	Reference T18 ConceptId:C1565156	WAS protein, human
+T19	MMLite 795 803	paraffin
+N51	Reference T19 ConceptId:C0497805	PARAFFIN, PER POUND
+N52	Reference T19 SemanticType:orch	orch
+N53	Reference T19 SemanticType:bodm	bodm
+N54	Reference T19 ConceptId:C0030415	Paraffin
+T20	MMLite 1342 1346	cell
+N55	Reference T20 ConceptId:C1413336	CEL gene
+N56	Reference T20 SemanticType:gngm	gngm
+T21	MMLite 1541 1544	was
+N57	Reference T21 SemanticType:bacs	bacs
+N58	Reference T21 SemanticType:aapp	aapp
+N59	Reference T21 ConceptId:C1565156	WAS protein, human
+T22	MMLite 838 841	was
+N60	Reference T22 SemanticType:bacs	bacs
+N61	Reference T22 SemanticType:aapp	aapp
+N62	Reference T22 ConceptId:C1565156	WAS protein, human
+T23	MMLite 504 508	line
+N63	Reference T23 SemanticType:bacs	bacs
+N64	Reference T23 SemanticType:nnon	nnon
+N65	Reference T23 ConceptId:C1517938	Long Interspersed Elements
+T24	MMLite 1244 1248	cell
+N66	Reference T24 ConceptId:C1413336	CEL gene
+N67	Reference T24 SemanticType:gngm	gngm
+T25	MMLite 1164 1167	was
+N68	Reference T25 SemanticType:bacs	bacs
+N69	Reference T25 SemanticType:aapp	aapp
+N70	Reference T25 ConceptId:C1565156	WAS protein, human
+T26	MMLite 430 433	SGC
+N71	Reference T26 SemanticType:aapp	aapp
+N72	Reference T26 SemanticType:enzy	enzy
+N73	Reference T26 SemanticType:rcpt	rcpt
+N74	Reference T26 ConceptId:C1097411	soluble guanylyl cyclase
+T27	MMLite 1946 1949	TNM
+N75	Reference T27 SemanticType:orch	orch
+N76	Reference T27 SemanticType:irda	irda
+N77	Reference T27 ConceptId:C0039694	Tetranitromethane
+N78	Reference T27 SemanticType:hops	hops

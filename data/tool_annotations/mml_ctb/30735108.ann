@@ -1,0 +1,235 @@
+T1	MMLite 1643 1647	CD40
+N1	Reference T1 SemanticType:aapp	aapp
+N2	Reference T1 SemanticType:imft	imft
+N3	Reference T1 ConceptId:C0054959	CD40 Antigens
+N4	Reference T1 SemanticType:rcpt	rcpt
+T2	MMLite 1452 1461	cytokines
+N5	Reference T2 ConceptId:C1524094	Recombinant Cytokines
+N6	Reference T2 SemanticType:aapp	aapp
+N7	Reference T2 SemanticType:imft	imft
+N8	Reference T2 ConceptId:C0079189	cytokine
+N9	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 117 125	collagen
+N10	Reference T3 SemanticType:aapp	aapp
+N11	Reference T3 ConceptId:C1325301	collagen activity
+N12	Reference T3 SemanticType:moft	moft
+N13	Reference T3 ConceptId:C0009325	Collagen
+T4	MMLite 936 945	cytokines
+N14	Reference T4 ConceptId:C1524094	Recombinant Cytokines
+N15	Reference T4 SemanticType:aapp	aapp
+N16	Reference T4 SemanticType:imft	imft
+N17	Reference T4 ConceptId:C0079189	cytokine
+N18	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 1380 1385	NF-κB
+N19	Reference T5 SemanticType:aapp	aapp
+N20	Reference T5 ConceptId:C0079904	NF-kappa B
+N21	Reference T5 SemanticType:imft	imft
+T6	MMLite 683 686	DBA
+N22	Reference T6 SemanticType:gngm	gngm
+N23	Reference T6 ConceptId:C1335641	RPS19 gene
+T7	MMLite 1062 1068	ICAM-1
+N24	Reference T7 SemanticType:aapp	aapp
+N25	Reference T7 SemanticType:imft	imft
+N26	Reference T7 ConceptId:C0063695	Intercellular adhesion molecule 1
+T8	MMLite 1469 1473	IL-6
+N27	Reference T8 SemanticType:bacs	bacs
+N28	Reference T8 SemanticType:aapp	aapp
+N29	Reference T8 ConceptId:C0021760	Interleukin-6
+N30	Reference T8 SemanticType:imft	imft
+N31	Reference T8 ConceptId:C1698754	IL6 protein, human
+N32	Reference T8 ConceptId:C1527132	Recombinant Interleukin-6
+N33	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 1714 1718	CD40
+N34	Reference T9 SemanticType:aapp	aapp
+N35	Reference T9 SemanticType:imft	imft
+N36	Reference T9 ConceptId:C0054959	CD40 Antigens
+N37	Reference T9 SemanticType:rcpt	rcpt
+T10	MMLite 29 34	TRAF1
+N38	Reference T10 SemanticType:bacs	bacs
+N39	Reference T10 SemanticType:aapp	aapp
+N40	Reference T10 ConceptId:C0258439	TNF receptor-associated factor 1
+N41	Reference T10 ConceptId:C1420887	TRAF1 gene
+N42	Reference T10 SemanticType:gngm	gngm
+T11	MMLite 695 699	CD40
+N43	Reference T11 SemanticType:aapp	aapp
+N44	Reference T11 SemanticType:imft	imft
+N45	Reference T11 ConceptId:C0054959	CD40 Antigens
+N46	Reference T11 SemanticType:rcpt	rcpt
+T12	MMLite 182 186	CD40
+N47	Reference T12 SemanticType:aapp	aapp
+N48	Reference T12 SemanticType:imft	imft
+N49	Reference T12 ConceptId:C0054959	CD40 Antigens
+N50	Reference T12 SemanticType:rcpt	rcpt
+T13	MMLite 283 287	CD40
+N51	Reference T13 SemanticType:aapp	aapp
+N52	Reference T13 SemanticType:imft	imft
+N53	Reference T13 ConceptId:C0054959	CD40 Antigens
+N54	Reference T13 SemanticType:rcpt	rcpt
+T14	MMLite 981 994	interleukin-6
+N55	Reference T14 SemanticType:bacs	bacs
+N56	Reference T14 SemanticType:aapp	aapp
+N57	Reference T14 ConceptId:C0021760	Interleukin-6
+N58	Reference T14 SemanticType:lbpr	lbpr
+N59	Reference T14 SemanticType:imft	imft
+N60	Reference T14 ConceptId:C1698754	IL6 protein, human
+N61	Reference T14 ConceptId:C0919829	Interleukin 6 Measurement
+N62	Reference T14 ConceptId:C1527132	Recombinant Interleukin-6
+N63	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 641 649	collagen
+N64	Reference T15 SemanticType:aapp	aapp
+N65	Reference T15 ConceptId:C1325301	collagen activity
+N66	Reference T15 SemanticType:moft	moft
+N67	Reference T15 ConceptId:C0009325	Collagen
+T16	MMLite 689 693	mice
+N68	Reference T16 ConceptId:C1413131	CASP14 gene
+N69	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 1741 1749	proteins
+N70	Reference T17 SemanticType:bacs	bacs
+N71	Reference T17 SemanticType:aapp	aapp
+N72	Reference T17 ConceptId:C0033684	Proteins
+T18	MMLite 996 1000	IL-6
+N73	Reference T18 SemanticType:bacs	bacs
+N74	Reference T18 SemanticType:aapp	aapp
+N75	Reference T18 ConceptId:C0021760	Interleukin-6
+N76	Reference T18 SemanticType:imft	imft
+N77	Reference T18 ConceptId:C1698754	IL6 protein, human
+N78	Reference T18 ConceptId:C1527132	Recombinant Interleukin-6
+N79	Reference T18 SemanticType:phsu	phsu
+T19	MMLite 712 717	NF-κB
+N80	Reference T19 SemanticType:aapp	aapp
+N81	Reference T19 ConceptId:C0079904	NF-kappa B
+N82	Reference T19 SemanticType:imft	imft
+T20	MMLite 1499 1505	ICAM-1
+N83	Reference T20 SemanticType:aapp	aapp
+N84	Reference T20 SemanticType:imft	imft
+N85	Reference T20 ConceptId:C0063695	Intercellular adhesion molecule 1
+T21	MMLite 1948 1951	for
+N86	Reference T21 ConceptId:C1421525	WWOX gene
+N87	Reference T21 SemanticType:gngm	gngm
+T22	MMLite 973 978	TNF-α
+N88	Reference T22 SemanticType:bacs	bacs
+N89	Reference T22 SemanticType:aapp	aapp
+N90	Reference T22 ConceptId:C1448177	TNF protein, human
+N91	Reference T22 SemanticType:imft	imft
+N92	Reference T22 ConceptId:C0041368	Tumor Necrosis Factors
+N93	Reference T22 ConceptId:C1456820	Tumor Necrosis Factor-alpha
+T23	MMLite 1357 1362	NF-κB
+N94	Reference T23 SemanticType:aapp	aapp
+N95	Reference T23 ConceptId:C0079904	NF-kappa B
+N96	Reference T23 SemanticType:imft	imft
+T24	MMLite 1027 1060	intercellular adhesion molecule-1
+N97	Reference T24 SemanticType:aapp	aapp
+N98	Reference T24 SemanticType:imft	imft
+N99	Reference T24 ConceptId:C0063695	Intercellular adhesion molecule 1
+T25	MMLite 1259 1264	TRAF1
+N100	Reference T25 SemanticType:bacs	bacs
+N101	Reference T25 SemanticType:aapp	aapp
+N102	Reference T25 ConceptId:C0258439	TNF receptor-associated factor 1
+N103	Reference T25 ConceptId:C1420887	TRAF1 gene
+N104	Reference T25 SemanticType:gngm	gngm
+T26	MMLite 1253 1257	CD40
+N105	Reference T26 SemanticType:aapp	aapp
+N106	Reference T26 SemanticType:imft	imft
+N107	Reference T26 ConceptId:C0054959	CD40 Antigens
+N108	Reference T26 SemanticType:rcpt	rcpt
+T27	MMLite 1411 1416	NF-κB
+N109	Reference T27 SemanticType:aapp	aapp
+N110	Reference T27 ConceptId:C0079904	NF-kappa B
+N111	Reference T27 SemanticType:imft	imft
+T28	MMLite 244 249	TRAF1
+N112	Reference T28 SemanticType:bacs	bacs
+N113	Reference T28 SemanticType:aapp	aapp
+N114	Reference T28 ConceptId:C0258439	TNF receptor-associated factor 1
+N115	Reference T28 ConceptId:C1420887	TRAF1 gene
+N116	Reference T28 SemanticType:gngm	gngm
+T29	MMLite 578 583	NF-κB
+N117	Reference T29 SemanticType:aapp	aapp
+N118	Reference T29 ConceptId:C0079904	NF-kappa B
+N119	Reference T29 SemanticType:imft	imft
+T30	MMLite 1648 1653	TRAF1
+N120	Reference T30 SemanticType:bacs	bacs
+N121	Reference T30 SemanticType:aapp	aapp
+N122	Reference T30 ConceptId:C0258439	TNF receptor-associated factor 1
+N123	Reference T30 ConceptId:C1420887	TRAF1 gene
+N124	Reference T30 SemanticType:gngm	gngm
+T31	MMLite 701 706	TRAF1
+N125	Reference T31 SemanticType:bacs	bacs
+N126	Reference T31 SemanticType:aapp	aapp
+N127	Reference T31 ConceptId:C0258439	TNF receptor-associated factor 1
+N128	Reference T31 ConceptId:C1420887	TRAF1 gene
+N129	Reference T31 SemanticType:gngm	gngm
+T32	MMLite 24 28	CD40
+N130	Reference T32 SemanticType:aapp	aapp
+N131	Reference T32 SemanticType:imft	imft
+N132	Reference T32 ConceptId:C0054959	CD40 Antigens
+N133	Reference T32 SemanticType:rcpt	rcpt
+T33	MMLite 895 900	NF-κB
+N134	Reference T33 SemanticType:aapp	aapp
+N135	Reference T33 ConceptId:C0079904	NF-kappa B
+N136	Reference T33 SemanticType:imft	imft
+T34	MMLite 1101 1107	VCAM-1
+N137	Reference T34 SemanticType:aapp	aapp
+N138	Reference T34 ConceptId:C0078056	Vascular Cell Adhesion Molecule-1
+N139	Reference T34 SemanticType:imft	imft
+T35	MMLite 1080 1097	adhesion molecule
+N140	Reference T35 SemanticType:bacs	bacs
+N141	Reference T35 SemanticType:aapp	aapp
+N142	Reference T35 ConceptId:C0007578	Cell Adhesion Molecules
+T36	MMLite 1507 1513	VCAM-1
+N143	Reference T36 SemanticType:aapp	aapp
+N144	Reference T36 ConceptId:C0078056	Vascular Cell Adhesion Molecule-1
+N145	Reference T36 SemanticType:imft	imft
+T37	MMLite 947 969	tumour necrosis factor
+N146	Reference T37 SemanticType:aapp	aapp
+N147	Reference T37 SemanticType:imft	imft
+N148	Reference T37 ConceptId:C0041368	Tumor Necrosis Factors
+T38	MMLite 872 875	was
+N149	Reference T38 SemanticType:bacs	bacs
+N150	Reference T38 SemanticType:aapp	aapp
+N151	Reference T38 ConceptId:C1565156	WAS protein, human
+T39	MMLite 1735 1740	TRAF1
+N152	Reference T39 SemanticType:bacs	bacs
+N153	Reference T39 SemanticType:aapp	aapp
+N154	Reference T39 ConceptId:C0258439	TNF receptor-associated factor 1
+N155	Reference T39 ConceptId:C1420887	TRAF1 gene
+N156	Reference T39 SemanticType:gngm	gngm
+T40	MMLite 1338 1342	CD40
+N157	Reference T40 SemanticType:aapp	aapp
+N158	Reference T40 SemanticType:imft	imft
+N159	Reference T40 ConceptId:C0054959	CD40 Antigens
+N160	Reference T40 SemanticType:rcpt	rcpt
+T41	MMLite 742 748	enzyme
+N161	Reference T41 SemanticType:orch	orch
+N162	Reference T41 SemanticType:enzy	enzy
+N163	Reference T41 ConceptId:C0014442	Enzymes
+T42	MMLite 1344 1349	TRAF1
+N164	Reference T42 SemanticType:bacs	bacs
+N165	Reference T42 SemanticType:aapp	aapp
+N166	Reference T42 ConceptId:C0258439	TNF receptor-associated factor 1
+N167	Reference T42 ConceptId:C1420887	TRAF1 gene
+N168	Reference T42 SemanticType:gngm	gngm
+T43	MMLite 1390 1398	proteins
+N169	Reference T43 SemanticType:bacs	bacs
+N170	Reference T43 SemanticType:aapp	aapp
+N171	Reference T43 ConceptId:C0033684	Proteins
+T44	MMLite 1270 1275	NF-κB
+N172	Reference T44 SemanticType:aapp	aapp
+N173	Reference T44 ConceptId:C0079904	NF-kappa B
+N174	Reference T44 SemanticType:imft	imft
+T45	MMLite 756 769	immunosorbent
+N175	Reference T45 ConceptId:C0021075	Immunosorbents
+N176	Reference T45 SemanticType:irda	irda
+T46	MMLite 330 335	TRAF1
+N177	Reference T46 SemanticType:bacs	bacs
+N178	Reference T46 SemanticType:aapp	aapp
+N179	Reference T46 ConceptId:C0258439	TNF receptor-associated factor 1
+N180	Reference T46 ConceptId:C1420887	TRAF1 gene
+N181	Reference T46 SemanticType:gngm	gngm
+T47	MMLite 191 213	tumour necrosis factor
+N182	Reference T47 SemanticType:aapp	aapp
+N183	Reference T47 SemanticType:imft	imft
+N184	Reference T47 ConceptId:C0041368	Tumor Necrosis Factors
+T48	MMLite 1772 1777	NF-κB
+N185	Reference T48 SemanticType:aapp	aapp
+N186	Reference T48 ConceptId:C0079904	NF-kappa B
+N187	Reference T48 SemanticType:imft	imft

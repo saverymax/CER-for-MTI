@@ -1,0 +1,23 @@
+T1	MMLite 1071 1074	was
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C1565156	WAS protein, human
+T2	MMLite 38 43	crack
+N4	Reference T2 SemanticType:orch	orch
+N5	Reference T2 SemanticType:hops	hops
+N6	Reference T2 ConceptId:C0085163	Crack Cocaine
+T3	MMLite 827 830	was
+N7	Reference T3 SemanticType:bacs	bacs
+N8	Reference T3 SemanticType:aapp	aapp
+N9	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 842 845	for
+N10	Reference T4 ConceptId:C1421525	WWOX gene
+N11	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 1013 1018	crack
+N12	Reference T5 SemanticType:orch	orch
+N13	Reference T5 SemanticType:hops	hops
+N14	Reference T5 ConceptId:C0085163	Crack Cocaine
+T6	MMLite 373 393	transcription factor
+N15	Reference T6 SemanticType:bacs	bacs
+N16	Reference T6 SemanticType:aapp	aapp
+N17	Reference T6 ConceptId:C0040648	TRANSCRIPTION FACTOR

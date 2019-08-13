@@ -1,0 +1,106 @@
+T1	MMLite 1424 1427	DDT
+N1	Reference T1 SemanticType:orch	orch
+N2	Reference T1 ConceptId:C0011041	DDT (Insecticide)
+N3	Reference T1 SemanticType:nnon	nnon
+N4	Reference T1 ConceptId:C0920453	dideoxythymidine
+N5	Reference T1 SemanticType:hops	hops
+N6	Reference T1 SemanticType:gngm	gngm
+N7	Reference T1 ConceptId:C1413950	DDT gene
+T2	MMLite 62 65	DDT
+N8	Reference T2 SemanticType:orch	orch
+N9	Reference T2 ConceptId:C0011041	DDT (Insecticide)
+N10	Reference T2 SemanticType:nnon	nnon
+N11	Reference T2 ConceptId:C0920453	dideoxythymidine
+N12	Reference T2 SemanticType:hops	hops
+N13	Reference T2 SemanticType:gngm	gngm
+N14	Reference T2 ConceptId:C1413950	DDT gene
+T3	MMLite 243 246	for
+N15	Reference T3 ConceptId:C1421525	WWOX gene
+N16	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 181 184	DDT
+N17	Reference T4 SemanticType:orch	orch
+N18	Reference T4 ConceptId:C0011041	DDT (Insecticide)
+N19	Reference T4 SemanticType:nnon	nnon
+N20	Reference T4 ConceptId:C0920453	dideoxythymidine
+N21	Reference T4 SemanticType:hops	hops
+N22	Reference T4 SemanticType:gngm	gngm
+N23	Reference T4 ConceptId:C1413950	DDT gene
+T5	MMLite 610 617	malaria
+N24	Reference T5 SemanticType:imft	imft
+N25	Reference T5 ConceptId:C0206255	Malaria Vaccines
+N26	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 143 179	4,4'-dichlorodiphenyltrichloroethane
+N27	Reference T6 SemanticType:orch	orch
+N28	Reference T6 ConceptId:C0011041	DDT (Insecticide)
+N29	Reference T6 SemanticType:hops	hops
+T7	MMLite 938 943	lines
+N30	Reference T7 SemanticType:bacs	bacs
+N31	Reference T7 SemanticType:nnon	nnon
+N32	Reference T7 ConceptId:C1517938	Long Interspersed Elements
+T8	MMLite 638 641	for
+N33	Reference T8 ConceptId:C1421525	WWOX gene
+N34	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 1122 1137	cytochrome P450
+N35	Reference T9 SemanticType:aapp	aapp
+N36	Reference T9 ConceptId:C0010762	Cytochrome P450
+N37	Reference T9 SemanticType:enzy	enzy
+T10	MMLite 1232 1236	Mrp1
+N38	Reference T10 ConceptId:C0919458	ABCC1 gene
+N39	Reference T10 SemanticType:gngm	gngm
+T11	MMLite 557 568	insecticide
+N40	Reference T11 SemanticType:hops	hops
+N41	Reference T11 ConceptId:C0021576	Insecticides
+T12	MMLite 1030 1033	DDT
+N42	Reference T12 SemanticType:orch	orch
+N43	Reference T12 ConceptId:C0011041	DDT (Insecticide)
+N44	Reference T12 SemanticType:nnon	nnon
+N45	Reference T12 ConceptId:C0920453	dideoxythymidine
+N46	Reference T12 SemanticType:hops	hops
+N47	Reference T12 SemanticType:gngm	gngm
+N48	Reference T12 ConceptId:C1413950	DDT gene
+T13	MMLite 1138 1152	monooxygenases
+N49	Reference T13 ConceptId:C0020364	Mixed Function Oxygenases
+N50	Reference T13 SemanticType:aapp	aapp
+N51	Reference T13 SemanticType:enzy	enzy
+T14	MMLite 247 254	malaria
+N52	Reference T14 SemanticType:imft	imft
+N53	Reference T14 ConceptId:C0206255	Malaria Vaccines
+N54	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 971 974	for
+N55	Reference T15 ConceptId:C1421525	WWOX gene
+N56	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 1275 1278	DDT
+N57	Reference T16 SemanticType:orch	orch
+N58	Reference T16 ConceptId:C0011041	DDT (Insecticide)
+N59	Reference T16 SemanticType:nnon	nnon
+N60	Reference T16 ConceptId:C0920453	dideoxythymidine
+N61	Reference T16 SemanticType:hops	hops
+N62	Reference T16 SemanticType:gngm	gngm
+N63	Reference T16 ConceptId:C1413950	DDT gene
+T17	MMLite 715 718	DDT
+N64	Reference T17 SemanticType:orch	orch
+N65	Reference T17 ConceptId:C0011041	DDT (Insecticide)
+N66	Reference T17 SemanticType:nnon	nnon
+N67	Reference T17 ConceptId:C0920453	dideoxythymidine
+N68	Reference T17 SemanticType:hops	hops
+N69	Reference T17 SemanticType:gngm	gngm
+N70	Reference T17 ConceptId:C1413950	DDT gene
+T18	MMLite 913 917	Gal4
+N71	Reference T18 ConceptId:C1416832	LGALS4 gene
+N72	Reference T18 SemanticType:gngm	gngm
+T19	MMLite 1179 1212	ATP binding cassette transporters
+N73	Reference T19 SemanticType:bacs	bacs
+N74	Reference T19 SemanticType:aapp	aapp
+N75	Reference T19 ConceptId:C0242738	ATP-Binding Cassette Transporters
+T20	MMLite 1094 1102	proteins
+N76	Reference T20 SemanticType:bacs	bacs
+N77	Reference T20 SemanticType:aapp	aapp
+N78	Reference T20 ConceptId:C0033684	Proteins
+T21	MMLite 282 285	DDT
+N79	Reference T21 SemanticType:orch	orch
+N80	Reference T21 ConceptId:C0011041	DDT (Insecticide)
+N81	Reference T21 SemanticType:nnon	nnon
+N82	Reference T21 ConceptId:C0920453	dideoxythymidine
+N83	Reference T21 SemanticType:hops	hops
+N84	Reference T21 SemanticType:gngm	gngm
+N85	Reference T21 ConceptId:C1413950	DDT gene

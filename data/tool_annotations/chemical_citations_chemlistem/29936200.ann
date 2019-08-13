@@ -1,0 +1,48 @@
+T1	Chemlistem 36 55	d-β-hydroxybutyrate
+A1	Score T1 0.9630973
+T2	Chemlistem 60 69	melatonin
+A2	Score T2 0.9582621
+T3	Chemlistem 107 126	d-β-hydroxybutyrate
+A3	Score T3 0.94479424
+T4	Chemlistem 131 140	melatonin
+A4	Score T4 0.94972503
+T5	Chemlistem 146 149	MLT
+A5	Score T5 0.5900539
+T6	Chemlistem 249 267	dimethyl sulfoxide
+A6	Score T6 0.95226955
+T7	Chemlistem 269 273	DMSO
+A7	Score T7 0.93024564
+T8	Chemlistem 287 296	melatonin
+A8	Score T8 0.92341894
+T9	Chemlistem 349 353	DMSO
+A9	Score T9 0.8404891
+T10	Chemlistem 383 403	polyvinylpyrrolidone
+A10	Score T10 0.9720766
+T11	Chemlistem 405 408	BHB
+A11	Score T11 0.6578649
+T12	Chemlistem 409 412	MLT
+A12	Score T12 0.7504672
+T13	Chemlistem 413 416	PVP
+A13	Score T13 0.9629487
+T14	Chemlistem 429 457	hydroxypropyl-β-cyclodextrin
+A14	Score T14 0.95026773
+T15	Chemlistem 463 466	PVP
+A15	Score T15 0.951856
+T16	Chemlistem 472 495	polyethylene glycol 400
+A16	Score T16 0.8336301
+T17	Chemlistem 742 746	DMSO
+A17	Score T17 0.6224947
+T18	Chemlistem 770 774	DMSO
+A18	Score T18 0.5760254
+T19	Chemlistem 794 797	PVP
+A19	Score T19 0.7708347
+T20	Chemlistem 832 836	DMSO
+A20	Score T20 0.66339874
+T21	Chemlistem 1214 1217	PVP
+A21	Score T21 0.8501648
+T22	Chemlistem 1238 1242	DMSO
+A22	Score T22 0.7805332
+T23	Chemlistem 1265 1269	DMSO
+A23	Score T23 0.78879434
+T24	Chemlistem 1484 1487	PVP
+A24	Score T24 0.8478694

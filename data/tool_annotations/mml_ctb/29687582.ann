@@ -1,0 +1,50 @@
+T1	MMLite 1039 1048	direction
+N1	Reference T1 ConceptId:C0700158	Direction brand of orthodontic bonding material
+N2	Reference T1 SemanticType:bodm	bodm
+T2	MMLite 181 184	LiF
+N3	Reference T2 SemanticType:aapp	aapp
+N4	Reference T2 ConceptId:C1366463	LIF gene
+N5	Reference T2 SemanticType:imft	imft
+N6	Reference T2 ConceptId:C0125606	leukemia inhibitory factor
+N7	Reference T2 SemanticType:gngm	gngm
+N8	Reference T2 ConceptId:C1453955	LIF protein, human
+T3	MMLite 573 576	for
+N9	Reference T3 ConceptId:C1421525	WWOX gene
+N10	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 756 759	for
+N11	Reference T4 ConceptId:C1421525	WWOX gene
+N12	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 1155 1158	was
+N13	Reference T5 SemanticType:bacs	bacs
+N14	Reference T5 SemanticType:aapp	aapp
+N15	Reference T5 ConceptId:C1565156	WAS protein, human
+T6	MMLite 98 101	LiF
+N16	Reference T6 SemanticType:aapp	aapp
+N17	Reference T6 ConceptId:C1366463	LIF gene
+N18	Reference T6 SemanticType:imft	imft
+N19	Reference T6 SemanticType:gngm	gngm
+N20	Reference T6 ConceptId:C0125606	leukemia inhibitory factor
+N21	Reference T6 ConceptId:C1453955	LIF protein, human
+T7	MMLite 121 124	LiF
+N22	Reference T7 SemanticType:aapp	aapp
+N23	Reference T7 ConceptId:C1366463	LIF gene
+N24	Reference T7 SemanticType:imft	imft
+N25	Reference T7 ConceptId:C0125606	leukemia inhibitory factor
+N26	Reference T7 SemanticType:gngm	gngm
+N27	Reference T7 ConceptId:C1453955	LIF protein, human
+T8	MMLite 429 432	was
+N28	Reference T8 SemanticType:bacs	bacs
+N29	Reference T8 SemanticType:aapp	aapp
+N30	Reference T8 ConceptId:C1565156	WAS protein, human
+T9	MMLite 417 423	silver
+N31	Reference T9 ConceptId:C0947651	Silver preparation
+N32	Reference T9 SemanticType:elii	elii
+N33	Reference T9 SemanticType:bodm	bodm
+N34	Reference T9 ConceptId:C1305285	Silver color
+N35	Reference T9 ConceptId:C0037125	Silver
+N36	Reference T9 SemanticType:qlco	qlco
+N37	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 790 793	was
+N38	Reference T10 SemanticType:bacs	bacs
+N39	Reference T10 SemanticType:aapp	aapp
+N40	Reference T10 ConceptId:C1565156	WAS protein, human

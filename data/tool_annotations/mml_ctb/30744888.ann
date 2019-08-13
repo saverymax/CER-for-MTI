@@ -1,0 +1,71 @@
+T1	MMLite 1495 1498	was
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C1565156	WAS protein, human
+T2	MMLite 552 565	propiconazole
+N4	Reference T2 SemanticType:orch	orch
+N5	Reference T2 ConceptId:C0072177	propiconazole
+N6	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 872 875	was
+N7	Reference T3 SemanticType:bacs	bacs
+N8	Reference T3 SemanticType:aapp	aapp
+N9	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 20 33	propiconazole
+N10	Reference T4 SemanticType:orch	orch
+N11	Reference T4 ConceptId:C0072177	propiconazole
+N12	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 1764 1777	propiconazole
+N13	Reference T5 SemanticType:orch	orch
+N14	Reference T5 ConceptId:C0072177	propiconazole
+N15	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 298 307	fungicide
+N16	Reference T6 ConceptId:C0392419	Industrial fungicide
+N17	Reference T6 SemanticType:hops	hops
+T7	MMLite 918 928	fungicides
+N18	Reference T7 ConceptId:C0392419	Industrial fungicide
+N19	Reference T7 SemanticType:hops	hops
+T8	MMLite 1600 1610	ergosterol
+N20	Reference T8 SemanticType:orch	orch
+N21	Reference T8 SemanticType:vita	vita
+N22	Reference T8 ConceptId:C0014705	Ergosterol
+N23	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 200 203	for
+N24	Reference T9 ConceptId:C1421525	WWOX gene
+N25	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 289 297	triazole
+N26	Reference T10 SemanticType:orch	orch
+N27	Reference T10 ConceptId:C0040880	Triazoles
+T11	MMLite 1046 1049	was
+N28	Reference T11 SemanticType:bacs	bacs
+N29	Reference T11 SemanticType:aapp	aapp
+N30	Reference T11 ConceptId:C1565156	WAS protein, human
+T12	MMLite 1568 1581	propiconazole
+N31	Reference T12 SemanticType:orch	orch
+N32	Reference T12 ConceptId:C0072177	propiconazole
+N33	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 776 780	cell
+N34	Reference T13 ConceptId:C1413336	CEL gene
+N35	Reference T13 SemanticType:gngm	gngm
+T14	MMLite 994 997	was
+N36	Reference T14 SemanticType:bacs	bacs
+N37	Reference T14 SemanticType:aapp	aapp
+N38	Reference T14 ConceptId:C1565156	WAS protein, human
+T15	MMLite 856 866	fungicides
+N39	Reference T15 ConceptId:C0392419	Industrial fungicide
+N40	Reference T15 SemanticType:hops	hops
+T16	MMLite 270 283	Propiconazole
+N41	Reference T16 SemanticType:orch	orch
+N42	Reference T16 ConceptId:C0072177	propiconazole
+N43	Reference T16 SemanticType:phsu	phsu
+T17	MMLite 812 815	was
+N44	Reference T17 SemanticType:bacs	bacs
+N45	Reference T17 SemanticType:aapp	aapp
+N46	Reference T17 ConceptId:C1565156	WAS protein, human
+T18	MMLite 1389 1392	was
+N47	Reference T18 SemanticType:bacs	bacs
+N48	Reference T18 SemanticType:aapp	aapp
+N49	Reference T18 ConceptId:C1565156	WAS protein, human
+T19	MMLite 1418 1431	propiconazole
+N50	Reference T19 SemanticType:orch	orch
+N51	Reference T19 ConceptId:C0072177	propiconazole
+N52	Reference T19 SemanticType:phsu	phsu

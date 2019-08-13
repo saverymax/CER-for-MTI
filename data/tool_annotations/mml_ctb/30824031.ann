@@ -1,0 +1,92 @@
+T1	MMLite 973 980	cadmium
+N1	Reference T1 SemanticType:elii	elii
+N2	Reference T1 SemanticType:hops	hops
+N3	Reference T1 ConceptId:C0006632	Cadmium
+N4	Reference T1 ConceptId:C2348259	Dietary Cadmium
+T2	MMLite 1390 1397	cadmium
+N5	Reference T2 SemanticType:elii	elii
+N6	Reference T2 SemanticType:hops	hops
+N7	Reference T2 ConceptId:C0006632	Cadmium
+N8	Reference T2 ConceptId:C2348259	Dietary Cadmium
+T3	MMLite 1364 1367	for
+N9	Reference T3 ConceptId:C1421525	WWOX gene
+N10	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 1209 1213	salt
+N11	Reference T4 SemanticType:bacs	bacs
+N12	Reference T4 SemanticType:chvs	chvs
+N13	Reference T4 SemanticType:inch	inch
+N14	Reference T4 ConceptId:C0037494	Sodium Chloride
+N15	Reference T4 ConceptId:C0036140	Salts
+N16	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 1017 1024	cadmium
+N17	Reference T5 SemanticType:elii	elii
+N18	Reference T5 SemanticType:hops	hops
+N19	Reference T5 ConceptId:C0006632	Cadmium
+N20	Reference T5 ConceptId:C2348259	Dietary Cadmium
+T6	MMLite 124 133	Ubiquitin
+N21	Reference T6 ConceptId:C1325411	ubiquitin activity
+N22	Reference T6 SemanticType:bacs	bacs
+N23	Reference T6 SemanticType:aapp	aapp
+N24	Reference T6 SemanticType:moft	moft
+N25	Reference T6 ConceptId:C0041538	Ubiquitin
+T7	MMLite 576 584	proteins
+N26	Reference T7 SemanticType:bacs	bacs
+N27	Reference T7 SemanticType:aapp	aapp
+N28	Reference T7 ConceptId:C0033684	Proteins
+T8	MMLite 212 216	salt
+N29	Reference T8 SemanticType:bacs	bacs
+N30	Reference T8 SemanticType:chvs	chvs
+N31	Reference T8 SemanticType:inch	inch
+N32	Reference T8 ConceptId:C0037494	Sodium Chloride
+N33	Reference T8 ConceptId:C0036140	Salts
+N34	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 748 755	cadmium
+N35	Reference T9 SemanticType:elii	elii
+N36	Reference T9 SemanticType:hops	hops
+N37	Reference T9 ConceptId:C0006632	Cadmium
+N38	Reference T9 ConceptId:C2348259	Dietary Cadmium
+T10	MMLite 860 867	cadmium
+N39	Reference T10 SemanticType:elii	elii
+N40	Reference T10 SemanticType:hops	hops
+N41	Reference T10 ConceptId:C0006632	Cadmium
+N42	Reference T10 ConceptId:C2348259	Dietary Cadmium
+T11	MMLite 92 99	cadmium
+N43	Reference T11 SemanticType:elii	elii
+N44	Reference T11 SemanticType:hops	hops
+N45	Reference T11 ConceptId:C0006632	Cadmium
+N46	Reference T11 ConceptId:C2348259	Dietary Cadmium
+T12	MMLite 699 702	can
+N47	Reference T12 SemanticType:mnob	mnob
+N48	Reference T12 ConceptId:C1704712	Can - object
+T13	MMLite 1305 1313	proteins
+N49	Reference T13 SemanticType:bacs	bacs
+N50	Reference T13 SemanticType:aapp	aapp
+N51	Reference T13 ConceptId:C0033684	Proteins
+T14	MMLite 824 827	can
+N52	Reference T14 SemanticType:mnob	mnob
+N53	Reference T14 ConceptId:C1704712	Can - object
+T15	MMLite 1409 1413	salt
+N54	Reference T15 SemanticType:bacs	bacs
+N55	Reference T15 SemanticType:chvs	chvs
+N56	Reference T15 SemanticType:inch	inch
+N57	Reference T15 ConceptId:C0037494	Sodium Chloride
+N58	Reference T15 ConceptId:C0036140	Salts
+N59	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 193 200	cadmium
+N60	Reference T16 SemanticType:elii	elii
+N61	Reference T16 SemanticType:hops	hops
+N62	Reference T16 ConceptId:C0006632	Cadmium
+N63	Reference T16 ConceptId:C2348259	Dietary Cadmium
+T17	MMLite 946 949	for
+N64	Reference T17 ConceptId:C1421525	WWOX gene
+N65	Reference T17 SemanticType:gngm	gngm
+T18	MMLite 111 115	salt
+N66	Reference T18 SemanticType:bacs	bacs
+N67	Reference T18 SemanticType:chvs	chvs
+N68	Reference T18 SemanticType:inch	inch
+N69	Reference T18 ConceptId:C0037494	Sodium Chloride
+N70	Reference T18 ConceptId:C0036140	Salts
+N71	Reference T18 SemanticType:phsu	phsu
+T19	MMLite 64 67	for
+N72	Reference T19 ConceptId:C1421525	WWOX gene
+N73	Reference T19 SemanticType:gngm	gngm

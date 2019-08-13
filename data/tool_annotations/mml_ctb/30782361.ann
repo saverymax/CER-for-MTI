@@ -1,0 +1,62 @@
+T1	MMLite 257 264	protein
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C0033684	Proteins
+T2	MMLite 821 835	autoantibodies
+N4	Reference T2 SemanticType:aapp	aapp
+N5	Reference T2 ConceptId:C0004358	Autoantibodies
+N6	Reference T2 SemanticType:imft	imft
+T3	MMLite 650 653	was
+N7	Reference T3 SemanticType:bacs	bacs
+N8	Reference T3 SemanticType:aapp	aapp
+N9	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 355 358	was
+N10	Reference T4 SemanticType:bacs	bacs
+N11	Reference T4 SemanticType:aapp	aapp
+N12	Reference T4 ConceptId:C1565156	WAS protein, human
+T5	MMLite 690 694	sera
+N13	Reference T5 ConceptId:C1418531	PHGDH gene
+N14	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 460 467	protein
+N15	Reference T6 SemanticType:bacs	bacs
+N16	Reference T6 SemanticType:aapp	aapp
+N17	Reference T6 ConceptId:C0033684	Proteins
+T7	MMLite 1029 1032	was
+N18	Reference T7 SemanticType:bacs	bacs
+N19	Reference T7 SemanticType:aapp	aapp
+N20	Reference T7 ConceptId:C1565156	WAS protein, human
+T8	MMLite 898 902	cell
+N21	Reference T8 ConceptId:C1413336	CEL gene
+N22	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 436 448	autoantigens
+N23	Reference T9 SemanticType:imft	imft
+N24	Reference T9 ConceptId:C0004359	Autoantigens
+T10	MMLite 804 816	autoantigens
+N25	Reference T10 SemanticType:imft	imft
+N26	Reference T10 ConceptId:C0004359	Autoantigens
+T11	MMLite 468 480	autoantigens
+N27	Reference T11 SemanticType:imft	imft
+N28	Reference T11 ConceptId:C0004359	Autoantigens
+T12	MMLite 93 105	autoantigens
+N29	Reference T12 SemanticType:imft	imft
+N30	Reference T12 ConceptId:C0004359	Autoantigens
+T13	MMLite 637 649	autoantigens
+N31	Reference T13 SemanticType:imft	imft
+N32	Reference T13 ConceptId:C0004359	Autoantigens
+T14	MMLite 555 562	protein
+N33	Reference T14 SemanticType:bacs	bacs
+N34	Reference T14 SemanticType:aapp	aapp
+N35	Reference T14 ConceptId:C0033684	Proteins
+T15	MMLite 1052 1056	sera
+N36	Reference T15 ConceptId:C1418531	PHGDH gene
+N37	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 265 277	autoantigens
+N38	Reference T16 SemanticType:imft	imft
+N39	Reference T16 ConceptId:C0004359	Autoantigens
+T17	MMLite 839 843	sera
+N40	Reference T17 ConceptId:C1418531	PHGDH gene
+N41	Reference T17 SemanticType:gngm	gngm
+T18	MMLite 224 238	autoantibodies
+N42	Reference T18 SemanticType:aapp	aapp
+N43	Reference T18 ConceptId:C0004358	Autoantibodies
+N44	Reference T18 SemanticType:imft	imft

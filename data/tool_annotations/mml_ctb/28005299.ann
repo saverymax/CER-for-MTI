@@ -1,0 +1,106 @@
+T1	MMLite 539 545	fucose
+N1	Reference T1 SemanticType:orch	orch
+N2	Reference T1 ConceptId:C0016786	Fucose
+T2	MMLite 229 233	SLeX
+N3	Reference T2 SemanticType:lbpr	lbpr
+N4	Reference T2 ConceptId:C3828027	Sialyl SSEA-1 Antigen Measurement
+T3	MMLite 282 286	poly
+N5	Reference T3 SemanticType:nnon	nnon
+N6	Reference T3 ConceptId:C0032400	Poly A
+N7	Reference T3 ConceptId:C0071360	5'-Inosinic acid, 2'-deoxy-2'-fluoro-, homopolymer
+T4	MMLite 749 753	same
+N8	Reference T4 SemanticType:bacs	bacs
+N9	Reference T4 ConceptId:C0036002	S-Adenosylmethionine
+N10	Reference T4 SemanticType:aapp	aapp
+N11	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 547 556	galactose
+N12	Reference T5 SemanticType:bacs	bacs
+N13	Reference T5 ConceptId:C0016945	Galactose
+N14	Reference T5 SemanticType:orch	orch
+T6	MMLite 136 140	cell
+N15	Reference T6 ConceptId:C1413336	CEL gene
+N16	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 414 417	For
+N17	Reference T7 ConceptId:C1421525	WWOX gene
+N18	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 667 675	polymers
+N19	Reference T8 SemanticType:chvs	chvs
+N20	Reference T8 ConceptId:C0032521	Polymers
+N21	Reference T8 SemanticType:bodm	bodm
+T9	MMLite 877 881	SLeX
+N22	Reference T9 SemanticType:lbpr	lbpr
+N23	Reference T9 ConceptId:C3828027	Sialyl SSEA-1 Antigen Measurement
+T10	MMLite 189 197	selectin
+N24	Reference T10 SemanticType:bacs	bacs
+N25	Reference T10 SemanticType:aapp	aapp
+N26	Reference T10 ConceptId:C0282651	Selectins
+T11	MMLite 65 73	Selectin
+N27	Reference T11 SemanticType:bacs	bacs
+N28	Reference T11 SemanticType:aapp	aapp
+N29	Reference T11 ConceptId:C0282651	Selectins
+T12	MMLite 651 659	tyramine
+N30	Reference T12 SemanticType:bacs	bacs
+N31	Reference T12 SemanticType:orch	orch
+N32	Reference T12 ConceptId:C0041479	Tyramine
+N33	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 562 573	sialic acid
+N34	Reference T13 SemanticType:bacs	bacs
+N35	Reference T13 SemanticType:orch	orch
+N36	Reference T13 ConceptId:C0067762	N-Acetylneuraminic Acid
+T14	MMLite 922 931	selectins
+N37	Reference T14 SemanticType:bacs	bacs
+N38	Reference T14 SemanticType:aapp	aapp
+N39	Reference T14 ConceptId:C0282651	Selectins
+T15	MMLite 19 26	Ligands
+N40	Reference T15 SemanticType:chem	chem
+N41	Reference T15 ConceptId:C0023688	Ligands
+T16	MMLite 303 317	methacrylamide
+N42	Reference T16 SemanticType:orch	orch
+N43	Reference T16 SemanticType:irda	irda
+N44	Reference T16 ConceptId:C0127788	methacrylamide
+T17	MMLite 863 871	polyHPMA
+N45	Reference T17 SemanticType:orch	orch
+N46	Reference T17 ConceptId:C0058826	Duxon
+N47	Reference T17 SemanticType:phsu	phsu
+T18	MMLite 511 523	carbohydrate
+N48	Reference T18 SemanticType:orch	orch
+N49	Reference T18 ConceptId:C0007004	Carbohydrates
+T19	MMLite 791 800	selectins
+N50	Reference T19 SemanticType:bacs	bacs
+N51	Reference T19 SemanticType:aapp	aapp
+N52	Reference T19 ConceptId:C0282651	Selectins
+T20	MMLite 0 9	Polymeric
+N53	Reference T20 SemanticType:chvs	chvs
+N54	Reference T20 ConceptId:C0032521	Polymers
+N55	Reference T20 SemanticType:bodm	bodm
+T21	MMLite 1144 1147	for
+N56	Reference T21 ConceptId:C1421525	WWOX gene
+N57	Reference T21 SemanticType:gngm	gngm
+T22	MMLite 10 18	Selectin
+N58	Reference T22 SemanticType:bacs	bacs
+N59	Reference T22 SemanticType:aapp	aapp
+N60	Reference T22 ConceptId:C0282651	Selectins
+T23	MMLite 764 771	polymer
+N61	Reference T23 SemanticType:chvs	chvs
+N62	Reference T23 ConceptId:C0032521	Polymers
+N63	Reference T23 SemanticType:bodm	bodm
+T24	MMLite 45 58	Carbohydrates
+N64	Reference T24 SemanticType:orch	orch
+N65	Reference T24 ConceptId:C3541972	Carbohydrate nutrients
+N66	Reference T24 ConceptId:C0007004	Carbohydrates
+T25	MMLite 387 395	tyramine
+N67	Reference T25 SemanticType:bacs	bacs
+N68	Reference T25 SemanticType:orch	orch
+N69	Reference T25 ConceptId:C0041479	Tyramine
+N70	Reference T25 SemanticType:phsu	phsu
+T26	MMLite 444 453	polymeric
+N71	Reference T26 SemanticType:chvs	chvs
+N72	Reference T26 ConceptId:C0032521	Polymers
+N73	Reference T26 SemanticType:bodm	bodm
+T27	MMLite 953 956	can
+N74	Reference T27 SemanticType:mnob	mnob
+N75	Reference T27 ConceptId:C1704712	Can - object
+T28	MMLite 126 135	polymeric
+N76	Reference T28 SemanticType:chvs	chvs
+N77	Reference T28 ConceptId:C0032521	Polymers
+N78	Reference T28 SemanticType:bodm	bodm

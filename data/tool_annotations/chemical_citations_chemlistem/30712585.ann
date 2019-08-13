@@ -1,0 +1,22 @@
+T1	Chemlistem 34 40	carbon
+A1	Score T1 0.9117508
+T2	Chemlistem 119 123	H2O2
+A2	Score T2 0.8502068
+T3	Chemlistem 128 141	ascorbic acid
+A3	Score T3 0.9483447
+T4	Chemlistem 200 206	carbon
+A4	Score T4 0.89867777
+T5	Chemlistem 483 513	3,3',5,5'-tetramethylbenzidine
+A5	Score T5 0.7219373
+T6	Chemlistem 515 518	TMB
+A6	Score T6 0.60039204
+T7	Chemlistem 539 543	H2O2
+A7	Score T7 0.9348806
+T8	Chemlistem 964 968	H2O2
+A8	Score T8 0.92181176
+T9	Chemlistem 1042 1046	H2O2
+A9	Score T9 0.8823446
+T10	Chemlistem 1227 1240	ascorbic acid
+A10	Score T10 0.96780705
+T11	Chemlistem 1325 1338	ascorbic acid
+A11	Score T11 0.9629916

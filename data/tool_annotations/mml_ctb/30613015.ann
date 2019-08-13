@@ -1,0 +1,245 @@
+T1	MMLite 1154 1157	LPS
+N1	Reference T1 SemanticType:orch	orch
+N2	Reference T1 ConceptId:C0023810	Lipopolysaccharides
+T2	MMLite 391 395	mice
+N3	Reference T2 ConceptId:C1413131	CASP14 gene
+N4	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 775 778	LPS
+N5	Reference T3 SemanticType:orch	orch
+N6	Reference T3 ConceptId:C0023810	Lipopolysaccharides
+T4	MMLite 1 12	Cathepsin B
+N7	Reference T4 SemanticType:aapp	aapp
+N8	Reference T4 ConceptId:C1332804	CTSB gene
+N9	Reference T4 ConceptId:C0699919	Cathepsins B
+N10	Reference T4 SemanticType:enzy	enzy
+N11	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 330 333	LPS
+N12	Reference T5 SemanticType:orch	orch
+N13	Reference T5 ConceptId:C0023810	Lipopolysaccharides
+T6	MMLite 1336 1340	mice
+N14	Reference T6 ConceptId:C1413131	CASP14 gene
+N15	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 783 786	LPS
+N16	Reference T7 SemanticType:orch	orch
+N17	Reference T7 ConceptId:C0023810	Lipopolysaccharides
+T8	MMLite 1474 1485	cathepsin B
+N18	Reference T8 SemanticType:aapp	aapp
+N19	Reference T8 ConceptId:C1332804	CTSB gene
+N20	Reference T8 ConceptId:C0699919	Cathepsins B
+N21	Reference T8 SemanticType:enzy	enzy
+N22	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 526 529	LPS
+N23	Reference T9 SemanticType:orch	orch
+N24	Reference T9 ConceptId:C0023810	Lipopolysaccharides
+T10	MMLite 1732 1743	cathepsin B
+N25	Reference T10 SemanticType:aapp	aapp
+N26	Reference T10 ConceptId:C1332804	CTSB gene
+N27	Reference T10 ConceptId:C0699919	Cathepsins B
+N28	Reference T10 SemanticType:enzy	enzy
+N29	Reference T10 SemanticType:gngm	gngm
+T11	MMLite 464 467	for
+N30	Reference T11 ConceptId:C1421525	WWOX gene
+N31	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 531 534	LPS
+N32	Reference T12 SemanticType:orch	orch
+N33	Reference T12 ConceptId:C0023810	Lipopolysaccharides
+T13	MMLite 1427 1430	LPS
+N34	Reference T13 SemanticType:orch	orch
+N35	Reference T13 ConceptId:C0023810	Lipopolysaccharides
+T14	MMLite 1694 1698	TLR4
+N36	Reference T14 ConceptId:C1321919	TLR4 protein, human
+N37	Reference T14 SemanticType:aapp	aapp
+N38	Reference T14 SemanticType:rcpt	rcpt
+N39	Reference T14 ConceptId:C1336636	TLR4 gene
+N40	Reference T14 SemanticType:gngm	gngm
+T15	MMLite 1220 1229	injection
+N41	Reference T15 SemanticType:topp	topp
+N42	Reference T15 SemanticType:ftcn	ftcn
+N43	Reference T15 ConceptId:C1828121	Injection Route of Drug Administration
+N44	Reference T15 ConceptId:C0021485	Injection of therapeutic agent
+N45	Reference T15 ConceptId:C1533685	Injection procedure
+T16	MMLite 1687 1690	LPS
+N46	Reference T16 SemanticType:orch	orch
+N47	Reference T16 ConceptId:C0023810	Lipopolysaccharides
+T17	MMLite 300 304	mice
+N48	Reference T17 ConceptId:C1413131	CASP14 gene
+N49	Reference T17 SemanticType:gngm	gngm
+T18	MMLite 104 108	mice
+N50	Reference T18 ConceptId:C1413131	CASP14 gene
+N51	Reference T18 SemanticType:gngm	gngm
+T19	MMLite 885 892	protein
+N52	Reference T19 SemanticType:bacs	bacs
+N53	Reference T19 SemanticType:aapp	aapp
+N54	Reference T19 ConceptId:C0033684	Proteins
+T20	MMLite 234 254	Toll-like receptor 4
+N55	Reference T20 ConceptId:C1321919	TLR4 protein, human
+N56	Reference T20 SemanticType:aapp	aapp
+N57	Reference T20 ConceptId:C1411976	toll-like receptor 4
+N58	Reference T20 ConceptId:C1336636	TLR4 gene
+N59	Reference T20 SemanticType:rcpt	rcpt
+N60	Reference T20 SemanticType:gngm	gngm
+T21	MMLite 418 422	TLR4
+N61	Reference T21 ConceptId:C1321919	TLR4 protein, human
+N62	Reference T21 SemanticType:aapp	aapp
+N63	Reference T21 ConceptId:C1336636	TLR4 gene
+N64	Reference T21 SemanticType:rcpt	rcpt
+N65	Reference T21 SemanticType:gngm	gngm
+T22	MMLite 915 926	cathepsin B
+N66	Reference T22 SemanticType:aapp	aapp
+N67	Reference T22 ConceptId:C1332804	CTSB gene
+N68	Reference T22 ConceptId:C0699919	Cathepsins B
+N69	Reference T22 SemanticType:enzy	enzy
+N70	Reference T22 SemanticType:gngm	gngm
+T23	MMLite 1962 1966	mice
+N71	Reference T23 ConceptId:C1413131	CASP14 gene
+N72	Reference T23 SemanticType:gngm	gngm
+T24	MMLite 427 431	mice
+N73	Reference T24 ConceptId:C1413131	CASP14 gene
+N74	Reference T24 SemanticType:gngm	gngm
+T25	MMLite 1636 1640	mice
+N75	Reference T25 ConceptId:C1413131	CASP14 gene
+N76	Reference T25 SemanticType:gngm	gngm
+T26	MMLite 1701 1705	mice
+N77	Reference T26 ConceptId:C1413131	CASP14 gene
+N78	Reference T26 SemanticType:gngm	gngm
+T27	MMLite 614 618	mice
+N79	Reference T27 ConceptId:C1413131	CASP14 gene
+N80	Reference T27 SemanticType:gngm	gngm
+T28	MMLite 867 870	for
+N81	Reference T28 ConceptId:C1421525	WWOX gene
+N82	Reference T28 SemanticType:gngm	gngm
+T29	MMLite 1120 1124	mice
+N83	Reference T29 ConceptId:C1413131	CASP14 gene
+N84	Reference T29 SemanticType:gngm	gngm
+T30	MMLite 1040 1045	TNF-α
+N85	Reference T30 SemanticType:bacs	bacs
+N86	Reference T30 SemanticType:aapp	aapp
+N87	Reference T30 ConceptId:C1448177	TNF protein, human
+N88	Reference T30 SemanticType:imft	imft
+N89	Reference T30 ConceptId:C0041368	Tumor Necrosis Factors
+N90	Reference T30 ConceptId:C1456820	Tumor Necrosis Factor-alpha
+T31	MMLite 1158 1161	had
+N91	Reference T31 ConceptId:C1415458	HADH gene
+N92	Reference T31 SemanticType:gngm	gngm
+T32	MMLite 1113 1117	TLR4
+N93	Reference T32 ConceptId:C1321919	TLR4 protein, human
+N94	Reference T32 SemanticType:aapp	aapp
+N95	Reference T32 ConceptId:C1336636	TLR4 gene
+N96	Reference T32 SemanticType:rcpt	rcpt
+N97	Reference T32 SemanticType:gngm	gngm
+T33	MMLite 737 747	injections
+N98	Reference T33 SemanticType:topp	topp
+N99	Reference T33 SemanticType:ftcn	ftcn
+N100	Reference T33 ConceptId:C1828121	Injection Route of Drug Administration
+N101	Reference T33 ConceptId:C0021485	Injection of therapeutic agent
+N102	Reference T33 ConceptId:C1533685	Injection procedure
+T34	MMLite 862 866	mice
+N103	Reference T34 ConceptId:C1413131	CASP14 gene
+N104	Reference T34 SemanticType:gngm	gngm
+T35	MMLite 1050 1055	IL-18
+N105	Reference T35 SemanticType:aapp	aapp
+N106	Reference T35 ConceptId:C3849701	interleukin 18 protein, human
+N107	Reference T35 SemanticType:imft	imft
+N108	Reference T35 ConceptId:C0383327	Interleukin-18
+N109	Reference T35 ConceptId:C1527127	Recombinant Interleukin-18
+T36	MMLite 660 664	TLR4
+N110	Reference T36 ConceptId:C1321919	TLR4 protein, human
+N111	Reference T36 SemanticType:aapp	aapp
+N112	Reference T36 ConceptId:C1336636	TLR4 gene
+N113	Reference T36 SemanticType:rcpt	rcpt
+N114	Reference T36 SemanticType:gngm	gngm
+T37	MMLite 1787 1796	apoptosis
+N115	Reference T37 ConceptId:C0162638	Apoptosis
+N116	Reference T37 SemanticType:celf	celf
+T38	MMLite 667 671	mice
+N117	Reference T38 ConceptId:C1413131	CASP14 gene
+N118	Reference T38 SemanticType:gngm	gngm
+T39	MMLite 484 494	injections
+N119	Reference T39 SemanticType:topp	topp
+N120	Reference T39 SemanticType:ftcn	ftcn
+N121	Reference T39 ConceptId:C1828121	Injection Route of Drug Administration
+N122	Reference T39 ConceptId:C0021485	Injection of therapeutic agent
+N123	Reference T39 ConceptId:C1533685	Injection procedure
+T40	MMLite 1599 1608	cytokines
+N124	Reference T40 ConceptId:C1524094	Recombinant Cytokines
+N125	Reference T40 SemanticType:aapp	aapp
+N126	Reference T40 SemanticType:imft	imft
+N127	Reference T40 ConceptId:C0079189	cytokine
+N128	Reference T40 SemanticType:phsu	phsu
+T41	MMLite 548 559	cathepsin B
+N129	Reference T41 SemanticType:aapp	aapp
+N130	Reference T41 ConceptId:C1332804	CTSB gene
+N131	Reference T41 ConceptId:C0699919	Cathepsins B
+N132	Reference T41 SemanticType:enzy	enzy
+N133	Reference T41 SemanticType:gngm	gngm
+T42	MMLite 403 407	TLR4
+N134	Reference T42 ConceptId:C1321919	TLR4 protein, human
+N135	Reference T42 SemanticType:aapp	aapp
+N136	Reference T42 ConceptId:C1336636	TLR4 gene
+N137	Reference T42 SemanticType:rcpt	rcpt
+N138	Reference T42 SemanticType:gngm	gngm
+T43	MMLite 1920 1924	TLR4
+N139	Reference T43 ConceptId:C1321919	TLR4 protein, human
+N140	Reference T43 SemanticType:aapp	aapp
+N141	Reference T43 ConceptId:C1336636	TLR4 gene
+N142	Reference T43 SemanticType:rcpt	rcpt
+N143	Reference T43 SemanticType:gngm	gngm
+T44	MMLite 1108 1112	mice
+N144	Reference T44 ConceptId:C1413131	CASP14 gene
+N145	Reference T44 SemanticType:gngm	gngm
+T45	MMLite 1345 1349	TLR4
+N146	Reference T45 ConceptId:C1321919	TLR4 protein, human
+N147	Reference T45 SemanticType:aapp	aapp
+N148	Reference T45 ConceptId:C1336636	TLR4 gene
+N149	Reference T45 SemanticType:rcpt	rcpt
+N150	Reference T45 SemanticType:gngm	gngm
+T46	MMLite 62 66	TLR4
+N151	Reference T46 ConceptId:C1321919	TLR4 protein, human
+N152	Reference T46 SemanticType:aapp	aapp
+N153	Reference T46 SemanticType:rcpt	rcpt
+N154	Reference T46 ConceptId:C1336636	TLR4 gene
+N155	Reference T46 SemanticType:gngm	gngm
+T47	MMLite 964 969	liver
+N156	Reference T47 SemanticType:orch	orch
+N157	Reference T47 ConceptId:C0023899	Liver Extract
+N158	Reference T47 SemanticType:phsu	phsu
+T48	MMLite 114 132	lipopolysaccharide
+N159	Reference T48 SemanticType:orch	orch
+N160	Reference T48 ConceptId:C0023810	Lipopolysaccharides
+T49	MMLite 1972 1975	LPS
+N161	Reference T49 SemanticType:orch	orch
+N162	Reference T49 ConceptId:C0023810	Lipopolysaccharides
+T50	MMLite 1268 1271	LPS
+N163	Reference T50 SemanticType:orch	orch
+N164	Reference T50 ConceptId:C0023810	Lipopolysaccharides
+T51	MMLite 310 328	lipopolysaccharide
+N165	Reference T51 SemanticType:orch	orch
+N166	Reference T51 ConceptId:C0023810	Lipopolysaccharides
+T52	MMLite 1843 1852	cytokines
+N167	Reference T52 ConceptId:C1524094	Recombinant Cytokines
+N168	Reference T52 SemanticType:aapp	aapp
+N169	Reference T52 SemanticType:imft	imft
+N170	Reference T52 ConceptId:C0079189	cytokine
+N171	Reference T52 SemanticType:phsu	phsu
+T53	MMLite 177 188	cathepsin B
+N172	Reference T53 SemanticType:aapp	aapp
+N173	Reference T53 ConceptId:C1332804	CTSB gene
+N174	Reference T53 ConceptId:C0699919	Cathepsins B
+N175	Reference T53 SemanticType:enzy	enzy
+N176	Reference T53 SemanticType:gngm	gngm
+T54	MMLite 648 652	mice
+N177	Reference T54 ConceptId:C1413131	CASP14 gene
+N178	Reference T54 SemanticType:gngm	gngm
+T55	MMLite 1870 1881	Cathepsin B
+N179	Reference T55 SemanticType:aapp	aapp
+N180	Reference T55 ConceptId:C1332804	CTSB gene
+N181	Reference T55 ConceptId:C0699919	Cathepsins B
+N182	Reference T55 SemanticType:enzy	enzy
+N183	Reference T55 SemanticType:gngm	gngm
+T56	MMLite 1352 1356	mice
+N184	Reference T56 ConceptId:C1413131	CASP14 gene
+N185	Reference T56 SemanticType:gngm	gngm
+T57	MMLite 1033 1038	IL-1β
+N186	Reference T57 SemanticType:aapp	aapp
+N187	Reference T57 SemanticType:imft	imft
+N188	Reference T57 ConceptId:C0021753	Interleukin-1 beta

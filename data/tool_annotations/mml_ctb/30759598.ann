@@ -1,0 +1,63 @@
+T1	MMLite 469 487	nitrogen compounds
+N1	Reference T1 SemanticType:inch	inch
+N2	Reference T1 ConceptId:C0028159	Nitrogen Compounds, Inorganic
+T2	MMLite 1057 1061	cell
+N3	Reference T2 ConceptId:C1413336	CEL gene
+N4	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 215 222	nitrate
+N5	Reference T3 ConceptId:C0028125	Nitrates
+N6	Reference T3 SemanticType:chvs	chvs
+T4	MMLite 1705 1712	ammonia
+N7	Reference T4 ConceptId:C0201879	Ammonia measurement
+N8	Reference T4 ConceptId:C1095824	Ammonia Genus
+N9	Reference T4 SemanticType:lbpr	lbpr
+N10	Reference T4 SemanticType:euka	euka
+N11	Reference T4 ConceptId:C0002607	Ammonia
+N12	Reference T4 SemanticType:inch	inch
+N13	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 1411 1414	was
+N14	Reference T5 SemanticType:bacs	bacs
+N15	Reference T5 SemanticType:aapp	aapp
+N16	Reference T5 ConceptId:C1565156	WAS protein, human
+T6	MMLite 1234 1241	nitrate
+N17	Reference T6 ConceptId:C0028125	Nitrates
+N18	Reference T6 SemanticType:chvs	chvs
+T7	MMLite 495 503	nitrogen
+N19	Reference T7 ConceptId:C1550581	Nitrogen Handling
+N20	Reference T7 ConceptId:C0028158	Nitrogen
+N21	Reference T7 SemanticType:elii	elii
+N22	Reference T7 SemanticType:hcpp	hcpp
+T8	MMLite 1011 1015	cell
+N23	Reference T8 ConceptId:C1413336	CEL gene
+N24	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 1681 1689	nitrogen
+N25	Reference T9 ConceptId:C1550581	Nitrogen Handling
+N26	Reference T9 ConceptId:C0028158	Nitrogen
+N27	Reference T9 SemanticType:elii	elii
+N28	Reference T9 SemanticType:hcpp	hcpp
+T10	MMLite 877 884	nitrate
+N29	Reference T10 ConceptId:C0028125	Nitrates
+N30	Reference T10 SemanticType:chvs	chvs
+T11	MMLite 2063 2066	had
+N31	Reference T11 ConceptId:C1415458	HADH gene
+N32	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 1717 1724	nitrite
+N33	Reference T12 ConceptId:C0028137	Nitrites
+N34	Reference T12 SemanticType:chvs	chvs
+T13	MMLite 274 277	for
+N35	Reference T13 ConceptId:C1421525	WWOX gene
+N36	Reference T13 SemanticType:gngm	gngm
+T14	MMLite 10 17	nitrate
+N37	Reference T14 ConceptId:C0028125	Nitrates
+N38	Reference T14 SemanticType:chvs	chvs
+T15	MMLite 2031 2036	Delta
+N39	Reference T15 ConceptId:C1421565	YY1 gene
+N40	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 2310 2318	nitrogen
+N41	Reference T16 ConceptId:C1550581	Nitrogen Handling
+N42	Reference T16 ConceptId:C0028158	Nitrogen
+N43	Reference T16 SemanticType:elii	elii
+N44	Reference T16 SemanticType:hcpp	hcpp
+T17	MMLite 399 402	for
+N45	Reference T17 ConceptId:C1421525	WWOX gene
+N46	Reference T17 SemanticType:gngm	gngm

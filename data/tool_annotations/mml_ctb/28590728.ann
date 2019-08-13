@@ -1,0 +1,53 @@
+T1	MMLite 931 934	can
+N1	Reference T1 SemanticType:mnob	mnob
+N2	Reference T1 ConceptId:C1704712	Can - object
+T2	MMLite 148 151	Asp
+N3	Reference T2 SemanticType:bacs	bacs
+N4	Reference T2 ConceptId:C4048238	Aspartic Acid Measurement
+N5	Reference T2 SemanticType:aapp	aapp
+N6	Reference T2 ConceptId:C0004015	Aspartic Acid
+N7	Reference T2 SemanticType:lbpr	lbpr
+N8	Reference T2 ConceptId:C1412581	ASIP gene
+N9	Reference T2 ConceptId:C1412591	ASPA gene
+N10	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 40 45	Acids
+N11	Reference T3 ConceptId:C0001128	Acids
+N12	Reference T3 SemanticType:chem	chem
+T4	MMLite 1026 1029	can
+N13	Reference T4 SemanticType:mnob	mnob
+N14	Reference T4 ConceptId:C1704712	Can - object
+T5	MMLite 1099 1102	for
+N15	Reference T5 ConceptId:C1421525	WWOX gene
+N16	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 133 146	aspartic acid
+N17	Reference T6 SemanticType:bacs	bacs
+N18	Reference T6 SemanticType:aapp	aapp
+N19	Reference T6 ConceptId:C4048238	Aspartic Acid Measurement
+N20	Reference T6 ConceptId:C0004015	Aspartic Acid
+N21	Reference T6 SemanticType:lbpr	lbpr
+T7	MMLite 821 829	solution
+N22	Reference T7 SemanticType:bodm	bodm
+N23	Reference T7 ConceptId:C0525069	Pharmaceutical Solutions
+T8	MMLite 545 552	crystal
+N24	Reference T8 SemanticType:orch	orch
+N25	Reference T8 ConceptId:C0025611	Methamphetamine
+N26	Reference T8 SemanticType:hops	hops
+T9	MMLite 318 321	Asp
+N27	Reference T9 SemanticType:bacs	bacs
+N28	Reference T9 SemanticType:aapp	aapp
+N29	Reference T9 ConceptId:C4048238	Aspartic Acid Measurement
+N30	Reference T9 ConceptId:C0004015	Aspartic Acid
+N31	Reference T9 SemanticType:lbpr	lbpr
+N32	Reference T9 ConceptId:C1412581	ASIP gene
+N33	Reference T9 ConceptId:C1412591	ASPA gene
+N34	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 329 334	l-Asp
+N35	Reference T10 SemanticType:bacs	bacs
+N36	Reference T10 SemanticType:aapp	aapp
+N37	Reference T10 ConceptId:C0004015	Aspartic Acid
+N38	Reference T10 SemanticType:enzy	enzy
+N39	Reference T10 SemanticType:phsu	phsu
+N40	Reference T10 ConceptId:C0003993	ASPARAGINASE
+T11	MMLite 1039 1042	for
+N41	Reference T11 ConceptId:C1421525	WWOX gene
+N42	Reference T11 SemanticType:gngm	gngm

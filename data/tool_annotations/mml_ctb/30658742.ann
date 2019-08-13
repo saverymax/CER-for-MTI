@@ -1,0 +1,55 @@
+T1	MMLite 475 486	angiotensin
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C0003018	Angiotensins
+N4	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 885 888	for
+N5	Reference T2 ConceptId:C1421525	WWOX gene
+N6	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 281 290	simulated
+N7	Reference T3 ConceptId:C0284447	Simulate composite resin
+N8	Reference T3 SemanticType:bodm	bodm
+T4	MMLite 23 26	ACE
+N9	Reference T4 SemanticType:bacs	bacs
+N10	Reference T4 SemanticType:aapp	aapp
+N11	Reference T4 ConceptId:C1452534	ACE protein, human
+N12	Reference T4 ConceptId:C1413931	ACE gene
+N13	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 951 960	simulated
+N14	Reference T5 ConceptId:C0284447	Simulate composite resin
+N15	Reference T5 SemanticType:bodm	bodm
+T6	MMLite 825 828	had
+N16	Reference T6 ConceptId:C1415458	HADH gene
+N17	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 861 864	ACE
+N18	Reference T7 SemanticType:bacs	bacs
+N19	Reference T7 SemanticType:aapp	aapp
+N20	Reference T7 ConceptId:C1452534	ACE protein, human
+N21	Reference T7 ConceptId:C1413931	ACE gene
+N22	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 86 99	phenolic acid
+N23	Reference T8 ConceptId:C0070574	phenolic acid
+N24	Reference T8 SemanticType:orch	orch
+T9	MMLite 508 511	ACE
+N25	Reference T9 SemanticType:bacs	bacs
+N26	Reference T9 SemanticType:aapp	aapp
+N27	Reference T9 ConceptId:C1452534	ACE protein, human
+N28	Reference T9 ConceptId:C1413931	ACE gene
+N29	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 1103 1108	acids
+N30	Reference T10 ConceptId:C0001128	Acids
+N31	Reference T10 SemanticType:chem	chem
+T11	MMLite 407 419	free radical
+N32	Reference T11 SemanticType:bacs	bacs
+N33	Reference T11 ConceptId:C0016693	Free Radicals
+N34	Reference T11 SemanticType:chvs	chvs
+T12	MMLite 500 506	enzyme
+N35	Reference T12 SemanticType:orch	orch
+N36	Reference T12 SemanticType:enzy	enzy
+N37	Reference T12 ConceptId:C0014442	Enzymes
+T13	MMLite 141 150	simulated
+N38	Reference T13 ConceptId:C0284447	Simulate composite resin
+N39	Reference T13 SemanticType:bodm	bodm
+T14	MMLite 61 72	antioxidant
+N40	Reference T14 ConceptId:C0003402	Antioxidants
+N41	Reference T14 SemanticType:phsu	phsu

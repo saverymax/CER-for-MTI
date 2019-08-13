@@ -1,0 +1,99 @@
+T1	MMLite 1723 1744	progesterone receptor
+N1	Reference T1 SemanticType:aapp	aapp
+N2	Reference T1 ConceptId:C0034833	Receptors, Progesterone
+N3	Reference T1 SemanticType:rcpt	rcpt
+T2	MMLite 1496 1499	was
+N4	Reference T2 SemanticType:bacs	bacs
+N5	Reference T2 SemanticType:aapp	aapp
+N6	Reference T2 ConceptId:C1565156	WAS protein, human
+T3	MMLite 1437 1458	progesterone receptor
+N7	Reference T3 SemanticType:aapp	aapp
+N8	Reference T3 ConceptId:C0034833	Receptors, Progesterone
+N9	Reference T3 SemanticType:rcpt	rcpt
+T4	MMLite 327 335	estrogen
+N10	Reference T4 SemanticType:orch	orch
+N11	Reference T4 ConceptId:C0014939	Estrogens
+N12	Reference T4 SemanticType:horm	horm
+N13	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 1591 1599	estrogen
+N14	Reference T5 SemanticType:orch	orch
+N15	Reference T5 ConceptId:C0014939	Estrogens
+N16	Reference T5 SemanticType:horm	horm
+N17	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 510 518	estrogen
+N18	Reference T6 SemanticType:orch	orch
+N19	Reference T6 ConceptId:C0014939	Estrogens
+N20	Reference T6 SemanticType:horm	horm
+N21	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 408 429	Progesterone receptor
+N22	Reference T7 SemanticType:aapp	aapp
+N23	Reference T7 ConceptId:C0034833	Receptors, Progesterone
+N24	Reference T7 SemanticType:rcpt	rcpt
+T8	MMLite 1225 1246	progesterone receptor
+N25	Reference T8 SemanticType:aapp	aapp
+N26	Reference T8 ConceptId:C0034833	Receptors, Progesterone
+N27	Reference T8 SemanticType:rcpt	rcpt
+T9	MMLite 361 382	progesterone receptor
+N28	Reference T9 SemanticType:aapp	aapp
+N29	Reference T9 ConceptId:C0034833	Receptors, Progesterone
+N30	Reference T9 SemanticType:rcpt	rcpt
+T10	MMLite 619 631	progesterone
+N31	Reference T10 ConceptId:C2757070	Retinoblastoma-Binding Protein 4
+N32	Reference T10 SemanticType:orch	orch
+N33	Reference T10 SemanticType:lbpr	lbpr
+N34	Reference T10 ConceptId:C0033308	Progesterone
+N35	Reference T10 SemanticType:horm	horm
+N36	Reference T10 ConceptId:C0373705	Progesterone measurement
+N37	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 66 73	hormone
+N38	Reference T11 SemanticType:horm	horm
+N39	Reference T11 ConceptId:C0019932	Hormones
+T12	MMLite 654 666	progesterone
+N40	Reference T12 ConceptId:C2757070	Retinoblastoma-Binding Protein 4
+N41	Reference T12 SemanticType:orch	orch
+N42	Reference T12 SemanticType:lbpr	lbpr
+N43	Reference T12 ConceptId:C0033308	Progesterone
+N44	Reference T12 SemanticType:horm	horm
+N45	Reference T12 ConceptId:C0373705	Progesterone measurement
+N46	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 1286 1307	progesterone receptor
+N47	Reference T13 SemanticType:aapp	aapp
+N48	Reference T13 ConceptId:C0034833	Receptors, Progesterone
+N49	Reference T13 SemanticType:rcpt	rcpt
+T14	MMLite 1323 1326	was
+N50	Reference T14 SemanticType:bacs	bacs
+N51	Reference T14 SemanticType:aapp	aapp
+N52	Reference T14 ConceptId:C1565156	WAS protein, human
+T15	MMLite 210 232	growth factor receptor
+N53	Reference T15 SemanticType:aapp	aapp
+N54	Reference T15 ConceptId:C0206454	Growth Factor Receptors
+N55	Reference T15 SemanticType:rcpt	rcpt
+T16	MMLite 1153 1156	had
+N56	Reference T16 ConceptId:C1415458	HADH gene
+N57	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 185 192	hormone
+N58	Reference T17 SemanticType:horm	horm
+N59	Reference T17 ConceptId:C0019932	Hormones
+T18	MMLite 0 21	Progesterone receptor
+N60	Reference T18 SemanticType:aapp	aapp
+N61	Reference T18 ConceptId:C0034833	Receptors, Progesterone
+N62	Reference T18 SemanticType:rcpt	rcpt
+T19	MMLite 723 735	progesterone
+N63	Reference T19 ConceptId:C2757070	Retinoblastoma-Binding Protein 4
+N64	Reference T19 SemanticType:orch	orch
+N65	Reference T19 SemanticType:lbpr	lbpr
+N66	Reference T19 ConceptId:C0033308	Progesterone
+N67	Reference T19 SemanticType:horm	horm
+N68	Reference T19 ConceptId:C0373705	Progesterone measurement
+N69	Reference T19 SemanticType:phsu	phsu
+T20	MMLite 587 591	cell
+N70	Reference T20 ConceptId:C1413336	CEL gene
+N71	Reference T20 SemanticType:gngm	gngm
+T21	MMLite 1060 1072	progesterone
+N72	Reference T21 ConceptId:C2757070	Retinoblastoma-Binding Protein 4
+N73	Reference T21 SemanticType:orch	orch
+N74	Reference T21 ConceptId:C0033308	Progesterone
+N75	Reference T21 SemanticType:lbpr	lbpr
+N76	Reference T21 SemanticType:horm	horm
+N77	Reference T21 ConceptId:C0373705	Progesterone measurement
+N78	Reference T21 SemanticType:phsu	phsu

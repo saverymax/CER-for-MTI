@@ -1,0 +1,61 @@
+T1	MMLite 769 776	protein
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C0033684	Proteins
+T2	MMLite 296 299	was
+N4	Reference T2 SemanticType:bacs	bacs
+N5	Reference T2 SemanticType:aapp	aapp
+N6	Reference T2 ConceptId:C1565156	WAS protein, human
+T3	MMLite 608 615	protein
+N7	Reference T3 SemanticType:bacs	bacs
+N8	Reference T3 SemanticType:aapp	aapp
+N9	Reference T3 ConceptId:C0033684	Proteins
+T4	MMLite 192 199	protein
+N10	Reference T4 SemanticType:bacs	bacs
+N11	Reference T4 SemanticType:aapp	aapp
+N12	Reference T4 ConceptId:C0033684	Proteins
+T5	MMLite 777 780	was
+N13	Reference T5 SemanticType:bacs	bacs
+N14	Reference T5 SemanticType:aapp	aapp
+N15	Reference T5 ConceptId:C1565156	WAS protein, human
+T6	MMLite 1427 1430	had
+N16	Reference T6 ConceptId:C1415458	HADH gene
+N17	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 1054 1057	TNM
+N18	Reference T7 SemanticType:orch	orch
+N19	Reference T7 SemanticType:irda	irda
+N20	Reference T7 ConceptId:C0039694	Tetranitromethane
+N21	Reference T7 SemanticType:hops	hops
+T8	MMLite 645 648	was
+N22	Reference T8 SemanticType:bacs	bacs
+N23	Reference T8 SemanticType:aapp	aapp
+N24	Reference T8 ConceptId:C1565156	WAS protein, human
+T9	MMLite 463 466	was
+N25	Reference T9 SemanticType:bacs	bacs
+N26	Reference T9 SemanticType:aapp	aapp
+N27	Reference T9 ConceptId:C1565156	WAS protein, human
+T10	MMLite 1152 1155	was
+N28	Reference T10 SemanticType:bacs	bacs
+N29	Reference T10 SemanticType:aapp	aapp
+N30	Reference T10 ConceptId:C1565156	WAS protein, human
+T11	MMLite 21 28	protein
+N31	Reference T11 SemanticType:bacs	bacs
+N32	Reference T11 SemanticType:aapp	aapp
+N33	Reference T11 ConceptId:C0033684	Proteins
+T12	MMLite 797 800	TNM
+N34	Reference T12 SemanticType:orch	orch
+N35	Reference T12 SemanticType:irda	irda
+N36	Reference T12 ConceptId:C0039694	Tetranitromethane
+N37	Reference T12 SemanticType:hops	hops
+T13	MMLite 1508 1515	protein
+N38	Reference T13 SemanticType:bacs	bacs
+N39	Reference T13 SemanticType:aapp	aapp
+N40	Reference T13 ConceptId:C0033684	Proteins
+T14	MMLite 1126 1133	protein
+N41	Reference T14 SemanticType:bacs	bacs
+N42	Reference T14 SemanticType:aapp	aapp
+N43	Reference T14 ConceptId:C0033684	Proteins
+T15	MMLite 342 349	protein
+N44	Reference T15 SemanticType:bacs	bacs
+N45	Reference T15 SemanticType:aapp	aapp
+N46	Reference T15 ConceptId:C0033684	Proteins

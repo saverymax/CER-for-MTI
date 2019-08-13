@@ -1,0 +1,28 @@
+T1	MMLite 531 537	starch
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 ConceptId:C0038179	Starch
+N3	Reference T1 SemanticType:orch	orch
+N4	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 610 613	was
+N5	Reference T2 SemanticType:bacs	bacs
+N6	Reference T2 SemanticType:aapp	aapp
+N7	Reference T2 ConceptId:C1565156	WAS protein, human
+T3	MMLite 1089 1095	starch
+N8	Reference T3 SemanticType:bacs	bacs
+N9	Reference T3 ConceptId:C0038179	Starch
+N10	Reference T3 SemanticType:orch	orch
+N11	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 567 570	oil
+N12	Reference T4 SemanticType:bacs	bacs
+N13	Reference T4 SemanticType:orch	orch
+N14	Reference T4 ConceptId:C0028908	Oils
+N15	Reference T4 ConceptId:C0032085	Plant Oils
+T5	MMLite 90 96	starch
+N16	Reference T5 SemanticType:bacs	bacs
+N17	Reference T5 ConceptId:C0038179	Starch
+N18	Reference T5 SemanticType:orch	orch
+N19	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 684 693	β-amylase
+N20	Reference T6 SemanticType:aapp	aapp
+N21	Reference T6 SemanticType:enzy	enzy
+N22	Reference T6 ConceptId:C0005194	Beta-amylase

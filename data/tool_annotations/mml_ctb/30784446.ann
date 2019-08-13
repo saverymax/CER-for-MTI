@@ -1,0 +1,54 @@
+T1	MMLite 915 918	was
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C1565156	WAS protein, human
+T2	MMLite 30 35	oxide
+N4	Reference T2 ConceptId:C0030015	Oxides
+N5	Reference T2 SemanticType:inch	inch
+T3	MMLite 740 743	was
+N6	Reference T3 SemanticType:bacs	bacs
+N7	Reference T3 SemanticType:aapp	aapp
+N8	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 665 668	for
+N9	Reference T4 ConceptId:C1421525	WWOX gene
+N10	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 855 858	for
+N11	Reference T5 ConceptId:C1421525	WWOX gene
+N12	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 1031 1034	for
+N13	Reference T6 ConceptId:C1421525	WWOX gene
+N14	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 712 716	cell
+N15	Reference T7 ConceptId:C1413336	CEL gene
+N16	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 888 892	cell
+N17	Reference T8 ConceptId:C1413336	CEL gene
+N18	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 759 762	ROS
+N19	Reference T9 SemanticType:bacs	bacs
+N20	Reference T9 ConceptId:C0289313	rosiglitazone
+N21	Reference T9 SemanticType:orch	orch
+N22	Reference T9 ConceptId:C0073591	rosoxacin
+N23	Reference T9 SemanticType:antb	antb
+N24	Reference T9 SemanticType:elii	elii
+N25	Reference T9 ConceptId:C0162772	Reactive Oxygen Species
+N26	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 468 474	oxides
+N27	Reference T10 ConceptId:C0030015	Oxides
+N28	Reference T10 SemanticType:inch	inch
+T11	MMLite 1097 1104	enzymes
+N29	Reference T11 ConceptId:C3540017	Enzymes, hematological
+N30	Reference T11 SemanticType:orch	orch
+N31	Reference T11 ConceptId:C3540048	ENZYMES FOR TREATMENT OF WOUNDS AND ULCERS
+N32	Reference T11 ConceptId:C3541394	Enzymes, antithrombotic
+N33	Reference T11 SemanticType:ftcn	ftcn
+N34	Reference T11 SemanticType:enzy	enzy
+N35	Reference T11 ConceptId:C3540772	Enzymes FOR DISORDERS OF THE MUSCULO-SKELETAL SYSTEM
+N36	Reference T11 ConceptId:C3540790	Enzymes, peripheral vasodilators
+N37	Reference T11 ConceptId:C0014442	Enzymes
+N38	Reference T11 SemanticType:phsu	phsu
+N39	Reference T11 ConceptId:C0014445	enzymology
+N40	Reference T11 ConceptId:C3542456	Enzymes for ALIMENTARY TRACT AND METABOLISM
+T12	MMLite 1232 1235	had
+N41	Reference T12 ConceptId:C1415458	HADH gene
+N42	Reference T12 SemanticType:gngm	gngm

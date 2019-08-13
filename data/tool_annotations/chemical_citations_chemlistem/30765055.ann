@@ -1,0 +1,32 @@
+T1	Chemlistem 18 25	CYP6ER1
+A1	Score T1 0.570959
+T2	Chemlistem 42 54	clothianidin
+A2	Score T2 0.82432514
+T3	Chemlistem 322 323	N
+A3	Score T3 0.78508866
+T4	Chemlistem 332 344	clothianidin
+A4	Score T4 0.61775833
+T5	Chemlistem 460 461	N
+A5	Score T5 0.63630295
+T6	Chemlistem 473 485	clothianidin
+A6	Score T6 0.77437735
+T7	Chemlistem 548 560	clothianidin
+A7	Score T7 0.8277605
+T8	Chemlistem 652 662	nitenpyram
+A8	Score T8 0.8925253
+T9	Chemlistem 680 691	dinotefuran
+A9	Score T9 0.9277757
+T10	Chemlistem 745 757	chlorpyrifos
+A10	Score T10 0.7801955
+T11	Chemlistem 907 919	clothianidin
+A11	Score T11 0.80321246
+T12	Chemlistem 1109 1116	CYP6ER1
+A12	Score T12 0.56046
+T13	Chemlistem 1176 1188	clothianidin
+A13	Score T13 0.84373236
+T14	Chemlistem 1197 1198	N
+A14	Score T14 0.7100691
+T15	Chemlistem 1287 1299	clothianidin
+A15	Score T15 0.80819964
+T16	Chemlistem 1314 1315	N
+A16	Score T16 0.72342676

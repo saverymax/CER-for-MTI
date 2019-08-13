@@ -1,0 +1,53 @@
+T1	MMLite 1191 1194	was
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C1565156	WAS protein, human
+T2	MMLite 1249 1252	BSA
+N4	Reference T2 SemanticType:bacs	bacs
+N5	Reference T2 SemanticType:aapp	aapp
+N6	Reference T2 ConceptId:C0036774	Serum Albumin, Bovine
+T3	MMLite 173 188	corticosteroids
+N7	Reference T3 SemanticType:orch	orch
+N8	Reference T3 SemanticType:horm	horm
+N9	Reference T3 ConceptId:C0001617	Adrenal Cortex Hormones
+N10	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 314 317	was
+N11	Reference T4 SemanticType:bacs	bacs
+N12	Reference T4 SemanticType:aapp	aapp
+N13	Reference T4 ConceptId:C1565156	WAS protein, human
+T5	MMLite 951 954	BSA
+N14	Reference T5 SemanticType:bacs	bacs
+N15	Reference T5 SemanticType:aapp	aapp
+N16	Reference T5 ConceptId:C0036774	Serum Albumin, Bovine
+T6	MMLite 797 800	IGA
+N17	Reference T6 SemanticType:aapp	aapp
+N18	Reference T6 SemanticType:imft	imft
+N19	Reference T6 ConceptId:C0202083	Immunoglobulin A measurement
+N20	Reference T6 SemanticType:lbpr	lbpr
+N21	Reference T6 ConceptId:C0020835	Immunoglobulin A
+N22	Reference T6 ConceptId:C2825347	Immunoglobulin A, Human
+N23	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 371 382	halobetasol
+N24	Reference T7 SemanticType:orch	orch
+N25	Reference T7 ConceptId:C0082787	halobetasol
+N26	Reference T7 SemanticType:phsu	phsu
+T8	MMLite 620 623	for
+N27	Reference T8 ConceptId:C1421525	WWOX gene
+N28	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 756 764	baseline
+N29	Reference T9 ConceptId:C0168634	BaseLine dental cement
+N30	Reference T9 SemanticType:bodm	bodm
+T10	MMLite 36 46	propionate
+N31	Reference T10 SemanticType:orch	orch
+N32	Reference T10 ConceptId:C0033474	Propionates
+T11	MMLite 699 702	was
+N33	Reference T11 SemanticType:bacs	bacs
+N34	Reference T11 SemanticType:aapp	aapp
+N35	Reference T11 ConceptId:C1565156	WAS protein, human
+T12	MMLite 383 393	propionate
+N36	Reference T12 SemanticType:orch	orch
+N37	Reference T12 ConceptId:C0033474	Propionates
+T13	MMLite 24 35	halobetasol
+N38	Reference T13 SemanticType:orch	orch
+N39	Reference T13 ConceptId:C0082787	halobetasol
+N40	Reference T13 SemanticType:phsu	phsu

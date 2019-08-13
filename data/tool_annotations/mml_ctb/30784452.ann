@@ -1,0 +1,112 @@
+T1	MMLite 262 265	for
+N1	Reference T1 ConceptId:C1421525	WWOX gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 1149 1154	water
+N3	Reference T2 ConceptId:C0043047	Water
+N4	Reference T2 ConceptId:C1547961	Water - Specimen Source Codes
+N5	Reference T2 ConceptId:C0599638	Drinking Water
+N6	Reference T2 SemanticType:inpr	inpr
+N7	Reference T2 SemanticType:inch	inch
+N8	Reference T2 SemanticType:sbst	sbst
+N9	Reference T2 SemanticType:phsu	phsu
+N10	Reference T2 ConceptId:C1550678	Water Specimen
+T3	MMLite 1258 1261	for
+N11	Reference T3 ConceptId:C1421525	WWOX gene
+N12	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 287 290	was
+N13	Reference T4 SemanticType:bacs	bacs
+N14	Reference T4 SemanticType:aapp	aapp
+N15	Reference T4 ConceptId:C1565156	WAS protein, human
+T5	MMLite 174 177	for
+N16	Reference T5 ConceptId:C1421525	WWOX gene
+N17	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 364 373	cellulose
+N18	Reference T6 SemanticType:bacs	bacs
+N19	Reference T6 SemanticType:orch	orch
+N20	Reference T6 ConceptId:C0007648	Cellulose
+T7	MMLite 1228 1231	for
+N21	Reference T7 ConceptId:C1421525	WWOX gene
+N22	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 14 23	cellulose
+N23	Reference T8 SemanticType:bacs	bacs
+N24	Reference T8 SemanticType:orch	orch
+N25	Reference T8 ConceptId:C0007648	Cellulose
+T9	MMLite 1105 1108	for
+N26	Reference T9 ConceptId:C1421525	WWOX gene
+N27	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 1021 1024	was
+N28	Reference T10 SemanticType:bacs	bacs
+N29	Reference T10 SemanticType:aapp	aapp
+N30	Reference T10 ConceptId:C1565156	WAS protein, human
+T11	MMLite 962 965	Co2
+N31	Reference T11 SemanticType:bacs	bacs
+N32	Reference T11 ConceptId:C0007012	Carbon Dioxide
+N33	Reference T11 SemanticType:lbpr	lbpr
+N34	Reference T11 ConceptId:C0201930	Carbon dioxide content measurement
+N35	Reference T11 SemanticType:inch	inch
+T12	MMLite 399 404	amide
+N36	Reference T12 SemanticType:orch	orch
+N37	Reference T12 ConceptId:C0002482	Amides
+T13	MMLite 111 117	Sulfur
+N38	Reference T13 ConceptId:C2348286	Dietary Sulfur
+N39	Reference T13 SemanticType:elii	elii
+N40	Reference T13 ConceptId:C0038774	Sulfur
+N41	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 977 980	Cd2
+N42	Reference T14 SemanticType:aapp	aapp
+N43	Reference T14 ConceptId:C0108773	CD2 Antigens
+N44	Reference T14 SemanticType:imft	imft
+N45	Reference T14 SemanticType:rcpt	rcpt
+T15	MMLite 309 324	epichlorohydrin
+N46	Reference T15 ConceptId:C0014486	Epichlorohydrin
+N47	Reference T15 SemanticType:orch	orch
+N48	Reference T15 SemanticType:hops	hops
+T16	MMLite 212 220	solution
+N49	Reference T16 SemanticType:bodm	bodm
+N50	Reference T16 ConceptId:C0525069	Pharmaceutical Solutions
+T17	MMLite 1135 1140	water
+N51	Reference T17 ConceptId:C0043047	Water
+N52	Reference T17 ConceptId:C1547961	Water - Specimen Source Codes
+N53	Reference T17 ConceptId:C0599638	Drinking Water
+N54	Reference T17 SemanticType:inpr	inpr
+N55	Reference T17 SemanticType:inch	inch
+N56	Reference T17 SemanticType:sbst	sbst
+N57	Reference T17 SemanticType:phsu	phsu
+N58	Reference T17 ConceptId:C1550678	Water Specimen
+T18	MMLite 24 29	thiol
+N59	Reference T18 SemanticType:orch	orch
+N60	Reference T18 ConceptId:C0038734	Sulfhydryl Compounds
+T19	MMLite 222 232	Cysteamine
+N61	Reference T19 SemanticType:orch	orch
+N62	Reference T19 ConceptId:C0010648	Cysteamine
+N63	Reference T19 SemanticType:phsu	phsu
+T20	MMLite 40 48	polymers
+N64	Reference T20 SemanticType:chvs	chvs
+N65	Reference T20 ConceptId:C0032521	Polymers
+N66	Reference T20 SemanticType:bodm	bodm
+T21	MMLite 463 466	was
+N67	Reference T21 SemanticType:bacs	bacs
+N68	Reference T21 SemanticType:aapp	aapp
+N69	Reference T21 ConceptId:C1565156	WAS protein, human
+T22	MMLite 239 242	was
+N70	Reference T22 SemanticType:bacs	bacs
+N71	Reference T22 SemanticType:aapp	aapp
+N72	Reference T22 ConceptId:C1565156	WAS protein, human
+T23	MMLite 1199 1202	was
+N73	Reference T23 SemanticType:bacs	bacs
+N74	Reference T23 SemanticType:aapp	aapp
+N75	Reference T23 ConceptId:C1565156	WAS protein, human
+T24	MMLite 255 261	ligand
+N76	Reference T24 SemanticType:chem	chem
+N77	Reference T24 ConceptId:C0023688	Ligands
+T25	MMLite 374 381	polymer
+N78	Reference T25 SemanticType:chvs	chvs
+N79	Reference T25 ConceptId:C0032521	Polymers
+N80	Reference T25 SemanticType:bodm	bodm
+T26	MMLite 143 151	polymers
+N81	Reference T26 SemanticType:chvs	chvs
+N82	Reference T26 ConceptId:C0032521	Polymers
+N83	Reference T26 SemanticType:bodm	bodm
+T27	MMLite 129 132	ion
+N84	Reference T27 ConceptId:C0022023	Ions
+N85	Reference T27 SemanticType:elii	elii

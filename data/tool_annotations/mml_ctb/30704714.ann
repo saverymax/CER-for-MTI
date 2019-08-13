@@ -1,0 +1,61 @@
+T1	MMLite 413 425	insecticides
+N1	Reference T1 SemanticType:hops	hops
+N2	Reference T1 ConceptId:C0021576	Insecticides
+T2	MMLite 189 201	insecticides
+N3	Reference T2 SemanticType:hops	hops
+N4	Reference T2 ConceptId:C0021576	Insecticides
+T3	MMLite 144 150	nAChRs
+N5	Reference T3 SemanticType:aapp	aapp
+N6	Reference T3 ConceptId:C0034830	Nicotinic Receptors
+N7	Reference T3 SemanticType:rcpt	rcpt
+T4	MMLite 939 951	insecticides
+N8	Reference T4 SemanticType:hops	hops
+N9	Reference T4 ConceptId:C0021576	Insecticides
+T5	MMLite 1218 1231	binding sites
+N10	Reference T5 ConceptId:C0005456	Binding Sites
+N11	Reference T5 SemanticType:rcpt	rcpt
+T6	MMLite 640 646	ligand
+N12	Reference T6 SemanticType:chem	chem
+N13	Reference T6 ConceptId:C0023688	Ligands
+T7	MMLite 1129 1141	insecticides
+N14	Reference T7 SemanticType:hops	hops
+N15	Reference T7 ConceptId:C0021576	Insecticides
+T8	MMLite 903 916	binding sites
+N16	Reference T8 ConceptId:C0005456	Binding Sites
+N17	Reference T8 SemanticType:rcpt	rcpt
+T9	MMLite 683 689	nAChRs
+N18	Reference T9 SemanticType:aapp	aapp
+N19	Reference T9 ConceptId:C0034830	Nicotinic Receptors
+N20	Reference T9 SemanticType:rcpt	rcpt
+T10	MMLite 491 497	nAChRs
+N21	Reference T10 SemanticType:aapp	aapp
+N22	Reference T10 ConceptId:C0034830	Nicotinic Receptors
+N23	Reference T10 SemanticType:rcpt	rcpt
+T11	MMLite 564 576	bungarotoxin
+N24	Reference T11 ConceptId:C0006385	Bungarotoxins
+N25	Reference T11 SemanticType:aapp	aapp
+N26	Reference T11 SemanticType:hops	hops
+T12	MMLite 708 720	insecticides
+N27	Reference T12 SemanticType:hops	hops
+N28	Reference T12 ConceptId:C0021576	Insecticides
+T13	MMLite 109 142	Nicotinic acetylcholine receptors
+N29	Reference T13 SemanticType:aapp	aapp
+N30	Reference T13 ConceptId:C0034830	Nicotinic Receptors
+N31	Reference T13 SemanticType:rcpt	rcpt
+T14	MMLite 395 398	for
+N32	Reference T14 ConceptId:C1421525	WWOX gene
+N33	Reference T14 SemanticType:gngm	gngm
+T15	MMLite 586 598	imidacloprid
+N34	Reference T15 SemanticType:orch	orch
+N35	Reference T15 ConceptId:C0218499	imidacloprid
+N36	Reference T15 SemanticType:hops	hops
+T16	MMLite 734 746	binding site
+N37	Reference T16 ConceptId:C0005456	Binding Sites
+N38	Reference T16 SemanticType:rcpt	rcpt
+T17	MMLite 52 85	nicotinic acetylcholine receptors
+N39	Reference T17 SemanticType:aapp	aapp
+N40	Reference T17 ConceptId:C0034830	Nicotinic Receptors
+N41	Reference T17 SemanticType:rcpt	rcpt
+T18	MMLite 14 26	insecticides
+N42	Reference T18 SemanticType:hops	hops
+N43	Reference T18 ConceptId:C0021576	Insecticides

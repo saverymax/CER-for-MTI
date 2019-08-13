@@ -1,0 +1,22 @@
+T1	Chemlistem 13 23	triazophos
+A1	Score T1 0.7009729
+T2	Chemlistem 188 195	glucose
+A2	Score T2 0.9363659
+T3	Chemlistem 234 241	glucose
+A3	Score T3 0.9215899
+T4	Chemlistem 396 403	glucose
+A4	Score T4 0.79849696
+T5	Chemlistem 767 768	N
+A5	Score T5 0.6608457
+T6	Chemlistem 1085 1090	sugar
+A6	Score T6 0.9247189
+T7	Chemlistem 1092 1101	trehalose
+A7	Score T7 0.96968037
+T8	Chemlistem 1106 1113	glucose
+A8	Score T8 0.9711648
+T9	Chemlistem 1238 1250	vitellogenin
+A9	Score T9 0.74001807
+T10	Chemlistem 1262 1274	vitellogenin
+A10	Score T10 0.62891364
+T11	Chemlistem 1660 1661	N
+A11	Score T11 0.75049126

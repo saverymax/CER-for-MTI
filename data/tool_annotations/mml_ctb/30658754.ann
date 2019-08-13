@@ -1,0 +1,107 @@
+T1	MMLite 948 953	sugar
+N1	Reference T1 SemanticType:orch	orch
+N2	Reference T1 ConceptId:C0242209	Sugars
+N3	Reference T1 ConceptId:C0007004	Carbohydrates
+N4	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 870 873	for
+N5	Reference T2 ConceptId:C1421525	WWOX gene
+N6	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 1105 1116	anthocyanin
+N7	Reference T3 ConceptId:C0003161	Anthocyanins
+N8	Reference T3 SemanticType:orch	orch
+T4	MMLite 141 155	3-O-rutinoside
+N9	Reference T4 SemanticType:orch	orch
+N10	Reference T4 ConceptId:C4279051	3-O-rutinoside
+T5	MMLite 845 859	3-O-rutinoside
+N11	Reference T5 SemanticType:orch	orch
+N12	Reference T5 ConceptId:C4279051	3-O-rutinoside
+T6	MMLite 337 349	anthocyanins
+N13	Reference T6 ConceptId:C0003161	Anthocyanins
+N14	Reference T6 SemanticType:orch	orch
+T7	MMLite 561 573	anthocyanins
+N15	Reference T7 ConceptId:C0003161	Anthocyanins
+N16	Reference T7 SemanticType:orch	orch
+T8	MMLite 401 413	anthocyanins
+N17	Reference T8 ConceptId:C0003161	Anthocyanins
+N18	Reference T8 SemanticType:orch	orch
+T9	MMLite 451 454	for
+N19	Reference T9 ConceptId:C1421525	WWOX gene
+N20	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 750 758	cyanidin
+N21	Reference T10 SemanticType:orch	orch
+N22	Reference T10 ConceptId:C0056650	cyanidin
+N23	Reference T10 SemanticType:phsu	phsu
+T11	MMLite 1224 1227	for
+N24	Reference T11 ConceptId:C1421525	WWOX gene
+N25	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 132 140	cyanidin
+N26	Reference T12 SemanticType:orch	orch
+N27	Reference T12 ConceptId:C0056650	cyanidin
+N28	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 836 844	cyanidin
+N29	Reference T13 SemanticType:orch	orch
+N30	Reference T13 ConceptId:C0056650	cyanidin
+N31	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 1039 1044	sugar
+N32	Reference T14 SemanticType:orch	orch
+N33	Reference T14 ConceptId:C0242209	Sugars
+N34	Reference T14 ConceptId:C0007004	Carbohydrates
+N35	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 11 18	sucrose
+N36	Reference T15 SemanticType:bacs	bacs
+N37	Reference T15 SemanticType:orch	orch
+N38	Reference T15 ConceptId:C1161331	Saccharum officinale, sucrose, cane sugar, Homeopathic preparation
+N39	Reference T15 SemanticType:phsu	phsu
+N40	Reference T15 ConceptId:C0038636	Sucrose
+T16	MMLite 711 723	anthocyanins
+N41	Reference T16 ConceptId:C0003161	Anthocyanins
+N42	Reference T16 SemanticType:orch	orch
+T17	MMLite 362 369	sucrose
+N43	Reference T17 SemanticType:bacs	bacs
+N44	Reference T17 SemanticType:orch	orch
+N45	Reference T17 ConceptId:C1161331	Saccharum officinale, sucrose, cane sugar, Homeopathic preparation
+N46	Reference T17 SemanticType:phsu	phsu
+N47	Reference T17 ConceptId:C0038636	Sucrose
+T18	MMLite 645 657	anthocyanins
+N48	Reference T18 ConceptId:C0003161	Anthocyanins
+N49	Reference T18 SemanticType:orch	orch
+T19	MMLite 963 966	was
+N50	Reference T19 SemanticType:bacs	bacs
+N51	Reference T19 SemanticType:aapp	aapp
+N52	Reference T19 ConceptId:C1565156	WAS protein, human
+T20	MMLite 1182 1185	for
+N53	Reference T20 ConceptId:C1421525	WWOX gene
+N54	Reference T20 SemanticType:gngm	gngm
+T21	MMLite 668 671	had
+N55	Reference T21 ConceptId:C1415458	HADH gene
+N56	Reference T21 SemanticType:gngm	gngm
+T22	MMLite 899 907	Cyanidin
+N57	Reference T22 SemanticType:orch	orch
+N58	Reference T22 ConceptId:C0056650	cyanidin
+N59	Reference T22 SemanticType:phsu	phsu
+T23	MMLite 213 220	Sucrose
+N60	Reference T23 SemanticType:bacs	bacs
+N61	Reference T23 SemanticType:orch	orch
+N62	Reference T23 ConceptId:C1161331	Saccharum officinale, sucrose, cane sugar, Homeopathic preparation
+N63	Reference T23 SemanticType:phsu	phsu
+N64	Reference T23 ConceptId:C0038636	Sucrose
+T24	MMLite 96 104	Cyanidin
+N65	Reference T24 SemanticType:orch	orch
+N66	Reference T24 ConceptId:C0056650	cyanidin
+N67	Reference T24 SemanticType:phsu	phsu
+T25	MMLite 537 544	sucrose
+N68	Reference T25 SemanticType:bacs	bacs
+N69	Reference T25 SemanticType:orch	orch
+N70	Reference T25 ConceptId:C1161331	Saccharum officinale, sucrose, cane sugar, Homeopathic preparation
+N71	Reference T25 SemanticType:phsu	phsu
+N72	Reference T25 ConceptId:C0038636	Sucrose
+T26	MMLite 1243 1254	anthocyanin
+N73	Reference T26 ConceptId:C0003161	Anthocyanins
+N74	Reference T26 SemanticType:orch	orch
+T27	MMLite 237 248	gallic acid
+N75	Reference T27 SemanticType:orch	orch
+N76	Reference T27 SemanticType:irda	irda
+N77	Reference T27 ConceptId:C0016979	Gallic acid
+T28	MMLite 54 66	anthocyanins
+N78	Reference T28 ConceptId:C0003161	Anthocyanins
+N79	Reference T28 SemanticType:orch	orch

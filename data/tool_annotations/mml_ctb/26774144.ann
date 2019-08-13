@@ -1,0 +1,57 @@
+T1	MMLite 1989 1992	for
+N1	Reference T1 ConceptId:C1421525	WWOX gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 1022 1026	cell
+N3	Reference T2 ConceptId:C1413336	CEL gene
+N4	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 1097 1100	was
+N5	Reference T3 SemanticType:bacs	bacs
+N6	Reference T3 SemanticType:aapp	aapp
+N7	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 1855 1859	cell
+N8	Reference T4 ConceptId:C1413336	CEL gene
+N9	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 197 201	RNAs
+N10	Reference T5 ConceptId:C0035668	RNA
+N11	Reference T5 SemanticType:nnon	nnon
+T6	MMLite 930 933	Cox
+N12	Reference T6 SemanticType:aapp	aapp
+N13	Reference T6 ConceptId:C0389003	cyclooxygenase 1
+N14	Reference T6 SemanticType:enzy	enzy
+N15	Reference T6 ConceptId:C0033551	Prostaglandin-Endoperoxide Synthase
+T7	MMLite 1166 1169	TNM
+N16	Reference T7 SemanticType:orch	orch
+N17	Reference T7 SemanticType:irda	irda
+N18	Reference T7 ConceptId:C0039694	Tetranitromethane
+N19	Reference T7 SemanticType:hops	hops
+T8	MMLite 979 982	was
+N20	Reference T8 SemanticType:bacs	bacs
+N21	Reference T8 SemanticType:aapp	aapp
+N22	Reference T8 ConceptId:C1565156	WAS protein, human
+T9	MMLite 581 585	cell
+N23	Reference T9 ConceptId:C1413336	CEL gene
+N24	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 1919 1927	cadherin
+N25	Reference T10 SemanticType:bacs	bacs
+N26	Reference T10 SemanticType:aapp	aapp
+N27	Reference T10 ConceptId:C0006631	Cadherins
+T11	MMLite 586 591	lines
+N28	Reference T11 SemanticType:bacs	bacs
+N29	Reference T11 SemanticType:nnon	nnon
+N30	Reference T11 ConceptId:C1517938	Long Interspersed Elements
+T12	MMLite 1027 1032	lines
+N31	Reference T12 SemanticType:bacs	bacs
+N32	Reference T12 SemanticType:nnon	nnon
+N33	Reference T12 ConceptId:C1517938	Long Interspersed Elements
+T13	MMLite 357 363	LncRNA
+N34	Reference T13 SemanticType:bacs	bacs
+N35	Reference T13 SemanticType:nnon	nnon
+N36	Reference T13 ConceptId:C3494264	RNA, Long Untranslated
+T14	MMLite 1835 1840	siRNA
+N37	Reference T14 SemanticType:bacs	bacs
+N38	Reference T14 SemanticType:nnon	nnon
+N39	Reference T14 ConceptId:C1099354	RNA, Small Interfering
+T15	MMLite 1928 1935	protein
+N40	Reference T15 SemanticType:bacs	bacs
+N41	Reference T15 SemanticType:aapp	aapp
+N42	Reference T15 ConceptId:C0033684	Proteins

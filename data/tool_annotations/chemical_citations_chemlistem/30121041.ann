@@ -1,0 +1,22 @@
+T1	Chemlistem 5 11	carbon
+A1	Score T1 0.5475437
+T2	Chemlistem 75 96	1,1,2-trichloroethane
+A2	Score T2 0.9599337
+T3	Chemlistem 346 352	carbon
+A3	Score T3 0.93872875
+T4	Chemlistem 357 365	chlorine
+A4	Score T4 0.822685
+T5	Chemlistem 460 481	1,1,2-trichloroethane
+A5	Score T5 0.5314078
+T6	Chemlistem 679 693	vinyl chloride
+A6	Score T6 0.98396957
+T7	Chemlistem 695 697	VC
+A7	Score T7 0.9286857
+T8	Chemlistem 732 738	carbon
+A8	Score T8 0.88350147
+T9	Chemlistem 1185 1194	1,1,2-TCA
+A9	Score T9 0.86603034
+T10	Chemlistem 1375 1384	1,1,2-TCA
+A10	Score T10 0.5388962
+T11	Chemlistem 1458 1460	VC
+A11	Score T11 0.81187314

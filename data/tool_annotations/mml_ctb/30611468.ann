@@ -1,0 +1,84 @@
+T1	MMLite 911 925	interleukin-1β
+N1	Reference T1 SemanticType:aapp	aapp
+N2	Reference T1 SemanticType:imft	imft
+N3	Reference T1 ConceptId:C0021753	Interleukin-1 beta
+T2	MMLite 1089 1097	contrast
+N4	Reference T2 SemanticType:irda	irda
+N5	Reference T2 ConceptId:C0009924	Contrast Media
+T3	MMLite 1187 1190	oil
+N6	Reference T3 SemanticType:bacs	bacs
+N7	Reference T3 ConceptId:C0028908	Oils
+N8	Reference T3 SemanticType:orch	orch
+N9	Reference T3 ConceptId:C0032085	Plant Oils
+T4	MMLite 270 288	lipopolysaccharide
+N10	Reference T4 SemanticType:orch	orch
+N11	Reference T4 ConceptId:C0023810	Lipopolysaccharides
+T5	MMLite 877 888	NO synthase
+N12	Reference T5 SemanticType:aapp	aapp
+N13	Reference T5 SemanticType:enzy	enzy
+N14	Reference T5 ConceptId:C0132555	Nitric Oxide Synthase
+T6	MMLite 890 906	cyclooxygenase-2
+N15	Reference T6 ConceptId:C0387583	cyclooxygenase 2
+N16	Reference T6 SemanticType:aapp	aapp
+N17	Reference T6 ConceptId:C1565860	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase), human
+N18	Reference T6 SemanticType:enzy	enzy
+T7	MMLite 461 463	NO
+N19	Reference T7 SemanticType:bacs	bacs
+N20	Reference T7 SemanticType:lbpr	lbpr
+N21	Reference T7 ConceptId:C3810607	Nitric Oxide Measurement
+N22	Reference T7 SemanticType:inch	inch
+N23	Reference T7 SemanticType:phsu	phsu
+N24	Reference T7 ConceptId:C0028128	Nitric Oxide
+T8	MMLite 252 254	NO
+N25	Reference T8 SemanticType:bacs	bacs
+N26	Reference T8 SemanticType:lbpr	lbpr
+N27	Reference T8 ConceptId:C3810607	Nitric Oxide Measurement
+N28	Reference T8 SemanticType:inch	inch
+N29	Reference T8 SemanticType:phsu	phsu
+N30	Reference T8 ConceptId:C0028128	Nitric Oxide
+T9	MMLite 944 947	was
+N31	Reference T9 SemanticType:bacs	bacs
+N32	Reference T9 SemanticType:aapp	aapp
+N33	Reference T9 ConceptId:C1565156	WAS protein, human
+T10	MMLite 354 360	esters
+N34	Reference T10 ConceptId:C0014898	Esters
+N35	Reference T10 SemanticType:orch	orch
+T11	MMLite 384 392	stearate
+N36	Reference T11 ConceptId:C0038228	Stearates
+N37	Reference T11 SemanticType:orch	orch
+T12	MMLite 981 990	olive oil
+N38	Reference T12 SemanticType:orch	orch
+N39	Reference T12 ConceptId:C0069449	olive oil
+N40	Reference T12 SemanticType:food	food
+T13	MMLite 1106 1109	was
+N41	Reference T13 SemanticType:bacs	bacs
+N42	Reference T13 SemanticType:aapp	aapp
+N43	Reference T13 ConceptId:C1565156	WAS protein, human
+T14	MMLite 77 94	anti-inflammatory
+N44	Reference T14 ConceptId:C0003209	Anti-Inflammatory Agents
+N45	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 775 791	prostaglandin E2
+N46	Reference T15 SemanticType:orch	orch
+N47	Reference T15 SemanticType:horm	horm
+N48	Reference T15 ConceptId:C0012472	Dinoprostone
+N49	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 148 154	esters
+N50	Reference T16 ConceptId:C0014898	Esters
+N51	Reference T16 SemanticType:orch	orch
+T17	MMLite 238 250	nitric oxide
+N52	Reference T17 SemanticType:bacs	bacs
+N53	Reference T17 SemanticType:lbpr	lbpr
+N54	Reference T17 ConceptId:C3810607	Nitric Oxide Measurement
+N55	Reference T17 SemanticType:inch	inch
+N56	Reference T17 SemanticType:phsu	phsu
+N57	Reference T17 ConceptId:C0028128	Nitric Oxide
+T18	MMLite 210 213	for
+N58	Reference T18 ConceptId:C1421525	WWOX gene
+N59	Reference T18 SemanticType:gngm	gngm
+T19	MMLite 110 119	olive oil
+N60	Reference T19 SemanticType:orch	orch
+N61	Reference T19 ConceptId:C0069449	olive oil
+N62	Reference T19 SemanticType:food	food
+T20	MMLite 959 962	for
+N63	Reference T20 ConceptId:C1421525	WWOX gene
+N64	Reference T20 SemanticType:gngm	gngm

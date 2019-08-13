@@ -1,0 +1,130 @@
+T1	MMLite 66 79	nitrous oxide
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 ConceptId:C0028215	Nitrous Oxide
+N3	Reference T1 SemanticType:inch	inch
+N4	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 1221 1224	for
+N5	Reference T2 ConceptId:C1421525	WWOX gene
+N6	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 1328 1332	Urea
+N7	Reference T3 SemanticType:bacs	bacs
+N8	Reference T3 SemanticType:orch	orch
+N9	Reference T3 ConceptId:C0041942	Urea
+N10	Reference T3 SemanticType:lbpr	lbpr
+N11	Reference T3 ConceptId:C0523961	Urea measurement
+N12	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 998 1002	urea
+N13	Reference T4 SemanticType:bacs	bacs
+N14	Reference T4 SemanticType:orch	orch
+N15	Reference T4 ConceptId:C0041942	Urea
+N16	Reference T4 SemanticType:lbpr	lbpr
+N17	Reference T4 ConceptId:C0523961	Urea measurement
+N18	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 912 915	NH3
+N19	Reference T5 ConceptId:C0201879	Ammonia measurement
+N20	Reference T5 SemanticType:lbpr	lbpr
+T6	MMLite 759 763	DMPP
+N21	Reference T6 SemanticType:orch	orch
+N22	Reference T6 ConceptId:C0012847	Dimethylphenylpiperazinium Iodide
+N23	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 511 514	was
+N24	Reference T7 SemanticType:bacs	bacs
+N25	Reference T7 SemanticType:aapp	aapp
+N26	Reference T7 ConceptId:C1565156	WAS protein, human
+T8	MMLite 1024 1032	nitrogen
+N27	Reference T8 ConceptId:C1550581	Nitrogen Handling
+N28	Reference T8 ConceptId:C0028158	Nitrogen
+N29	Reference T8 SemanticType:elii	elii
+N30	Reference T8 SemanticType:hcpp	hcpp
+T9	MMLite 1151 1155	urea
+N31	Reference T9 SemanticType:bacs	bacs
+N32	Reference T9 SemanticType:orch	orch
+N33	Reference T9 ConceptId:C0041942	Urea
+N34	Reference T9 SemanticType:lbpr	lbpr
+N35	Reference T9 ConceptId:C0523961	Urea measurement
+N36	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 1205 1215	fertilizer
+N37	Reference T10 SemanticType:mnob	mnob
+N38	Reference T10 ConceptId:C0015919	Fertilizers
+N39	Reference T10 SemanticType:hops	hops
+T11	MMLite 211 214	NH3
+N40	Reference T11 ConceptId:C0201879	Ammonia measurement
+N41	Reference T11 SemanticType:lbpr	lbpr
+T12	MMLite 626 661	N-(n-butyl) thiophosphoric triamide
+N42	Reference T12 SemanticType:orch	orch
+N43	Reference T12 SemanticType:phsu	phsu
+N44	Reference T12 ConceptId:C0769380	N-(n-butyl) thiophosphoric triamide
+T13	MMLite 1244 1247	was
+N45	Reference T13 SemanticType:bacs	bacs
+N46	Reference T13 SemanticType:aapp	aapp
+N47	Reference T13 ConceptId:C1565156	WAS protein, human
+T14	MMLite 885 889	Urea
+N48	Reference T14 SemanticType:bacs	bacs
+N49	Reference T14 SemanticType:orch	orch
+N50	Reference T14 ConceptId:C0041942	Urea
+N51	Reference T14 SemanticType:lbpr	lbpr
+N52	Reference T14 ConceptId:C0523961	Urea measurement
+N53	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 609 615	urease
+N54	Reference T15 SemanticType:aapp	aapp
+N55	Reference T15 ConceptId:C0041945	Urease
+N56	Reference T15 SemanticType:enzy	enzy
+T16	MMLite 727 757	3,4-dimethylpyrazole phosphate
+N57	Reference T16 SemanticType:orch	orch
+N58	Reference T16 ConceptId:C0968900	3,4-dimethylpyrazole phosphate
+T17	MMLite 1300 1303	for
+N59	Reference T17 ConceptId:C1421525	WWOX gene
+N60	Reference T17 SemanticType:gngm	gngm
+T18	MMLite 1304 1308	urea
+N61	Reference T18 SemanticType:bacs	bacs
+N62	Reference T18 SemanticType:orch	orch
+N63	Reference T18 ConceptId:C0041942	Urea
+N64	Reference T18 SemanticType:lbpr	lbpr
+N65	Reference T18 ConceptId:C0523961	Urea measurement
+N66	Reference T18 SemanticType:phsu	phsu
+T19	MMLite 6 12	urease
+N67	Reference T19 SemanticType:aapp	aapp
+N68	Reference T19 ConceptId:C0041945	Urease
+N69	Reference T19 SemanticType:enzy	enzy
+T20	MMLite 54 61	ammonia
+N70	Reference T20 ConceptId:C0201879	Ammonia measurement
+N71	Reference T20 ConceptId:C1095824	Ammonia Genus
+N72	Reference T20 SemanticType:lbpr	lbpr
+N73	Reference T20 SemanticType:euka	euka
+N74	Reference T20 ConceptId:C0002607	Ammonia
+N75	Reference T20 SemanticType:inch	inch
+N76	Reference T20 SemanticType:phsu	phsu
+T21	MMLite 1563 1566	can
+N77	Reference T21 SemanticType:mnob	mnob
+N78	Reference T21 ConceptId:C1704712	Can - object
+T22	MMLite 235 248	nitrous oxide
+N79	Reference T22 SemanticType:bacs	bacs
+N80	Reference T22 ConceptId:C0028215	Nitrous Oxide
+N81	Reference T22 SemanticType:inch	inch
+N82	Reference T22 SemanticType:phsu	phsu
+T23	MMLite 141 147	Urease
+N83	Reference T23 SemanticType:aapp	aapp
+N84	Reference T23 ConceptId:C0041945	Urease
+N85	Reference T23 SemanticType:enzy	enzy
+T24	MMLite 663 667	NBPT
+N86	Reference T24 SemanticType:orch	orch
+N87	Reference T24 SemanticType:phsu	phsu
+N88	Reference T24 ConceptId:C0769380	N-(n-butyl) thiophosphoric triamide
+T25	MMLite 776 780	Urea
+N89	Reference T25 SemanticType:bacs	bacs
+N90	Reference T25 SemanticType:orch	orch
+N91	Reference T25 ConceptId:C0041942	Urea
+N92	Reference T25 SemanticType:lbpr	lbpr
+N93	Reference T25 ConceptId:C0523961	Urea measurement
+N94	Reference T25 SemanticType:phsu	phsu
+T26	MMLite 202 209	ammonia
+N95	Reference T26 ConceptId:C0201879	Ammonia measurement
+N96	Reference T26 ConceptId:C1095824	Ammonia Genus
+N97	Reference T26 SemanticType:lbpr	lbpr
+N98	Reference T26 SemanticType:euka	euka
+N99	Reference T26 ConceptId:C0002607	Ammonia
+N100	Reference T26 SemanticType:inch	inch
+N101	Reference T26 SemanticType:phsu	phsu
+T27	MMLite 1438 1441	can
+N102	Reference T27 SemanticType:mnob	mnob
+N103	Reference T27 ConceptId:C1704712	Can - object

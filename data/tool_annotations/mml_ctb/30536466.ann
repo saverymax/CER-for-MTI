@@ -1,0 +1,80 @@
+T1	MMLite 99 110	DNA adducts
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 ConceptId:C0242958	DNA Adducts
+N3	Reference T1 SemanticType:nnon	nnon
+T2	MMLite 2166 2173	Mutagen
+N4	Reference T2 ConceptId:C0026879	Mutagens
+N5	Reference T2 SemanticType:hops	hops
+T3	MMLite 1354 1357	for
+N6	Reference T3 ConceptId:C1421525	WWOX gene
+N7	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 1313 1316	BMD
+N8	Reference T4 ConceptId:C1414083	DMD gene
+N9	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 840 843	for
+N10	Reference T5 ConceptId:C1421525	WWOX gene
+N11	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 1480 1483	for
+N12	Reference T6 ConceptId:C1421525	WWOX gene
+N13	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 1240 1243	for
+N14	Reference T7 ConceptId:C1421525	WWOX gene
+N15	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 359 362	for
+N16	Reference T8 ConceptId:C1421525	WWOX gene
+N17	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 1857 1864	Mutagen
+N18	Reference T9 ConceptId:C0026879	Mutagens
+N19	Reference T9 SemanticType:hops	hops
+T10	MMLite 935 949	ethylene oxide
+N20	Reference T10 SemanticType:acty	acty
+N21	Reference T10 ConceptId:C0015087	Ethylene Oxide
+N22	Reference T10 SemanticType:orch	orch
+N23	Reference T10 SemanticType:hops	hops
+N24	Reference T10 ConceptId:C3811133	Ethylene Oxide Sterilization
+T11	MMLite 1806 1809	for
+N25	Reference T11 ConceptId:C1421525	WWOX gene
+N26	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 990 993	for
+N27	Reference T12 ConceptId:C1421525	WWOX gene
+N28	Reference T12 SemanticType:gngm	gngm
+T13	MMLite 1102 1105	pro
+N29	Reference T13 SemanticType:bacs	bacs
+N30	Reference T13 SemanticType:aapp	aapp
+N31	Reference T13 ConceptId:C0033382	Proline
+N32	Reference T13 SemanticType:lbpr	lbpr
+N33	Reference T13 ConceptId:C0523852	Proline measurement
+T14	MMLite 954 969	propylene oxide
+N34	Reference T14 SemanticType:orch	orch
+N35	Reference T14 ConceptId:C0072229	propylene oxide
+T15	MMLite 74 89	propylene oxide
+N36	Reference T15 SemanticType:orch	orch
+N37	Reference T15 ConceptId:C0072229	propylene oxide
+T16	MMLite 54 68	ethylene oxide
+N38	Reference T16 SemanticType:acty	acty
+N39	Reference T16 ConceptId:C0015087	Ethylene Oxide
+N40	Reference T16 SemanticType:orch	orch
+N41	Reference T16 SemanticType:hops	hops
+N42	Reference T16 ConceptId:C3811133	Ethylene Oxide Sterilization
+T17	MMLite 1484 1495	DNA adducts
+N43	Reference T17 SemanticType:bacs	bacs
+N44	Reference T17 ConceptId:C0242958	DNA Adducts
+N45	Reference T17 SemanticType:nnon	nnon
+T18	MMLite 844 855	DNA adducts
+N46	Reference T18 SemanticType:bacs	bacs
+N47	Reference T18 ConceptId:C0242958	DNA Adducts
+N48	Reference T18 SemanticType:nnon	nnon
+T19	MMLite 250 260	DNA adduct
+N49	Reference T19 SemanticType:bacs	bacs
+N50	Reference T19 ConceptId:C0242958	DNA Adducts
+N51	Reference T19 SemanticType:nnon	nnon
+T20	MMLite 1629 1632	can
+N52	Reference T20 SemanticType:mnob	mnob
+N53	Reference T20 ConceptId:C1704712	Can - object
+T21	MMLite 462 465	was
+N54	Reference T21 SemanticType:bacs	bacs
+N55	Reference T21 SemanticType:aapp	aapp
+N56	Reference T21 ConceptId:C1565156	WAS protein, human
+T22	MMLite 2009 2016	Mutagen
+N57	Reference T22 ConceptId:C0026879	Mutagens
+N58	Reference T22 SemanticType:hops	hops

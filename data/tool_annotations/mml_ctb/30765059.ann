@@ -1,0 +1,114 @@
+T1	MMLite 787 797	phalloidin
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C0031312	Phalloidine
+T2	MMLite 847 851	cell
+N4	Reference T2 ConceptId:C1413336	CEL gene
+N5	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 1162 1165	for
+N6	Reference T3 ConceptId:C1421525	WWOX gene
+N7	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 1300 1303	was
+N8	Reference T4 SemanticType:bacs	bacs
+N9	Reference T4 SemanticType:aapp	aapp
+N10	Reference T4 ConceptId:C1565156	WAS protein, human
+T5	MMLite 1320 1323	for
+N11	Reference T5 ConceptId:C1421525	WWOX gene
+N12	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 341 344	BZO
+N13	Reference T6 SemanticType:orch	orch
+N14	Reference T6 ConceptId:C0053246	benzothiazole
+N15	Reference T6 ConceptId:C3536937	locust bean gum extract
+N16	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 276 279	BZO
+N17	Reference T7 SemanticType:orch	orch
+N18	Reference T7 ConceptId:C0053246	benzothiazole
+N19	Reference T7 ConceptId:C3536937	locust bean gum extract
+N20	Reference T7 SemanticType:phsu	phsu
+T8	MMLite 923 926	BZO
+N21	Reference T8 SemanticType:orch	orch
+N22	Reference T8 ConceptId:C0053246	benzothiazole
+N23	Reference T8 ConceptId:C3536937	locust bean gum extract
+N24	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 941 945	cell
+N25	Reference T9 ConceptId:C1413336	CEL gene
+N26	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 442 450	proteome
+N27	Reference T10 SemanticType:bacs	bacs
+N28	Reference T10 SemanticType:aapp	aapp
+N29	Reference T10 ConceptId:C0751973	Proteome
+T11	MMLite 148 161	Benzothiazole
+N30	Reference T11 SemanticType:orch	orch
+N31	Reference T11 ConceptId:C0053246	benzothiazole
+N32	Reference T11 ConceptId:C3536937	locust bean gum extract
+N33	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 1087 1090	BZO
+N34	Reference T12 SemanticType:orch	orch
+N35	Reference T12 ConceptId:C0053246	benzothiazole
+N36	Reference T12 ConceptId:C3536937	locust bean gum extract
+N37	Reference T12 SemanticType:phsu	phsu
+T13	MMLite 650 659	Annexin V
+N38	Reference T13 SemanticType:bacs	bacs
+N39	Reference T13 SemanticType:aapp	aapp
+N40	Reference T13 ConceptId:C0059249	annexin A5
+N41	Reference T13 ConceptId:C1332095	ANXA5 gene
+N42	Reference T13 ConceptId:C4048686	Annexin A5, human
+N43	Reference T13 SemanticType:gngm	gngm
+T14	MMLite 478 481	BZO
+N44	Reference T14 SemanticType:orch	orch
+N45	Reference T14 ConceptId:C0053246	benzothiazole
+N46	Reference T14 ConceptId:C3536937	locust bean gum extract
+N47	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 1344 1354	antifungal
+N48	Reference T15 ConceptId:C0003308	Antifungal Agents
+N49	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 639 648	apoptosis
+N50	Reference T16 ConceptId:C0162638	Apoptosis
+N51	Reference T16 SemanticType:celf	celf
+T17	MMLite 782 786	FITC
+N52	Reference T17 ConceptId:C0085216	Fluorescein-5-isothiocyanate
+N53	Reference T17 SemanticType:orch	orch
+N54	Reference T17 SemanticType:irda	irda
+T18	MMLite 163 166	BZO
+N55	Reference T18 SemanticType:orch	orch
+N56	Reference T18 ConceptId:C0053246	benzothiazole
+N57	Reference T18 ConceptId:C3536937	locust bean gum extract
+N58	Reference T18 SemanticType:phsu	phsu
+T19	MMLite 798 803	actin
+N59	Reference T19 SemanticType:bacs	bacs
+N60	Reference T19 SemanticType:aapp	aapp
+N61	Reference T19 ConceptId:C0001271	Actins
+T20	MMLite 1145 1152	leading
+N62	Reference T20 ConceptId:C1522538	Leading
+N63	Reference T20 SemanticType:ftcn	ftcn
+T21	MMLite 660 664	FITC
+N64	Reference T21 ConceptId:C0085216	Fluorescein-5-isothiocyanate
+N65	Reference T21 SemanticType:orch	orch
+N66	Reference T21 SemanticType:irda	irda
+T22	MMLite 707 716	apoptosis
+N67	Reference T22 ConceptId:C0162638	Apoptosis
+N68	Reference T22 SemanticType:celf	celf
+T23	MMLite 0 13	Benzothiazole
+N69	Reference T23 SemanticType:orch	orch
+N70	Reference T23 ConceptId:C0053246	benzothiazole
+N71	Reference T23 ConceptId:C3536937	locust bean gum extract
+N72	Reference T23 SemanticType:phsu	phsu
+T24	MMLite 535 543	proteins
+N73	Reference T24 SemanticType:bacs	bacs
+N74	Reference T24 SemanticType:aapp	aapp
+N75	Reference T24 ConceptId:C0033684	Proteins
+T25	MMLite 1198 1208	fungicides
+N76	Reference T25 ConceptId:C0392419	Industrial fungicide
+N77	Reference T25 SemanticType:hops	hops
+T26	MMLite 746 749	BZO
+N78	Reference T26 SemanticType:orch	orch
+N79	Reference T26 ConceptId:C0053246	benzothiazole
+N80	Reference T26 ConceptId:C3536937	locust bean gum extract
+N81	Reference T26 SemanticType:phsu	phsu
+T27	MMLite 717 720	was
+N82	Reference T27 SemanticType:bacs	bacs
+N83	Reference T27 SemanticType:aapp	aapp
+N84	Reference T27 ConceptId:C1565156	WAS protein, human
+T28	MMLite 75 84	apoptosis
+N85	Reference T28 ConceptId:C0162638	Apoptosis
+N86	Reference T28 SemanticType:celf	celf

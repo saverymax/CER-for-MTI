@@ -1,0 +1,71 @@
+T1	MMLite 252 264	insecticides
+N1	Reference T1 SemanticType:hops	hops
+N2	Reference T1 ConceptId:C0021576	Insecticides
+T2	MMLite 548 560	clothianidin
+N3	Reference T2 SemanticType:orch	orch
+N4	Reference T2 ConceptId:C1433509	((E)-1-(2-chloro-1,3-thiazol-5-ylmethyl)-3-methyl-2-nitroguanidine)
+T3	MMLite 680 691	dinotefuran
+N5	Reference T3 SemanticType:orch	orch
+N6	Reference T3 ConceptId:C1143475	dinotefuran
+T4	MMLite 833 840	enzymes
+N7	Reference T4 ConceptId:C3540017	Enzymes, hematological
+N8	Reference T4 SemanticType:orch	orch
+N9	Reference T4 ConceptId:C3540048	ENZYMES FOR TREATMENT OF WOUNDS AND ULCERS
+N10	Reference T4 ConceptId:C3541394	Enzymes, antithrombotic
+N11	Reference T4 SemanticType:ftcn	ftcn
+N12	Reference T4 SemanticType:enzy	enzy
+N13	Reference T4 ConceptId:C3540790	Enzymes, peripheral vasodilators
+N14	Reference T4 ConceptId:C3540772	Enzymes FOR DISORDERS OF THE MUSCULO-SKELETAL SYSTEM
+N15	Reference T4 ConceptId:C0014442	Enzymes
+N16	Reference T4 SemanticType:phsu	phsu
+N17	Reference T4 ConceptId:C0014445	enzymology
+N18	Reference T4 ConceptId:C3542456	Enzymes for ALIMENTARY TRACT AND METABOLISM
+T5	MMLite 936 940	P450
+N19	Reference T5 SemanticType:aapp	aapp
+N20	Reference T5 ConceptId:C0010762	Cytochrome P450
+N21	Reference T5 SemanticType:enzy	enzy
+T6	MMLite 877 892	cytochrome P450
+N22	Reference T6 SemanticType:aapp	aapp
+N23	Reference T6 ConceptId:C0010762	Cytochrome P450
+N24	Reference T6 SemanticType:enzy	enzy
+T7	MMLite 907 919	clothianidin
+N25	Reference T7 SemanticType:orch	orch
+N26	Reference T7 ConceptId:C1433509	((E)-1-(2-chloro-1,3-thiazol-5-ylmethyl)-3-methyl-2-nitroguanidine)
+T8	MMLite 1120 1123	RNA
+N27	Reference T8 SemanticType:celc	celc
+N28	Reference T8 ConceptId:C0035668	RNA
+N29	Reference T8 ConceptId:C1325819	RNA location
+N30	Reference T8 SemanticType:nnon	nnon
+T9	MMLite 332 344	clothianidin
+N31	Reference T9 SemanticType:orch	orch
+N32	Reference T9 ConceptId:C1433509	((E)-1-(2-chloro-1,3-thiazol-5-ylmethyl)-3-methyl-2-nitroguanidine)
+T10	MMLite 473 485	clothianidin
+N33	Reference T10 SemanticType:orch	orch
+N34	Reference T10 ConceptId:C1433509	((E)-1-(2-chloro-1,3-thiazol-5-ylmethyl)-3-methyl-2-nitroguanidine)
+T11	MMLite 627 639	insecticides
+N35	Reference T11 SemanticType:hops	hops
+N36	Reference T11 ConceptId:C0021576	Insecticides
+T12	MMLite 290 302	insecticides
+N37	Reference T12 SemanticType:hops	hops
+N38	Reference T12 ConceptId:C0021576	Insecticides
+T13	MMLite 42 54	clothianidin
+N39	Reference T13 SemanticType:orch	orch
+N40	Reference T13 ConceptId:C1433509	((E)-1-(2-chloro-1,3-thiazol-5-ylmethyl)-3-methyl-2-nitroguanidine)
+T14	MMLite 745 757	chlorpyrifos
+N41	Reference T14 SemanticType:orch	orch
+N42	Reference T14 ConceptId:C0013328	Chlorpyrifos
+N43	Reference T14 SemanticType:hops	hops
+T15	MMLite 1287 1299	clothianidin
+N44	Reference T15 SemanticType:orch	orch
+N45	Reference T15 ConceptId:C1433509	((E)-1-(2-chloro-1,3-thiazol-5-ylmethyl)-3-methyl-2-nitroguanidine)
+T16	MMLite 1176 1188	clothianidin
+N46	Reference T16 SemanticType:orch	orch
+N47	Reference T16 ConceptId:C1433509	((E)-1-(2-chloro-1,3-thiazol-5-ylmethyl)-3-methyl-2-nitroguanidine)
+T17	MMLite 718 721	was
+N48	Reference T17 SemanticType:bacs	bacs
+N49	Reference T17 SemanticType:aapp	aapp
+N50	Reference T17 ConceptId:C1565156	WAS protein, human
+T18	MMLite 652 662	nitenpyram
+N51	Reference T18 SemanticType:orch	orch
+N52	Reference T18 ConceptId:C1143123	nitenpyram
+N53	Reference T18 SemanticType:phsu	phsu

@@ -1,0 +1,12 @@
+T1	Chemlistem 1100 1115	MBP-SulA(F143Y)
+A1	Score T1 0.7258961
+T2	Chemlistem 1117 1130	phenylalanine
+A2	Score T2 0.89271414
+T3	Chemlistem 1148 1156	tyrosine
+A3	Score T3 0.9718402
+T4	Chemlistem 1324 1339	MBP-SulA(F143N)
+A4	Score T4 0.6376609
+T5	Chemlistem 1341 1354	phenylalanine
+A5	Score T5 0.9172733
+T6	Chemlistem 1372 1382	asparagine
+A6	Score T6 0.9312295

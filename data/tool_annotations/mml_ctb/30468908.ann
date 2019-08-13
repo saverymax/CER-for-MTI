@@ -1,0 +1,137 @@
+T1	MMLite 937 943	miRNAs
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:nnon	nnon
+N3	Reference T1 ConceptId:C1101610	MicroRNAs
+T2	MMLite 313 316	was
+N4	Reference T2 SemanticType:bacs	bacs
+N5	Reference T2 SemanticType:aapp	aapp
+N6	Reference T2 ConceptId:C1565156	WAS protein, human
+T3	MMLite 372 375	miR
+N7	Reference T3 SemanticType:bacs	bacs
+N8	Reference T3 SemanticType:nnon	nnon
+N9	Reference T3 ConceptId:C1101610	MicroRNAs
+T4	MMLite 109 118	MicroRNAs
+N10	Reference T4 SemanticType:bacs	bacs
+N11	Reference T4 SemanticType:nnon	nnon
+N12	Reference T4 ConceptId:C1101610	MicroRNAs
+T5	MMLite 1224 1227	for
+N13	Reference T5 ConceptId:C1421525	WWOX gene
+N14	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 1270 1273	was
+N15	Reference T6 SemanticType:bacs	bacs
+N16	Reference T6 SemanticType:aapp	aapp
+N17	Reference T6 ConceptId:C1565156	WAS protein, human
+T7	MMLite 1750 1753	was
+N18	Reference T7 SemanticType:bacs	bacs
+N19	Reference T7 SemanticType:aapp	aapp
+N20	Reference T7 ConceptId:C1565156	WAS protein, human
+T8	MMLite 14 19	miRNA
+N21	Reference T8 SemanticType:bacs	bacs
+N22	Reference T8 SemanticType:nnon	nnon
+N23	Reference T8 ConceptId:C1101610	MicroRNAs
+T9	MMLite 1626 1629	miR
+N24	Reference T9 SemanticType:bacs	bacs
+N25	Reference T9 SemanticType:nnon	nnon
+N26	Reference T9 ConceptId:C1101610	MicroRNAs
+T10	MMLite 1051 1054	miR
+N27	Reference T10 SemanticType:bacs	bacs
+N28	Reference T10 SemanticType:nnon	nnon
+N29	Reference T10 ConceptId:C1101610	MicroRNAs
+T11	MMLite 1442 1445	was
+N30	Reference T11 SemanticType:bacs	bacs
+N31	Reference T11 SemanticType:aapp	aapp
+N32	Reference T11 ConceptId:C1565156	WAS protein, human
+T12	MMLite 658 661	for
+N33	Reference T12 ConceptId:C1421525	WWOX gene
+N34	Reference T12 SemanticType:gngm	gngm
+T13	MMLite 2069 2072	miR
+N35	Reference T13 SemanticType:bacs	bacs
+N36	Reference T13 SemanticType:nnon	nnon
+N37	Reference T13 ConceptId:C1101610	MicroRNAs
+T14	MMLite 1333 1336	miR
+N38	Reference T14 SemanticType:bacs	bacs
+N39	Reference T14 SemanticType:nnon	nnon
+N40	Reference T14 ConceptId:C1101610	MicroRNAs
+T15	MMLite 1539 1542	miR
+N41	Reference T15 SemanticType:bacs	bacs
+N42	Reference T15 SemanticType:nnon	nnon
+N43	Reference T15 ConceptId:C1101610	MicroRNAs
+T16	MMLite 26 31	miRNA
+N44	Reference T16 SemanticType:bacs	bacs
+N45	Reference T16 SemanticType:nnon	nnon
+N46	Reference T16 ConceptId:C1101610	MicroRNAs
+T17	MMLite 1725 1728	miR
+N47	Reference T17 SemanticType:bacs	bacs
+N48	Reference T17 SemanticType:nnon	nnon
+N49	Reference T17 ConceptId:C1101610	MicroRNAs
+T18	MMLite 676 679	was
+N50	Reference T18 SemanticType:bacs	bacs
+N51	Reference T18 SemanticType:aapp	aapp
+N52	Reference T18 ConceptId:C1565156	WAS protein, human
+T19	MMLite 1886 1889	miR
+N53	Reference T19 SemanticType:bacs	bacs
+N54	Reference T19 SemanticType:nnon	nnon
+N55	Reference T19 ConceptId:C1101610	MicroRNAs
+T20	MMLite 1983 1986	miR
+N56	Reference T20 SemanticType:bacs	bacs
+N57	Reference T20 SemanticType:nnon	nnon
+N58	Reference T20 ConceptId:C1101610	MicroRNAs
+T21	MMLite 735 738	miR
+N59	Reference T21 SemanticType:bacs	bacs
+N60	Reference T21 SemanticType:nnon	nnon
+N61	Reference T21 ConceptId:C1101610	MicroRNAs
+T22	MMLite 1311 1314	miR
+N62	Reference T22 SemanticType:bacs	bacs
+N63	Reference T22 SemanticType:nnon	nnon
+N64	Reference T22 ConceptId:C1101610	MicroRNAs
+T23	MMLite 2079 2082	miR
+N65	Reference T23 SemanticType:bacs	bacs
+N66	Reference T23 SemanticType:nnon	nnon
+N67	Reference T23 ConceptId:C1101610	MicroRNAs
+T24	MMLite 1184 1187	miR
+N68	Reference T24 SemanticType:bacs	bacs
+N69	Reference T24 SemanticType:nnon	nnon
+N70	Reference T24 ConceptId:C1101610	MicroRNAs
+T25	MMLite 362 365	miR
+N71	Reference T25 SemanticType:bacs	bacs
+N72	Reference T25 SemanticType:nnon	nnon
+N73	Reference T25 ConceptId:C1101610	MicroRNAs
+T26	MMLite 2001 2004	was
+N74	Reference T26 SemanticType:bacs	bacs
+N75	Reference T26 SemanticType:aapp	aapp
+N76	Reference T26 ConceptId:C1565156	WAS protein, human
+T27	MMLite 60 63	for
+N77	Reference T27 ConceptId:C1421525	WWOX gene
+N78	Reference T27 SemanticType:gngm	gngm
+T28	MMLite 1180 1183	for
+N79	Reference T28 ConceptId:C1421525	WWOX gene
+N80	Reference T28 SemanticType:gngm	gngm
+T29	MMLite 626 632	miRNAs
+N81	Reference T29 SemanticType:bacs	bacs
+N82	Reference T29 SemanticType:nnon	nnon
+N83	Reference T29 ConceptId:C1101610	MicroRNAs
+T30	MMLite 2107 2110	for
+N84	Reference T30 ConceptId:C1421525	WWOX gene
+N85	Reference T30 SemanticType:gngm	gngm
+T31	MMLite 1228 1231	miR
+N86	Reference T31 SemanticType:bacs	bacs
+N87	Reference T31 SemanticType:nnon	nnon
+N88	Reference T31 ConceptId:C1101610	MicroRNAs
+T32	MMLite 1979 1982	for
+N89	Reference T32 ConceptId:C1421525	WWOX gene
+N90	Reference T32 SemanticType:gngm	gngm
+T33	MMLite 1061 1064	miR
+N91	Reference T33 SemanticType:bacs	bacs
+N92	Reference T33 SemanticType:nnon	nnon
+N93	Reference T33 ConceptId:C1101610	MicroRNAs
+T34	MMLite 742 745	miR
+N94	Reference T34 SemanticType:bacs	bacs
+N95	Reference T34 SemanticType:nnon	nnon
+N96	Reference T34 ConceptId:C1101610	MicroRNAs
+T35	MMLite 1902 1905	was
+N97	Reference T35 SemanticType:bacs	bacs
+N98	Reference T35 SemanticType:aapp	aapp
+N99	Reference T35 ConceptId:C1565156	WAS protein, human
+T36	MMLite 2239 2242	for
+N100	Reference T36 ConceptId:C1421525	WWOX gene
+N101	Reference T36 SemanticType:gngm	gngm

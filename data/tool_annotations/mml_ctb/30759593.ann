@@ -1,0 +1,105 @@
+T1	MMLite 1079 1082	was
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C1565156	WAS protein, human
+T2	MMLite 1111 1117	lignin
+N4	Reference T2 SemanticType:bacs	bacs
+N5	Reference T2 SemanticType:orch	orch
+N6	Reference T2 ConceptId:C0023705	Lignin
+T3	MMLite 321 336	lanthanum oxide
+N7	Reference T3 SemanticType:inch	inch
+N8	Reference T3 ConceptId:C0534702	lanthanum oxide
+T4	MMLite 1628 1633	water
+N9	Reference T4 ConceptId:C0043047	Water
+N10	Reference T4 ConceptId:C1547961	Water - Specimen Source Codes
+N11	Reference T4 ConceptId:C0599638	Drinking Water
+N12	Reference T4 SemanticType:inpr	inpr
+N13	Reference T4 SemanticType:inch	inch
+N14	Reference T4 SemanticType:sbst	sbst
+N15	Reference T4 ConceptId:C1550678	Water Specimen
+N16	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 944 948	core
+N17	Reference T5 SemanticType:celc	celc
+N18	Reference T5 ConceptId:C1167518	viral nucleocapsid location
+T6	MMLite 984 990	lignin
+N19	Reference T6 SemanticType:bacs	bacs
+N20	Reference T6 SemanticType:orch	orch
+N21	Reference T6 ConceptId:C0023705	Lignin
+T7	MMLite 964 967	for
+N22	Reference T7 ConceptId:C1421525	WWOX gene
+N23	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 299 309	rare earth
+N24	Reference T8 ConceptId:C0025556	Metals, Rare Earth
+N25	Reference T8 SemanticType:elii	elii
+T9	MMLite 1545 1551	lignin
+N26	Reference T9 SemanticType:bacs	bacs
+N27	Reference T9 SemanticType:orch	orch
+N28	Reference T9 ConceptId:C0023705	Lignin
+T10	MMLite 1284 1287	was
+N29	Reference T10 SemanticType:bacs	bacs
+N30	Reference T10 SemanticType:aapp	aapp
+N31	Reference T10 ConceptId:C1565156	WAS protein, human
+T11	MMLite 208 213	water
+N32	Reference T11 ConceptId:C0043047	Water
+N33	Reference T11 ConceptId:C1547961	Water - Specimen Source Codes
+N34	Reference T11 ConceptId:C0599638	Drinking Water
+N35	Reference T11 SemanticType:inpr	inpr
+N36	Reference T11 SemanticType:sbst	sbst
+N37	Reference T11 SemanticType:inch	inch
+N38	Reference T11 SemanticType:phsu	phsu
+N39	Reference T11 ConceptId:C1550678	Water Specimen
+T12	MMLite 389 398	aquaporin
+N40	Reference T12 SemanticType:bacs	bacs
+N41	Reference T12 SemanticType:aapp	aapp
+N42	Reference T12 ConceptId:C0599635	water channel
+T13	MMLite 536 539	for
+N43	Reference T13 ConceptId:C1421525	WWOX gene
+N44	Reference T13 SemanticType:gngm	gngm
+T14	MMLite 418 423	water
+N45	Reference T14 ConceptId:C0043047	Water
+N46	Reference T14 ConceptId:C1547961	Water - Specimen Source Codes
+N47	Reference T14 ConceptId:C0599638	Drinking Water
+N48	Reference T14 SemanticType:inpr	inpr
+N49	Reference T14 SemanticType:sbst	sbst
+N50	Reference T14 SemanticType:inch	inch
+N51	Reference T14 ConceptId:C1550678	Water Specimen
+N52	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 1149 1152	for
+N53	Reference T15 ConceptId:C1421525	WWOX gene
+N54	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 629 634	water
+N55	Reference T16 ConceptId:C0043047	Water
+N56	Reference T16 ConceptId:C1547961	Water - Specimen Source Codes
+N57	Reference T16 ConceptId:C0599638	Drinking Water
+N58	Reference T16 SemanticType:inpr	inpr
+N59	Reference T16 SemanticType:sbst	sbst
+N60	Reference T16 SemanticType:inch	inch
+N61	Reference T16 SemanticType:phsu	phsu
+N62	Reference T16 ConceptId:C1550678	Water Specimen
+T17	MMLite 642 645	was
+N63	Reference T17 SemanticType:bacs	bacs
+N64	Reference T17 SemanticType:aapp	aapp
+N65	Reference T17 ConceptId:C1565156	WAS protein, human
+T18	MMLite 310 315	oxide
+N66	Reference T18 ConceptId:C0030015	Oxides
+N67	Reference T18 SemanticType:inch	inch
+T19	MMLite 1356 1359	was
+N68	Reference T19 SemanticType:bacs	bacs
+N69	Reference T19 SemanticType:aapp	aapp
+N70	Reference T19 ConceptId:C1565156	WAS protein, human
+T20	MMLite 756 769	abscisic acid
+N71	Reference T20 SemanticType:bacs	bacs
+N72	Reference T20 SemanticType:orch	orch
+N73	Reference T20 ConceptId:C0000843	Abscisic Acid
+T21	MMLite 1164 1170	lignin
+N74	Reference T21 SemanticType:bacs	bacs
+N75	Reference T21 SemanticType:orch	orch
+N76	Reference T21 ConceptId:C0023705	Lignin
+T22	MMLite 862 865	was
+N77	Reference T22 SemanticType:bacs	bacs
+N78	Reference T22 SemanticType:aapp	aapp
+N79	Reference T22 ConceptId:C1565156	WAS protein, human
+T23	MMLite 1277 1283	lignin
+N80	Reference T23 SemanticType:bacs	bacs
+N81	Reference T23 SemanticType:orch	orch
+N82	Reference T23 ConceptId:C0023705	Lignin

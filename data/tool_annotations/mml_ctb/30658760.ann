@@ -1,0 +1,66 @@
+T1	MMLite 858 869	lactoferrin
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 ConceptId:C1416933	LTF gene
+N3	Reference T1 SemanticType:aapp	aapp
+N4	Reference T1 ConceptId:C1435815	LTF protein, human
+N5	Reference T1 ConceptId:C0523737	Lactoferrin measurement
+N6	Reference T1 SemanticType:lbpr	lbpr
+N7	Reference T1 ConceptId:C0022942	Lactoferrin
+N8	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 600 603	was
+N9	Reference T2 SemanticType:bacs	bacs
+N10	Reference T2 SemanticType:aapp	aapp
+N11	Reference T2 ConceptId:C1565156	WAS protein, human
+T3	MMLite 210 218	proteins
+N12	Reference T3 SemanticType:bacs	bacs
+N13	Reference T3 SemanticType:aapp	aapp
+N14	Reference T3 ConceptId:C0033684	Proteins
+T4	MMLite 582 589	peptide
+N15	Reference T4 SemanticType:aapp	aapp
+N16	Reference T4 ConceptId:C0030956	Peptides
+T5	MMLite 294 301	peptide
+N17	Reference T5 SemanticType:aapp	aapp
+N18	Reference T5 ConceptId:C0030956	Peptides
+T6	MMLite 848 856	proteins
+N19	Reference T6 SemanticType:bacs	bacs
+N20	Reference T6 SemanticType:aapp	aapp
+N21	Reference T6 ConceptId:C0033684	Proteins
+T7	MMLite 709 716	peptide
+N22	Reference T7 SemanticType:aapp	aapp
+N23	Reference T7 ConceptId:C0030956	Peptides
+T8	MMLite 979 985	casein
+N24	Reference T8 SemanticType:aapp	aapp
+N25	Reference T8 ConceptId:C0007332	Caseins
+N26	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 55 62	peptide
+N27	Reference T9 SemanticType:aapp	aapp
+N28	Reference T9 ConceptId:C0030956	Peptides
+T10	MMLite 267 270	can
+N29	Reference T10 SemanticType:mnob	mnob
+N30	Reference T10 ConceptId:C1704712	Can - object
+T11	MMLite 973 976	for
+N31	Reference T11 ConceptId:C1421525	WWOX gene
+N32	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 793 801	peptides
+N33	Reference T12 SemanticType:aapp	aapp
+N34	Reference T12 ConceptId:C0030956	Peptides
+T13	MMLite 553 559	casein
+N35	Reference T13 SemanticType:aapp	aapp
+N36	Reference T13 ConceptId:C0007332	Caseins
+N37	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 561 564	for
+N38	Reference T14 ConceptId:C1421525	WWOX gene
+N39	Reference T14 SemanticType:gngm	gngm
+T15	MMLite 874 901	bile salt-stimulated lipase
+N40	Reference T15 SemanticType:aapp	aapp
+N41	Reference T15 ConceptId:C1413336	CEL gene
+N42	Reference T15 SemanticType:enzy	enzy
+N43	Reference T15 ConceptId:C0053584	bile salt-stimulated lipase
+N44	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 1002 1010	peptides
+N45	Reference T16 SemanticType:aapp	aapp
+N46	Reference T16 ConceptId:C0030956	Peptides
+T17	MMLite 1018 1024	casein
+N47	Reference T17 SemanticType:aapp	aapp
+N48	Reference T17 ConceptId:C0007332	Caseins
+N49	Reference T17 SemanticType:phsu	phsu

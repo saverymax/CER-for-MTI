@@ -1,0 +1,56 @@
+T1	MMLite 934 937	for
+N1	Reference T1 ConceptId:C1421525	WWOX gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 105 109	Mice
+N3	Reference T2 ConceptId:C1413131	CASP14 gene
+N4	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 434 437	HSA
+N5	Reference T3 ConceptId:C0019453	Altretamine
+N6	Reference T3 ConceptId:C0304925	Albumin Human, USP
+N7	Reference T3 SemanticType:aapp	aapp
+N8	Reference T3 SemanticType:orch	orch
+N9	Reference T3 SemanticType:hops	hops
+N10	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 399 413	phthalocyanine
+N11	Reference T4 SemanticType:orch	orch
+N12	Reference T4 ConceptId:C0070971	phthalocyanine
+N13	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 561 564	HSA
+N14	Reference T5 ConceptId:C0019453	Altretamine
+N15	Reference T5 ConceptId:C0304925	Albumin Human, USP
+N16	Reference T5 SemanticType:aapp	aapp
+N17	Reference T5 SemanticType:orch	orch
+N18	Reference T5 SemanticType:hops	hops
+N19	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 34 41	Albumin
+N20	Reference T6 SemanticType:bacs	bacs
+N21	Reference T6 SemanticType:aapp	aapp
+N22	Reference T6 ConceptId:C0001924	Albumins
+T7	MMLite 14 33	Iron Phthalocyanine
+N23	Reference T7 SemanticType:orch	orch
+N24	Reference T7 ConceptId:C1529995	iron phthalocyanine
+T8	MMLite 744 752	contrast
+N25	Reference T8 SemanticType:irda	irda
+N26	Reference T8 ConceptId:C0009924	Contrast Media
+T9	MMLite 389 393	iron
+N27	Reference T9 SemanticType:bacs	bacs
+N28	Reference T9 ConceptId:C0376520	Dietary Iron
+N29	Reference T9 SemanticType:lbpr	lbpr
+N30	Reference T9 SemanticType:elii	elii
+N31	Reference T9 ConceptId:C3714701	Iron Drug Class
+N32	Reference T9 SemanticType:inch	inch
+N33	Reference T9 ConceptId:C0302583	Iron
+N34	Reference T9 ConceptId:C0337439	Iron measurement
+N35	Reference T9 SemanticType:phsu	phsu
+N36	Reference T9 ConceptId:C1166521	Ferrum metallicum, Homeopathic preparation
+T10	MMLite 369 388	human serum albumin
+N37	Reference T10 ConceptId:C0304925	Albumin Human, USP
+N38	Reference T10 SemanticType:aapp	aapp
+N39	Reference T10 SemanticType:phsu	phsu
+N40	Reference T10 ConceptId:C3537198	CNTO 888
+T11	MMLite 155 158	for
+N41	Reference T11 ConceptId:C1421525	WWOX gene
+N42	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 464 467	for
+N43	Reference T12 ConceptId:C1421525	WWOX gene
+N44	Reference T12 SemanticType:gngm	gngm

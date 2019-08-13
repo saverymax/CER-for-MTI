@@ -1,0 +1,123 @@
+T1	MMLite 369 378	MicroRNAs
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:nnon	nnon
+N3	Reference T1 ConceptId:C1101610	MicroRNAs
+T2	MMLite 947 951	same
+N4	Reference T2 SemanticType:bacs	bacs
+N5	Reference T2 ConceptId:C0036002	S-Adenosylmethionine
+N6	Reference T2 SemanticType:aapp	aapp
+N7	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 1107 1110	was
+N8	Reference T3 SemanticType:bacs	bacs
+N9	Reference T3 SemanticType:aapp	aapp
+N10	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 221 227	nickel
+N11	Reference T4 SemanticType:bacs	bacs
+N12	Reference T4 ConceptId:C0028013	nickel
+N13	Reference T4 ConceptId:C2348274	Dietary Nickel
+N14	Reference T4 SemanticType:elii	elii
+T5	MMLite 1262 1265	TCP
+N15	Reference T5 SemanticType:orch	orch
+N16	Reference T5 ConceptId:C0045437	2,4,6-trichlorophenol
+N17	Reference T5 ConceptId:C0044091	tenocyclidine
+N18	Reference T5 SemanticType:hops	hops
+N19	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 1176 1179	SOD
+N20	Reference T6 SemanticType:aapp	aapp
+N21	Reference T6 SemanticType:enzy	enzy
+N22	Reference T6 ConceptId:C0038838	Superoxide Dismutase
+N23	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 1714 1720	nickel
+N24	Reference T7 SemanticType:bacs	bacs
+N25	Reference T7 ConceptId:C0028013	nickel
+N26	Reference T7 ConceptId:C2348274	Dietary Nickel
+N27	Reference T7 SemanticType:elii	elii
+T8	MMLite 864 875	heavy metal
+N28	Reference T8 ConceptId:C0347988	Metals, Heavy
+N29	Reference T8 SemanticType:elii	elii
+T9	MMLite 1180 1183	was
+N30	Reference T9 SemanticType:bacs	bacs
+N31	Reference T9 SemanticType:aapp	aapp
+N32	Reference T9 ConceptId:C1565156	WAS protein, human
+T10	MMLite 1458 1469	transporter
+N33	Reference T10 SemanticType:bacs	bacs
+N34	Reference T10 SemanticType:aapp	aapp
+N35	Reference T10 ConceptId:C0596902	Membrane Transport Proteins
+T11	MMLite 465 468	for
+N36	Reference T11 ConceptId:C1421525	WWOX gene
+N37	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 1846 1852	nickel
+N38	Reference T12 SemanticType:bacs	bacs
+N39	Reference T12 ConceptId:C0028013	nickel
+N40	Reference T12 ConceptId:C2348274	Dietary Nickel
+N41	Reference T12 SemanticType:elii	elii
+T13	MMLite 119 125	nickel
+N42	Reference T13 SemanticType:bacs	bacs
+N43	Reference T13 ConceptId:C0028013	nickel
+N44	Reference T13 ConceptId:C2348274	Dietary Nickel
+N45	Reference T13 SemanticType:elii	elii
+T14	MMLite 446 457	heavy metal
+N46	Reference T14 ConceptId:C0347988	Metals, Heavy
+N47	Reference T14 SemanticType:elii	elii
+T15	MMLite 380 386	miRNAs
+N48	Reference T15 SemanticType:bacs	bacs
+N49	Reference T15 SemanticType:nnon	nnon
+N50	Reference T15 ConceptId:C1101610	MicroRNAs
+T16	MMLite 136 142	castor
+N51	Reference T16 SemanticType:orch	orch
+N52	Reference T16 SemanticType:phsu	phsu
+N53	Reference T16 ConceptId:C0007343	Castor Oil
+T17	MMLite 491 496	metal
+N54	Reference T17 ConceptId:C0025552	Metals
+N55	Reference T17 SemanticType:inch	inch
+T18	MMLite 894 900	miRNAs
+N56	Reference T18 SemanticType:bacs	bacs
+N57	Reference T18 SemanticType:nnon	nnon
+N58	Reference T18 ConceptId:C1101610	MicroRNAs
+T19	MMLite 1696 1699	myb
+N59	Reference T19 SemanticType:bacs	bacs
+N60	Reference T19 SemanticType:aapp	aapp
+N61	Reference T19 ConceptId:C0072473	Proto-Oncogene Proteins c-myb
+T20	MMLite 52 63	heavy metal
+N62	Reference T20 ConceptId:C0347988	Metals, Heavy
+N63	Reference T20 SemanticType:elii	elii
+T21	MMLite 769 775	nickel
+N64	Reference T21 SemanticType:bacs	bacs
+N65	Reference T21 ConceptId:C0028013	nickel
+N66	Reference T21 ConceptId:C2348274	Dietary Nickel
+N67	Reference T21 SemanticType:elii	elii
+T22	MMLite 254 257	for
+N68	Reference T22 ConceptId:C1421525	WWOX gene
+N69	Reference T22 SemanticType:gngm	gngm
+T23	MMLite 625 631	miRNAs
+N70	Reference T23 SemanticType:bacs	bacs
+N71	Reference T23 SemanticType:nnon	nnon
+N72	Reference T23 ConceptId:C1101610	MicroRNAs
+T24	MMLite 1782 1785	MYB
+N73	Reference T24 SemanticType:bacs	bacs
+N74	Reference T24 SemanticType:aapp	aapp
+N75	Reference T24 ConceptId:C0072473	Proto-Oncogene Proteins c-myb
+T25	MMLite 82 88	miRNAs
+N76	Reference T25 SemanticType:bacs	bacs
+N77	Reference T25 SemanticType:nnon	nnon
+N78	Reference T25 ConceptId:C1101610	MicroRNAs
+T26	MMLite 239 253	trace nutrient
+N79	Reference T26 SemanticType:bacs	bacs
+N80	Reference T26 ConceptId:C0040577	Trace Elements
+N81	Reference T26 SemanticType:elii	elii
+T27	MMLite 1062 1068	nickel
+N82	Reference T27 SemanticType:bacs	bacs
+N83	Reference T27 ConceptId:C0028013	nickel
+N84	Reference T27 ConceptId:C2348274	Dietary Nickel
+N85	Reference T27 SemanticType:elii	elii
+T28	MMLite 1766 1769	myb
+N86	Reference T28 SemanticType:bacs	bacs
+N87	Reference T28 SemanticType:aapp	aapp
+N88	Reference T28 ConceptId:C0072473	Proto-Oncogene Proteins c-myb
+T29	MMLite 589 600	heavy metal
+N89	Reference T29 ConceptId:C0347988	Metals, Heavy
+N90	Reference T29 SemanticType:elii	elii
+T30	MMLite 1572 1583	transporter
+N91	Reference T30 SemanticType:bacs	bacs
+N92	Reference T30 SemanticType:aapp	aapp
+N93	Reference T30 ConceptId:C0596902	Membrane Transport Proteins

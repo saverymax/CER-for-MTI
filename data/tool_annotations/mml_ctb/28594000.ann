@@ -1,0 +1,56 @@
+T1	MMLite 1015 1028	radiochemical
+N1	Reference T1 ConceptId:C0182638	Radiopharmaceuticals
+N2	Reference T1 SemanticType:irda	irda
+N3	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 190 214	receptor tyrosine kinase
+N4	Reference T2 SemanticType:aapp	aapp
+N5	Reference T2 ConceptId:C0206364	Receptor Protein-Tyrosine Kinases
+N6	Reference T2 SemanticType:enzy	enzy
+N7	Reference T2 SemanticType:rcpt	rcpt
+T3	MMLite 482 486	drug
+N8	Reference T3 ConceptId:C0013227	Pharmaceutical Preparations
+N9	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 329 332	ALK
+N10	Reference T4 SemanticType:aapp	aapp
+N11	Reference T4 ConceptId:C1332080	ALK gene
+N12	Reference T4 SemanticType:enzy	enzy
+N13	Reference T4 ConceptId:C1663627	ALK protein, human
+N14	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 79 82	ALK
+N15	Reference T5 SemanticType:aapp	aapp
+N16	Reference T5 ConceptId:C1332080	ALK gene
+N17	Reference T5 SemanticType:enzy	enzy
+N18	Reference T5 ConceptId:C1663627	ALK protein, human
+N19	Reference T5 SemanticType:gngm	gngm
+T6	MMLite 394 397	for
+N20	Reference T6 ConceptId:C1421525	WWOX gene
+N21	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 301 327	anaplastic lymphoma kinase
+N22	Reference T7 SemanticType:aapp	aapp
+N23	Reference T7 ConceptId:C0252409	anaplastic lymphoma kinase
+N24	Reference T7 ConceptId:C1332080	ALK gene
+N25	Reference T7 SemanticType:enzy	enzy
+N26	Reference T7 ConceptId:C1663627	ALK protein, human
+N27	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 408 412	cell
+N28	Reference T8 ConceptId:C1413336	CEL gene
+N29	Reference T8 SemanticType:gngm	gngm
+T9	MMLite 217 220	ros
+N30	Reference T9 SemanticType:bacs	bacs
+N31	Reference T9 ConceptId:C0289313	rosiglitazone
+N32	Reference T9 SemanticType:orch	orch
+N33	Reference T9 ConceptId:C0073591	rosoxacin
+N34	Reference T9 SemanticType:antb	antb
+N35	Reference T9 SemanticType:elii	elii
+N36	Reference T9 ConceptId:C0162772	Reactive Oxygen Species
+N37	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 953 959	Carbon
+N38	Reference T10 ConceptId:C0007009	Carbon
+N39	Reference T10 SemanticType:elii	elii
+T11	MMLite 252 258	kinase
+N40	Reference T11 SemanticType:aapp	aapp
+N41	Reference T11 SemanticType:enzy	enzy
+N42	Reference T11 ConceptId:C0031727	Phosphotransferases
+T12	MMLite 591 594	for
+N43	Reference T12 ConceptId:C1421525	WWOX gene
+N44	Reference T12 SemanticType:gngm	gngm

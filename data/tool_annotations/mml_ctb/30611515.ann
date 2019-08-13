@@ -1,0 +1,25 @@
+T1	MMLite 1221 1224	for
+N1	Reference T1 ConceptId:C1421525	WWOX gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 237 247	glycosides
+N3	Reference T2 SemanticType:orch	orch
+N4	Reference T2 ConceptId:C0017977	Glycosides
+T3	MMLite 37 47	glycosides
+N5	Reference T3 SemanticType:orch	orch
+N6	Reference T3 ConceptId:C0017977	Glycosides
+T4	MMLite 1173 1183	glycosides
+N7	Reference T4 SemanticType:orch	orch
+N8	Reference T4 ConceptId:C0017977	Glycosides
+T5	MMLite 655 665	glycosides
+N9	Reference T5 SemanticType:orch	orch
+N10	Reference T5 ConceptId:C0017977	Glycosides
+T6	MMLite 384 394	glycosides
+N11	Reference T6 SemanticType:orch	orch
+N12	Reference T6 ConceptId:C0017977	Glycosides
+T7	MMLite 1006 1013	glucose
+N13	Reference T7 SemanticType:bacs	bacs
+N14	Reference T7 SemanticType:orch	orch
+N15	Reference T7 SemanticType:lbpr	lbpr
+N16	Reference T7 ConceptId:C0017725	Glucose
+N17	Reference T7 ConceptId:C0337438	Glucose measurement
+N18	Reference T7 SemanticType:phsu	phsu

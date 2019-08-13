@@ -1,0 +1,73 @@
+T1	MMLite 339 341	CS
+N1	Reference T1 ConceptId:C0162969	Chitosan
+N2	Reference T1 SemanticType:orch	orch
+N3	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 603 613	etamsylate
+N4	Reference T2 SemanticType:orch	orch
+N5	Reference T2 ConceptId:C0014968	Ethamsylate
+N6	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 811 814	DIC
+N7	Reference T3 SemanticType:orch	orch
+N8	Reference T3 ConceptId:C0010927	Dacarbazine
+N9	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 98 100	CS
+N10	Reference T4 ConceptId:C0162969	Chitosan
+N11	Reference T4 SemanticType:orch	orch
+N12	Reference T4 SemanticType:phsu	phsu
+T5	MMLite 370 372	CS
+N13	Reference T5 ConceptId:C0162969	Chitosan
+N14	Reference T5 SemanticType:orch	orch
+N15	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 1088 1105	hemostatic agents
+N16	Reference T6 ConceptId:C0019120	Hemostatic Agents
+N17	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 278 286	chitosan
+N18	Reference T7 ConceptId:C0162969	Chitosan
+N19	Reference T7 SemanticType:orch	orch
+N20	Reference T7 SemanticType:phsu	phsu
+T8	MMLite 88 96	Chitosan
+N21	Reference T8 ConceptId:C0162969	Chitosan
+N22	Reference T8 SemanticType:orch	orch
+N23	Reference T8 SemanticType:phsu	phsu
+T9	MMLite 125 141	hemostatic agent
+N24	Reference T9 ConceptId:C0019120	Hemostatic Agents
+N25	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 1117 1120	Med
+N26	Reference T10 ConceptId:C1456376	COMP gene
+N27	Reference T10 SemanticType:gngm	gngm
+T11	MMLite 29 37	Chitosan
+N28	Reference T11 ConceptId:C0162969	Chitosan
+N29	Reference T11 SemanticType:orch	orch
+N30	Reference T11 SemanticType:phsu	phsu
+T12	MMLite 540 548	emulsion
+N31	Reference T12 SemanticType:chvs	chvs
+N32	Reference T12 ConceptId:C0014020	Emulsions
+T13	MMLite 674 677	was
+N33	Reference T13 SemanticType:bacs	bacs
+N34	Reference T13 SemanticType:aapp	aapp
+N35	Reference T13 ConceptId:C1565156	WAS protein, human
+T14	MMLite 311 316	water
+N36	Reference T14 ConceptId:C0043047	Water
+N37	Reference T14 ConceptId:C1547961	Water - Specimen Source Codes
+N38	Reference T14 ConceptId:C0599638	Drinking Water
+N39	Reference T14 SemanticType:inpr	inpr
+N40	Reference T14 SemanticType:inch	inch
+N41	Reference T14 SemanticType:sbst	sbst
+N42	Reference T14 ConceptId:C1550678	Water Specimen
+N43	Reference T14 SemanticType:phsu	phsu
+T15	MMLite 615 618	DIC
+N44	Reference T15 SemanticType:orch	orch
+N45	Reference T15 ConceptId:C0010927	Dacarbazine
+N46	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 1056 1059	for
+N47	Reference T16 ConceptId:C1421525	WWOX gene
+N48	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 815 818	had
+N49	Reference T17 ConceptId:C1415458	HADH gene
+N50	Reference T17 SemanticType:gngm	gngm
+T18	MMLite 703 713	hemostatic
+N51	Reference T18 ConceptId:C0019120	Hemostatic Agents
+N52	Reference T18 SemanticType:phsu	phsu
+T19	MMLite 447 457	hemostatic
+N53	Reference T19 ConceptId:C0019120	Hemostatic Agents
+N54	Reference T19 SemanticType:phsu	phsu

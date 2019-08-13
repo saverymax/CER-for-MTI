@@ -1,0 +1,64 @@
+T1	MMLite 934 937	for
+N1	Reference T1 ConceptId:C1421525	WWOX gene
+N2	Reference T1 SemanticType:gngm	gngm
+T2	MMLite 590 599	apoptosis
+N3	Reference T2 ConceptId:C0162638	Apoptosis
+N4	Reference T2 SemanticType:celf	celf
+T3	MMLite 0 4	Zinc
+N5	Reference T3 ConceptId:C0373748	Zinc measurement
+N6	Reference T3 SemanticType:lbpr	lbpr
+N7	Reference T3 ConceptId:C3541396	Zinc Supplements
+N8	Reference T3 ConceptId:C0043481	Zinc
+N9	Reference T3 SemanticType:elii	elii
+N10	Reference T3 ConceptId:C3714650	Zinc Drug Class
+N11	Reference T3 ConceptId:C2348288	Dietary Zinc
+N12	Reference T3 SemanticType:phsu	phsu
+T4	MMLite 27 45	long noncoding RNA
+N13	Reference T4 SemanticType:bacs	bacs
+N14	Reference T4 SemanticType:nnon	nnon
+N15	Reference T4 ConceptId:C3494264	RNA, Long Untranslated
+T5	MMLite 223 227	zinc
+N16	Reference T5 ConceptId:C0373748	Zinc measurement
+N17	Reference T5 SemanticType:lbpr	lbpr
+N18	Reference T5 ConceptId:C3541396	Zinc Supplements
+N19	Reference T5 ConceptId:C3714650	Zinc Drug Class
+N20	Reference T5 ConceptId:C0043481	Zinc
+N21	Reference T5 SemanticType:elii	elii
+N22	Reference T5 ConceptId:C2348288	Dietary Zinc
+N23	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 192 195	end
+N24	Reference T6 SemanticType:aapp	aapp
+N25	Reference T6 SemanticType:imft	imft
+N26	Reference T6 ConceptId:C1366583	ENG gene
+N27	Reference T6 ConceptId:C0082420	Endoglin, human
+N28	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 83 87	Zinc
+N29	Reference T7 ConceptId:C0373748	Zinc measurement
+N30	Reference T7 SemanticType:lbpr	lbpr
+N31	Reference T7 ConceptId:C3541396	Zinc Supplements
+N32	Reference T7 ConceptId:C0043481	Zinc
+N33	Reference T7 SemanticType:elii	elii
+N34	Reference T7 ConceptId:C3714650	Zinc Drug Class
+N35	Reference T7 ConceptId:C2348288	Dietary Zinc
+N36	Reference T7 SemanticType:phsu	phsu
+T8	MMLite 135 154	long non-coding RNA
+N37	Reference T8 SemanticType:bacs	bacs
+N38	Reference T8 SemanticType:nnon	nnon
+N39	Reference T8 ConceptId:C3494264	RNA, Long Untranslated
+T9	MMLite 617 621	drug
+N40	Reference T9 ConceptId:C0013227	Pharmaceutical Preparations
+N41	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 601 605	cell
+N42	Reference T10 ConceptId:C1413336	CEL gene
+N43	Reference T10 SemanticType:gngm	gngm
+T11	MMLite 300 304	RNAs
+N44	Reference T11 ConceptId:C0035668	RNA
+N45	Reference T11 SemanticType:nnon	nnon
+T12	MMLite 203 210	protein
+N46	Reference T12 SemanticType:bacs	bacs
+N47	Reference T12 SemanticType:aapp	aapp
+N48	Reference T12 ConceptId:C0033684	Proteins
+T13	MMLite 332 339	introns
+N49	Reference T13 SemanticType:bacs	bacs
+N50	Reference T13 ConceptId:C0021920	Introns
+N51	Reference T13 SemanticType:nnon	nnon

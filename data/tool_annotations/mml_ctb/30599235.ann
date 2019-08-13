@@ -1,0 +1,47 @@
+T1	MMLite 1149 1158	apoptosis
+N1	Reference T1 ConceptId:C0162638	Apoptosis
+N2	Reference T1 SemanticType:celf	celf
+T2	MMLite 641 645	cell
+N3	Reference T2 ConceptId:C1413336	CEL gene
+N4	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 165 169	RNAs
+N5	Reference T3 ConceptId:C0035668	RNA
+N6	Reference T3 SemanticType:nnon	nnon
+T4	MMLite 732 736	line
+N7	Reference T4 SemanticType:bacs	bacs
+N8	Reference T4 SemanticType:nnon	nnon
+N9	Reference T4 ConceptId:C1517938	Long Interspersed Elements
+T5	MMLite 257 263	LncRNA
+N10	Reference T5 SemanticType:bacs	bacs
+N11	Reference T5 SemanticType:nnon	nnon
+N12	Reference T5 ConceptId:C3494264	RNA, Long Untranslated
+T6	MMLite 727 731	cell
+N13	Reference T6 ConceptId:C1413336	CEL gene
+N14	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 0 19	Long non-coding RNA
+N15	Reference T7 SemanticType:bacs	bacs
+N16	Reference T7 SemanticType:nnon	nnon
+N17	Reference T7 ConceptId:C3494264	RNA, Long Untranslated
+T8	MMLite 646 651	lines
+N18	Reference T8 SemanticType:bacs	bacs
+N19	Reference T8 SemanticType:nnon	nnon
+N20	Reference T8 ConceptId:C1517938	Long Interspersed Elements
+T9	MMLite 447 452	lines
+N21	Reference T9 SemanticType:bacs	bacs
+N22	Reference T9 SemanticType:nnon	nnon
+N23	Reference T9 ConceptId:C1517938	Long Interspersed Elements
+T10	MMLite 1049 1058	apoptosis
+N24	Reference T10 ConceptId:C0162638	Apoptosis
+N25	Reference T10 SemanticType:celf	celf
+T11	MMLite 1641 1650	apoptosis
+N26	Reference T11 ConceptId:C0162638	Apoptosis
+N27	Reference T11 SemanticType:celf	celf
+T12	MMLite 442 446	cell
+N28	Reference T12 ConceptId:C1413336	CEL gene
+N29	Reference T12 SemanticType:gngm	gngm
+T13	MMLite 1220 1229	xenograft
+N30	Reference T13 ConceptId:C0522537	Xenograft type of graft
+N31	Reference T13 SemanticType:bodm	bodm
+T14	MMLite 1855 1858	for
+N32	Reference T14 ConceptId:C1421525	WWOX gene
+N33	Reference T14 SemanticType:gngm	gngm

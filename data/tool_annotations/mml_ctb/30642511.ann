@@ -1,0 +1,63 @@
+T1	MMLite 799 813	2,4-nonadienal
+N1	Reference T1 ConceptId:C0960553	2,4-nonadienal
+N2	Reference T1 SemanticType:orch	orch
+T2	MMLite 3 7	SPME
+N3	Reference T2 SemanticType:orch	orch
+N4	Reference T2 SemanticType:irda	irda
+N5	Reference T2 ConceptId:C0526271	4-sulfophenylmethallyl ether
+T3	MMLite 698 701	was
+N6	Reference T3 SemanticType:bacs	bacs
+N7	Reference T3 SemanticType:aapp	aapp
+N8	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 568 571	had
+N9	Reference T4 ConceptId:C1415458	HADH gene
+N10	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 857 866	1-hexanol
+N11	Reference T5 SemanticType:orch	orch
+N12	Reference T5 ConceptId:C0044399	1-hexanol
+N13	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 1128 1131	for
+N14	Reference T6 ConceptId:C1421525	WWOX gene
+N15	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 1062 1065	was
+N16	Reference T7 SemanticType:bacs	bacs
+N17	Reference T7 SemanticType:aapp	aapp
+N18	Reference T7 ConceptId:C1565156	WAS protein, human
+T8	MMLite 143 146	pea
+N19	Reference T8 SemanticType:bacs	bacs
+N20	Reference T8 SemanticType:orch	orch
+N21	Reference T8 ConceptId:C0070939	phosphoethanolamine
+T9	MMLite 821 835	2,4-decadienal
+N22	Reference T9 SemanticType:bacs	bacs
+N23	Reference T9 SemanticType:orch	orch
+N24	Reference T9 ConceptId:C0378241	2,4-decadienal
+T10	MMLite 240 243	pea
+N25	Reference T10 SemanticType:bacs	bacs
+N26	Reference T10 SemanticType:orch	orch
+N27	Reference T10 ConceptId:C0070939	phosphoethanolamine
+T11	MMLite 314 318	SPME
+N28	Reference T11 SemanticType:orch	orch
+N29	Reference T11 SemanticType:irda	irda
+N30	Reference T11 ConceptId:C0526271	4-sulfophenylmethallyl ether
+T12	MMLite 784 791	hexanal
+N31	Reference T12 SemanticType:orch	orch
+N32	Reference T12 ConceptId:C0068007	n-hexanal
+T13	MMLite 480 483	PCA
+N33	Reference T13 SemanticType:bacs	bacs
+N34	Reference T13 SemanticType:aapp	aapp
+N35	Reference T13 SemanticType:orch	orch
+N36	Reference T13 ConceptId:C0034330	Pyrrolidonecarboxylic Acid
+N37	Reference T13 SemanticType:irda	irda
+N38	Reference T13 ConceptId:C0030131	p-Chloroamphetamine
+N39	Reference T13 SemanticType:phsu	phsu
+T14	MMLite 837 855	3-methyl-1-butanol
+N40	Reference T14 SemanticType:orch	orch
+N41	Reference T14 ConceptId:C0064032	isopentyl alcohol
+T15	MMLite 557 560	pea
+N42	Reference T15 SemanticType:bacs	bacs
+N43	Reference T15 SemanticType:orch	orch
+N44	Reference T15 ConceptId:C0070939	phosphoethanolamine
+T16	MMLite 881 886	furan
+N45	Reference T16 SemanticType:orch	orch
+N46	Reference T16 ConceptId:C0060850	furan
+N47	Reference T16 SemanticType:hops	hops

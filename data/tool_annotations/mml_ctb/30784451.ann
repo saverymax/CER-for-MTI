@@ -1,0 +1,52 @@
+T1	MMLite 883 890	acidity
+N1	Reference T1 ConceptId:C0001128	Acids
+N2	Reference T1 SemanticType:chem	chem
+T2	MMLite 1044 1051	acidity
+N3	Reference T2 ConceptId:C0001128	Acids
+N4	Reference T2 SemanticType:chem	chem
+T3	MMLite 507 510	NH3
+N5	Reference T3 ConceptId:C0201879	Ammonia measurement
+N6	Reference T3 SemanticType:lbpr	lbpr
+T4	MMLite 308 315	sulfate
+N7	Reference T4 ConceptId:C0038720	Sulfates, Inorganic
+N8	Reference T4 SemanticType:inch	inch
+T5	MMLite 15 22	acidity
+N9	Reference T5 ConceptId:C0001128	Acids
+N10	Reference T5 SemanticType:chem	chem
+T6	MMLite 174 187	sulfuric acid
+N11	Reference T6 SemanticType:chvs	chvs
+N12	Reference T6 ConceptId:C0038784	Sulfuric acid
+N13	Reference T6 ConceptId:C0038786	Sulfuric Acids
+N14	Reference T6 SemanticType:inch	inch
+N15	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 72 75	for
+N16	Reference T7 ConceptId:C1421525	WWOX gene
+N17	Reference T7 SemanticType:gngm	gngm
+T8	MMLite 422 425	was
+N18	Reference T8 SemanticType:bacs	bacs
+N19	Reference T8 SemanticType:aapp	aapp
+N20	Reference T8 ConceptId:C1565156	WAS protein, human
+T9	MMLite 609 616	sulfate
+N21	Reference T9 ConceptId:C0038720	Sulfates, Inorganic
+N22	Reference T9 SemanticType:inch	inch
+T10	MMLite 275 278	NH3
+N23	Reference T10 ConceptId:C0201879	Ammonia measurement
+N24	Reference T10 SemanticType:lbpr	lbpr
+T11	MMLite 140 147	acidity
+N25	Reference T11 ConceptId:C0001128	Acids
+N26	Reference T11 SemanticType:chem	chem
+T12	MMLite 773 780	acidity
+N27	Reference T12 ConceptId:C0001128	Acids
+N28	Reference T12 SemanticType:chem	chem
+T13	MMLite 225 228	for
+N29	Reference T13 ConceptId:C1421525	WWOX gene
+N30	Reference T13 SemanticType:gngm	gngm
+T14	MMLite 121 124	NH3
+N31	Reference T14 ConceptId:C0201879	Ammonia measurement
+N32	Reference T14 SemanticType:lbpr	lbpr
+T15	MMLite 631 638	acidity
+N33	Reference T15 ConceptId:C0001128	Acids
+N34	Reference T15 SemanticType:chem	chem
+T16	MMLite 280 283	NH3
+N35	Reference T16 ConceptId:C0201879	Ammonia measurement
+N36	Reference T16 SemanticType:lbpr	lbpr

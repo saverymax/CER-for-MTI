@@ -1,0 +1,42 @@
+T1	MMLite 1779 1782	MMP
+N1	Reference T1 SemanticType:aapp	aapp
+N2	Reference T1 SemanticType:enzy	enzy
+N3	Reference T1 ConceptId:C0623362	Matrix Metalloproteinases
+T2	MMLite 1590 1593	for
+N4	Reference T2 ConceptId:C1421525	WWOX gene
+N5	Reference T2 SemanticType:gngm	gngm
+T3	MMLite 13 28	tyrosine kinase
+N6	Reference T3 SemanticType:aapp	aapp
+N7	Reference T3 ConceptId:C0033681	Protein Tyrosine Kinase
+N8	Reference T3 SemanticType:enzy	enzy
+T4	MMLite 1517 1521	MMPs
+N9	Reference T4 SemanticType:aapp	aapp
+N10	Reference T4 SemanticType:enzy	enzy
+N11	Reference T4 ConceptId:C0623362	Matrix Metalloproteinases
+T5	MMLite 1442 1445	was
+N12	Reference T5 SemanticType:bacs	bacs
+N13	Reference T5 SemanticType:aapp	aapp
+N14	Reference T5 ConceptId:C1565156	WAS protein, human
+T6	MMLite 283 286	for
+N15	Reference T6 ConceptId:C1421525	WWOX gene
+N16	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 1123 1126	was
+N17	Reference T7 SemanticType:bacs	bacs
+N18	Reference T7 SemanticType:aapp	aapp
+N19	Reference T7 ConceptId:C1565156	WAS protein, human
+T8	MMLite 208 223	tyrosine kinase
+N20	Reference T8 SemanticType:aapp	aapp
+N21	Reference T8 ConceptId:C0033681	Protein Tyrosine Kinase
+N22	Reference T8 SemanticType:enzy	enzy
+T9	MMLite 788 791	was
+N23	Reference T9 SemanticType:bacs	bacs
+N24	Reference T9 SemanticType:aapp	aapp
+N25	Reference T9 ConceptId:C1565156	WAS protein, human
+T10	MMLite 1341 1344	was
+N26	Reference T10 SemanticType:bacs	bacs
+N27	Reference T10 SemanticType:aapp	aapp
+N28	Reference T10 ConceptId:C1565156	WAS protein, human
+T11	MMLite 1574 1577	was
+N29	Reference T11 SemanticType:bacs	bacs
+N30	Reference T11 SemanticType:aapp	aapp
+N31	Reference T11 ConceptId:C1565156	WAS protein, human

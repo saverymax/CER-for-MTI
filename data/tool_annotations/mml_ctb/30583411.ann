@@ -1,0 +1,43 @@
+T1	MMLite 600 603	FAA
+N1	Reference T1 ConceptId:C0060441	flavone acetic acid
+N2	Reference T1 SemanticType:orch	orch
+N3	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 824 827	was
+N4	Reference T2 SemanticType:bacs	bacs
+N5	Reference T2 SemanticType:aapp	aapp
+N6	Reference T2 ConceptId:C1565156	WAS protein, human
+T3	MMLite 1115 1118	for
+N7	Reference T3 ConceptId:C1421525	WWOX gene
+N8	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 817 823	5'-GMP
+N9	Reference T4 SemanticType:bacs	bacs
+N10	Reference T4 SemanticType:nnon	nnon
+N11	Reference T4 ConceptId:C0018346	Guanosine Monophosphate
+T5	MMLite 363 366	was
+N12	Reference T5 SemanticType:bacs	bacs
+N13	Reference T5 SemanticType:aapp	aapp
+N14	Reference T5 ConceptId:C1565156	WAS protein, human
+T6	MMLite 806 816	nucleotide
+N15	Reference T6 SemanticType:nnon	nnon
+N16	Reference T6 ConceptId:C0028630	Nucleotides
+T7	MMLite 414 425	nucleotides
+N17	Reference T7 SemanticType:nnon	nnon
+N18	Reference T7 ConceptId:C0028630	Nucleotides
+T8	MMLite 957 960	was
+N19	Reference T8 SemanticType:bacs	bacs
+N20	Reference T8 SemanticType:aapp	aapp
+N21	Reference T8 ConceptId:C1565156	WAS protein, human
+T9	MMLite 320 323	for
+N22	Reference T9 ConceptId:C1421525	WWOX gene
+N23	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 950 956	5'-GMP
+N24	Reference T10 SemanticType:bacs	bacs
+N25	Reference T10 SemanticType:nnon	nnon
+N26	Reference T10 ConceptId:C0018346	Guanosine Monophosphate
+T11	MMLite 388 399	amino acids
+N27	Reference T11 SemanticType:bacs	bacs
+N28	Reference T11 SemanticType:aapp	aapp
+N29	Reference T11 ConceptId:C3539947	Antifibrinolytic amino acids
+N30	Reference T11 ConceptId:C0002520	Amino Acids
+N31	Reference T11 ConceptId:C3539946	Amino Acids, I.V. solution additive
+N32	Reference T11 SemanticType:phsu	phsu

@@ -1,0 +1,40 @@
+T1	Chemlistem 32 37	oxide
+A1	Score T1 0.5314355
+T2	Chemlistem 42 44	Ag
+A2	Score T2 0.6314188
+T3	Chemlistem 561 571	zinc oxide
+A3	Score T3 0.9682519
+T4	Chemlistem 573 576	ZnO
+A4	Score T4 0.8065578
+T5	Chemlistem 579 595	titanium dioxide
+A5	Score T5 0.97984844
+T6	Chemlistem 597 601	TiO2
+A6	Score T6 0.85960233
+T7	Chemlistem 604 610	silver
+A7	Score T7 0.8942871
+T8	Chemlistem 618 621	ZnO
+A8	Score T8 0.7636613
+T9	Chemlistem 623 625	Ag
+A9	Score T9 0.81617045
+T10	Chemlistem 626 629	ZnO
+A10	Score T10 0.8558612
+T11	Chemlistem 635 641	silver
+A11	Score T11 0.84029645
+T12	Chemlistem 649 653	TiO2
+A12	Score T12 0.6350072
+T13	Chemlistem 655 657	Ag
+A13	Score T13 0.6521524
+T14	Chemlistem 658 662	TiO2
+A14	Score T14 0.51467055
+T15	Chemlistem 1617 1620	ZnO
+A15	Score T15 0.5770962
+T16	Chemlistem 1683 1686	ZnO
+A16	Score T16 0.66071707
+T17	Chemlistem 1717 1719	Ag
+A17	Score T17 0.5010934
+T18	Chemlistem 1733 1739	oxides
+A18	Score T18 0.5100403
+T19	Chemlistem 1795 1801	oxides
+A19	Score T19 0.6954263
+T20	Chemlistem 1876 1879	ZnO
+A20	Score T20 0.5465831

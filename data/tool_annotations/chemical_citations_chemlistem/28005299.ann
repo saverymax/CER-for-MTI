@@ -1,0 +1,12 @@
+T1	Chemlistem 282 317	poly(2-hydroxypropyl)methacrylamide
+A1	Score T1 0.9325429
+T2	Chemlistem 319 324	PHPMA
+A2	Score T2 0.7625572
+T3	Chemlistem 511 523	carbohydrate
+A3	Score T3 0.9169195
+T4	Chemlistem 539 545	fucose
+A4	Score T4 0.8636872
+T5	Chemlistem 547 556	galactose
+A5	Score T5 0.943941
+T6	Chemlistem 562 573	sialic acid
+A6	Score T6 0.9026666

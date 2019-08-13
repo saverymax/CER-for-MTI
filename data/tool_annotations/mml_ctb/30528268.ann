@@ -1,0 +1,61 @@
+T1	MMLite 463 466	DNA
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:celc	celc
+N3	Reference T1 ConceptId:C0012854	DNA
+N4	Reference T1 ConceptId:C1325786	DNA location
+N5	Reference T1 SemanticType:nnon	nnon
+T2	MMLite 1396 1406	fatty acid
+N6	Reference T2 SemanticType:orch	orch
+N7	Reference T2 ConceptId:C0015684	Fatty Acids
+T3	MMLite 773 776	RNA
+N8	Reference T3 SemanticType:celc	celc
+N9	Reference T3 ConceptId:C0035668	RNA
+N10	Reference T3 ConceptId:C1325819	RNA location
+N11	Reference T3 SemanticType:nnon	nnon
+T4	MMLite 44 47	RNA
+N12	Reference T4 SemanticType:celc	celc
+N13	Reference T4 ConceptId:C0035668	RNA
+N14	Reference T4 ConceptId:C1325819	RNA location
+N15	Reference T4 SemanticType:nnon	nnon
+T5	MMLite 1217 1226	apoptosis
+N16	Reference T5 ConceptId:C0162638	Apoptosis
+N17	Reference T5 SemanticType:celf	celf
+T6	MMLite 721 725	mice
+N18	Reference T6 ConceptId:C1413131	CASP14 gene
+N19	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 1074 1079	lipid
+N20	Reference T7 SemanticType:orch	orch
+N21	Reference T7 ConceptId:C0023779	Lipids
+T8	MMLite 213 216	was
+N22	Reference T8 SemanticType:bacs	bacs
+N23	Reference T8 SemanticType:aapp	aapp
+N24	Reference T8 ConceptId:C1565156	WAS protein, human
+T9	MMLite 1507 1511	mice
+N25	Reference T9 ConceptId:C1413131	CASP14 gene
+N26	Reference T9 SemanticType:gngm	gngm
+T10	MMLite 1161 1165	cell
+N27	Reference T10 ConceptId:C1413336	CEL gene
+N28	Reference T10 SemanticType:gngm	gngm
+T11	MMLite 575 579	mice
+N29	Reference T11 ConceptId:C1413131	CASP14 gene
+N30	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 395 398	was
+N31	Reference T12 SemanticType:bacs	bacs
+N32	Reference T12 SemanticType:aapp	aapp
+N33	Reference T12 ConceptId:C1565156	WAS protein, human
+T13	MMLite 1144 1148	mice
+N34	Reference T13 ConceptId:C1413131	CASP14 gene
+N35	Reference T13 SemanticType:gngm	gngm
+T14	MMLite 195 198	aim
+N36	Reference T14 SemanticType:aapp	aapp
+N37	Reference T14 SemanticType:imft	imft
+N38	Reference T14 ConceptId:C2744535	CD69 protein, human
+T15	MMLite 521 525	mice
+N39	Reference T15 ConceptId:C1413131	CASP14 gene
+N40	Reference T15 SemanticType:gngm	gngm
+T16	MMLite 138 142	mice
+N41	Reference T16 ConceptId:C1413131	CASP14 gene
+N42	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 75 79	mice
+N43	Reference T17 ConceptId:C1413131	CASP14 gene
+N44	Reference T17 SemanticType:gngm	gngm

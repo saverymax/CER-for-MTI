@@ -1,0 +1,165 @@
+T1	MMLite 668 671	MCs
+N1	Reference T1 ConceptId:C1720911	Microcystins
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C0211296	Microcystin
+N4	Reference T1 SemanticType:hops	hops
+T2	MMLite 1211 1214	MCs
+N5	Reference T2 ConceptId:C1720911	Microcystins
+N6	Reference T2 SemanticType:aapp	aapp
+N7	Reference T2 ConceptId:C0211296	Microcystin
+N8	Reference T2 SemanticType:hops	hops
+T3	MMLite 133 145	Microcystins
+N9	Reference T3 ConceptId:C1720911	Microcystins
+N10	Reference T3 SemanticType:aapp	aapp
+N11	Reference T3 ConceptId:C0211296	Microcystin
+N12	Reference T3 SemanticType:hops	hops
+T4	MMLite 1245 1250	water
+N13	Reference T4 ConceptId:C0043047	Water
+N14	Reference T4 ConceptId:C1547961	Water - Specimen Source Codes
+N15	Reference T4 ConceptId:C0599638	Drinking Water
+N16	Reference T4 SemanticType:inpr	inpr
+N17	Reference T4 SemanticType:inch	inch
+N18	Reference T4 SemanticType:sbst	sbst
+N19	Reference T4 SemanticType:phsu	phsu
+N20	Reference T4 ConceptId:C1550678	Water Specimen
+T5	MMLite 1150 1155	water
+N21	Reference T5 ConceptId:C0043047	Water
+N22	Reference T5 ConceptId:C1547961	Water - Specimen Source Codes
+N23	Reference T5 ConceptId:C0599638	Drinking Water
+N24	Reference T5 SemanticType:inpr	inpr
+N25	Reference T5 SemanticType:inch	inch
+N26	Reference T5 SemanticType:sbst	sbst
+N27	Reference T5 SemanticType:phsu	phsu
+N28	Reference T5 ConceptId:C1550678	Water Specimen
+T6	MMLite 756 759	was
+N29	Reference T6 SemanticType:bacs	bacs
+N30	Reference T6 SemanticType:aapp	aapp
+N31	Reference T6 ConceptId:C1565156	WAS protein, human
+T7	MMLite 675 680	water
+N32	Reference T7 ConceptId:C0043047	Water
+N33	Reference T7 ConceptId:C1547961	Water - Specimen Source Codes
+N34	Reference T7 ConceptId:C0599638	Drinking Water
+N35	Reference T7 SemanticType:inpr	inpr
+N36	Reference T7 SemanticType:sbst	sbst
+N37	Reference T7 SemanticType:inch	inch
+N38	Reference T7 SemanticType:phsu	phsu
+N39	Reference T7 ConceptId:C1550678	Water Specimen
+T8	MMLite 1123 1126	MCs
+N40	Reference T8 ConceptId:C1720911	Microcystins
+N41	Reference T8 SemanticType:aapp	aapp
+N42	Reference T8 ConceptId:C0211296	Microcystin
+N43	Reference T8 SemanticType:hops	hops
+T9	MMLite 521 524	CDP
+N44	Reference T9 SemanticType:bacs	bacs
+N45	Reference T9 SemanticType:orch	orch
+N46	Reference T9 ConceptId:C0010724	Cytidine Diphosphate
+N47	Reference T9 SemanticType:nnon	nnon
+N48	Reference T9 ConceptId:C0008188	Chlordiazepoxide
+N49	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 290 293	was
+N50	Reference T10 SemanticType:bacs	bacs
+N51	Reference T10 SemanticType:aapp	aapp
+N52	Reference T10 ConceptId:C1565156	WAS protein, human
+T11	MMLite 658 661	for
+N53	Reference T11 ConceptId:C1421525	WWOX gene
+N54	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 594 597	for
+N55	Reference T12 ConceptId:C1421525	WWOX gene
+N56	Reference T12 SemanticType:gngm	gngm
+T13	MMLite 239 242	for
+N57	Reference T13 ConceptId:C1421525	WWOX gene
+N58	Reference T13 SemanticType:gngm	gngm
+T14	MMLite 491 494	MCs
+N59	Reference T14 ConceptId:C1720911	Microcystins
+N60	Reference T14 SemanticType:aapp	aapp
+N61	Reference T14 ConceptId:C0211296	Microcystin
+N62	Reference T14 SemanticType:hops	hops
+T15	MMLite 368 371	CDP
+N63	Reference T15 SemanticType:bacs	bacs
+N64	Reference T15 SemanticType:orch	orch
+N65	Reference T15 ConceptId:C0010724	Cytidine Diphosphate
+N66	Reference T15 SemanticType:nnon	nnon
+N67	Reference T15 ConceptId:C0008188	Chlordiazepoxide
+N68	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 1136 1141	water
+N69	Reference T16 ConceptId:C0043047	Water
+N70	Reference T16 ConceptId:C1547961	Water - Specimen Source Codes
+N71	Reference T16 ConceptId:C0599638	Drinking Water
+N72	Reference T16 SemanticType:inpr	inpr
+N73	Reference T16 SemanticType:sbst	sbst
+N74	Reference T16 SemanticType:inch	inch
+N75	Reference T16 SemanticType:phsu	phsu
+N76	Reference T16 ConceptId:C1550678	Water Specimen
+T17	MMLite 441 444	for
+N77	Reference T17 ConceptId:C1421525	WWOX gene
+N78	Reference T17 SemanticType:gngm	gngm
+T18	MMLite 1062 1065	was
+N79	Reference T18 SemanticType:bacs	bacs
+N80	Reference T18 SemanticType:aapp	aapp
+N81	Reference T18 ConceptId:C1565156	WAS protein, human
+T19	MMLite 787 790	MCs
+N82	Reference T19 ConceptId:C1720911	Microcystins
+N83	Reference T19 SemanticType:aapp	aapp
+N84	Reference T19 ConceptId:C0211296	Microcystin
+N85	Reference T19 SemanticType:hops	hops
+T20	MMLite 147 150	MCs
+N86	Reference T20 ConceptId:C1720911	Microcystins
+N87	Reference T20 SemanticType:aapp	aapp
+N88	Reference T20 ConceptId:C0211296	Microcystin
+N89	Reference T20 SemanticType:hops	hops
+T21	MMLite 332 346	γ-cyclodextrin
+N90	Reference T21 ConceptId:C0056784	gamma-cyclodextrin
+N91	Reference T21 SemanticType:orch	orch
+N92	Reference T21 SemanticType:phsu	phsu
+T22	MMLite 118 123	water
+N93	Reference T22 ConceptId:C0043047	Water
+N94	Reference T22 ConceptId:C1547961	Water - Specimen Source Codes
+N95	Reference T22 ConceptId:C0599638	Drinking Water
+N96	Reference T22 SemanticType:inpr	inpr
+N97	Reference T22 SemanticType:inch	inch
+N98	Reference T22 SemanticType:sbst	sbst
+N99	Reference T22 ConceptId:C1550678	Water Specimen
+N100	Reference T22 SemanticType:phsu	phsu
+T23	MMLite 770 773	for
+N101	Reference T23 ConceptId:C1421525	WWOX gene
+N102	Reference T23 SemanticType:gngm	gngm
+T24	MMLite 11 31	cyclodextrin polymer
+N103	Reference T24 SemanticType:orch	orch
+N104	Reference T24 ConceptId:C0056744	cyclodextrin polymer
+T25	MMLite 1241 1244	sea
+N105	Reference T25 SemanticType:aapp	aapp
+N106	Reference T25 SemanticType:hops	hops
+N107	Reference T25 ConceptId:C0059385	Staphylococcal enterotoxin A
+T26	MMLite 334 354	cyclodextrin polymer
+N108	Reference T26 SemanticType:orch	orch
+N109	Reference T26 ConceptId:C0056744	cyclodextrin polymer
+T27	MMLite 1146 1149	sea
+N110	Reference T27 SemanticType:aapp	aapp
+N111	Reference T27 SemanticType:hops	hops
+N112	Reference T27 ConceptId:C0059385	Staphylococcal enterotoxin A
+T28	MMLite 598 601	MCs
+N113	Reference T28 ConceptId:C1720911	Microcystins
+N114	Reference T28 SemanticType:aapp	aapp
+N115	Reference T28 ConceptId:C0211296	Microcystin
+N116	Reference T28 SemanticType:hops	hops
+T29	MMLite 9 23	γ-cyclodextrin
+N117	Reference T29 ConceptId:C0056784	gamma-cyclodextrin
+N118	Reference T29 SemanticType:orch	orch
+N119	Reference T29 SemanticType:phsu	phsu
+T30	MMLite 102 114	microcystins
+N120	Reference T30 ConceptId:C1720911	Microcystins
+N121	Reference T30 SemanticType:aapp	aapp
+N122	Reference T30 ConceptId:C0211296	Microcystin
+N123	Reference T30 SemanticType:hops	hops
+T31	MMLite 1087 1090	for
+N124	Reference T31 ConceptId:C1421525	WWOX gene
+N125	Reference T31 SemanticType:gngm	gngm
+T32	MMLite 794 799	water
+N126	Reference T32 ConceptId:C0043047	Water
+N127	Reference T32 ConceptId:C1547961	Water - Specimen Source Codes
+N128	Reference T32 ConceptId:C0599638	Drinking Water
+N129	Reference T32 SemanticType:inpr	inpr
+N130	Reference T32 SemanticType:inch	inch
+N131	Reference T32 SemanticType:sbst	sbst
+N132	Reference T32 ConceptId:C1550678	Water Specimen
+N133	Reference T32 SemanticType:phsu	phsu

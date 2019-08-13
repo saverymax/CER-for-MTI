@@ -1,0 +1,79 @@
+T1	MMLite 2175 2178	Myc
+N1	Reference T1 ConceptId:C0080065	Proto-Oncogene Proteins c-myc
+N2	Reference T1 SemanticType:bacs	bacs
+N3	Reference T1 SemanticType:aapp	aapp
+T2	MMLite 1886 1889	CNC
+N4	Reference T2 SemanticType:orch	orch
+N5	Reference T2 SemanticType:phsu	phsu
+N6	Reference T2 ConceptId:C1337242	cinacalcet
+T3	MMLite 2212 2215	for
+N7	Reference T3 ConceptId:C1421525	WWOX gene
+N8	Reference T3 SemanticType:gngm	gngm
+T4	MMLite 742 745	RNA
+N9	Reference T4 SemanticType:celc	celc
+N10	Reference T4 ConceptId:C0035668	RNA
+N11	Reference T4 ConceptId:C1325819	RNA location
+N12	Reference T4 SemanticType:nnon	nnon
+T5	MMLite 1149 1156	protein
+N13	Reference T5 SemanticType:bacs	bacs
+N14	Reference T5 SemanticType:aapp	aapp
+N15	Reference T5 ConceptId:C0033684	Proteins
+T6	MMLite 1365 1368	Il6
+N16	Reference T6 SemanticType:bacs	bacs
+N17	Reference T6 SemanticType:aapp	aapp
+N18	Reference T6 ConceptId:C0021760	Interleukin-6
+N19	Reference T6 SemanticType:imft	imft
+N20	Reference T6 ConceptId:C1698754	IL6 protein, human
+T7	MMLite 307 311	RNAs
+N21	Reference T7 ConceptId:C0035668	RNA
+N22	Reference T7 SemanticType:nnon	nnon
+T8	MMLite 1521 1524	CNC
+N23	Reference T8 SemanticType:orch	orch
+N24	Reference T8 SemanticType:phsu	phsu
+N25	Reference T8 ConceptId:C1337242	cinacalcet
+T9	MMLite 1094 1097	was
+N26	Reference T9 SemanticType:bacs	bacs
+N27	Reference T9 SemanticType:aapp	aapp
+N28	Reference T9 ConceptId:C1565156	WAS protein, human
+T10	MMLite 1423 1426	was
+N29	Reference T10 SemanticType:bacs	bacs
+N30	Reference T10 SemanticType:aapp	aapp
+N31	Reference T10 ConceptId:C1565156	WAS protein, human
+T11	MMLite 1183 1186	was
+N32	Reference T11 SemanticType:bacs	bacs
+N33	Reference T11 SemanticType:aapp	aapp
+N34	Reference T11 ConceptId:C1565156	WAS protein, human
+T12	MMLite 1060 1066	LncRNA
+N35	Reference T12 SemanticType:bacs	bacs
+N36	Reference T12 SemanticType:nnon	nnon
+N37	Reference T12 ConceptId:C3494264	RNA, Long Untranslated
+T13	MMLite 1020 1023	for
+N38	Reference T13 ConceptId:C1421525	WWOX gene
+N39	Reference T13 SemanticType:gngm	gngm
+T14	MMLite 2151 2154	Il6
+N40	Reference T14 SemanticType:bacs	bacs
+N41	Reference T14 SemanticType:aapp	aapp
+N42	Reference T14 ConceptId:C0021760	Interleukin-6
+N43	Reference T14 SemanticType:imft	imft
+N44	Reference T14 ConceptId:C1698754	IL6 protein, human
+T15	MMLite 1170 1173	PPI
+N45	Reference T15 ConceptId:C0358591	Proton Pump Inhibitors
+N46	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 1410 1413	PPI
+N47	Reference T16 ConceptId:C0358591	Proton Pump Inhibitors
+N48	Reference T16 SemanticType:phsu	phsu
+T17	MMLite 1122 1125	for
+N49	Reference T17 ConceptId:C1421525	WWOX gene
+N50	Reference T17 SemanticType:gngm	gngm
+T18	MMLite 1141 1148	protein
+N51	Reference T18 SemanticType:bacs	bacs
+N52	Reference T18 SemanticType:aapp	aapp
+N53	Reference T18 ConceptId:C0033684	Proteins
+T19	MMLite 1067 1071	mRNA
+N54	Reference T19 SemanticType:bacs	bacs
+N55	Reference T19 ConceptId:C0035696	RNA, Messenger
+N56	Reference T19 SemanticType:nnon	nnon
+T20	MMLite 684 687	was
+N57	Reference T20 SemanticType:bacs	bacs
+N58	Reference T20 SemanticType:aapp	aapp
+N59	Reference T20 ConceptId:C1565156	WAS protein, human

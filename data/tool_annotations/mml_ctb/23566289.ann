@@ -1,0 +1,222 @@
+T1	MMLite 1333 1337	IL-6
+N1	Reference T1 SemanticType:bacs	bacs
+N2	Reference T1 SemanticType:aapp	aapp
+N3	Reference T1 ConceptId:C0021760	Interleukin-6
+N4	Reference T1 SemanticType:imft	imft
+N5	Reference T1 ConceptId:C1698754	IL6 protein, human
+N6	Reference T1 ConceptId:C1527132	Recombinant Interleukin-6
+N7	Reference T1 SemanticType:phsu	phsu
+T2	MMLite 1224 1227	Epo
+N8	Reference T2 ConceptId:C1366564	EPO gene
+N9	Reference T2 SemanticType:bacs	bacs
+N10	Reference T2 SemanticType:aapp	aapp
+N11	Reference T2 ConceptId:C0014822	Erythropoietin
+N12	Reference T2 ConceptId:C1414438	EPX gene
+N13	Reference T2 ConceptId:C0357126	Epoetin Alfa
+N14	Reference T2 SemanticType:lbpr	lbpr
+N15	Reference T2 ConceptId:C2976467	EPO protein, human
+N16	Reference T2 SemanticType:horm	horm
+N17	Reference T2 ConceptId:C0202001	Erythropoietin measurement
+N18	Reference T2 SemanticType:gngm	gngm
+N19	Reference T2 SemanticType:phsu	phsu
+T3	MMLite 985 988	was
+N20	Reference T3 SemanticType:bacs	bacs
+N21	Reference T3 SemanticType:aapp	aapp
+N22	Reference T3 ConceptId:C1565156	WAS protein, human
+T4	MMLite 738 740	Hb
+N23	Reference T4 SemanticType:bacs	bacs
+N24	Reference T4 SemanticType:aapp	aapp
+N25	Reference T4 ConceptId:C0019046	Hemoglobin
+T5	MMLite 424 433	cytokines
+N26	Reference T5 ConceptId:C1524094	Recombinant Cytokines
+N27	Reference T5 SemanticType:aapp	aapp
+N28	Reference T5 SemanticType:imft	imft
+N29	Reference T5 ConceptId:C0079189	cytokine
+N30	Reference T5 SemanticType:phsu	phsu
+T6	MMLite 652 655	Epo
+N31	Reference T6 SemanticType:bacs	bacs
+N32	Reference T6 ConceptId:C1366564	EPO gene
+N33	Reference T6 SemanticType:aapp	aapp
+N34	Reference T6 ConceptId:C1414438	EPX gene
+N35	Reference T6 ConceptId:C0357126	Epoetin Alfa
+N36	Reference T6 ConceptId:C0014822	Erythropoietin
+N37	Reference T6 SemanticType:lbpr	lbpr
+N38	Reference T6 ConceptId:C2976467	EPO protein, human
+N39	Reference T6 SemanticType:horm	horm
+N40	Reference T6 ConceptId:C0202001	Erythropoietin measurement
+N41	Reference T6 SemanticType:gngm	gngm
+N42	Reference T6 SemanticType:phsu	phsu
+T7	MMLite 939 942	Epo
+N43	Reference T7 SemanticType:bacs	bacs
+N44	Reference T7 ConceptId:C1366564	EPO gene
+N45	Reference T7 SemanticType:aapp	aapp
+N46	Reference T7 ConceptId:C1414438	EPX gene
+N47	Reference T7 ConceptId:C0014822	Erythropoietin
+N48	Reference T7 ConceptId:C0357126	Epoetin Alfa
+N49	Reference T7 SemanticType:lbpr	lbpr
+N50	Reference T7 ConceptId:C2976467	EPO protein, human
+N51	Reference T7 SemanticType:horm	horm
+N52	Reference T7 ConceptId:C0202001	Erythropoietin measurement
+N53	Reference T7 SemanticType:gngm	gngm
+N54	Reference T7 SemanticType:phsu	phsu
+T8	MMLite 1587 1595	cytokine
+N55	Reference T8 SemanticType:aapp	aapp
+N56	Reference T8 SemanticType:imft	imft
+N57	Reference T8 ConceptId:C0079189	cytokine
+T9	MMLite 1067 1075	ferritin
+N58	Reference T9 SemanticType:bacs	bacs
+N59	Reference T9 SemanticType:aapp	aapp
+N60	Reference T9 ConceptId:C0015879	Ferritin
+N61	Reference T9 SemanticType:phsu	phsu
+T10	MMLite 1295 1306	iron levels
+N62	Reference T10 SemanticType:lbpr	lbpr
+N63	Reference T10 ConceptId:C0337439	Iron measurement
+T11	MMLite 1870 1873	for
+N64	Reference T11 ConceptId:C1421525	WWOX gene
+N65	Reference T11 SemanticType:gngm	gngm
+T12	MMLite 657 684	tumor necrosis factor-alpha
+N66	Reference T12 SemanticType:bacs	bacs
+N67	Reference T12 ConceptId:C1448177	TNF protein, human
+N68	Reference T12 SemanticType:aapp	aapp
+N69	Reference T12 SemanticType:imft	imft
+N70	Reference T12 ConceptId:C0041368	Tumor Necrosis Factors
+N71	Reference T12 ConceptId:C1456820	Tumor Necrosis Factor-alpha
+T13	MMLite 451 453	Hb
+N72	Reference T13 SemanticType:bacs	bacs
+N73	Reference T13 SemanticType:aapp	aapp
+N74	Reference T13 ConceptId:C0019046	Hemoglobin
+T14	MMLite 1419 1422	for
+N75	Reference T14 ConceptId:C1421525	WWOX gene
+N76	Reference T14 SemanticType:gngm	gngm
+T15	MMLite 405 408	Epo
+N77	Reference T15 SemanticType:bacs	bacs
+N78	Reference T15 ConceptId:C1366564	EPO gene
+N79	Reference T15 SemanticType:aapp	aapp
+N80	Reference T15 ConceptId:C0357126	Epoetin Alfa
+N81	Reference T15 ConceptId:C0014822	Erythropoietin
+N82	Reference T15 ConceptId:C1414438	EPX gene
+N83	Reference T15 SemanticType:lbpr	lbpr
+N84	Reference T15 ConceptId:C2976467	EPO protein, human
+N85	Reference T15 SemanticType:horm	horm
+N86	Reference T15 ConceptId:C0202001	Erythropoietin measurement
+N87	Reference T15 SemanticType:gngm	gngm
+N88	Reference T15 SemanticType:phsu	phsu
+T16	MMLite 439 449	hemoglobin
+N89	Reference T16 SemanticType:bacs	bacs
+N90	Reference T16 SemanticType:aapp	aapp
+N91	Reference T16 ConceptId:C0019046	Hemoglobin
+T17	MMLite 1050 1054	IL-6
+N92	Reference T17 SemanticType:bacs	bacs
+N93	Reference T17 SemanticType:aapp	aapp
+N94	Reference T17 ConceptId:C0021760	Interleukin-6
+N95	Reference T17 SemanticType:imft	imft
+N96	Reference T17 ConceptId:C1698754	IL6 protein, human
+N97	Reference T17 ConceptId:C1527132	Recombinant Interleukin-6
+N98	Reference T17 SemanticType:phsu	phsu
+T18	MMLite 912 915	had
+N99	Reference T18 ConceptId:C1415458	HADH gene
+N100	Reference T18 SemanticType:gngm	gngm
+T19	MMLite 968 970	Hb
+N101	Reference T19 SemanticType:bacs	bacs
+N102	Reference T19 SemanticType:aapp	aapp
+N103	Reference T19 ConceptId:C0019046	Hemoglobin
+T20	MMLite 707 709	IL
+N104	Reference T20 SemanticType:aapp	aapp
+N105	Reference T20 SemanticType:imft	imft
+N106	Reference T20 ConceptId:C1527200	Recombinant Interleukins
+N107	Reference T20 ConceptId:C0021764	Interleukins
+N108	Reference T20 SemanticType:phsu	phsu
+T21	MMLite 389 403	erythropoietin
+N109	Reference T21 ConceptId:C1366564	EPO gene
+N110	Reference T21 SemanticType:moft	moft
+N111	Reference T21 ConceptId:C0376541	Recombinant Erythropoietin
+N112	Reference T21 SemanticType:phsu	phsu
+N113	Reference T21 SemanticType:bacs	bacs
+N114	Reference T21 SemanticType:aapp	aapp
+N115	Reference T21 ConceptId:C0357126	Epoetin Alfa
+N116	Reference T21 ConceptId:C0014822	Erythropoietin
+N117	Reference T21 SemanticType:lbpr	lbpr
+N118	Reference T21 ConceptId:C2976467	EPO protein, human
+N119	Reference T21 SemanticType:horm	horm
+N120	Reference T21 ConceptId:C0202001	Erythropoietin measurement
+N121	Reference T21 SemanticType:gngm	gngm
+N122	Reference T21 ConceptId:C1755594	erythropoietin activity
+T22	MMLite 694 705	interleukin
+N123	Reference T22 SemanticType:aapp	aapp
+N124	Reference T22 SemanticType:imft	imft
+N125	Reference T22 ConceptId:C1527200	Recombinant Interleukins
+N126	Reference T22 ConceptId:C0021764	Interleukins
+N127	Reference T22 SemanticType:phsu	phsu
+T23	MMLite 1451 1455	iron
+N128	Reference T23 SemanticType:bacs	bacs
+N129	Reference T23 ConceptId:C0376520	Dietary Iron
+N130	Reference T23 SemanticType:lbpr	lbpr
+N131	Reference T23 SemanticType:elii	elii
+N132	Reference T23 SemanticType:inch	inch
+N133	Reference T23 ConceptId:C3714701	Iron Drug Class
+N134	Reference T23 ConceptId:C0302583	Iron
+N135	Reference T23 ConceptId:C0337439	Iron measurement
+N136	Reference T23 SemanticType:phsu	phsu
+N137	Reference T23 ConceptId:C1166521	Ferrum metallicum, Homeopathic preparation
+T24	MMLite 1056 1061	TNF-α
+N138	Reference T24 SemanticType:bacs	bacs
+N139	Reference T24 SemanticType:aapp	aapp
+N140	Reference T24 ConceptId:C1448177	TNF protein, human
+N141	Reference T24 SemanticType:imft	imft
+N142	Reference T24 ConceptId:C0041368	Tumor Necrosis Factors
+N143	Reference T24 ConceptId:C1456820	Tumor Necrosis Factor-alpha
+T25	MMLite 721 725	iron
+N144	Reference T25 SemanticType:bacs	bacs
+N145	Reference T25 ConceptId:C0376520	Dietary Iron
+N146	Reference T25 SemanticType:lbpr	lbpr
+N147	Reference T25 SemanticType:elii	elii
+N148	Reference T25 ConceptId:C3714701	Iron Drug Class
+N149	Reference T25 SemanticType:inch	inch
+N150	Reference T25 ConceptId:C0302583	Iron
+N151	Reference T25 ConceptId:C0337439	Iron measurement
+N152	Reference T25 SemanticType:phsu	phsu
+N153	Reference T25 ConceptId:C1166521	Ferrum metallicum, Homeopathic preparation
+T26	MMLite 1525 1527	Hb
+N154	Reference T26 SemanticType:bacs	bacs
+N155	Reference T26 SemanticType:aapp	aapp
+N156	Reference T26 ConceptId:C0019046	Hemoglobin
+T27	MMLite 686 691	TNF-α
+N157	Reference T27 SemanticType:bacs	bacs
+N158	Reference T27 SemanticType:aapp	aapp
+N159	Reference T27 ConceptId:C1448177	TNF protein, human
+N160	Reference T27 SemanticType:imft	imft
+N161	Reference T27 ConceptId:C0041368	Tumor Necrosis Factors
+N162	Reference T27 ConceptId:C1456820	Tumor Necrosis Factor-alpha
+T28	MMLite 1566 1569	Epo
+N163	Reference T28 ConceptId:C1366564	EPO gene
+N164	Reference T28 SemanticType:bacs	bacs
+N165	Reference T28 SemanticType:aapp	aapp
+N166	Reference T28 ConceptId:C1414438	EPX gene
+N167	Reference T28 ConceptId:C0357126	Epoetin Alfa
+N168	Reference T28 ConceptId:C0014822	Erythropoietin
+N169	Reference T28 SemanticType:lbpr	lbpr
+N170	Reference T28 ConceptId:C2976467	EPO protein, human
+N171	Reference T28 SemanticType:horm	horm
+N172	Reference T28 ConceptId:C0202001	Erythropoietin measurement
+N173	Reference T28 SemanticType:gngm	gngm
+N174	Reference T28 SemanticType:phsu	phsu
+T29	MMLite 1113 1115	Hb
+N175	Reference T29 SemanticType:bacs	bacs
+N176	Reference T29 SemanticType:aapp	aapp
+N177	Reference T29 ConceptId:C0019046	Hemoglobin
+T30	MMLite 1163 1167	IL-6
+N178	Reference T30 SemanticType:bacs	bacs
+N179	Reference T30 SemanticType:aapp	aapp
+N180	Reference T30 ConceptId:C0021760	Interleukin-6
+N181	Reference T30 SemanticType:imft	imft
+N182	Reference T30 ConceptId:C1698754	IL6 protein, human
+N183	Reference T30 ConceptId:C1527132	Recombinant Interleukin-6
+N184	Reference T30 SemanticType:phsu	phsu
+T31	MMLite 714 719	IL-10
+N185	Reference T31 SemanticType:aapp	aapp
+N186	Reference T31 ConceptId:C1522550	Recombinant Interleukin-10
+N187	Reference T31 SemanticType:imft	imft
+N188	Reference T31 ConceptId:C1699802	IL10 protein, human
+N189	Reference T31 ConceptId:C0085295	Interleukin-10
+N190	Reference T31 ConceptId:C2983956	Human Interleukin-10 (Nonglycosylated)
+N191	Reference T31 SemanticType:phsu	phsu

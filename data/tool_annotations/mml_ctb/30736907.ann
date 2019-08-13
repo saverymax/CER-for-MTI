@@ -1,0 +1,112 @@
+T1	MMLite 1050 1066	laminin receptor
+N1	Reference T1 SemanticType:aapp	aapp
+N2	Reference T1 SemanticType:imft	imft
+N3	Reference T1 SemanticType:rcpt	rcpt
+N4	Reference T1 ConceptId:C0064634	Laminin Receptor
+T2	MMLite 317 331	cell receptors
+N5	Reference T2 SemanticType:aapp	aapp
+N6	Reference T2 ConceptId:C0034800	Receptors, Cell Surface
+N7	Reference T2 SemanticType:rcpt	rcpt
+T3	MMLite 618 635	laminin receptors
+N8	Reference T3 SemanticType:aapp	aapp
+N9	Reference T3 SemanticType:imft	imft
+N10	Reference T3 SemanticType:rcpt	rcpt
+N11	Reference T3 ConceptId:C0064634	Laminin Receptor
+T4	MMLite 580 597	laminin receptors
+N12	Reference T4 SemanticType:aapp	aapp
+N13	Reference T4 SemanticType:imft	imft
+N14	Reference T4 SemanticType:rcpt	rcpt
+N15	Reference T4 ConceptId:C0064634	Laminin Receptor
+T5	MMLite 902 914	glycoprotein
+N16	Reference T5 SemanticType:bacs	bacs
+N17	Reference T5 SemanticType:aapp	aapp
+N18	Reference T5 SemanticType:orch	orch
+N19	Reference T5 ConceptId:C0072522	polysaccharide-K
+N20	Reference T5 SemanticType:phsu	phsu
+N21	Reference T5 ConceptId:C0017968	Glycoproteins
+T6	MMLite 880 890	dystrophin
+N22	Reference T6 SemanticType:bacs	bacs
+N23	Reference T6 SemanticType:aapp	aapp
+N24	Reference T6 ConceptId:C1414083	DMD gene
+N25	Reference T6 ConceptId:C0079259	Dystrophin
+N26	Reference T6 SemanticType:gngm	gngm
+T7	MMLite 697 705	integrin
+N27	Reference T7 SemanticType:aapp	aapp
+N28	Reference T7 ConceptId:C0021701	Integrins
+N29	Reference T7 SemanticType:imft	imft
+N30	Reference T7 SemanticType:rcpt	rcpt
+T8	MMLite 937 940	can
+N31	Reference T8 SemanticType:mnob	mnob
+N32	Reference T8 ConceptId:C1704712	Can - object
+T9	MMLite 333 341	Laminins
+N33	Reference T9 SemanticType:bacs	bacs
+N34	Reference T9 SemanticType:aapp	aapp
+N35	Reference T9 ConceptId:C0022984	Laminin
+T10	MMLite 13 30	laminin receptors
+N36	Reference T10 SemanticType:aapp	aapp
+N37	Reference T10 SemanticType:imft	imft
+N38	Reference T10 SemanticType:rcpt	rcpt
+N39	Reference T10 ConceptId:C0064634	Laminin Receptor
+T11	MMLite 824 831	subunit
+N40	Reference T11 SemanticType:aapp	aapp
+N41	Reference T11 ConceptId:C0599220	Protein Subunits
+T12	MMLite 609 617	integrin
+N42	Reference T12 SemanticType:aapp	aapp
+N43	Reference T12 ConceptId:C0021701	Integrins
+N44	Reference T12 SemanticType:imft	imft
+N45	Reference T12 SemanticType:rcpt	rcpt
+T13	MMLite 929 936	protein
+N46	Reference T13 SemanticType:bacs	bacs
+N47	Reference T13 SemanticType:aapp	aapp
+N48	Reference T13 ConceptId:C0033684	Proteins
+T14	MMLite 832 839	protein
+N49	Reference T14 SemanticType:bacs	bacs
+N50	Reference T14 SemanticType:aapp	aapp
+N51	Reference T14 ConceptId:C0033684	Proteins
+T15	MMLite 4 12	integrin
+N52	Reference T15 SemanticType:aapp	aapp
+N53	Reference T15 ConceptId:C0021701	Integrins
+N54	Reference T15 SemanticType:imft	imft
+N55	Reference T15 SemanticType:rcpt	rcpt
+T16	MMLite 1119 1123	cell
+N56	Reference T16 ConceptId:C1413336	CEL gene
+N57	Reference T16 SemanticType:gngm	gngm
+T17	MMLite 176 179	can
+N58	Reference T17 SemanticType:mnob	mnob
+N59	Reference T17 ConceptId:C1704712	Can - object
+T18	MMLite 228 232	cell
+N60	Reference T18 ConceptId:C1413336	CEL gene
+N61	Reference T18 SemanticType:gngm	gngm
+T19	MMLite 549 558	integrins
+N62	Reference T19 SemanticType:aapp	aapp
+N63	Reference T19 ConceptId:C0021701	Integrins
+N64	Reference T19 SemanticType:imft	imft
+N65	Reference T19 SemanticType:rcpt	rcpt
+T20	MMLite 774 790	laminin receptor
+N66	Reference T20 SemanticType:aapp	aapp
+N67	Reference T20 SemanticType:imft	imft
+N68	Reference T20 SemanticType:rcpt	rcpt
+N69	Reference T20 ConceptId:C0064634	Laminin Receptor
+T21	MMLite 751 763	dystroglycan
+N70	Reference T21 SemanticType:bacs	bacs
+N71	Reference T21 SemanticType:aapp	aapp
+N72	Reference T21 ConceptId:C0097550	Dystroglycans
+T22	MMLite 372 385	glycoproteins
+N73	Reference T22 SemanticType:bacs	bacs
+N74	Reference T22 SemanticType:aapp	aapp
+N75	Reference T22 SemanticType:orch	orch
+N76	Reference T22 ConceptId:C0072522	polysaccharide-K
+N77	Reference T22 SemanticType:phsu	phsu
+N78	Reference T22 ConceptId:C0017968	Glycoproteins
+T23	MMLite 706 723	laminin receptors
+N79	Reference T23 SemanticType:aapp	aapp
+N80	Reference T23 SemanticType:imft	imft
+N81	Reference T23 SemanticType:rcpt	rcpt
+N82	Reference T23 ConceptId:C0064634	Laminin Receptor
+T24	MMLite 802 814	Dystroglycan
+N83	Reference T24 SemanticType:bacs	bacs
+N84	Reference T24 SemanticType:aapp	aapp
+N85	Reference T24 ConceptId:C0097550	Dystroglycans
+T25	MMLite 475 483	isoforms
+N86	Reference T25 SemanticType:aapp	aapp
+N87	Reference T25 ConceptId:C0597298	Protein Isoforms

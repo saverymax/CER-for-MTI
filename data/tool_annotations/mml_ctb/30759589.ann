@@ -1,0 +1,57 @@
+T1	MMLite 1657 1664	mercury
+N1	Reference T1 ConceptId:C2348272	Dietary Mercury
+N2	Reference T1 ConceptId:C0025424	Mercury
+N3	Reference T1 SemanticType:elii	elii
+N4	Reference T1 SemanticType:hops	hops
+T2	MMLite 1509 1516	mercury
+N5	Reference T2 ConceptId:C2348272	Dietary Mercury
+N6	Reference T2 ConceptId:C0025424	Mercury
+N7	Reference T2 SemanticType:elii	elii
+N8	Reference T2 SemanticType:hops	hops
+T3	MMLite 357 364	mercury
+N9	Reference T3 ConceptId:C2348272	Dietary Mercury
+N10	Reference T3 ConceptId:C0025424	Mercury
+N11	Reference T3 SemanticType:elii	elii
+N12	Reference T3 SemanticType:hops	hops
+T4	MMLite 1022 1025	for
+N13	Reference T4 ConceptId:C1421525	WWOX gene
+N14	Reference T4 SemanticType:gngm	gngm
+T5	MMLite 240 247	mercury
+N15	Reference T5 ConceptId:C2348272	Dietary Mercury
+N16	Reference T5 ConceptId:C0025424	Mercury
+N17	Reference T5 SemanticType:elii	elii
+N18	Reference T5 SemanticType:hops	hops
+T6	MMLite 192 199	mercury
+N19	Reference T6 ConceptId:C2348272	Dietary Mercury
+N20	Reference T6 ConceptId:C0025424	Mercury
+N21	Reference T6 SemanticType:elii	elii
+N22	Reference T6 SemanticType:hops	hops
+T7	MMLite 109 116	Mercury
+N23	Reference T7 ConceptId:C2348272	Dietary Mercury
+N24	Reference T7 ConceptId:C0025424	Mercury
+N25	Reference T7 SemanticType:elii	elii
+N26	Reference T7 SemanticType:hops	hops
+T8	MMLite 923 926	was
+N27	Reference T8 SemanticType:bacs	bacs
+N28	Reference T8 SemanticType:aapp	aapp
+N29	Reference T8 ConceptId:C1565156	WAS protein, human
+T9	MMLite 1052 1059	mercury
+N30	Reference T9 ConceptId:C2348272	Dietary Mercury
+N31	Reference T9 ConceptId:C0025424	Mercury
+N32	Reference T9 SemanticType:elii	elii
+N33	Reference T9 SemanticType:hops	hops
+T10	MMLite 29 36	mercury
+N34	Reference T10 ConceptId:C2348272	Dietary Mercury
+N35	Reference T10 ConceptId:C0025424	Mercury
+N36	Reference T10 SemanticType:elii	elii
+N37	Reference T10 SemanticType:hops	hops
+T11	MMLite 557 564	mercury
+N38	Reference T11 ConceptId:C2348272	Dietary Mercury
+N39	Reference T11 ConceptId:C0025424	Mercury
+N40	Reference T11 SemanticType:elii	elii
+N41	Reference T11 SemanticType:hops	hops
+T12	MMLite 861 868	mercury
+N42	Reference T12 ConceptId:C2348272	Dietary Mercury
+N43	Reference T12 ConceptId:C0025424	Mercury
+N44	Reference T12 SemanticType:elii	elii
+N45	Reference T12 SemanticType:hops	hops

@@ -1,0 +1,30 @@
+T1	Chemlistem 11 22	validamycin
+A1	Score T1 0.91749245
+T2	Chemlistem 156 167	Validamycin
+A2	Score T2 0.87910295
+T3	Chemlistem 345 356	validamycin
+A3	Score T3 0.89226824
+T4	Chemlistem 458 459	F
+A4	Score T4 0.78774536
+T5	Chemlistem 483 494	validamycin
+A5	Score T5 0.689124
+T6	Chemlistem 522 536	deoxynivalenol
+A6	Score T6 0.83937114
+T7	Chemlistem 642 649	glucose
+A7	Score T7 0.94760853
+T8	Chemlistem 654 662	pyruvate
+A8	Score T8 0.9359621
+T9	Chemlistem 750 751	F
+A9	Score T9 0.6972193
+T10	Chemlistem 893 904	validamycin
+A10	Score T10 0.6660564
+T11	Chemlistem 1073 1084	validamycin
+A11	Score T11 0.79451406
+T12	Chemlistem 1162 1163	F
+A12	Score T12 0.7222042
+T13	Chemlistem 1292 1303	validamycin
+A13	Score T13 0.61120486
+T14	Chemlistem 1406 1417	validamycin
+A14	Score T14 0.70669997
+T15	Chemlistem 1469 1477	triazole
+A15	Score T15 0.5925489

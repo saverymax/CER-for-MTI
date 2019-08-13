@@ -1,0 +1,32 @@
+T1	Chemlistem 22 30	curcumin
+A1	Score T1 0.9765277
+T2	Chemlistem 35 44	capsaicin
+A2	Score T2 0.96630794
+T3	Chemlistem 48 64	cyclophosphamide
+A3	Score T3 0.96812874
+T4	Chemlistem 577 585	curcumin
+A4	Score T4 0.9692151
+T5	Chemlistem 596 605	capsaicin
+A5	Score T5 0.94324785
+T6	Chemlistem 607 610	CPS
+A6	Score T6 0.74264956
+T7	Chemlistem 615 631	cyclophosphamide
+A7	Score T7 0.9605331
+T8	Chemlistem 742 758	cyclophosphamide
+A8	Score T8 0.96080637
+T9	Chemlistem 833 849	cyclophosphamide
+A9	Score T9 0.9433758
+T10	Chemlistem 1047 1063	cyclophosphamide
+A10	Score T10 0.953361
+T11	Chemlistem 1245 1258	Malonaldehyde
+A11	Score T11 0.8985605
+T12	Chemlistem 1298 1309	glutathione
+A12	Score T12 0.9439694
+T13	Chemlistem 1321 1331	superoxide
+A13	Score T13 0.88559246
+T14	Chemlistem 1975 1984	estradiol
+A14	Score T14 0.9293667
+T15	Chemlistem 2173 2189	cyclophosphamide
+A15	Score T15 0.9198188
+T16	Chemlistem 2572 2588	cyclophosphamide
+A16	Score T16 0.9295151
