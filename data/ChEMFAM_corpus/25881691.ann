@@ -1,0 +1,17 @@
+T1	organic 13 37	11C-dihydrotetrabenazine
+T2	organic 688 718	11C-(+)-α-dihydrotetrabenazine
+T3	organic 720 728	11C-DTBZ
+T4	organic 774 781	18F-FDG
+T5	organic 786 794	18F-DOPA
+T6	organic 850 858	11C-DTBZ
+T7	peptides 905 910	VMAT2
+T8	peptides 1032 1039	insulin
+T9	peptides 1143 1152	C-peptide
+T10	organic 1262 1270	11C-DTBZ
+T11	organic 1360 1368	18F-DOPA
+T12	organic 1390 1398	11C-DTBZ
+T13	peptides 1436 1441	VMAT2
+T14	organic 1632 1640	11C-DTBZ
+T15	peptides 1750 1755	VMAT2
+T16	peptides 609 618	C-peptide
+T17	peptides 651 658	insulin

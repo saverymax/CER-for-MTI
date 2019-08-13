@@ -1,0 +1,48 @@
+T1	organic 90 112	dextran sulfate sodium
+T2	organic 156 178	dextran sulfate sodium
+T3	organic 180 183	DSS
+T6	organic 460 463	DSS
+T9	peptides 609 625	heme oxygenase-1
+T10	peptides 627 631	HO-1
+T11	peptides 634 664	NADPH quinone oxidoreductase-1
+T12	peptides 666 670	NQO1
+T13	peptides 673 702	γ-glutamylcysteine synthetase
+T14	peptides 704 709	γ-GCS
+T15	peptides 712 755	nuclear factor erythroid 2-related factor-2
+T16	peptides 757 761	Nrf2
+T17	peptides 5 48	nuclear factor erythroid 2-related factor-2
+T18	peptides 768 773	keap1
+T19	organic 830 833	DSS
+T20	organic 435 438	DSS
+T21	organic 330 333	DSS
+T22	organic 864 867	DSS
+T23	nucleotides 907 912	COX-2
+T24	nucleotides 919 923	Nrf2
+T25	organic 1011 1014	DSS
+T26	peptides 1064 1069	COX-2
+T27	peptides 1070 1075	NF-κB
+T28	peptides 1080 1084	HO-1
+T29	peptides 1085 1089	Nrf2
+T30	peptides 1102 1106	Nrf2
+T31	peptides 1125 1130	keap1
+T32	peptides 1176 1180	HO-1
+T33	organic 1200 1203	DSS
+T34	peptides 1225 1230	NF-κB
+T35	organic 1310 1313	DSS
+T37	peptides 1363 1367	HO-1
+T38	organic 1409 1412	DSS
+T39	peptides 1471 1475	NQO1
+T40	organic 1509 1512	DSS
+T41	nucleotides 1531 1535	Nrf2
+T42	peptides 1622 1627	COX-2
+T43	peptides 1654 1658	HO-1
+T44	peptides 1663 1668	γ-GCS
+T45	organic 1791 1794	DSS
+T46	peptides 1880 1884	Nrf2
+T4	nucleotides 1325 1330	COX-2
+T5	peptides 574 579	COX-2
+T7	peptides 582 599	nuclear factor-κB
+T8	peptides 601 606	NF-κB
+T36	peptides 556 572	cyclooxygenase-2
+T47	peptides 673 691	γ-glutamylcysteine
+T48	nucleotides 634 639	NADPH

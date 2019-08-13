@@ -1,0 +1,44 @@
+T1	peptides 130 151	PTEN-induced kinase 1
+T2	peptides 153 158	PINK1
+T3	peptides 0 5	PINK1
+T4	peptides 21 24	VCP
+T5	peptides 25 28	p97
+T6	peptides 43 46	PKA
+T7	peptides 58 64	NSFL1C
+T8	peptides 65 68	p47
+T9	peptides 385 388	VCP
+T10	peptides 357 383	valosin-containing protein
+T11	peptides 401 406	PINK1
+T12	peptides 463 466	VCP
+T13	peptides 484 490	NSFL1C
+T14	peptides 491 494	p47
+T15	peptides 528 533	PINK1
+T16	peptides 578 583	PINK1
+T17	peptides 613 616	p47
+T18	peptides 630 633	VCP
+T19	peptides 644 648	UFD1
+T20	peptides 667 670	VCP
+T21	peptides 675 678	p47
+T22	peptides 702 705	PKA
+T23	peptides 721 726	PINK1
+T24	peptides 777 780	PKA
+T25	peptides 790 803	PKAcat(pT197)
+T26	peptides 790 796	PKAcat
+T27	peptides 835 849	PKA holoenzyme
+T28	peptides 851 854	PKA
+T29	peptides 878 881	p47
+T30	peptides 835 838	PKA
+T31	peptides 950 955	PINK1
+T32	peptides 991 1005	PKA holoenzyme
+T33	peptides 991 994	PKA
+T34	peptides 1014 1017	VCP
+T35	peptides 1018 1021	p47
+T36	peptides 1081 1086	PINK1
+T37	peptides 1105 1110	PINK1
+T38	peptides 1111 1114	VCP
+T39	peptides 1115 1118	PKA
+T40	peptides 1119 1122	p47
+T41	peptides 1301 1306	PINK1
+T42	peptides 1342 1345	VCP
+T43	peptides 130 134	PTEN
+T44	peptides 357 364	valosin

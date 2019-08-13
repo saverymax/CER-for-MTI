@@ -1,0 +1,38 @@
+T1	peptides 14 33	adenosine deaminase
+T3	organic 58 71	valproic acid
+T7	organic 213 222	uric acid
+T11	organic 524 537	valproic acid
+T12	organic 539 542	VPA
+T13	peptides 577 596	adenosine deaminase
+T14	peptides 598 601	ADA
+T15	peptides 607 623	xanthine oxidase
+T16	peptides 625 627	XO
+T19	organic 751 767	ethinylestradiol
+T20	organic 779 793	levonorgestrel
+T21	organic 817 820	VPA
+T22	peptides 944 947	ADA
+T23	peptides 977 979	XO
+T24	organic 990 999	uric acid
+T25	organic 1000 1004	(UA)
+T27	organic 1032 1043	cholesterol
+T28	organic 1049 1064	malondialdehyde
+T29	organic 1109 1112	VPA
+T30	organic 1133 1136	VPA
+T31	organic 1171 1182	aldosterone
+T32	organic 1184 1198	corticosterone
+T33	peptides 1200 1203	ADA
+T35	peptides 1309 1311	XO
+T36	peptides 1343 1346	ADA
+T37	organic 1360 1362	UA
+T38	organic 1366 1369	VPA
+T41	organic 1519 1522	VPA
+T42	peptides 14 23	adenosine
+T43	organic 38 46	xanthine
+T6	peptides 577 586	adenosine
+T8	organic 1013 1024	cholesterol
+T26	peptides 1626 1628	XO
+T40	peptides 1622 1625	ADA
+T45	organic 1629 1631	UA
+T4	organic 607 615	xanthine
+T2	peptides 38 54	xanthine oxidase
+#1	AnnotatorNotes T2	Though this doesn't necessarily refer to one enzyme, they are using it that way in this text

@@ -1,0 +1,13 @@
+T1	organic 680 686	fucose
+T2	organic 879 890	Sialic acid
+T3	organic 895 900	fucos
+T4	organic 1029 1035	fucose
+T5	organic 1045 1056	sialic acid
+T7	organic 1438 1442	sLeX
+T8	organic 1430 1433	LeY
+T9	organic 1420 1423	LeB
+T10	organic 1425 1428	LeX
+T11	organic 1541 1547	fucose
+T12	organic 1648 1651	LeY
+T13	organic 1618 1631	Galβ1-4GlcNAc
+#1	AnnotatorNotes T13	https://pubchem.ncbi.nlm.nih.gov/compound/N-Acetyl-D-lactosamine

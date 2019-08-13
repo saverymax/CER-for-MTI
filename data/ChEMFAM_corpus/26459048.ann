@@ -1,0 +1,13 @@
+T1	peptides 0 4	GLI2
+T3	peptides 144 176	GLI family zinc finger protein 2
+T4	peptides 178 182	GLI2
+T6	peptides 303 307	GLI2
+T7	peptides 409 415	GLI2∆N
+T9	peptides 532 536	GLI2
+T12	peptides 263 269	GLI2∆N
+T5	peptides 778 782	GLI2
+T14	peptides 847 853	GLI2∆N
+T15	peptides 881 885	GLI2
+T16	peptides 887 893	GLI2∆C
+T18	peptides 1082 1086	GLI2
+#1	AnnotatorNotes T16	C-terminally truncated GLI2 is not a specific protein because it doesn't correspond exactly to the acronym

@@ -1,0 +1,27 @@
+T1	peptides 24 35	angiotensin
+T4	peptides 98 109	angiotensin
+T5	peptides 354 365	angiotensin
+T9	peptides 609 624	angiotensinogen
+T11	peptides 691 705	Angiotensin II
+T13	peptides 707 725	angiotensin (1-12)
+T14	peptides 727 740	angiotensin A
+T15	peptides 745 760	angiotensin III
+T16	peptides 779 809	angiotensin II type 1 receptor
+T17	peptides 989 1019	angiotensin II type 2 receptor
+T18	peptides 1021 1035	angiotensin II
+T21	peptides 1127 1144	angiotensin (1-9)
+T22	peptides 1146 1163	angiotensin (1-7)
+T23	peptides 1165 1175	alamandine
+T24	peptides 1180 1194	angiotensin IV
+T2	peptides 989 1003	angiotensin II
+T3	peptides 989 1000	angiotensin
+T6	peptides 691 702	Angiotensin
+T7	peptides 707 718	angiotensin
+T8	peptides 727 738	angiotensin
+T10	peptides 745 756	angiotensin
+T12	peptides 779 793	angiotensin II
+T20	peptides 779 790	angiotensin
+T25	peptides 1021 1032	angiotensin
+T19	peptides 1127 1138	angiotensin
+T26	peptides 1146 1157	angiotensin
+T27	peptides 1180 1191	angiotensin

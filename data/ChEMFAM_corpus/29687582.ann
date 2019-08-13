@@ -1,0 +1,17 @@
+T4	inorganic 417 423	silver
+T5	inorganic 425 427	Ag
+T6	inorganic 533 535	Ag
+T7	inorganic 768 770	Ag
+T8	inorganic 131 133	Ag
+T9	inorganic 128 130	Cu
+T10	inorganic 125 127	Mg
+T11	inorganic 121 124	LiF
+T12	inorganic 181 184	LiF
+T13	inorganic 185 187	Mg
+T14	inorganic 188 190	Cu
+T15	inorganic 191 192	P
+T16	inorganic 98 101	LiF
+T17	inorganic 102 104	Mg
+T18	inorganic 105 107	Cu
+T19	inorganic 108 110	Ag
+#1	AnnotatorNotes T16	https://cchemistry.stackexchange.com/questions/31585/what-is-the-meaning-of-the-colon-notation-in-chemical-formulas

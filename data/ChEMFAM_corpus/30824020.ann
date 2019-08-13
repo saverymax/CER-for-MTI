@@ -1,0 +1,23 @@
+T2	organic 48 69	lysophosphatidic acid
+T1	organic 153 169	α-linolenic acid
+T3	peptides 278 317	2-lysophosphatidic acid acyltransferase
+T4	peptides 319 324	LPAAT
+T5	peptides 278 301	2-lysophosphatidic acid
+T6	organic 389 405	α-linolenic acid
+T7	peptides 503 509	LPAAT2
+T8	peptides 579 586	LPAAT2A
+T9	peptides 588 596	LPAAT2A2
+T10	peptides 601 608	LPAAT2B
+T11	peptides 637 642	LPAAT
+T12	peptides 784 791	LPAAT2A
+T13	peptides 841 849	LPAAT2A2
+T14	peptides 854 861	LPAAT2B
+T15	organic 885 890;915 920	oleic acids
+T16	organic 892 900;915 920	linoleic acids
+T17	organic 905 914;915 920	linolenic acids
+T18	peptides 932 939	LPAAT2A
+T19	peptides 1279 1286	LPAAT2A
+T23	organic 1010 1025	linolenic acids
+T24	organic 1365 1380	linolenic acids
+T20	organic 1352 1360;1375 1380	linoleic acids
+T21	organic 997 1005;1020 1025	linoleic acids

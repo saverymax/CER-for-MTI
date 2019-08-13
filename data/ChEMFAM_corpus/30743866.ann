@@ -1,0 +1,21 @@
+T1	inorganic 66 79	nitrous oxide
+T2	inorganic 54 61	ammonia
+T3	inorganic 202 209	ammonia
+T4	inorganic 211 214	NH3
+T5	inorganic 235 248	nitrous oxide
+T6	inorganic 250 253	N2O
+T7	organic 626 661	N-(n-butyl) thiophosphoric triamide
+T8	organic 663 667	NBPT
+T9	organic 727 757	3,4-dimethylpyrazole phosphate
+T10	organic 759 763	DMPP
+T11	inorganic 912 915	NH3
+T12	inorganic 935 938	N2O
+T13	inorganic 1024 1032	nitrogen
+T14	inorganic 1034 1035	N
+T15	inorganic 1410 1411	N
+T16	organic 776 780	Urea
+T17	organic 1328 1332	Urea
+T18	organic 885 889	Urea
+T19	organic 998 1002	urea
+T20	organic 1151 1155	urea
+T21	organic 1304 1308	urea

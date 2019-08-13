@@ -1,0 +1,18 @@
+T10	peptides 263 269	apoA-I
+T11	organic 356 367	cholesterol
+T14	peptides 520 526	apoA-I
+T15	organic 550 569	phosphatidylcholine
+T21	peptides 895 899	Aβ40
+T22	peptides 904 908	Aβ42
+T34	peptides 1664 1670	apoA-I
+T1	peptides 206 220;226 229	apolipoprotein A-I
+T2	peptides 475 492	reconstituted HDL
+T3	peptides 494 498	rHDL
+T4	peptides 816 820	rHDL
+T5	peptides 974 978	rHDL
+T6	peptides 1143 1147	rHDL
+T7	peptides 1196 1200	rHDL
+T9	peptides 1236 1240	rHDL
+T12	peptides 1448 1452	rHDL
+T13	peptides 1549 1553	rHDL
+T8	peptides 222 225;226 229	apo A-I

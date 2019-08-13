@@ -1,0 +1,16 @@
+T1	nucleotides 40 44	CDK2
+T2	nucleotides 49 53	PAK4
+T6	nucleotides 534 559	cyclin-dependent kinase 2
+T7	nucleotides 561 565	CDK2
+T11	nucleotides 615 619	PAK4
+T13	nucleotides 719 723	CDK2
+T14	nucleotides 728 732	PAK4
+T17	peptides 1285 1289	CDK2
+T18	peptides 1294 1298	PAK4
+T8	nucleotides 571 613	p21 protein (Cdc42/Rac)-activated kinase 4
+T3	nucleotides 571 574	p21
+T4	nucleotides 584 589	Cdc42
+T5	nucleotides 590 593	Rac
+T9	nucleotides 1076 1080	CDK2
+T12	nucleotides 1081 1085	PAK4
+#1	AnnotatorNotes T8	https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=DetailsSearch&Term=431769

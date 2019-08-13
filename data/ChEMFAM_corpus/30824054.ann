@@ -1,0 +1,25 @@
+T1	peptides 36 42	AtCaN2
+T2	inorganic 12 16	Ca2+
+T3	inorganic 474 478	Ca2+
+T4	peptides 499 505	AtCaN2
+T5	peptides 635 641	AtCaN2
+T6	peptides 819 825	AtCaN2
+T7	peptides 907 913	AtCaN2
+T8	inorganic 995 999	H2O2
+T9	nucleotides 1026 1032	atcan2
+T10	inorganic 1100 1104	H2O2
+T11	peptides 1162 1168	AtAPX1
+T12	peptides 1170 1176	AtGPX8
+T13	peptides 1182 1188	AtSOD1
+T14	peptides 1244 1266	ascorbate peroxidase 1
+T15	peptides 1268 1292	glutathione peroxidase 8
+T16	peptides 1298 1320	superoxide dismutase 1
+T17	nucleotides 1363 1369	atcan2
+T18	peptides 1472 1478	AtCaN2
+T19	nucleotides 1532 1538	atcan2
+T20	peptides 1596 1602	AtCaN2
+T21	peptides 1662 1668	AtCaN2
+T22	peptides 1268 1279	glutathione
+T23	organic 1244 1253	ascorbate
+T24	inorganic 1209 1215	oxygen
+T25	peptides 0 35	Arabidopsis Ca2+-dependent nuclease

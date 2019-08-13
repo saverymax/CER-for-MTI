@@ -1,0 +1,17 @@
+T1	organic 282 317	poly(2-hydroxypropyl)methacrylamide
+T2	organic 319 324	PHPMA
+T9	organic 539 545	fucose
+T10	organic 547 556	galactose
+T12	organic 614 619	PHPMA
+T17	organic 863 871	polyHPMA
+T19	organic 229 233	SLeX
+T20	peptides 920 931	P-selectins
+T21	organic 877 881	SLeX
+T22	peptides 908 910;922 931	E- selectins
+T23	peptides 912 914;922 931	L- selectins
+T3	organic 214 227	sialyl-LewisX
+T4	peptides 387 395	tyramine
+T7	peptides 651 659	tyramine
+T5	inorganic 376 377	O
+T6	inorganic 640 641	O
+T8	organic 562 573	sialic acid

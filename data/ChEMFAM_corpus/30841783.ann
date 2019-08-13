@@ -1,0 +1,26 @@
+T1	organic 0 12	Progesterone
+T2	peptides 0 21	Progesterone receptor
+T4	nucleotides 361 382	progesterone receptor
+T5	peptides 408 429	Progesterone receptor
+T6	peptides 434 438	Ki67
+T8	organic 408 420	Progesterone
+T9	peptides 654 675	progesterone-receptor
+T10	organic 654 666	progesterone
+T11	peptides 619 640	progesterone-receptor
+T12	organic 619 631	progesterone
+T13	peptides 723 744	progesterone-receptor
+T14	organic 723 735	progesterone
+T15	peptides 1060 1081	progesterone-receptor
+T16	organic 1060 1072	progesterone
+T17	peptides 1225 1246	progesterone receptor
+T18	organic 1225 1237	progesterone
+T19	peptides 1286 1307	progesterone receptor
+T20	organic 1286 1298	progesterone
+T21	peptides 1311 1315	Ki67
+T22	peptides 1437 1458	progesterone receptor
+T23	organic 1437 1449	progesterone
+T25	peptides 1723 1744	progesterone receptor
+T26	organic 1723 1735	progesterone
+T27	organic 361 373	progesterone
+T28	peptides 510 527	estrogen-receptor
+T29	peptides 1591 1608	estrogen-receptor

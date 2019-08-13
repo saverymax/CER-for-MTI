@@ -1,0 +1,22 @@
+T2	organic 37 44	acetate
+T3	organic 88 95	glucose
+T5	organic 203 210	acetate
+T7	organic 246 253	Acetate
+T8	inorganic 306 323	hydrogen peroxide
+T9	organic 389 396	Acetate
+T12	organic 424 444	tetramethylbenzidine
+T13	organic 446 449	TMB
+T14	inorganic 454 458	H2O2
+T15	organic 500 507	glucose
+T17	inorganic 555 559	H2O2
+T18	organic 564 571	glucose
+T19	organic 592 604	acetate ions
+T20	organic 757 764	glucose
+T21	inorganic 937 941	H2O2
+T22	organic 961 968	glucose
+T23	organic 1173 1180	glucose
+T24	organic 1088 1095	glucose
+T6	organic 108 115	Acetate
+T4	peptides 383 386	HRP
+T10	peptides 359 381	horseradish peroxidase
+T11	peptides 512 527	glucose oxidase

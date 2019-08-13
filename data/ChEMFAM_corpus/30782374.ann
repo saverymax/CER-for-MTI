@@ -1,0 +1,15 @@
+T1	inorganic 125 129	H2O2
+T2	inorganic 134 138	H2O2
+T3	inorganic 327 331	H2O2
+T4	inorganic 366 372	silver
+T5	inorganic 607 611	H2O2
+T6	inorganic 685 691	carbon
+T7	inorganic 701 707	silver
+T8	inorganic 926 930	H2O2
+T9	inorganic 1103 1107	H2O2
+T10	inorganic 1253 1257	H2O2
+T11	organic 1330 1337	glucose
+T12	peptides 1356 1371	glucose oxidase
+T13	inorganic 50 56	carbon
+T14	inorganic 62 68	silver
+T15	organic 1356 1363	glucose

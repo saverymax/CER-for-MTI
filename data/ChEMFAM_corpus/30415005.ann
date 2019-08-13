@@ -1,0 +1,23 @@
+T1	nucleotides 429 439	miR-423-5p
+T2	peptides 444 451	GRIM-19
+T3	nucleotides 14 24	miR-423-5p
+T4	peptides 70 77	GRIM-19
+T5	nucleotides 106 116	miR-423-5p
+T6	nucleotides 177 187	miR-423-5p
+T7	peptides 192 199	GRIM-19
+T9	nucleotides 543 553	miR-423-5p
+T10	peptides 614 621	GRIM-19
+T11	nucleotides 662 672	miR-423-5p
+T13	peptides 774 779	BCL-2
+T14	nucleotides 816 826	miR-423-5p
+T15	peptides 832 839	GRIM-19
+T16	nucleotides 868 878	miR-423-5p
+T17	nucleotides 906 916	miR-423-5p
+T18	peptides 1003 1010	GRIM-19
+T19	nucleotides 1044 1054	miR-423-5p
+T20	nucleotides 1117 1127	miR-423-5p
+T21	peptides 1132 1139	GRIM-19
+T22	nucleotides 1210 1220	miR-423-5p
+T23	peptides 1253 1260	GRIM-19
+T8	peptides 792 799	GRIM-19
+#1	AnnotatorNotes T4	Measured through western blot, thus entities are proteins

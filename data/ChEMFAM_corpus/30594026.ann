@@ -1,0 +1,20 @@
+T5	organic 294 338	polycyclic polyprenylated acylphloroglucinol
+T6	organic 351 365	hyperelatone A
+T8	organic 418 435	hyperelatones B-H
+T9	organic 487 504	hyperelatones A-H
+T10	inorganic 772 789	hydrogen peroxide
+T11	inorganic 791 795	H2O2
+T14	inorganic 912 924	nitric oxide
+T15	inorganic 926 928	NO
+T18	organic 992 1005	cinchonain Ib
+T19	organic 1011 1022	tenuiside A
+T20	organic 1092 1107	Hyperelatones D
+T21	organic 1092 1105;1109 1110	Hyperelatones G
+T22	organic 1092 1105;1116 1117	Hyperelatones H
+T23	organic 1119 1134	(-)-epicatechin
+T24	organic 1136 1147	tenuiside A
+T25	organic 1153 1186	(Z)-3-hexenyl-β-D-glucopyranoside
+T1	organic 0 44	Polycyclic polyprenylated acylphloroglucinol
+T2	organic 967 980;981 982	Hyperelatones B
+T3	organic 967 980;983 984	Hyperelatones D
+T7	organic 967 980;989 990	Hyperelatones H

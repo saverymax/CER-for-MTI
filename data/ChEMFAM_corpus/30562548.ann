@@ -1,0 +1,58 @@
+T6	peptides 145 164	Parathyroid hormone
+T7	peptides 166 169	PTH
+T8	peptides 235 240	Runx2
+T10	organic 194 201	calcium
+T11	peptides 0 19	Parathyroid hormone
+T12	peptides 35 40	Runx2
+T13	nucleotides 97 112	lnc-SUPT3H-1:16
+T14	nucleotides 114 126	RUNX2-AS1:32
+T15	nucleotides 132 143	miR-6797-5p
+T16	peptides 516 519	PTH
+T17	peptides 554 559	Runx2
+T20	peptides 671 674	PTH
+T21	nucleotides 736 741	Runx2
+T26	nucleotides 835 840	Runx2
+T27	nucleotides 860 875	lnc-SUPT3H-1:16
+T28	nucleotides 877 889	RUNX2-AS1:32
+T29	peptides 937 940	PTH
+T30	nucleotides 981 992	miR-6797-5p
+T31	nucleotides 1019 1034	lnc-SUPT3H-1:16
+T32	peptides 1039 1044	Runx2
+T33	nucleotides 1115 1126	miR-6797-5p
+T34	nucleotides 1160 1171	miR-6797-5p
+T35	nucleotides 1246 1261	lnc-SUPT3H-1:16
+T39	nucleotides 1346 1357	miR-6797-5p
+T40	nucleotides 1363 1378	lnc-SUPT3H-1:16
+T42	nucleotides 1389 1394	Runx2
+T43	peptides 1416 1419	PTH
+T44	nucleotides 1449 1464	lnc-SUPT3H-1:16
+T45	nucleotides 1466 1477	miR-6797-5p
+T46	peptides 1482 1487	Runx2
+T47	nucleotides 1551 1562	miR-6797-5p
+T48	nucleotides 1526 1542	lnc- SUPT3H-1:16
+T49	nucleotides 1564 1569	Runx2
+T1	peptides 1073 1076	PTH
+T2	nucleotides 101 107	SUPT3H
+T3	nucleotides 114 119	RUNX2
+T4	nucleotides 864 870	SUPT3H
+T5	nucleotides 877 882	RUNX2
+T9	nucleotides 1023 1029	SUPT3H
+T18	nucleotides 1250 1256	SUPT3H
+T19	nucleotides 1367 1373	SUPT3H
+T22	nucleotides 1531 1537	SUPT3H
+T23	nucleotides 1363 1375	lnc-SUPT3H-1
+T24	nucleotides 97 109	lnc-SUPT3H-1
+T25	nucleotides 132 140	miR-6797
+T36	nucleotides 860 872	lnc-SUPT3H-1
+T37	nucleotides 981 989	miR-6797
+T38	nucleotides 1115 1123	miR-6797
+T41	nucleotides 1246 1256	lnc-SUPT3H
+T50	nucleotides 1346 1354	miR-6797
+T51	nucleotides 1466 1474	miR-6797
+T52	nucleotides 1449 1459	lnc-SUPT3H
+T53	nucleotides 1526 1539	lnc- SUPT3H-1
+T54	nucleotides 1551 1559	miR-6797
+T55	nucleotides 1019 1031	lnc-SUPT3H-1
+T56	nucleotides 877 886	RUNX2-AS1
+T57	nucleotides 114 123	RUNX2-AS1
+#1	AnnotatorNotes T13	The : notation refers to a specific transcript of that gene/rna, as described in the paper. Here the gene and transcript are annotated.

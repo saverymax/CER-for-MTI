@@ -1,0 +1,17 @@
+T1	inorganic 924 936	nitric oxide
+T2	inorganic 938 940	NO
+T4	inorganic 896 912	hydroxyl radical
+T5	inorganic 914 917	HO•
+T8	peptides 1083 1091	catalase
+T9	peptides 1093 1096	CAT
+T10	peptides 1099 1110	glutathione
+T11	peptides 1112 1115	GSH
+T19	organic 1510 1519	bilirubin
+T20	organic 1531 1541	creatinine
+T3	peptides 1118 1129	glutathione
+T7	peptides 1055 1075	superoxide dismutase
+T12	peptides 1077 1080	SOD
+T13	peptides 1118 1140	glutathione peroxidase
+T6	peptides 1142 1145	GPx
+T14	peptides 1469 1480	haemoglobin
+T15	inorganic 837 843	oxygen

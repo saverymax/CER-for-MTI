@@ -1,0 +1,24 @@
+T1	organic 0 12	Halofuginone
+T2	organic 86 98	Halofuginone
+T3	organic 242 254	halofuginone
+T4	nucleotides 321 324	mdx
+T5	nucleotides 329 333	dysf
+T6	organic 469 481	halofuginone
+T7	nucleotides 572 576	BrdU
+T8	peptides 636 654	phospho-histone H3
+T9	peptides 656 660	PHH3
+T10	peptides 666 670	MyoD
+T12	nucleotides 797 801	BrdU
+T18	organic 981 993	halofuginone
+T19	nucleotides 1079 1083	dysf
+T20	organic 1095 1107	halofuginone
+T21	peptides 1116 1119	Bax
+T22	peptides 1132 1136	Bcl2
+T23	peptides 1167 1170	Akt
+T24	peptides 1247 1271	phosphinositide-3-kinase
+T25	peptides 1272 1275	Akt
+T26	organic 1297 1309	halofuginone
+T28	organic 1497 1509	halofuginone
+T11	organic 1384 1398	halofuginone's
+T13	peptides 849 881	mitogen-activated protein kinase
+T14	peptides 882 927	extracellular signal-regulated protein kinase

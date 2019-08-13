@@ -1,0 +1,18 @@
+T1	inorganic 34 40	carbon
+T3	inorganic 119 123	H2O2
+T4	organic 128 136	ascorbic
+T5	inorganic 200 206	carbon
+T7	organic 483 513	3,3',5,5'-tetramethylbenzidine
+T8	organic 515 518	TMB
+T9	inorganic 539 543	H2O2
+T11	peptides 796 818	Horseradish peroxidase
+T13	peptides 820 823	HRP
+T14	inorganic 964 968	H2O2
+T15	organic 992 995	TMB
+T16	inorganic 1042 1046	H2O2
+T17	organic 1158 1161	TMB
+T18	organic 1163 1169	ox-TMB
+T19	organic 1166 1169	TMB
+T20	organic 1201 1204	TMB
+T21	organic 1227 1240	ascorbic acid
+T22	organic 1325 1338	ascorbic acid

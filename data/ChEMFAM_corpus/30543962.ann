@@ -1,0 +1,38 @@
+T1	inorganic 23 37	sulfur dioxide
+T5	inorganic 171 174	SO2
+T7	inorganic 346 349	SO2
+T8	nucleotides 105 117	mir-30c-1-3p
+T9	peptides 119 164	transforming growth factor β type II receptor
+T10	organic 354 357	BaP
+T12	organic 552 555	MTT
+T13	organic 592 595	BaP
+T14	inorganic 626 629	SO2
+T16	nucleotides 805 811	Col1a1
+T17	nucleotides 813 819	Col3a1
+T18	nucleotides 821 830	alpha-SMA
+T19	nucleotides 832 843	fibronectin
+T20	peptides 849 855	TGFβR2
+T21	nucleotides 989 1001	mir-30c-1-3p
+T24	nucleotides 1096 1108	mir-30c-1-3p
+T26	nucleotides 1126 1132	TGFβR2
+T27	inorganic 1156 1159	SO2
+T28	organic 1164 1167	BaP
+T29	inorganic 1260 1263	SO2
+T30	organic 1268 1271	BaP
+T32	peptides 1331 1337	TGFβR2
+T33	nucleotides 1352 1364	mir-30c-1-3p
+T34	nucleotides 1469 1481	mir-30c-1-3p
+T35	nucleotides 1436 1442	TGFβR2
+T37	nucleotides 1519 1531	mir-30c-1-3p
+T38	inorganic 1588 1591	SO2
+T39	organic 1596 1599	BaP
+T40	nucleotides 1622 1628	TGFβR2
+T42	inorganic 1714 1717	SO2
+T2	peptides 119 155	transforming growth factor β type II
+#1	AnnotatorNotes T1	Dioxide is not an anion; it only refers to the two oxygen atoms bonded to sulfur. 
+T3	nucleotides 105 114	mir-30c-1
+T4	nucleotides 989 998	mir-30c-1
+T6	nucleotides 1096 1105	mir-30c-1
+T11	nucleotides 1352 1361	mir-30c-1
+T15	nucleotides 1469 1478	mir-30c-1
+T22	nucleotides 1519 1528	mir-30c-1

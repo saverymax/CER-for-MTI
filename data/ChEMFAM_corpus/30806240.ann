@@ -1,0 +1,23 @@
+T1	organic 0 6	Lutein
+T2	peptides 60 64	PI3K
+T3	peptides 65 68	AKT
+T4	peptides 69 73	mTOR
+T5	organic 479 485	Lutein
+T6	organic 505 515	ε-carotene
+T7	organic 487 503	3,3'-dihydroxy-β
+T8	organic 704 710	lutein
+T9	organic 789 795	lutein
+T10	organic 883 886	MTT
+T11	organic 888 948	3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide
+T12	organic 1029 1035	lutein
+T13	organic 1117 1123	lutein
+T14	peptides 1189 1225	terminal deoxynucleotidyltransferase
+T15	nucleotides 1235 1239	dUTP
+T16	organic 1263 1266	DAP
+T17	organic 1269 1298	4',6-diamidino-2-phenylindole
+T18	peptides 1414 1439	phosphoinositide 3-kinase
+T19	peptides 1441 1445	PI3K
+T20	peptides 1447 1450	AKT
+T21	organic 1544 1550	lutein
+T22	peptides 1564 1568	PI3K
+T23	peptides 1569 1572	AKT

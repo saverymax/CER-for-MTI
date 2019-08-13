@@ -1,0 +1,29 @@
+T1	organic 0 22	10-Hydroxycamptothecin
+T2	peptides 87 90	p53
+T3	peptides 92 104	cytochrome c
+T4	peptides 109 118	caspase 3
+T5	organic 369 391	10-hydroxycamptothecin
+T6	organic 393 397	HCPT
+T8	organic 572 576	HCPT
+T9	organic 810 814	HCPT
+T10	organic 962 965	MTT
+T12	organic 1150 1154	HCPT
+T14	organic 1516 1520	HCPT
+T15	peptides 1594 1606	cytochrome c
+T16	peptides 1616 1625	caspase-3
+T20	peptides 1729 1741	cytochrome c
+T21	peptides 1746 1759	pro-caspase-3
+T24	peptides 1802 1819	B-cell lymphoma 2
+T26	organic 1896 1900	HCPT
+T27	peptides 2024 2027	p53
+T28	peptides 2095 2107	cytochrome c
+T29	peptides 2152 2161	caspase-3
+T31	organic 2217 2221	HCPT
+T7	organic 1005 1009	DAPI
+T11	organic 1293 1297	DAPI
+T18	organic 1635 1645	ADP-ribose
+#1	AnnotatorNotes T18	https://en.wikipedia.org/wiki/Adenosine_diphosphate_ribose. ADP-ribose is the largest organic within the larger entity.
+T13	peptides 1750 1759	caspase-3
+T17	peptides 1577 1580	p53
+T19	peptides 1824 1842	Bcl-2-associated X
+T22	peptides 1824 1829	Bcl-2

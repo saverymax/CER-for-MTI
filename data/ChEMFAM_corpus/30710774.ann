@@ -1,0 +1,72 @@
+T1	organic 26 35	glutamate
+T2	inorganic 15 22	nitrate
+T3	inorganic 108 111	15N
+T4	inorganic 256 264	nitrogen
+T5	inorganic 322 329	nitrate
+T6	organic 355 364	glutamate
+T8	inorganic 620 627	nitrate
+T9	organic 632 640	lutamate
+T10	inorganic 759 766	nitrate
+T11	inorganic 692 695	15N
+T12	inorganic 807 810	15N
+T13	inorganic 819 826	nitrate
+T14	inorganic 831 838	ammonia
+T15	organic 965 974	glutamate
+T16	peptides 939 954	glutamine amide
+T17	peptides 939 948	glutamine
+T18	inorganic 930 937	ammonia
+T19	inorganic 921 928	nitrite
+T20	inorganic 910 917	nitrate
+T21	peptides 1000 1017	nitrate reductase
+T22	inorganic 1000 1007	nitrate
+T23	peptides 1019 1026	NADH-NR
+T24	peptides 1028 1038	EC 1.7.1.1
+T26	peptides 1056 1073	nitrite reductase
+T28	inorganic 1056 1063	nitrite
+T30	peptides 1096 1106	EC 1.7.7.1
+T31	peptides 1109 1129	glutamine synthetase
+T33	peptides 1109 1118	glutamine
+T34	peptides 1131 1134	GS2
+T35	peptides 1136 1146	EC 6.3.1.2
+T36	peptides 1153 1171	glutamate synthase
+T37	peptides 1153 1162	glutamate
+T39	peptides 1173 1181	Fd-GOGAT
+T40	peptides 1183 1193	EC 1.4.7.1
+T41	nucleotides 1212 1216	NADH
+T42	peptides 1221 1223	NR
+T43	nucleotides 1271 1276	NADPH
+T44	peptides 1281 1287	Fd-NIR
+T45	peptides 1292 1300	Fd-GOGAT
+T47	inorganic 1339 1348	phosphate
+T48	nucleotides 1380 1385	NADPH
+T50	peptides 1409 1412	NIR
+T51	peptides 1454 1457	FNR
+T52	peptides 1459 1469	EC 1.6.7.1
+T53	peptides 1569 1571	NR
+T54	peptides 1573 1576	NIR
+T55	peptides 1578 1581	GS2
+T56	peptides 1583 1591	Fd-GOGAT
+T57	peptides 1607 1610	FNR
+T58	peptides 1616 1618	Fd
+T59	peptides 1075 1085	ferredoxin
+T60	peptides 1086 1094	[Fd]-NiR
+T29	peptides 1434 1452	Fd-NADP+ reductase
+T61	peptides 1855 1858	GS1
+T63	peptides 1087 1089	Fd
+T64	peptides 1091 1094	NiR
+T65	peptides 1173 1175	Fd
+T66	peptides 1176 1181	GOGAT
+T67	peptides 1281 1283	Fd
+T68	peptides 1284 1287	NIR
+T69	peptides 1292 1294	Fd
+T70	peptides 1295 1300	GOGAT
+T71	peptides 1434 1436	Fd
+T72	nucleotides 1437 1442	NADP+
+T73	inorganic 1647 1654	nitrate
+T74	inorganic 1712 1719	nitrate
+T75	peptides 1583 1585	Fd
+T76	peptides 1586 1591	GOGAT
+T77	peptides 1873 1883	NADH-GOGAT
+T78	nucleotides 1873 1877	NADH
+T79	peptides 1878 1883	GOGAT
+T7	peptides 1024 1026	NR

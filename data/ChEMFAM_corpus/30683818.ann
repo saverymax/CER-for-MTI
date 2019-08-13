@@ -1,0 +1,15 @@
+T1	peptides 4 20	cyclooxygenase-2
+T2	organic 21 37	prostaglandin E2
+T3	peptides 146 162	cyclooxygenase-2
+T4	peptides 164 169	COX-2
+T5	peptides 307 312	COX-2
+T6	organic 341 357	prostaglandin E2
+T7	organic 359 363	PGE2
+T8	peptides 701 706	COX-2
+T11	peptides 951 956	COX-2
+T12	organic 957 962	PGE22
+T15	peptides 1349 1354	COX-2
+T16	organic 1355 1359	PGE2
+T19	peptides 1388 1393	COX-2
+T21	peptides 2050 2055	COX-2
+T23	peptides 2069 2073	PGE2

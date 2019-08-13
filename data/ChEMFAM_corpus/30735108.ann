@@ -1,0 +1,48 @@
+T1	peptides 24 28	CD40
+T2	peptides 29 34	TRAF1
+T3	peptides 559 576	nuclear factor-κB
+T4	peptides 578 583	NF-κB
+T5	peptides 244 249	TRAF1
+T6	peptides 191 242	tumour necrosis factor receptor-associated factor-1
+T7	peptides 182 186	CD40
+T8	peptides 53 71	nuclear factor-κκB
+T9	peptides 695 699	CD40
+T10	peptides 701 706	TRAF1
+T12	peptides 718 721	p65
+T13	peptides 712 717	NF-κB
+T15	peptides 895 900	NF-κB
+T17	peptides 947 971	tumour necrosis factor-α
+T18	peptides 973 978	TNF-α
+T19	peptides 981 994	interleukin-6
+T20	peptides 996 1000	IL-6
+T21	peptides 1027 1060	intercellular adhesion molecule-1
+T22	peptides 1062 1068	ICAM-1
+T24	peptides 1071 1099	vascular adhesion molecule-1
+T25	peptides 1101 1107	VCAM-1
+T26	peptides 1253 1257	CD40
+T27	peptides 1259 1264	TRAF1
+T29	peptides 1270 1275	NF-κB
+T30	peptides 1276 1279	p65
+T31	peptides 1338 1342	CD40
+T32	peptides 1344 1349	TRAF1
+T33	peptides 1357 1366	NF-κB p65
+T34	peptides 1363 1366	p65
+T35	peptides 1357 1362	NF-κB
+T37	peptides 1386 1389	p65
+T38	peptides 1380 1385	NF-κB
+T40	peptides 1411 1416	NF-κB
+T41	peptides 1372 1389	phospho-NF-κB p65
+T43	peptides 1463 1467	TNFα
+T44	peptides 1469 1473	IL-6
+T46	peptides 1499 1505	ICAM-1
+T47	peptides 1507 1513	VCAM-1
+T48	peptides 1643 1647	CD40
+T49	peptides 1648 1653	TRAF1
+T51	peptides 1735 1740	TRAF1
+T52	peptides 1772 1777	NF-κB
+T53	peptides 1714 1718	CD40
+T11	peptides 1270 1279	NF-κB p65
+T16	peptides 712 721	NF-κB p65
+T23	peptides 1380 1389	NF-κB p65
+T14	peptides 283 287	CD40
+T28	peptides 330 335	TRAF1

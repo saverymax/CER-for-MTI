@@ -1,0 +1,21 @@
+T1	organic 153 163	Acetochlor
+T2	organic 182 197	chloroacetamide
+T3	organic 165 168	ACT
+T4	organic 115 130	chloroacetamide
+T5	organic 141 151	acetochlor
+T6	organic 347 350	ACT
+T7	organic 785 788	ACT
+T8	organic 648 651	ACT
+T9	organic 910 919	thyroxine
+T10	organic 921 923	T4
+T11	organic 948 964	triiodothyronine
+T12	organic 966 968	T3
+T13	nucleotides 1183 1186	TRα
+T14	nucleotides 1191 1194	TRβ
+T15	nucleotides 1197 1208	deiodinase2
+T16	nucleotides 1210 1214	Dio2
+T17	nucleotides 1251 1255	TSHβ
+T18	nucleotides 1220 1249	thyroid-stimulating hormone-β
+T19	organic 1017 1026	(+)-S-ACT
+T21	organic 1089 1098	(+)-S-ACT
+T23	organic 1474 1477	ACT

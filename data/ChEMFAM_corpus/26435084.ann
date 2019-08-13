@@ -1,0 +1,27 @@
+T1	peptides 0 6	Bcl-xL
+T3	peptides 99 104	LRRK2
+T4	peptides 187 193	Bcl-xL
+T6	peptides 370 398	leucine-rich repeat kinase 2
+T7	peptides 400 405	LRRK2
+T8	organic 412 423	GSK2578215A
+T11	organic 459 470	GSK2578215A
+T14	organic 620 639	dichlorofluorescein
+T15	organic 657 673	4-hydroxynonenal
+T17	organic 711 722	GSK2578215A
+T19	organic 907 918	GSK2578215A
+T23	peptides 1029 1032	Bax
+T26	organic 1120 1131	GSK2578215A
+T27	peptides 1200 1206	Bcl-xL
+T31	peptides 1337 1342	LRRK2
+T33	peptides 1444 1450	Bcl-xL
+T35	organic 1645 1651	tempol
+T36	organic 1666 1677	GSK2578215A
+T40	peptides 1871 1876	LRRK2
+T41	peptides 1958 1964	Bcl-xL
+T5	peptides 973 998	dynamin related protein-1
+T2	peptides 370 377	leucine
+T9	peptides 1397 1404	tubulin
+T10	peptides 1492 1499	tubulin
+T12	peptides 1752 1759	tubulin
+#1	AnnotatorNotes T9	Measuring tubulin, thus is annotated
+T13	inorganic 568 574	oxygen

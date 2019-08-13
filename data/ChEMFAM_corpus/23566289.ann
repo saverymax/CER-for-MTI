@@ -1,0 +1,38 @@
+T3	peptides 229 233	sFas
+T4	peptides 389 403	erythropoietin
+T7	peptides 646 650	sFas
+T8	peptides 652 655	Epo
+T9	peptides 657 684	tumor necrosis factor-alpha
+T11	inorganic 721 725	iron
+T13	peptides 939 942	Epo
+T15	peptides 1044 1048	sFas
+T17	peptides 1163 1167	IL-6
+T18	peptides 1192 1196	sFas
+T19	peptides 1224 1227	Epo
+T20	peptides 1263 1267	sFas
+T21	inorganic 1295 1299	iron
+T22	peptides 1333 1337	IL-6
+T23	inorganic 1451 1455	iron
+T24	peptides 1475 1479	sFas
+T26	peptides 1566 1569	Epo
+T28	peptides 1680 1684	sFas
+T1	peptides 14 17	Fas
+T2	peptides 137 140	Fas
+T29	peptides 142 146	sFas
+T30	peptides 383 387	sFas
+T32	peptides 686 691	TNF-α
+T34	peptides 714 719	IL-10
+T35	peptides 1050 1054	IL-6
+T36	peptides 1056 1061	TNF-α
+T37	peptides 1067 1075	ferritin
+T38	peptides 405 408	Epo
+T5	peptides 694 705;710 712	interleukin -6
+T27	peptides 129 140	soluble-Fas
+T33	peptides 6 17	Soluble-Fas
+T6	peptides 439 449	hemoglobin
+T12	peptides 451 453	Hb
+T14	peptides 738 740	Hb
+T16	peptides 968 970	Hb
+T25	peptides 1113 1115	Hb
+T31	peptides 1525 1527	Hb
+T10	peptides 707 709;710 712	IL -6

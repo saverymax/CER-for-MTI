@@ -1,0 +1,42 @@
+T1	nucleotides 44 51	miR-204
+T2	peptides 63 99	mitochondrial transcription factor A
+T5	nucleotides 288 324	Mitochondrial transcription factor A
+T6	nucleotides 325 329	TFAM
+T9	nucleotides 721 728	MiR-204
+T11	peptides 880 884	TFAM
+T12	nucleotides 890 897	miR-204
+T13	nucleotides 989 996	miR-204
+T14	nucleotides 899 911	Anti-miR-204
+T15	nucleotides 927 934	miR-240
+T16	peptides 1032 1036	TFAM
+T18	organic 1161 1164	MTT
+T19	nucleotides 1169 1173	BrdU
+T21	nucleotides 1270 1277	miR-204
+T22	nucleotides 1279 1286	miR-211
+T23	nucleotides 1288 1295	miR-214
+T24	nucleotides 1297 1304	miR-381
+T25	nucleotides 1309 1319	miR-590-3p
+T26	nucleotides 1336 1343	miR-204
+T27	nucleotides 1345 1352	miR-211
+T28	nucleotides 1354 1361	miR-214
+T29	nucleotides 1366 1373	miR-381
+T30	nucleotides 1390 1400	miR-590-3p
+T32	nucleotides 1535 1542	miR-204
+T33	nucleotides 1544 1551	miR-211
+T34	nucleotides 1553 1560	miR-214
+T35	nucleotides 1565 1572	miR-381
+T36	nucleotides 1595 1605	miR-590-3p
+T38	nucleotides 1736 1743	miR-204
+T39	nucleotides 1832 1839	miR-204
+T40	peptides 1871 1875	TFAM
+T41	peptides 1961 1965	TFAM
+T42	nucleotides 1991 1998	miR-204
+T43	nucleotides 2020 2024	TFAM
+T44	nucleotides 2049 2056	miR-204
+T45	nucleotides 2078 2085	miR-204
+T46	peptides 2115 2119	TFAM
+T47	nucleotides 2208 2215	miR-204
+T48	peptides 2245 2249	TFAM
+T49	nucleotides 2332 2339	MiR-204
+T50	peptides 2349 2353	TFAM
+#1	AnnotatorNotes T43	RNA-silencing

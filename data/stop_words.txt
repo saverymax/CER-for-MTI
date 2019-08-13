@@ -1,0 +1,451 @@
+﻿Adduct
+adduct
+adducts
+adhesion molecules
+agonist
+agonists
+antibiotic
+Antioxidant
+antioxidant
+antioxidants
+biosurfactant
+catalyst
+catalysts
+cell adhesion inhibitors
+Chemical
+chemical
+Complex
+complex
+compound
+compounds
+congener
+COX-2/PGE2 axis suppressors
+fungicide
+glucagon-like peptide-1 receptor agonist
+herbicides
+hormone
+inhibitors
+insecticide
+ion
+ions
+isoform
+ligand
+metabolites
+molecule
+neurotoxin
+P450 inhibitor
+PAK4 inhibitors
+pesticide
+PG receptors antagonists
+PGE2 axis suppressors
+Polymer
+polymer
+polymers
+Radioligand
+radiotracer
+reactive oxygen species
+repressor
+ROS
+salt
+selective COX-2 inhibitors
+SGLT2 inhibitor
+Sodium-glucose co-transporter-2 (SGLT2) inhibitors
+solution
+solvent
+substrate
+surfactant
+TKI
+TKIs
+[NiFe] hydrogenase
+ABC
+ABC membrane transporter
+ABC transporter
+ABC transporters
+actin
+activator
+activator proteins
+acyltransferases
+Adipokines
+adipokines
+Albumin
+albumin
+amino acid
+amylase
+amyloid
+amyloid beta
+antibody
+antigen
+antigens
+aquaporin
+ATP binding cassette
+ATP binding cassette transporters
+ATPase
+autoantibodies
+autoantigens
+Aβ
+C1q/TNF-related proteins
+Ca2+-dependent nuclease
+CAM
+carbapenemase
+coactivator
+Cyclooxygenases
+CYP
+CysP prolamines
+cytochrome
+cytochrome P450
+cytochrome P450 monooxygenase
+cytochrome P450 monooxygenases
+cytokine
+cytokines
+DNA polymerases
+Dual-Luciferase reporter
+dynamin
+endonuclease
+endopeptidase
+enzyme
+enzymes
+exonuclease
+FAAs
+free amino acids
+glycoproteins
+growth factor
+growth factor receptor
+H3
+H3K4
+HDL
+Hex 
+Hexokinase
+high-density lipoprotein
+high-density lipoproteins
+Histone
+histone
+histone 3
+hormone receptor
+Hydrogenase
+hydrogenase
+hydrogenases
+IL
+integrin
+interleukin
+kinase
+Kinases
+laminin
+laminin receptor
+laminin receptors
+Laminins
+lipase
+lipoprotein
+lipoproteins
+Luciferase
+luciferase
+Lymphokine
+lysine 27
+lysophosphatidic acid acyltransferases
+MAb
+MC-LR antigens
+MCs
+Mediator
+mediator
+mediator complex
+membrane transporter
+metallothioneins
+methyltransferases
+Microcystins
+microcystins
+Microcystin
+microcystin
+mitogen
+MMPs
+monooxygenases
+MTs
+multiprotein complex
+MYB
+Myokines
+nAChR
+nAChRs
+Nicotinic acetylcholine receptors
+nicotinic acetylcholine receptors
+nucleases
+P450
+PAP
+peptidase
+peptide
+peptides
+peroxidase
+PG receptors
+phosphatase
+phosphatidic acid phosphatase
+poly ADP-ribose polymerase
+Polymerase
+polymerase
+polymerases
+polypeptide
+polypeptides
+Prolamines
+prolamines
+proteases
+protease
+protein
+protein thiol
+proteins
+receptor
+reductase
+Restriction enzymes
+Selectin
+selectin
+Selectin Ligands
+selectins
+Sestrin
+Sestrins
+synthase
+synthetase
+Synuclein
+TaqMan
+TCP
+TGFbeta
+thyroid hormone receptors
+TR
+transcription factor
+transcription factors
+transcriptional activator
+transcriptional coactivator
+transcriptional co-regulator
+transcriptional repressor
+Transient receptor potential channels
+transporter
+transporters
+TRs
+tyrosine kinase
+Tyrosine kinase
+unfoldase
+Urease
+urease
+voltage-gated sodium channels
+α-helix
+β-lactamase
+β-sheet
+3'UTR
+5'-nucleotides
+Bases
+bases
+C/D-box small nucleolar RNAs
+cDNAs
+codon
+DNA
+DNAzyme
+DNAzymes
+dsDNA
+dsDNA polymers
+dsRNA
+exon
+Gal4
+gene
+genes
+gyr
+hairpin substrates
+hexamer
+HOXC
+intron
+LncRNA
+lncRNA
+lncRNAs
+long noncoding RNA
+Long non-coding RNA
+long non-coding RNA
+long noncoding RNAs
+long non-coding RNAs
+MicroRNA
+MicroRNAs
+microRNA
+microRNAs
+miRISC
+miRNA
+miRNAs
+mRNA
+mRNAs
+nucleic acid
+nucleic acids
+nucleobases
+nucleoside
+Nucleotide
+nucleotide
+nucleotide triphosphate
+nucleotides
+oligonucleotides
+PDZ
+primer
+primers
+probes
+promoter
+qnr
+RNA
+rna 
+SH-CP
+shRNA
+single-nucleotide polymorphism
+single-nucleotide polymorphisms
+siRNA
+small hairpin RNAs
+small RNA
+SNORDs
+SNPs
+stop codon
+thiolated capture probes
+transcript
+transposon
+UAS-RNAi
+variant
+(-)-R-enantiomer
+(+)-S-enantiomer
+3-deoxyflavonoids
+acyl chains
+aldehyde
+alkaloid
+alkaloids
+alkane
+alkanes
+alkenes
+alkyl
+amide
+amine
+anthocyanin
+anthocyanins
+Anthraquinones
+anthraquinones
+aromatic compounds
+Aromatics
+aromatics
+C18 esters
+carbapenems
+carbohydrate
+Carbohydrates
+Carboxylic acids
+carotenoid
+cathepsin B inhibitor
+Complex Carbohydrates
+corticosteroids
+di-HANs
+dissolved organic carbon
+DOC
+enantiomer
+enantiomers
+esters
+Estrogen
+estrogen
+Estrogens
+estrogens
+fatty acid
+fermented polysaccharide of Hericium caputmedusae
+flavonoid
+flavonoids
+flavonols
+fluoroquinolone
+Formalin
+formalin
+FPHC
+GLP-1RAs
+glucocorticoid
+glycans
+glycomimetic
+glycoside
+haloacetonitriles
+halogenated hydrocarbons
+halohydrocarbons
+HAN
+HANs
+Heterocyclics
+humic acid
+hydrolysates
+hydroxyl
+Hydroxytyrosyl esters
+intermediates
+lactose esters
+lipid
+Lipopolysaccharide
+lipopolysaccharide
+LPS
+Metabolite
+methoxyestrogens
+moieties
+moiety
+monoglycerides
+mono-HANs
+mycotoxin
+mycotoxins
+Neonicotinoid
+neonicotinoid
+neonicotinoids
+N-glycans
+oligosaccharide
+oligosaccharides
+organic
+organic carbon
+OVOCs
+oxidant-peroxy acids
+PAHs
+paraffin
+pentaose
+pentose
+PG
+PGs
+phenolic acid
+phenolic acids
+phenolic metabolites
+phosphatidylinositol
+photosynthates
+phytochemical
+phytosterol
+phytosterols sterols
+Polycyclic Aromatic Hydrocarbons
+polycyclic aromatic hydrocarbons
+polyphenols
+Polysaccharide
+polysaccharide
+polyunsaturated fatty acid
+progestin
+prostaglandins
+quinolones
+ROS1/ALK inhibitor
+saturated fatty acids
+steroids
+sterols
+Sugar
+sugar
+sulfenato moiety
+sulfonamide
+tetrasaccharide
+TG
+TH
+thiol
+THs
+triglyceride
+tri-HAN
+Tyrosine kinase inhibitors
+VFA
+VFAs
+vitamin D
+VOCs
+volatile fatty acids
+volatiles
+xylan
+Xylooligosaccharides
+xylo-oligosaccharides
+β-carboline
+β-carboline alkaloids
+β-carbolines
+alcohol
+element
+graphene oxide
+graphene oxides
+inorganic
+iodonium ylide
+Isotope
+isotope
+metal
+nitroxide
+oxide
+Perfluorinated alkyl substances
+perfluorinated compounds
+PFAS
+PFASs
+sulfenato

@@ -1,0 +1,35 @@
+T1	peptides 0 11	Anti-ICAM-1
+T4	organic 507 520	dexamethasone
+T5	organic 522 525	DEX
+T8	peptides 728 766	anti-intercellular adhesion molecule 1
+T9	peptides 768 779	anti-ICAM-1
+T10	organic 801 804	DEX
+T11	peptides 818 822	ICAM
+T12	organic 823 826	DEX
+T13	organic 860 874	octadecylamine
+T14	organic 876 879	ODA
+T15	peptides 895 899	ICAM
+T16	organic 900 903	DEX
+T17	organic 904 907	ODA
+T18	peptides 966 970	ICAM
+T19	organic 971 974	DEX
+T20	peptides 984 988	ICAM
+T21	organic 989 992	DEX
+T22	organic 993 996	ODA
+T23	peptides 1087 1091	ICAM
+T24	organic 1092 1095	DEX
+T25	organic 1096 1099	ODA
+T26	peptides 1106 1110	ICAM
+T27	organic 1111 1114	DEX
+T30	peptides 1354 1358	ICAM
+T31	organic 1359 1362	DEX
+T32	peptides 1484 1489	TNF-α
+T34	peptides 1494 1498	IL-6
+T35	peptides 1574 1578	ICAM
+T36	organic 1579 1582	DEX
+T37	organic 1716 1719	DEX
+T38	peptides 1605 1609	ICAM
+T39	organic 1610 1613	DEX
+T2	peptides 733 766	intercellular adhesion molecule 1
+T3	peptides 773 779	ICAM-1
+#1	AnnotatorNotes T11	Refers to specific ICAM

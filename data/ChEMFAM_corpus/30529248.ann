@@ -1,0 +1,36 @@
+T1	organic 126 146	tributyltin chloride
+T2	organic 148 154	TBT-Cl
+T3	peptides 157 186	Cluster of differentiation 28
+T4	peptides 188 192	CD28
+T5	peptides 18 22	CD28
+T7	peptides 40 43	TLR
+T8	peptides 44 49	MyD88
+T10	nucleotides 355 362	To-CD28
+T12	peptides 502 509	To-CD28
+T14	peptides 528 532	CD28
+T6	organic 617 623	TBT-Cl
+T15	organic 665 671	TBT-Cl
+T16	peptides 713 720	To-CD28
+T18	organic 858 864	TBT-Cl
+T19	peptides 907 914	To-CD28
+T21	peptides 1020 1027	To-CD28
+T22	organic 1063 1069	TBT-Cl
+T24	nucleotides 1104 1111	To-CD28
+T25	peptides 1138 1141	TLR
+T26	peptides 1142 1147	MyD88
+T27	organic 1201 1207	TBT-Cl
+T29	peptides 1264 1271	To-CD28
+T30	organic 1306 1312	TBT-Cl
+T31	peptides 1368 1375	To-CD28
+T32	peptides 1430 1437	To-CD28
+T33	organic 1487 1493	TBT-Cl
+T9	peptides 505 509	CD28
+T11	peptides 716 720	CD28
+T13	peptides 910 914	CD28
+T17	peptides 1023 1027	CD28
+T20	nucleotides 1107 1111	CD28
+T23	peptides 1267 1271	CD28
+T28	peptides 1371 1375	CD28
+T34	peptides 1433 1437	CD28
+T35	inorganic 762 768	oxygen
+T36	nucleotides 358 362	CD28

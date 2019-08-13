@@ -1,0 +1,21 @@
+T1	organic 75 96	1,1,2-trichloroethane
+T2	organic 165 172	ethanes
+T3	inorganic 346 352	carbon
+T4	inorganic 357 365	chlorine
+T6	organic 460 481	1,1,2-trichloroethane
+T7	organic 483 492	1,1,2-TCA
+T8	organic 679 693	vinyl chloride
+T9	organic 695 697	VC
+T10	inorganic 732 738	carbon
+T11	inorganic 872 876	δ13C
+T12	inorganic 881 886	δ37Cl
+T20	organic 607 616	1,1,2-TCA
+T21	inorganic 622 625	ɛC 
+T22	inorganic 643 646	ɛCl
+T24	organic 1185 1194	1,1,2-TCA
+T26	organic 1375 1384	1,1,2-TCA
+T27	organic 1458 1460	VC
+T17	inorganic 14 22	chlorine
+T18	inorganic 5 11	carbon
+T5	inorganic 916 918	Cl
+T19	inorganic 914 915	C

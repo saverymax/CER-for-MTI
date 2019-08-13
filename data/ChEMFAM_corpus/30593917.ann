@@ -1,0 +1,27 @@
+T1	nucleotides 0 10	Bmo-miR-79
+T5	peptides 253 258	Notch
+T6	nucleotides 189 200	E(spl)m4 is
+T7	nucleotides 310 318	E(spl)m4
+T8	nucleotides 425 430	BmEm4
+T9	nucleotides 447 455	E(spl)m4
+T10	nucleotides 497 507	bmo-miR-79
+T11	nucleotides 550 557	K boxes
+T14	nucleotides 565 570	BmEm4
+T16	nucleotides 936 946	bmo-miR-79
+T17	nucleotides 961 967	BmAGO2
+T20	nucleotides 1030 1040	bmo-miR-79
+T21	nucleotides 1074 1079	BmEm4
+T24	nucleotides 656 666	bmo-miR-79
+T26	peptides 1113 1119	BmAGO2
+T27	nucleotides 1137 1147	bmo-miR-79
+T28	peptides 1199 1205	BmAGO2
+T29	nucleotides 747 757	bmo-miR-79
+T30	nucleotides 793 798	BmEm4
+T31	nucleotides 1181 1186	BmEm4
+T32	peptides 43 48	BmEm4
+T33	nucleotides 704 709	BmEm4
+T2	nucleotides 982 1012	Bombyx mori argonaute2 protein
+T3	nucleotides 542 545;552 557	Brd boxes
+#1	AnnotatorNotes T28	The protein must do the regulating
+#2	AnnotatorNotes T26	Complex is protein
+#3	AnnotatorNotes T33	The mirna is binding to transcript

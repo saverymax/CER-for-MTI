@@ -1,0 +1,16 @@
+T1	inorganic 27 32	argon
+T2	inorganic 394 399	Xenon
+T3	inorganic 568 573	Argon
+T4	inorganic 681 686	xenon
+T5	inorganic 736 741	argon
+T6	inorganic 909 914	argon
+T7	peptides 935 954;961 962	toll-like receptors 4
+T11	inorganic 1084 1089	argon
+T12	inorganic 1251 1256	argon
+T13	inorganic 1357 1362	argon
+T14	peptides 935 956	toll-like receptors 2
+T9	peptides 968 1007	extracellular signal-regulated kinase 1
+T10	peptides 1015 1044	phosphatidylinositol 3 kinase
+T15	peptides 1046 1051	PI-3K
+T16	peptides 1053 1056	AKT
+T8	peptides 968 1005;1008 1009	extracellular signal-regulated kinase 2

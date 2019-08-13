@@ -1,0 +1,19 @@
+T1	organic 93 103	lorlatinib
+T3	organic 105 115	Lorlatinib
+T4	peptides 190 231	receptor tyrosine kinase c-ros oncogene 1
+T5	peptides 233 237	ROS1
+T7	peptides 301 327	anaplastic lymphoma kinase
+T8	peptides 329 332	ALK
+T9	organic 676 686	lorlatinib
+T10	organic 972 982	lorlatinib
+T12	organic 117 128	PF-06463922
+T13	peptides 199 207	tyrosine
+T2	peptides 74 78	ROS1
+T14	peptides 79 82	ALK
+T6	inorganic 953 962	Carbon-11
+T11	inorganic 884 887	11C
+T15	inorganic 646 649	11C
+T16	inorganic 655 658	18F
+T18	inorganic 913 921	iodonium
+T17	inorganic 41 44	11C
+T19	inorganic 49 52	18F

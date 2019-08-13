@@ -1,0 +1,11 @@
+T6	nucleotides 318 322	sul1
+T7	nucleotides 324 330	blaTEM
+T8	nucleotides 332 340	blaNDM-1
+T9	nucleotides 342 353	blaCTX-M-32
+T10	nucleotides 355 360	mcr-1
+T14	nucleotides 561 565	sul1
+T18	nucleotides 669 675	blaTEM
+T19	nucleotides 679 687	blaNDM-1
+T24	nucleotides 871 882	blaCTX-M-32
+T26	peptides 938 946	colistin
+T28	nucleotides 963 968	mcr-1

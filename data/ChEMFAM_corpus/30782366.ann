@@ -1,0 +1,14 @@
+T1	inorganic 0 4	PtNi
+T2	inorganic 37 41	MoS2
+T3	organic 127 135	dopamine
+T4	organic 140 149	uric acid
+T5	inorganic 433 437	MoS2
+T6	inorganic 491 495	PtNi
+T7	inorganic 528 532	MoS2
+T8	inorganic 545 549	PtNi
+T9	inorganic 550 554	MoS2
+T10	inorganic 918 922	PtNi
+T11	inorganic 923 927	MoS2
+T12	organic 1101 1110	uric acid
+T13	organic 1075 1083	dopamine
+T14	inorganic 855 861	carbon

@@ -1,0 +1,49 @@
+T1	nucleotides 0 10	MiR-202-3p
+T2	peptides 58 84	matrix metalloproteinase 1
+T5	nucleotides 274 284	miR-202-3p
+T6	peptides 340 366	matrix metalloproteinase 1
+T8	peptides 368 373	MMP-1
+T9	peptides 295 309	interleukin-1β
+T11	peptides 449 454	IL-1β
+T16	nucleotides 741 755	hsa-miR-202-3p
+T17	nucleotides 757 767	miR-202-3p
+T18	nucleotides 869 879	miR-202-3p
+T19	peptides 894 899	IL-1β
+T20	peptides 937 942	MMP-1
+T25	nucleotides 1059 1069	miR-202-3p
+T26	peptides 1093 1098	MMP-1
+T27	peptides 1111 1121	MiR-202-3p
+T28	peptides 1147 1152	MMP-1
+T29	nucleotides 1192 1207	anti-miR-202-3p
+T30	peptides 1229 1234	MMP-1
+T31	nucleotides 1276 1286	miR-202-3p
+T33	nucleotides 1317 1322	MMP-1
+T35	nucleotides 1423 1433	miR-202-3p
+T37	peptides 1505 1510	MMP-1
+T38	nucleotides 1514 1532	Lentiviral-shMMP-1
+T39	nucleotides 1628 1638	miR-202-3p
+T40	nucleotides 1557 1567	miR-202-3p
+T42	peptides 1449 1465	type II collagen
+T36	peptides 1571 1587	type II collagen
+T41	peptides 1668 1673	MMP-1
+T43	peptides 21 35	interleukin-1β
+T3	peptides 311 316	IL-1β
+T4	peptides 612 617	IL-1β
+T10	peptides 1133 1138	IL-1β
+T12	peptides 973 978	IL-1β
+T7	peptides 1001 1011	MAP kinase
+T13	peptides 1013 1017	MAPK
+T14	peptides 1023 1040	nuclear factor-κB
+T15	peptides 1042 1047	NF-κB
+T21	nucleotides 0 7	MiR-202
+T22	nucleotides 274 281	miR-202
+T23	nucleotides 741 752	hsa-miR-202
+T24	nucleotides 757 764	miR-202
+T32	nucleotides 869 876	miR-202
+T34	nucleotides 1059 1066	miR-202
+T44	nucleotides 1197 1204	miR-202
+T45	nucleotides 1197 1207	miR-202-3p
+T46	nucleotides 1276 1283	miR-202
+T47	nucleotides 1423 1430	miR-202
+T48	nucleotides 1628 1635	miR-202
+T49	nucleotides 1557 1564	miR-202

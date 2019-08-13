@@ -1,0 +1,25 @@
+T1	peptides 1 12	Cathepsin B
+T2	peptides 234 254	Toll-like receptor 4
+T3	peptides 255 261	TLR- 4
+T6	nucleotides 403 407	TLR4
+T7	peptides 177 188	cathepsin B
+T8	peptides 62 66	TLR4
+T10	nucleotides 418 422	TLR4
+T13	organic 539 545	CA-074
+T14	peptides 548 559	cathepsin B
+T19	nucleotides 660 664	TLR4
+T22	organic 792 798	CA-074
+T23	peptides 915 926	cathepsin B
+T24	peptides 1033 1038	IL-1β
+T25	peptides 1040 1045	TNF-α
+T26	peptides 1050 1055	IL-18
+T27	nucleotides 1113 1117	TLR4
+T30	organic 1282 1288	CA-074
+T31	nucleotides 1345 1349	TLR4
+T33	peptides 1474 1485	cathepsin B
+T35	organic 1609 1615	CA-074
+T37	nucleotides 1694 1698	TLR4
+T38	peptides 1732 1743	cathepsin B
+T39	peptides 1870 1881	Cathepsin B
+T41	peptides 1920 1924	TLR4
+T43	peptides 1026 1031	IL-1α

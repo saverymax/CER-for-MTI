@@ -1,0 +1,14 @@
+T1	peptides 43 47	PI3K
+T2	peptides 48 51	Akt
+T3	peptides 52 56	mTOR
+T4	peptides 1366 1370	PI3K
+T5	peptides 1371 1374	Akt
+T6	peptides 1375 1379	mTOR
+T7	peptides 1251 1258	Sf-Atg8
+T8	peptides 1588 1592	PI3K
+T9	peptides 1593 1596	Akt
+T10	peptides 1597 1601	mTOR
+T11	organic 1003 1010	harmine
+T12	organic 1015 1021	harmol
+T13	organic 1080 1100	monodansylcadaverine
+T14	organic 1630 1637	harmine

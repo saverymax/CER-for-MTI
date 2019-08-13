@@ -1,0 +1,25 @@
+T1	inorganic 76 92	Copper hydroxide
+T3	inorganic 76 101	Copper hydroxide nanozyme
+T6	inorganic 611 618	Cu(OH)2
+T8	inorganic 912 919	Cu(OH)2
+T9	inorganic 999 1006	Cu(OH)2
+T12	peptides 447 461	microcystin-LR
+T13	peptides 463 468	MC-LR
+T14	nucleotides 106 132	G-quadruplex/hemin DNAzyme
+T15	organic 119 124	hemin
+T17	inorganic 275 291	copper hydroxide
+T20	inorganic 275 300	copper hydroxide nanozyme
+T22	nucleotides 305 331	G-quadruplex/hemin DNAzyme
+T23	organic 318 323	hemin
+T26	inorganic 545 560	nickel silicate
+T28	peptides 589 594	MC-LR
+T29	organic 1099 1153	2,2'-azinobis-(3-ethylbenzothiazoline-6-sulfonic acid)
+T30	organic 1155 1159	ABTS
+T31	peptides 1201 1206	MC-LR
+T32	peptides 1344 1349	MC-LR
+T34	organic 946 951	hemin
+T35	peptides 60 74	Microcystin-LR
+T11	nucleotides 860 878	G-quadruplex/hemin
+T37	organic 873 878	hemin
+T7	inorganic 538 544	silica
+T2	inorganic 999 1016	Cu(OH)2 nanozymes

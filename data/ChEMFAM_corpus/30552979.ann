@@ -1,0 +1,11 @@
+T7	nucleotides 1095 1106	hsa-mir-15a
+T8	nucleotides 1108 1119	hsa-mir-484
+T9	nucleotides 1121 1132	hsa-mir-30d
+T10	nucleotides 1134 1145	hsa-mir-145
+T11	nucleotides 1147 1158	hsa-mir-363
+T12	nucleotides 1160 1170	has-let-7e
+T13	nucleotides 1172 1183	hsa-mir-30a
+T14	nucleotides 1185 1195	hsa-let-7b
+T15	nucleotides 1201 1213	hsa-mir-146a
+T22	peptides 1550 1571	Acid sphingomyelinase
+#1	AnnotatorNotes T22	https://en.wikipedia.org/wiki/Sphingomyelin_phosphodiesterase_1

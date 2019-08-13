@@ -1,0 +1,31 @@
+T1	peptides 2148 2156	Xylanase
+T3	peptides 0 8	Xylanase
+T6	peptides 1784 1792	Xylanase
+T8	peptides 1878 1884	IL-1ra
+T9	peptides 1889 1894	IL-10
+T10	peptides 1922 1927	IL-1β
+T11	peptides 1932 1937	TNF-α
+T12	peptides 1602 1610	Xylanase
+T15	peptides 1725 1728	SOD
+T16	peptides 1734 1740	GSH-Px
+T17	organic 1768 1771	MDA
+T21	peptides 310 318	xylanase
+T24	peptides 484 492	xylanase
+T26	peptides 696 704	xylanase
+T28	peptides 729 737	xylanase
+T30	peptides 804 813	xylanase 
+T32	peptides 961 989;997 998	Serum tumor necrosis factor- α
+T34	peptides 991 995;997 998	TNF- α
+T35	peptides 1000 1014	interleukin-1β
+T36	peptides 1016 1021	IL-1β
+T37	peptides 1024 1048	IL-1 receptor antagonist
+T38	peptides 1050 1056	IL-1ra
+T39	peptides 1059 1064	IL-10
+T40	peptides 1102 1122	superoxide dismutase
+T41	peptides 1124 1127	SOD
+T42	peptides 1130 1152	glutathione peroxidase
+T43	peptides 1154 1160	GSH-Px
+T44	organic 1167 1182	malondialdehyde
+T45	organic 1184 1187	MDA
+T2	nucleotides 940 948	16S rRNA
+T4	peptides 1130 1141	glutathione

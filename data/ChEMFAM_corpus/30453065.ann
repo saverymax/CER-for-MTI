@@ -1,0 +1,18 @@
+T1	nucleotides 39 46	miR-328
+T3	nucleotides 91 95	PAX6
+T5	nucleotides 160 167	miR-328
+T7	nucleotides 224 228	PAX6
+T11	nucleotides 498 505	miR-328
+T14	nucleotides 583 587	PAX6
+T16	nucleotides 235 261	paired box homeotic gene 6
+T17	nucleotides 803 807	PAX6
+T27	nucleotides 1167 1174	MiR-328
+T28	nucleotides 1360 1367	miR-328
+T29	nucleotides 1460 1464	PAX6
+T31	nucleotides 1471 1479	rs662702
+T35	nucleotides 1610 1617	miR-328
+T36	nucleotides 1790 1794	PAX6
+T38	nucleotides 1801 1809	rs662702
+T2	nucleotides 589 597	rs662702
+#1	AnnotatorNotes T2	Though it's a location, it's also a specifically named SNP that can be found in various databases. 
+T4	nucleotides 1748 1755	mir-328

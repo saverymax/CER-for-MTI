@@ -1,0 +1,22 @@
+T1	inorganic 18 20	Cu
+T2	inorganic 47 49	Hg
+T3	inorganic 207 209	Cu
+T4	inorganic 236 238	Hg
+T6	inorganic 360 362	Cu
+T7	inorganic 396 398	Hg
+T8	inorganic 447 449	Cu
+T13	inorganic 578 580	Cu
+T15	inorganic 613 615	Hg
+T18	inorganic 749 751	Cu
+T20	inorganic 823 825	Hg
+T21	peptides 848 877	NFE2-related nuclear factor 2
+T22	peptides 879 883	Nrf2
+T23	peptides 889 920	nuclear transcription factor κB
+T24	peptides 922 927	NF-κB
+T25	inorganic 993 995	Cu
+T26	inorganic 1027 1029	Cu
+T27	inorganic 1034 1036	Hg
+T28	inorganic 1171 1173	Cu
+T29	inorganic 1178 1180	Hg
+T5	peptides 848 852	NFE2
+T9	inorganic 543 549	oxygen

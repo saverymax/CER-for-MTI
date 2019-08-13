@@ -1,0 +1,16 @@
+T1	organic 143 179	4,4'-dichlorodiphenyltrichloroethane
+T2	organic 181 184	DDT
+T3	organic 62 65	DDT
+T4	organic 282 285	DDT
+T5	organic 715 718	DDT
+T8	organic 1030 1033	DDT
+T9	peptides 1104 1110	Cyp4g1
+T10	peptides 1115 1119	Lcp1
+T12	peptides 1154 1160	Cyp6g1
+T13	peptides 1165 1172	Cyp12d1
+T15	peptides 1214 1219	Mdr50
+T16	peptides 1221 1226	Mdr65
+T17	peptides 1232 1236	Mrp1
+T18	organic 1275 1278	DDT
+T19	organic 1424 1427	DDT
+T20	organic 1179 1182	ATP

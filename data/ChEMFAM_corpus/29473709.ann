@@ -1,0 +1,23 @@
+T2	peptides 698 718	glycated haemoglobin
+T3	peptides 719 726	(HbA1c)
+T4	organic 743 750	glucose
+T5	peptides 192 223	Sodium-glucose co-transporter-2
+T6	peptides 225 230	SGLT2
+T9	peptides 1015 1020	HbA1c
+T10	organic 1206 1217	cholesterol
+T15	inorganic 1193 1195	Hg
+T1	peptides 60 92	glucagon-like peptide-1 receptor
+T16	peptides 391 396	SGLT2
+T7	peptides 247 279	glucagon-like peptide-1 receptor
+T8	organic 407 420	canagliflozin
+T12	organic 614 627	canagliflozin
+T13	organic 809 820	cholesterol
+T14	inorganic 192 198	Sodium
+T17	organic 199 206	glucose
+T18	peptides 60 68	glucagon
+T19	peptides 247 255	glucagon
+T11	organic 1438 1451	canagliflozin
+T20	organic 23 36	canagliflozin
+T21	organic 963 976	canagliflozin
+T22	peptides 60 83	glucagon-like peptide-1
+T23	peptides 247 270	glucagon-like peptide-1
