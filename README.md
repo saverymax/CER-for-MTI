@@ -81,11 +81,11 @@ No code is provided to run these models. However, the code can be found at https
 ## Evaluation
 After train_models.sh and run_models.sh have been run, or the individual models above have been trained and run, the run_tool_evaluation.py file can be used to run the evaluation. This will use the annotations from all tools to calculate F1-score, recall, and precision. Including the -b option will run bootstrap to compute standard errors. Including the -l option will evaluate the annotations using the Levenshtein metric, for inexact matching.   
 
-The results for each model can be viewed in the results_printouts directory. The results will be saved to one of four files, depending on the CLI options used:
-*results_tool_evaluation.txt for results calculated using exact matching   
-*results_tool_evaluation_bootstrap.txt for results calculated using exact matching and bootstrap to generate the standard error    
-*results_tool_evaluation_leven.txt for results calculated using relaxed matching criteria (levenshtein distance normalized by string length)   
-*results_tool_evaluation_leven_bootstrap.txt for standard errors of relazed matching results      
+The results for each model can be viewed in the results_printouts directory. The results will be saved to one of four files, depending on the CLI options used:   
+* results_tool_evaluation.txt for results calculated using exact matching   
+* results_tool_evaluation_bootstrap.txt for results calculated using exact matching and bootstrap to generate the standard error    
+* results_tool_evaluation_leven.txt for results calculated using relaxed matching criteria (levenshtein distance normalized by string length)   
+* results_tool_evaluation_leven_bootstrap.txt for standard errors of relazed matching results      
 
 Additionally, annotation sets for each tool can be found in the data/annotation_sets directory. If the -l option has been used, Levenshtein measurements for each tool for each entity can be found in result_printouts/levenshtein_measurements.txt
 
