@@ -33,7 +33,7 @@ python XLNet_annotator.py \
     --lower_case=False \
 
 # Train xl net base on gene mentions
-python -XLNet_annotator.py \
+python XLNet_annotator.py \
     --spiece_model_file=./checkpoints/xlnet_cased_L-12_H-768_A-12/spiece.model \
     --model_config_path=./checkpoints/xlnet_cased_L-12_H-768_A-12/xlnet_config.json \
     --init_checkpoint=./checkpoints/xlnet_cased_L-12_H-768_A-12/xlnet_model.ckpt \

@@ -10,20 +10,26 @@ Included is the ChEMFAM corpus, located in the data/ChEMFAM_corpus directory. Th
 The guidelines for annotations are available as a .docx file, ChEMFAM_Annotation_Guidelines.docx.
 
 ## Dependencies
-Before training and running evaluation, it is recommended to create a virtual python environment. 
-The dependencies can be install with 
+Before training and running evaluation, it is recommended to create a virtual python environment, with python 3.6.8. 
+For example 
+```
+conda create --name chemfam_env python=3.6.8
+```
+The dependencies can be installed with 
 ```
 pip install -r requirements.txt
 ```
 This will install the following packages
 tf_metrics
 sentencepiece
+skmetrics
 leven
-tensorflow version X
-numpy version X
+tensorflow version 1.12.2
+numpy version 1.16.1
 
 ## Training
 
+Training was performed with GeForce GTX 1080 Ti, with 11GB of RAM.
 ### BERT
 The code for NER in the repository https://github.com/kyzhouhzau/BERT-NER/tree/master/old_version was used as reference to for the BERT_annotator.py script.
 
@@ -38,7 +44,6 @@ To train just the XLNet models, run the train_xlnet.sh script.
 To run all CER systems on the ChEMFAM corpus, run the run_models.sh script. Instructions for individual models are below.
 
 ### MTI and MetaMap Lite 
-At this time there is no simple way to recapitulate the results of MetaMapLite or MTI. While these tools have opensource implementations, the results for this paper were generated using in-houes modifications.  
 
 ### ChemDataExtractor 
 ChemDataExtractor can be installed and imported into Python. 
@@ -47,8 +52,19 @@ pip install ChemDataExtractor
 ```
 The run_ChemDataExtractor.py script will run the system on the text, generating annotations for each article.    
 
-### BERT models
-All BERT models, including SciBERT and BioBERT, can be run with the run_bert.sh script.
+### PubTator Central
+Pubtator can be accessed at X. Upload the pmids_to_annotate.txt file to the collection manager, and download the results, placing them in the tool_annotations directory. 
+
+NEED TO ADD BIT TO NOT HARDCODE THIS
+
+### BERT
+All BERT models, including SciBERT and BioBERT, can be run with the run_bert.sh script. This will generate predictions for chemicals in the ChEMFAM corpus.
+
+### XLNet
+XLNet models can be run with the run_xlnet.sh script.
+
+### MTI and MetaMapLite
+At this time there is no simple way to recapitulate the results of MetaMapLite or MTI. While these tools have opensource implementations, the results for this paper were generated using in-houes modifications.  
 
 ## Evaluation
 The run_tool_evaluation.py file can be used to run the evaluation. This will use the annotations from all tools to calculate all metrics. Including the -b option will run the bootstrap to compute standard errors. Including the -l option will evaluate the annotations using the Levenshtein metric, for inexact matching.   

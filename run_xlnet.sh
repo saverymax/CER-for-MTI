@@ -4,11 +4,11 @@ data_dir=./data/ChEMFAM_corpus/*.txt
 python XLNet_annotator.py \
     --spiece_model_file=./checkpoints/xlnet_cased_L-12_H-768_A-12/spiece.model \
     --model_config_path=./checkpoints/xlnet_cased_L-12_H-768_A-12/xlnet_config.json \
-    --init_checkpoint=./model_output/xl_net_base_chemdner_output/model.ckpt-8000 \
+    --init_checkpoint=./model_output/xlnet_chemdner/model.ckpt-8000 \
     --task_name=CER \
     --data_dir=${data_dir} \
-    --output_dir=${data_dir}/model_output/xlnet_chemdner \
-    --model_dir=${data_dir}/model_output/xlnet_chemdner \
+    --output_dir=./model_output/xlnet_chemdner \
+    --model_dir=./model_output/xlnet_chemdner \
     --output_file=results/xlnet_chemdner_tokenized_test.txt \
     --max_seq_length=512 \
     --train_batch_size=4 \
@@ -24,18 +24,19 @@ python XLNet_annotator.py \
     --lower_case=False \
     --do_export=False
 
-output_file_dir=/data/saveryme/model_output/xl_net_base_chemdner_output/results
+output_file_dir=./model_output/xlnet_chemdner/results
 python convert_output.py --input ${output_file_dir}/xlnet_chemdner_tokenized_test.txt --output ${output_file_dir}/xlnet_chemdner_test.txt 
+cp ${output_file_dir}/xlnet_chemdner_test.txt ./data/tool_annotations 
 
 # Run gene mention xlnet base on our corpus
 python XLNet_annotator.py \
     --spiece_model_file=./checkpoints/xlnet_cased_L-12_H-768_A-12/spiece.model \
     --model_config_path=./checkpoints/xlnet_cased_L-12_H-768_A-12/xlnet_config.json \
-    --init_checkpoint=./model_output/xl_net_base_gm_output/model.ckpt-8000 \
+    --init_checkpoint=./model_output/xlnet_gm/model.ckpt-8000 \
     --task_name=CER \
     --data_dir=${data_dir} \
-    --output_dir=${data_dir}/model_output/xlnet_gm \
-    --model_dir=${data_dir}/model_output/xlnet_gm \
+    --output_dir=./model_output/xlnet_gm \
+    --model_dir=./model_output/xlnet_gm \
     --output_file=results/xlnet_gm_tokenized_test.txt \
     --max_seq_length=512 \
     --train_batch_size=4 \
@@ -51,5 +52,6 @@ python XLNet_annotator.py \
     --lower_case=False \
     --do_export=False
 
-output_file_dir=/data/saveryme/model_output/xl_net_base_gm_output/results
+output_file_dir=./model_output/xlnet_gm/results
 python convert_output.py --input ${output_file_dir}/xlnet_gm_tokenized_test.txt --output ${output_file_dir}/xlnet_gm_test.txt 
+cp ${output_file_dir}/xlnet_gm_test.txt ./data/tool_annotations 

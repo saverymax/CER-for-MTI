@@ -18,7 +18,6 @@ import json
 import statistics
 import random
 
-import matplotlib.pyplot as plt
 from leven import levenshtein
 
 

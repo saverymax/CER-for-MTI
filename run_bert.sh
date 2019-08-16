@@ -116,3 +116,10 @@ python BERT_annotator.py \
     --output_dir=./model_output/scibert_gm_output/ \
     --output_preds=results/scibert_gene_mention_test.txt \
     --n_labels=2 
+
+cp ./model_output/scibert_gm_output/results/scibert_gene_mention_test.txt ./data/tool_annotations
+cp ./model_output/scibert_chemdner_output/results/scibert_chemdner_test.txt ./data/tool_annotations
+cp ./model_output/biobert_chemdner_output/results/biobert_chemdner_test.txt ./data/tool_annotations
+cp ./model_output/biobert_gm_output/results/biobert_gene_mentions_test.txt ./data/tool_annotations
+cp ./model_output/bert_gm_output/results/bert_gene_mention_test.txt ./data/tool_annotations
+cp ./model_output/bert_chemdner_output/results/bert_chemdner_test.txt ./data/tool_annotations
