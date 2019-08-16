@@ -19,28 +19,37 @@ The dependencies can be installed with
 ```
 pip install -r requirements.txt
 ```
-This will install the following packages
+This will install the following packages:
 tf_metrics   
 sentencepiece   
-skmetrics   
 leven   
 tensorflow version 1.12.2   
 numpy version 1.16.1   
 
+## Quick use
+To recreate the results from the paper, run the following commands.
+```
+bash train_models.sh
+bash run_models.sh
+python run_tool_evalutation.py
+```
+
+They are explained in further detail below.
+
 ## Training
-The annotations from trained systems are already provided in this repository, in the data/tool_annotations directory. If you just want to see the results, go to the evaluation section of the README. To generate these yourself, the models must be trained on entity mentions and run on the ChEMFAM corpus. Instructions to train models are included here.
+The annotations from trained systems are already provided in this repository, in the data/tool_annotations directory. If you just want to see the results, go to the evaluation section of the README. To generate these yourself, the models must be trained on entity mentions and run on the ChEMFAM corpus. To train all models, run train_models.sh. To train specific types of models, see below.   
 
 Training was performed with a GeForce GTX 1080 Ti, with 11GB of RAM.  
 
 ### BERT
+To train just the bert models, run the train_bert.sh script. This will generate BERT, SciBERT, and BioBERT models, trained on the BC4CHEMD and BC2GM data (one model trained on one dataset, six models total).   
+
 The code for NER in the repository https://github.com/kyzhouhzau/BERT-NER/tree/master/old_version was used as reference to write the BERT_annotator.py script.
-
-To train just the bert models, run the train_bert.sh script. This will generate BERT, SciBERT, and BioBERT models, trained on the BC4CHEMD and BC2GM data (one model trained on one dataset, six models total).
-
 ### XLNet
-The code for NER in the repository https://github.com/stevezheng23/xlnet_extension_tf was used as reference to write the XLNet_annotator.py script.
 
-To train the XLNet models, run the train_xlnet.sh script.
+To train the XLNet models, run the train_xlnet.sh script.   
+
+The code for NER in the repository https://github.com/stevezheng23/xlnet_extension_tf was used as reference to write the XLNet_annotator.py script.
 
 ## Running CER systems
  To run all CER systems on the ChEMFAM corpus, run the run_models.sh script. Instructions for individual models are below.
@@ -73,15 +82,15 @@ No code is provided to run these models. However, the code can be found at https
 After train_models.sh and run_models.sh have been run, or the individual models above have been trained and run, the run_tool_evaluation.py file can be used to run the evaluation. This will use the annotations from all tools to calculate F1-score, recall, and precision. Including the -b option will run bootstrap to compute standard errors. Including the -l option will evaluate the annotations using the Levenshtein metric, for inexact matching.   
 
 The results for each model can be viewed in the results_printouts directory. The results will be saved to one of four files, depending on the CLI options used:
-results_tool_evaluation.txt for results calculated using exact matching   
-results_tool_evaluation_bootstrap.txt for results calculated using exact matching and bootstrap to generate the standard error    
-results_tool_evaluation_leven.txt for results calculated using relaxed matching criteria (levenshtein distance normalized by string length)   
-results_tool_evaluation_leven_bootstrap.txt for standard errors of relazed matching results   
+*results_tool_evaluation.txt for results calculated using exact matching   
+*results_tool_evaluation_bootstrap.txt for results calculated using exact matching and bootstrap to generate the standard error    
+*results_tool_evaluation_leven.txt for results calculated using relaxed matching criteria (levenshtein distance normalized by string length)   
+*results_tool_evaluation_leven_bootstrap.txt for standard errors of relazed matching results      
 
-Additionally annotation sets for each tool can be found in the data/annotation_sets directory. If the -l option has been used, Levenshtein measurements for each tool for each entity can be found in result_printouts/levenshtein_measurements.txt
+Additionally, annotation sets for each tool can be found in the data/annotation_sets directory. If the -l option has been used, Levenshtein measurements for each tool for each entity can be found in result_printouts/levenshtein_measurements.txt
 
 ## Repository references
-https://github.com/google-research/bert
-https://github.com/zihangdai/xlnet
-https://github.com/stevezheng23/xlnet_extension_tf
-https://github.com/kyzhouhzau/BERT-NER
+https://github.com/google-research/bert   
+https://github.com/zihangdai/xlnet   
+https://github.com/stevezheng23/xlnet_extension_tf   
+https://github.com/kyzhouhzau/BERT-NER   

@@ -21,7 +21,6 @@ from bert import modeling
 from bert import optimization
 from bert import tokenization
 import tensorflow as tf
-from sklearn.metrics import f1_score,precision_score,recall_score
 from tensorflow.python.ops import math_ops
 import tf_metrics
 

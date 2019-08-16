@@ -1,200 +1,200 @@
-23566289:{'Hb', 'Epo', 'for', 'TNF-α', 'iron', 'ferritin', 'hemoglobin', 'was', 'IL-10', 'IL-6', 'tumor necrosis factor-alpha', 'erythropoietin', 'had', 'iron levels'}
-25881691:{'cell', 'BCM', 'for', 'xenograft', 'was', 'dihydrotetrabenazine', 'C-peptide', 'insulin', 'same', 'DOPA', 'mice', '18F-FDG'}
-26278388:{'lipin', 'Lipin', 'lines', 'can', 'ethanol', 'For', 'AMPK', 'alternative splicing', 'liver', 'Liver', 'for', 'AMP activated kinase', 'SIRT1', 'sirtuin 1'}
-26435084:{'cell', 'mitochondrial protein', 'tubulin', 'second messenger', 'GSK2578215A', 'line', 'chromatins', 'tempol', 'was', 'leucine', 'contrast', 'Bax', '4-hydroxynonenal'}
-26449525:{'cell', 'for', 'RNAs', 'ERK', 'was', 'Cell'}
-26454207:{'cell', 'MyoD protein', 'Akt', 'leading', 'mitogen-activated protein kinase', 'for', 'Halofuginone', 'halofuginone', 'BrdU', 'Bax', 'dysf', 'was', 'protein kinase', "halofuginone's", 'mice'}
-26454209:{'lines', 'for', 'can', 'liver', 'phosphatidylcholine', 'cholesterol', 'apoA-I', 'apo', 'apolipoprotein', 'APP', 'contrast', 'CSF', 'mice', 'amyloidosis'}
-26459048:{'cell', 'GLI2', 'isoforms', 'leading', 'for', 'alternative splicing', 'GLI', 'zinc', 'protein isoforms'}
-26499143:{'CpG island', 'for', 'can', 'MSI', 'RAS', 'HER2', 'microsatellite', 'TNM', 'drug'}
-26499151:{'was', 'TNM', 'had'}
-26499152:{'cell', 'line', 'lines', 'can', 'was', 'SGC', 'TNM', 'had'}
-26499153:{'cell', 'lines', 'miR', 'BrdU', 'MiR', 'Mitochondrial transcription factor A', 'was', 'MTT', 'mitochondrial transcription factor A'}
-26506125:{'cell', 'NFkB', 'S-adenosylmethionine', 'for', 'S-adenosylhomocysteine', 'can', 'NFkB inhibitor', 'SAH', 'aim', 'IkB', 'was', 'lysine', 'methyltransferase'}
+23566289:{'Epo', 'hemoglobin', 'had', 'TNF-α', 'was', 'erythropoietin', 'IL-10', 'iron', 'for', 'Hb', 'tumor necrosis factor-alpha', 'iron levels', 'ferritin', 'IL-6'}
+25881691:{'DOPA', 'mice', 'C-peptide', 'insulin', 'xenograft', 'BCM', 'was', 'same', '18F-FDG', 'for', 'dihydrotetrabenazine', 'cell'}
+26278388:{'SIRT1', 'Liver', 'lipin', 'Lipin', 'liver', 'sirtuin 1', 'for', 'ethanol', 'alternative splicing', 'AMP activated kinase', 'For', 'AMPK', 'can', 'lines'}
+26435084:{'second messenger', 'contrast', '4-hydroxynonenal', 'GSK2578215A', 'was', 'chromatins', 'Bax', 'tempol', 'cell', 'line', 'leucine', 'mitochondrial protein', 'tubulin'}
+26449525:{'ERK', 'was', 'for', 'RNAs', 'Cell', 'cell'}
+26454207:{'mice', "halofuginone's", 'dysf', 'BrdU', 'was', 'MyoD protein', 'leading', 'halofuginone', 'for', 'Bax', 'Akt', 'protein kinase', 'mitogen-activated protein kinase', 'cell', 'Halofuginone'}
+26454209:{'mice', 'contrast', 'apolipoprotein', 'liver', 'amyloidosis', 'CSF', 'cholesterol', 'for', 'apoA-I', 'APP', 'phosphatidylcholine', 'apo', 'can', 'lines'}
+26459048:{'zinc', 'protein isoforms', 'GLI', 'leading', 'for', 'alternative splicing', 'cell', 'isoforms', 'GLI2'}
+26499143:{'MSI', 'CpG island', 'RAS', 'drug', 'for', 'HER2', 'microsatellite', 'TNM', 'can'}
+26499151:{'was', 'had', 'TNM'}
+26499152:{'had', 'was', 'SGC', 'cell', 'line', 'TNM', 'can', 'lines'}
+26499153:{'Mitochondrial transcription factor A', 'BrdU', 'miR', 'was', 'mitochondrial transcription factor A', 'cell', 'MTT', 'MiR', 'lines'}
+26506125:{'SAH', 'S-adenosylhomocysteine', 'NFkB', 'was', 'cell', 'for', 'methyltransferase', 'S-adenosylmethionine', 'IkB', 'NFkB inhibitor', 'lysine', 'aim', 'can'}
 26616814:{'Cox', 'was', 'TNM', 'for'}
-26634950:{'etamsylate', 'water', 'hemostatic', 'for', 'CS', 'Chitosan', 'emulsion', 'was', 'Med', 'chitosan', 'hemostatic agent', 'hemostatic agents', 'had', 'DIC'}
-26639231:{'cell', 'for', 'had', 'can', 'CTSL', 'RNAs', 'was', 'xenografts', 'Cathepsin L', 'plasmid', 'mice'}
-26639236:{'cell', 'line', 'SMS', '10-hydroxycamptothecin', 'HCPT', 'MTT', 'caspase 3', 'drugs', 'p53', 'ADP-ribose', 'was', 'Cell', 'drug', 'apoptosis', 'PARP', 'caspase-3', 'for', '10-Hydroxycamptothecin', 'pro', 'cytochrome c', 'DAPI', 'poly'}
-26639240:{'cell', 'EBER1', 'for', 'was', 'DNA polymerase', 'contrast', 'same'}
-26676538:{'diphenyl ether', 'for', 'TBARS', 'can', 'superoxide dismutase', 'creatinine', 'CED', 'flame retardant', 'dust', 'thiobarbituric acid reactive substances', 'was', 'urea', 'glutathione'}
-26774144:{'cell', 'lines', 'for', 'cadherin', 'RNAs', 'was', 'Cox', 'TNM'}
-26774155:{'cell', 'Cdc42', 'for', 'can', 'lead', 'cyclin-dependent kinase 2', 'was', 'p21', 'CDK2'}
-26925791:{'cell', 'lines', 'for', 'RNAs', 'was', 'Cox', 'TNM'}
-27158766:{'Dopamine', '3,4-dihydroxyphenylacetaldehyde', 'carbon', 'for', 'Pyrrole', 'Lys', 'pyrrole', 'α-synuclein', 'DOPAL', 'α-Synuclein', 'lysine', 'dopamine'}
-27159019:{"5-chloro-2'-deoxyuridine", 'DNA molecule', 'deoxyguanosine', 'was', "5-fluoro-2'-deoxycytidine", "7-deaza-2'-deoxyadenosine", 'trimethoprim', 'dihydrofolate reductase'}
-27389556:{'can', 'was', 'protein subunit', 'CDK8', 'had'}
-28005299:{'cell', 'fucose', 'for', 'can', 'galactose', 'For', 'SLeX', 'polyHPMA', 'tyramine', 'Ligands', 'sialic acid', 'Polymeric', 'same', 'polymeric', 'methacrylamide', 'poly'}
-28029034:{'carbon nanotubes', 'CNT', 'poly', 'for', '3,4-ethylenedioxythiophene', 'Carbon nanotube', 'Carbon Nanotubes'}
-28079958:{'oxygen', 'hydrogen', 'for', 'NAD'}
-28588210:{'carbon nanotubes', 'drugs', 'for', 'phosphocholine', 'DOPC', 'Drugs', 'simvastatin', 'suspension', 'mice', 'Carbon Nanotubes'}
-28588231:{'LCT', 'MCM6', 'can', 'SLC5A1', '1,5-AG', 'direction', '1,5-anhydroglucitol', 'glucose'}
-28588270:{'ethyleneimine', 'was', 'glycidyl methacrylate', 'polymeric', 'poly'}
-28590721:{'phthalocyanine', 'HSA', 'for', 'Mice', 'Iron Phthalocyanine', 'contrast', 'human serum albumin', 'iron'}
-28590728:{'l-Asp', 'for', 'can', 'Acids', 'aspartic acid', 'crystal', 'Asp'}
-28594000:{'cell', 'Carbon', 'receptor tyrosine kinase', 'ros', 'for', 'anaplastic lymphoma kinase', 'ALK', 'radiochemical', 'drug'}
-28606865:{'GH', 'drugs', 'IGF-I', 'for', 'Hormones', 'insulin', 'insulin-like growth factor', 'growth hormone'}
-28611362:{'for', 'can', 'zinc', 'TGF-β', 'calcium silicate', 'Calcium Silicate', 'Zinc'}
-28691448:{'cell', 'for', 'water', 'For', 'TLC', 'apatite', 'cement', 'was', 'resin', 'calcium silicate', 'FBS', 'TheraCal', 'base', 'mineral'}
-28965682:{'for', 'Lithium disilicate', 'For', 'simulated', 'simulating', 'was', 'lithium disilicate', 'zirconia'}
-29077529:{'cell', 'melatonin', 'anti-inflammatory', 'nitric oxide', 'can', 'pro', 'Melatonin', 'inflammation mediators', 'was', 'minocycline', 'tumor necrosis factor-alpha', 'injection', 'drug'}
-29190205:{'cell', 'angiotensin II', 'Angiotensin II', 'RAS', 'Renin', 'angiotensin III', 'alamandine', 'angiotensin', 'angiotensin A', 'angiotensinogen'}
-29210643:{'TNF', 'anti-inflammatory', 'for', 'For', 'adiponectin', 'fibroblast growth factor 21', 'fatty acid binding protein'}
-29452802:{'for', 'gases', 'argon', 'Argon', 'extracellular signal-regulated kinase 1', 'AKT', 'neuroprotective agents', 'PI-3K', 'toll-like receptors', 'phosphatidylinositol 3 kinase', 'xenon', 'Xenon'}
-29473709:{'baseline', 'for', 'SGLT2', 'HDL cholesterol', 'canagliflozin', 'Sodium', 'haemoglobin', 'glucagon-like peptide-1 receptor', 'was', 'glucose', 'hypoglycaemic', 'drug'}
-29687582:{'for', 'direction', 'silver', 'was', 'LiF'}
-29699594:{'cell', 'estradiol', 'anti-mullerian hormone', 'for', 'superoxide dismutase', 'follicle-stimulating hormone', 'curcumin', 'capsaicin', 'luteinizing hormone', 'was', 'CRC', 'cyclophosphamide', 'CPS', 'glutathione', 'injection', 'had', 'Malonaldehyde'}
-29936200:{'hydroxybutyrate', 'melatonin', 'sham', 'PVP', 'β-cyclodextrin', 'for', "lactated Ringer's solution", 'dimethyl sulfoxide', 'MLT', 'polyethylene glycol 400', 'was', 'LR', 'DMSO', 'polyvinylpyrrolidone'}
-30001502:{'XO', 'COC', 'levonorgestrel', 'combined oral contraceptive', 'total cholesterol', 'for', 'valproic acid', 'aldosterone', 'ADA', 'cholesterol', 'UA', 'liver', 'xanthine oxidase', 'VPA', 'corticosterone', 'uric acid', 'adenosine deaminase', 'ethinylestradiol', 'free fatty acid', 'malondialdehyde'}
+26634950:{'Chitosan', 'emulsion', 'hemostatic', 'had', 'water', 'was', 'etamsylate', 'chitosan', 'for', 'CS', 'DIC', 'hemostatic agent', 'Med', 'hemostatic agents'}
+26639231:{'mice', 'had', 'was', 'for', 'plasmid', 'RNAs', 'Cathepsin L', 'cell', 'xenografts', 'CTSL', 'can'}
+26639236:{'was', '10-Hydroxycamptothecin', 'HCPT', 'ADP-ribose', 'line', 'apoptosis', 'for', 'DAPI', 'cell', 'caspase 3', 'p53', 'PARP', 'Cell', 'MTT', 'cytochrome c', 'pro', 'drugs', 'caspase-3', 'drug', '10-hydroxycamptothecin', 'SMS', 'poly'}
+26639240:{'contrast', 'was', 'same', 'DNA polymerase', 'for', 'EBER1', 'cell'}
+26676538:{'creatinine', 'thiobarbituric acid reactive substances', 'glutathione', 'was', 'can', 'for', 'dust', 'TBARS', 'urea', 'CED', 'superoxide dismutase', 'flame retardant', 'diphenyl ether'}
+26774144:{'was', 'for', 'cadherin', 'RNAs', 'Cox', 'cell', 'TNM', 'lines'}
+26774155:{'lead', 'p21', 'was', 'Cdc42', 'for', 'CDK2', 'cell', 'can', 'cyclin-dependent kinase 2'}
+26925791:{'was', 'for', 'RNAs', 'Cox', 'cell', 'TNM', 'lines'}
+27158766:{'Pyrrole', 'carbon', 'α-synuclein', 'DOPAL', '3,4-dihydroxyphenylacetaldehyde', 'for', 'lysine', 'dopamine', 'pyrrole', 'Lys', 'α-Synuclein', 'Dopamine'}
+27159019:{'trimethoprim', "5-fluoro-2'-deoxycytidine", 'DNA molecule', "7-deaza-2'-deoxyadenosine", 'was', 'deoxyguanosine', 'dihydrofolate reductase', "5-chloro-2'-deoxyuridine"}
+27389556:{'had', 'was', 'CDK8', 'protein subunit', 'can'}
+28005299:{'methacrylamide', 'Polymeric', 'SLeX', 'tyramine', 'sialic acid', 'galactose', 'Ligands', 'fucose', 'for', 'same', 'polyHPMA', 'polymeric', 'poly', 'cell', 'For', 'can'}
+28029034:{'3,4-ethylenedioxythiophene', 'Carbon nanotube', 'CNT', 'for', 'poly', 'Carbon Nanotubes', 'carbon nanotubes'}
+28079958:{'hydrogen', 'oxygen', 'NAD', 'for'}
+28588210:{'phosphocholine', 'mice', 'drugs', 'for', 'suspension', 'Drugs', 'Carbon Nanotubes', 'DOPC', 'carbon nanotubes', 'simvastatin'}
+28588231:{'direction', 'glucose', 'SLC5A1', 'MCM6', '1,5-anhydroglucitol', 'LCT', '1,5-AG', 'can'}
+28588270:{'glycidyl methacrylate', 'ethyleneimine', 'was', 'polymeric', 'poly'}
+28590721:{'contrast', 'Mice', 'Iron Phthalocyanine', 'human serum albumin', 'for', 'iron', 'HSA', 'phthalocyanine'}
+28590728:{'for', 'Asp', 'l-Asp', 'aspartic acid', 'crystal', 'Acids', 'can'}
+28594000:{'radiochemical', 'drug', 'receptor tyrosine kinase', 'for', 'anaplastic lymphoma kinase', 'cell', 'Carbon', 'ros', 'ALK'}
+28606865:{'insulin', 'drugs', 'growth hormone', 'Hormones', 'for', 'insulin-like growth factor', 'GH', 'IGF-I'}
+28611362:{'zinc', 'Zinc', 'for', 'TGF-β', 'Calcium Silicate', 'calcium silicate', 'can'}
+28691448:{'cement', 'FBS', 'water', 'TLC', 'was', 'TheraCal', 'apatite', 'for', 'mineral', 'base', 'resin', 'cell', 'For', 'calcium silicate'}
+28965682:{'simulating', 'was', 'simulated', 'for', 'lithium disilicate', 'zirconia', 'For', 'Lithium disilicate'}
+29077529:{'pro', 'was', 'nitric oxide', 'minocycline', 'drug', 'melatonin', 'injection', 'Melatonin', 'tumor necrosis factor-alpha', 'inflammation mediators', 'anti-inflammatory', 'cell', 'can'}
+29190205:{'Renin', 'RAS', 'angiotensin A', 'alamandine', 'Angiotensin II', 'angiotensin II', 'cell', 'angiotensinogen', 'angiotensin', 'angiotensin III'}
+29210643:{'fibroblast growth factor 21', 'TNF', 'for', 'fatty acid binding protein', 'adiponectin', 'anti-inflammatory', 'For'}
+29452802:{'PI-3K', 'neuroprotective agents', 'gases', 'argon', 'AKT', 'for', 'Xenon', 'extracellular signal-regulated kinase 1', 'Argon', 'toll-like receptors', 'phosphatidylinositol 3 kinase', 'xenon'}
+29473709:{'hypoglycaemic', 'HDL cholesterol', 'Sodium', 'was', 'drug', 'for', 'baseline', 'SGLT2', 'haemoglobin', 'glucagon-like peptide-1 receptor', 'canagliflozin', 'glucose'}
+29687582:{'silver', 'was', 'for', 'LiF', 'direction'}
+29699594:{'anti-mullerian hormone', 'capsaicin', 'CRC', 'had', 'curcumin', 'glutathione', 'was', 'follicle-stimulating hormone', 'injection', 'for', 'cyclophosphamide', 'luteinizing hormone', 'estradiol', 'cell', 'Malonaldehyde', 'superoxide dismutase', 'CPS'}
+29936200:{'DMSO', "lactated Ringer's solution", 'was', 'dimethyl sulfoxide', 'melatonin', 'PVP', 'polyethylene glycol 400', 'for', 'polyvinylpyrrolidone', 'β-cyclodextrin', 'LR', 'MLT', 'sham', 'hydroxybutyrate'}
+30001502:{'ethinylestradiol', 'COC', 'liver', 'ADA', 'valproic acid', 'adenosine deaminase', 'uric acid', 'levonorgestrel', 'cholesterol', 'for', 'xanthine oxidase', 'total cholesterol', 'corticosterone', 'free fatty acid', 'malondialdehyde', 'UA', 'VPA', 'aldosterone', 'combined oral contraceptive', 'XO'}
 30002372:{'was', 'for'}
-30010491:{'cell', 'CAT', 'NO', 'nitric oxide', 'for', 'superoxide dismutase', 'pro-oxidant', 'creatinine', 'catalase', 'haemoglobin', 'HO•', 'GPx', 'was', 'SCD', 'SOD', 'GSH', 'glutathione', 'hydroxyl radical', 'glutathione peroxidase', 'total bilirubin'}
-30017992:{'SAS', 'FGF14', 'heparin', 'for', 'binding sites', 'His', 'FGF14 gene', 'fibroblast growth factor 14', 'was', 'SCA27'}
-30024839:{'MTHFR', 'for', 'MTX', 'methylenetetrahydrofolate reductase', 'was', 'methotrexate'}
-30068241:{'cell', 'CCK-8', 'lines', 'for', 'Xenograft', 'apoptosis', 'miR', 'pro', 'was', 'mice'}
-30080988:{'JAK2', 'for', 'For', 'Calreticulin', 'plasmids', 'was', 'MPL', 'CALR'}
-30121041:{'CCl', 'carbon', 'for', 'can', '1,1,2-trichloroethane', 'ethanes', '1,1,2-TCA', 'chlorine', 'was', 'VC', 'vinyl chloride'}
-30124384:{'ABL', 'intronic', 'for', 'alternative splicing', 'CML'}
-30139310:{'BMP', 'cell', 'leading', 'for', 'immunosorbent', 'can', 'Interleukin-2', 'TCGF', 'PBP', 'AAA', 'SAA', 'was', 'IL-2', 'same'}
-30235719:{'hCG', 'for', 'liver', 'AST', 'magnesium', 'glycoprotein', 'actinomycin D', 'polyene', 'was', 'ALT', 'medication', 'phosphatidyl choline', 'drug'}
-30334700:{'for', 'can', 'CD45', 'aim', 'was', 'CD34', 'adjuvant'}
-30382274:{'insulin levels', 'insulin sensitivity', 'for', 'was', 'glucose', 'end'}
-30412893:{'PEG', 'collagen', 'for', 'was'}
-30415005:{'cell', 'PC3', 'miR', 'apoptosis', 'was', 'MTT', 'mice'}
-30453065:{'for', 'miR', 'MiR', 'UTR', 'mir', 'was', 'had'}
-30458286:{'for', 'RNAs', 'CNC', 'was', 'PPI', 'Il6', 'Myc'}
-30458287:{'NF-κB', 'interleukin-1β', 'miR', 'MAP kinase', 'MiR', 'UTR', 'matrix metalloproteinase 1', 'small noncoding RNA', 'MAPK', 'hsa', 'type II collagen', 'MMP-1', 'binding site', 'was', 'IL-1β'}
-30468908:{'miR', 'was', 'for'}
-30471602:{'water', 'for', 'colistin', 'was', 'drinking water'}
-30503393:{'cell', 'pum', 'for', 'PGC', 'was', 'contrast', 'had'}
-30503395:{'cell', 'for', 'RNAs', 'introns', 'apoptosis', 'zinc', 'Zinc', 'end', 'drug'}
-30521888:{'Thymine', 'Cytosine', 'Adenine', 'was', 'Guanine'}
-30528268:{'cell', 'apoptosis', 'aim', 'was', 'mice'}
-30529248:{'for', 'liver', 'tributyltin', 'amino acids', 'was', 'CD28'}
-30536466:{'for', 'can', 'DNA adduct', 'pro', 'propylene oxide', 'ethylene oxide', 'DNA adducts', 'BMD', 'was', 'Mutagen'}
-30543962:{'for', 'binding sites', 'fibronectin', 'pro', 'UTR', 'SO2', 'mir', 'was', 'MTT', 'coal', 'sulfur dioxide', 'mice', 'transforming growth factor β'}
-30552979:{'map', 'for', 'Acid sphingomyelinase', 'mir', 'hsa'}
-30562548:{'for', 'Parathyroid hormone', 'RNAs', 'miR', 'UTR', 'was', 'calcium', 'PTH'}
-30572096:{'for', 'mitochondrial DNA', 'can', 'Sea', 'subunit', 'cytochrome oxidase'}
-30576808:{'cell', 'STAT3', 'CCK-8', 'lines', 'miR', 'apoptosis', 'was', 'Cell', 'EdU'}
-30580162:{'for', 'heavy metal', 'was', 'myb', 'nickel', 'SOD', 'castor', 'same', 'trace nutrient'}
-30583411:{'for', 'amino acids', 'FAA', 'was', "5'-GMP"}
-30583435:{'uridine', 'water', 'for', 'For', 'adenosine', 'cytidine', 'pH 3', 'was', 'formic acid', 'guanosine'}
-30591638:{'oil', '2,2-Diphenyl-1-picrylhydrazyl', 'trace elements', 'elements', 'Cannabis sativa', 'β-sitosterol', 'was', 'Oil', 'phytosterols'}
-30593917:{'spl', 'can', 'miR', 'UTR', 'was'}
-30594026:{'cell', 'cinchonain Ib', 'NO', 'nitric oxide', 'for', '3-hexenyl-β-D-glucopyranoside', 'crystal', 'hydrogen peroxide', 'H2O2', 'PC-12'}
-30594254:{'cell', 'line', 'anti-inflammatory', 'for', 'mice', 'TNF-α', 'pro', 'was', 'ICAM-1', 'IL-6', 'ODA', 'DEX', 'dexamethasone', 'octadecylamine', 'intercellular adhesion molecule 1'}
-30597233:{'cell', 'for', 'can', 'RNAs', 'was', 'contrast', 'base'}
-30597234:{'cell', 'miR', 'pro', 'apoptosis', 'MiR', 'aim', 'was', 'JC-1', 'LDH', 'H2O2'}
-30599235:{'cell', 'line', 'lines', 'for', 'RNAs', 'apoptosis', 'xenograft'}
-30611468:{'oil', 'cyclooxygenase-2', 'NO', 'anti-inflammatory', 'for', 'nitric oxide', 'interleukin-1β', 'prostaglandin E2', 'was', 'contrast', 'olive oil', 'stearate', 'NO synthase'}
-30611507:{'zeolites', 'ester', 'for', 'can', 'SDS', 'lactose', 'was', 'aluminosilicate', 'solvents', 'zeolite', 'lauric acid', 'sodium dodecyl sulfate'}
+30010491:{'GSH', 'glutathione peroxidase', 'glutathione', 'hydroxyl radical', 'was', 'HO•', 'GPx', 'cell', 'for', 'nitric oxide', 'total bilirubin', 'NO', 'SCD', 'CAT', 'SOD', 'haemoglobin', 'pro-oxidant', 'superoxide dismutase', 'catalase', 'creatinine'}
+30017992:{'His', 'binding sites', 'FGF14 gene', 'FGF14', 'was', 'SCA27', 'for', 'SAS', 'heparin', 'fibroblast growth factor 14'}
+30024839:{'methotrexate', 'MTX', 'was', 'for', 'methylenetetrahydrofolate reductase', 'MTHFR'}
+30068241:{'mice', 'pro', 'apoptosis', 'miR', 'was', 'Xenograft', 'for', 'CCK-8', 'cell', 'lines'}
+30080988:{'Calreticulin', 'JAK2', 'was', 'for', 'CALR', 'For', 'MPL', 'plasmids'}
+30121041:{'1,1,2-trichloroethane', '1,1,2-TCA', 'carbon', 'vinyl chloride', 'VC', 'was', 'CCl', 'for', 'chlorine', 'ethanes', 'can'}
+30124384:{'ABL', 'CML', 'intronic', 'for', 'alternative splicing'}
+30139310:{'PBP', 'SAA', 'immunosorbent', 'was', 'leading', 'AAA', 'same', 'for', 'Interleukin-2', 'BMP', 'cell', 'IL-2', 'can', 'TCGF'}
+30235719:{'hCG', 'liver', 'was', 'drug', 'ALT', 'for', 'phosphatidyl choline', 'magnesium', 'medication', 'AST', 'polyene', 'glycoprotein', 'actinomycin D'}
+30334700:{'adjuvant', 'was', 'for', 'CD34', 'CD45', 'aim', 'can'}
+30382274:{'was', 'insulin sensitivity', 'for', 'insulin levels', 'end', 'glucose'}
+30412893:{'PEG', 'was', 'collagen', 'for'}
+30415005:{'mice', 'apoptosis', 'miR', 'was', 'PC3', 'cell', 'MTT'}
+30453065:{'had', 'mir', 'miR', 'was', 'for', 'UTR', 'MiR'}
+30458286:{'CNC', 'Myc', 'was', 'for', 'RNAs', 'Il6', 'PPI'}
+30458287:{'interleukin-1β', 'MAP kinase', 'type II collagen', 'MiR', 'binding site', 'miR', 'was', 'MMP-1', 'small noncoding RNA', 'IL-1β', 'hsa', 'UTR', 'matrix metalloproteinase 1', 'MAPK', 'NF-κB'}
+30468908:{'was', 'for', 'miR'}
+30471602:{'water', 'colistin', 'was', 'drinking water', 'for'}
+30503393:{'contrast', 'had', 'pum', 'was', 'PGC', 'for', 'cell'}
+30503395:{'zinc', 'apoptosis', 'Zinc', 'drug', 'introns', 'for', 'RNAs', 'cell', 'end'}
+30521888:{'was', 'Thymine', 'Adenine', 'Cytosine', 'Guanine'}
+30528268:{'mice', 'apoptosis', 'was', 'cell', 'aim'}
+30529248:{'amino acids', 'liver', 'tributyltin', 'was', 'CD28', 'for'}
+30536466:{'Mutagen', 'pro', 'propylene oxide', 'ethylene oxide', 'DNA adduct', 'was', 'for', 'DNA adducts', 'BMD', 'can'}
+30543962:{'mice', 'pro', 'binding sites', 'coal', 'transforming growth factor β', 'mir', 'was', 'for', 'fibronectin', 'SO2', 'UTR', 'sulfur dioxide', 'MTT'}
+30552979:{'Acid sphingomyelinase', 'mir', 'map', 'hsa', 'for'}
+30562548:{'miR', 'Parathyroid hormone', 'was', 'for', 'RNAs', 'UTR', 'calcium', 'PTH'}
+30572096:{'mitochondrial DNA', 'cytochrome oxidase', 'for', 'subunit', 'Sea', 'can'}
+30576808:{'apoptosis', 'miR', 'was', 'STAT3', 'CCK-8', 'Cell', 'cell', 'EdU', 'lines'}
+30580162:{'nickel', 'was', 'trace nutrient', 'same', 'for', 'castor', 'heavy metal', 'myb', 'SOD'}
+30583411:{'FAA', 'amino acids', 'was', "5'-GMP", 'for'}
+30583435:{'formic acid', 'guanosine', 'adenosine', 'water', 'was', 'pH 3', 'for', 'uridine', 'cytidine', 'For'}
+30591638:{'elements', 'β-sitosterol', 'oil', '2,2-Diphenyl-1-picrylhydrazyl', 'trace elements', 'was', 'Oil', 'Cannabis sativa', 'phytosterols'}
+30593917:{'spl', 'miR', 'was', 'UTR', 'can'}
+30594026:{'PC-12', 'hydrogen peroxide', 'nitric oxide', 'for', 'H2O2', 'NO', 'cell', 'crystal', 'cinchonain Ib', '3-hexenyl-β-D-glucopyranoside'}
+30594254:{'mice', 'pro', 'dexamethasone', 'TNF-α', 'was', 'DEX', 'for', 'IL-6', 'octadecylamine', 'intercellular adhesion molecule 1', 'cell', 'ICAM-1', 'line', 'anti-inflammatory', 'ODA'}
+30597233:{'contrast', 'was', 'base', 'for', 'RNAs', 'cell', 'can'}
+30597234:{'pro', 'apoptosis', 'LDH', 'miR', 'was', 'H2O2', 'JC-1', 'cell', 'aim', 'MiR'}
+30599235:{'apoptosis', 'xenograft', 'for', 'RNAs', 'cell', 'line', 'lines'}
+30611468:{'interleukin-1β', 'prostaglandin E2', 'olive oil', 'contrast', 'oil', 'cyclooxygenase-2', 'was', 'nitric oxide', 'for', 'NO', 'NO synthase', 'anti-inflammatory', 'stearate'}
+30611507:{'was', 'solvents', 'can', 'aluminosilicate', 'for', 'SDS', 'zeolites', 'lactose', 'ester', 'zeolite', 'sodium dodecyl sulfate', 'lauric acid'}
 30611515:{'glycosides', 'glucose', 'for'}
-30611516:{'for', 'naringenin', 'glycoprotein', 'ATP', 'quercetin', 'apigenin', 'had'}
-30613015:{'TLR4', 'for', 'Toll-like receptor 4', 'mice', 'liver', 'apoptosis', 'TNF-α', 'injection', 'cathepsin B', 'injections', 'Cathepsin B', 'IL-1β', 'had', 'IL-18'}
-30621866:{'for', 'AMR', 'STs', 'was', 'disinfectant'}
-30621871:{'carbon', 'for', 'aim', 'simulating', 'was', 'folic acid', 'glucose', 'lactic acid', 'antibiotics', 'had'}
-30642509:{'for', 'Steam', 'SPME', 'Theanine', 'N-Ethylacetamide', 'was', 'theanine'}
-30642511:{'for', 'pea', '2,4-nonadienal', 'PCA', 'SPME', '2,4-decadienal', 'was', '1-hexanol', 'hexanal', 'had', 'furan', '3-methyl-1-butanol'}
-30658742:{'for', 'free radical', 'simulated', 'acids', 'angiotensin', 'ACE', 'had'}
-30658746:{'NH2', 'sodium', 'was'}
-30658754:{'gallic acid', 'sucrose', 'for', 'Sucrose', 'Cyanidin', 'cyanidin', 'was', 'had', '3-O-rutinoside'}
-30658758:{'chrysophanol', 'emodin', 'βLG', 'for', 'rhein', 'β-lactoglobulin'}
-30658760:{'for', 'can', 'bile salt-stimulated lipase', 'casein', 'was', 'lactoferrin'}
-30682765:{'lead', 'was', 'β-methylamino-l-alanine', 'can'}
-30683372:{'leading', 'gold', 'for', 'can', 'polypyrrole', 'PPy', 'MB', 'was', 'methylene blue'}
-30683396:{'for', 'horseradish peroxidase', 'glucose oxidase', 'glucose test', 'hydrogen peroxide', 'was', 'glucose', 'HRP', 'buffer', 'H2O2', 'had'}
-30683409:{'cell', 'for', 'elements', 'PCA', 'same'}
-30683818:{'prostaglandin E2', 'drugs', 'cyclooxygenase-2', 'COX-2 inhibitors', 'for', 'apoptosis', 'PGE2 receptors', 'same', 'PGE2', 'COX-2', 'drug'}
-30683822:{'can', 'TNF-α', 'tumor necrosis factor-α', 'connexin43', 'gap junction alpha-1 protein', 'Cx43'}
-30683827:{'cyclooxygenase-2', 'GCS', 'γ-glutamylcysteine synthetase', 'Nrf2', 'γ-GCS', 'NF-κB', 'can', 'NQO1', 'sulfate sodium', 'COX-2', 'NADPH', 'heme oxygenase-1', 'HO-1', 'simulating', 'was', 'dextran sulfate', 'quinone oxidoreductase', 'keap1', 'mice', 'drinking water'}
-30683831:{'CAT', 'nitric oxide', 'DA', 'AChE', 'PND', 'acetylcholinesterase', 'prebiotics', 'was', 'prebiotic', 'SOD', 'acrylamide', 'ACR', 'had', 'dopamine', 'drinking water'}
-30685586:{'TEM', 'reducing agents', 'antibacterial', 'for', 'crystal violet', 'was', 'iron oxide', 'electron', 'dye'}
-30686450:{'Nrf2', 'for', 'NF-κB', 'liver', 'was', 'had'}
-30691637:{'SAS', 'carbon', 'for', 'water', 'can', 'nitrogen', 'CO2', 'was'}
-30693063:{'TNF', 'cell', 'IL-1ra', 'coagulase', '16S rRNA', 'anti-inflammatory', 'interleukin-1β', 'TNF-α', 'superoxide dismutase', 'IL-1', 'was', 'IL-10', 'tumor necrosis factor', 'malondialdehyde', 'SOD', 'GSH', 'MDA', 'IL-1β', 'glutathione peroxidase', 'Anti-Inflammatory'}
-30704714:{'binding sites', 'for', 'imidacloprid', 'bungarotoxin', 'insecticides', 'binding site'}
-30704719:{'lines', 'for', 'DDT', 'Mrp1', 'malaria', "4,4'-dichlorodiphenyltrichloroethane"}
-30710774:{'nitrite', 'SAS', 'nitrate reductase', 'nitrogen', 'NADH-GOGAT', 'glutamate', 'EC 1', 'can', 'glutamate synthase', 'For', 'EC 6', 'NADPH', 'nitrate', 'pentose phosphate', 'Electrons', 'ammonia', 'ferredoxin', 'NADP', 'glutamine', 'nitrite reductase', 'for', 'Fd-GOGAT', 'glutamine synthetase'}
+30611516:{'had', 'for', 'apigenin', 'ATP', 'quercetin', 'glycoprotein', 'naringenin'}
+30613015:{'mice', 'cathepsin B', 'apoptosis', 'had', 'liver', 'Toll-like receptor 4', 'TLR4', 'TNF-α', 'injections', 'injection', 'for', 'Cathepsin B', 'IL-1β', 'IL-18'}
+30621866:{'AMR', 'was', 'for', 'disinfectant', 'STs'}
+30621871:{'carbon', 'antibiotics', 'had', 'simulating', 'folic acid', 'was', 'for', 'lactic acid', 'aim', 'glucose'}
+30642509:{'Steam', 'N-Ethylacetamide', 'SPME', 'was', 'for', 'Theanine', 'theanine'}
+30642511:{'2,4-nonadienal', 'had', 'SPME', 'was', '1-hexanol', 'for', 'hexanal', 'PCA', 'furan', 'pea', '2,4-decadienal', '3-methyl-1-butanol'}
+30658742:{'free radical', 'had', 'for', 'acids', 'ACE', 'simulated', 'angiotensin'}
+30658746:{'sodium', 'was', 'NH2'}
+30658754:{'3-O-rutinoside', 'had', 'was', 'sucrose', 'Cyanidin', 'for', 'cyanidin', 'Sucrose', 'gallic acid'}
+30658758:{'βLG', 'emodin', 'chrysophanol', 'for', 'rhein', 'β-lactoglobulin'}
+30658760:{'was', 'casein', 'lactoferrin', 'for', 'bile salt-stimulated lipase', 'can'}
+30682765:{'was', 'β-methylamino-l-alanine', 'lead', 'can'}
+30683372:{'polypyrrole', 'MB', 'gold', 'was', 'leading', 'for', 'methylene blue', 'PPy', 'can'}
+30683396:{'glucose oxidase', 'had', 'was', 'buffer', 'H2O2', 'for', 'HRP', 'horseradish peroxidase', 'glucose test', 'glucose', 'hydrogen peroxide'}
+30683409:{'elements', 'same', 'for', 'PCA', 'cell'}
+30683818:{'prostaglandin E2', 'drugs', 'apoptosis', 'cyclooxygenase-2', 'COX-2', 'drug', 'COX-2 inhibitors', 'same', 'for', 'PGE2 receptors', 'PGE2'}
+30683822:{'TNF-α', 'Cx43', 'tumor necrosis factor-α', 'connexin43', 'can', 'gap junction alpha-1 protein'}
+30683827:{'sulfate sodium', 'mice', 'γ-glutamylcysteine synthetase', 'heme oxygenase-1', 'dextran sulfate', 'simulating', 'Nrf2', 'keap1', 'NADPH', 'COX-2', 'was', 'HO-1', 'cyclooxygenase-2', 'drinking water', 'γ-GCS', 'NQO1', 'GCS', 'quinone oxidoreductase', 'NF-κB', 'can'}
+30683831:{'prebiotics', 'had', 'PND', 'was', 'AChE', 'nitric oxide', 'prebiotic', 'drinking water', 'acrylamide', 'ACR', 'dopamine', 'acetylcholinesterase', 'DA', 'CAT', 'SOD'}
+30685586:{'electron', 'was', 'TEM', 'for', 'crystal violet', 'dye', 'iron oxide', 'reducing agents', 'antibacterial'}
+30686450:{'had', 'Nrf2', 'liver', 'was', 'for', 'NF-κB'}
+30691637:{'carbon', 'water', 'was', 'CO2', 'for', 'nitrogen', 'SAS', 'can'}
+30693063:{'interleukin-1β', 'GSH', 'glutathione peroxidase', 'TNF', 'was', 'TNF-α', 'MDA', 'IL-10', 'cell', '16S rRNA', 'IL-1β', 'tumor necrosis factor', 'coagulase', 'malondialdehyde', 'anti-inflammatory', 'IL-1', 'SOD', 'IL-1ra', 'superoxide dismutase', 'Anti-Inflammatory'}
+30704714:{'insecticides', 'binding sites', 'bungarotoxin', 'binding site', 'for', 'imidacloprid'}
+30704719:{'DDT', 'malaria', 'for', "4,4'-dichlorodiphenyltrichloroethane", 'Mrp1', 'lines'}
+30710774:{'Electrons', 'NADPH', 'EC 1', 'nitrite', 'pentose phosphate', 'glutamine', 'NADH-GOGAT', 'for', 'glutamine synthetase', 'ferredoxin', 'glutamate synthase', 'Fd-GOGAT', 'glutamate', 'can', 'EC 6', 'SAS', 'nitrogen', 'nitrite reductase', 'NADP', 'nitrate', 'ammonia', 'nitrate reductase', 'For'}
 30711101:{'starch', 'was', 'β-amylase', 'oil'}
-30712551:{'was', 'for', 'MMP'}
-30712583:{'core', 'for', 'can', 'Microcystin-LR', 'microcystin-LR', 'hemin', 'copper hydroxide', 'Copper hydroxide', 'Cu(OH)2', 'silica', 'ABTS', 'was', 'sulfonic acid', 'nickel', 'DNA primer', 'MC-LR', 'silicate'}
-30712585:{'line', 'Horseradish peroxidase', 'carbon', 'for', 'ascorbic acid', 'Mustard', 'reducing agent', "3,3',5,5'-tetramethylbenzidine", 'H2O2', 'was', 'HRP', 'TMB', 'mustard'}
-30712592:{'CDP', 'water', 'for', 'γ-cyclodextrin', 'sea', 'was', 'cyclodextrin polymer'}
-30712596:{'estradiol', 'PAH', 'PFP', 'for', 'was', 'ACE', 'estrone'}
-30724222:{'Electron', 'TEMPOL', 'for', 'diacetyl', 'spin labels', 'spin', 'tartaric acid'}
-30724260:{'leading', 'for', 'can', 'was', 'deoxynivalenol'}
-30725063:{'for', 'April', 'hepatocyte nuclear factor', 'was', 'exons', 'same', 'had'}
-30735108:{'immunosorbent', 'for', 'NF-κB', 'TNF-α', 'TRAF1', 'DBA', 'CD40', 'intercellular adhesion molecule-1', 'was', 'ICAM-1', 'VCAM-1', 'IL-6', 'tumour necrosis factor', 'collagen', 'adhesion molecule', 'interleukin-6', 'mice'}
-30736902:{'Fluoro-Jade', 'apoptosis', 'was', 'kainic acid', 'GFAP', 'KA', 'antibodies', 'injection'}
-30736903:{'DHA', 'anti-inflammatory', 'mice', 'n-3 fatty acids', 'Apelin', 'docosahexaenoic acid', 'was', 'apelin', 'eicosapentaenoic acid', 'same', 'MPTP', 'EPA'}
-30736907:{'cell', 'isoforms', 'can', 'glycoprotein', 'dystrophin', 'cell receptors', 'dystroglycan', 'subunit', 'Dystroglycan', 'integrins'}
-30743847:{'water', 'for', 'pipes', 'lead', 'was', 'phosphate', 'drinking water', 'ile'}
-30743858:{'nitrite reductase', 'carbon', 'for', 'was', 'nitrogen'}
-30743866:{'for', 'can', 'NBPT', 'Urea', 'ammonia', 'NH3', '3,4-dimethylpyrazole phosphate', 'DMPP', 'was', 'urea', 'nitrogen', 'nitrous oxide', 'fertilizer', 'N-(n-butyl) thiophosphoric triamide'}
-30743879:{'crystal', 'Cry', 'was', 'isoline'}
-30743888:{'carbon nanotubes', 'for', 'hemostatic', 'coagulation factor VIII', 'was', 'ZnO', 'IL-6', 'IL-1β', 'mice'}
-30743956:{'fluoranthene', 'for', 'PAH', 'Elements', 'creosote', 'β-cyclodextrin', 'pyrene', 'elements', 'phenanthrene', 'was'}
-30744816:{'cell', 'ATP-dependent protease', 'for', 'can', 'asparagine', 'MBP', 'ATP', 'tyrosine', 'contrast', 'subunit', 'phenylalanine'}
-30744819:{'fucose', 'for', 'can', 'LeB', 'epitopes', 'Sialic acid', 'sLeX', 'was', 'sialic acid', 'epitope', 'spp', 'contrast', 'blood group antigens', 'LeX'}
-30744820:{'cell', 'AMPK', 'was', 'mTOR', 'lag'}
-30744888:{'cell', 'for', 'propiconazole', 'Propiconazole', 'fungicides', 'was', 'triazole', 'ergosterol'}
-30744889:{'metconazole', 'for', 'Validamycin', 'pyruvate', 'trehalase', 'virulence factor', 'was', 'glucose', 'triazole', 'spp', 'DON', 'deoxynivalenol', 'validamycin'}
-30744893:{'trehalose', 'Vg', 'triazophos', 'vitellogenin', 'fat', 'Triazophos', 'glucose', 'TZP', 'vitellogenin receptor', 'Glc'}
-30744895:{'tubulin', 'drugs', 'for', 'MBC', 'antifungal', 'was', 'spp', 'β1-tubulin', 'carbendazim', 'had'}
-30744896:{'Lambda-cyhalothrin', 'vitellogenin', 'was', 'insecticides', 'lambda-cyhalothrin', 'vitellogenin receptor'}
-30744898:{'sodium', 'was'}
-30744899:{'Pymetrozine', 'for', 'pea', 'can', 'was', 'pymetrozine'}
-30759552:{'anti-inflammatory', 'for', 'lysozyme', 'transforming growth factor beta', 'pro', 'interleukin 10', 'antiparasitic', 'was', 'glutathione peroxidase'}
-30759554:{'ACT', 'thyroxine', 'thyroid', 'chloroacetamide', 'triiodothyronine', 'acetochlor', 'pesticides', 'thyroid-stimulating hormone', 'waters', 'herbicide', 'was', 'Acetochlor', 'EDC', 'thyroid hormone'}
-30759589:{'Mercury', 'mercury', 'was', 'for'}
-30759593:{'core', 'water', 'for', 'lanthanum oxide', 'lignin', 'abscisic acid', 'rare earth', 'was'}
-30759596:{'oxygen', 'carbon', 'GLU', 'copper', 'leucine aminopeptidase', 'glycan', 'l-leucine', 'nitrogen', 'β-glucosidase', 'acid'}
-30759598:{'cell', 'nitrite', 'Delta', 'for', 'ammonia', 'nitrate', 'was', 'nitrogen', 'nitrogen compounds', 'had'}
-30759600:{'Zn', 'for', 'mercury', 'water', 'heavy metals', 'copper', 'lead', 'oxalate', 'zinc', 'phosphates', 'As', 'Cd', 'was', 'medicines', 'heavy metal', 'Heavy metal', 'cadmium', 'arsenic', 'had'}
-30759618:{'for', 'Can', 'can', 'zinc oxide', 'was', 'ZnO', 'silver', 'titanium dioxide', 'oxides', 'had'}
+30712551:{'was', 'MMP', 'for'}
+30712583:{'nickel', 'MC-LR', 'Microcystin-LR', 'silica', 'silicate', 'was', 'Cu(OH)2', 'for', 'ABTS', 'Copper hydroxide', 'hemin', 'copper hydroxide', 'microcystin-LR', 'core', 'DNA primer', 'sulfonic acid', 'can'}
+30712585:{'Mustard', 'mustard', 'carbon', 'ascorbic acid', 'was', 'Horseradish peroxidase', "3,3',5,5'-tetramethylbenzidine", 'HRP', 'H2O2', 'for', 'reducing agent', 'TMB', 'line'}
+30712592:{'sea', 'cyclodextrin polymer', 'γ-cyclodextrin', 'CDP', 'water', 'was', 'for'}
+30712596:{'was', 'PFP', 'for', 'estradiol', 'ACE', 'PAH', 'estrone'}
+30724222:{'diacetyl', 'spin labels', 'TEMPOL', 'for', 'spin', 'Electron', 'tartaric acid'}
+30724260:{'was', 'leading', 'deoxynivalenol', 'for', 'can'}
+30725063:{'had', 'April', 'hepatocyte nuclear factor', 'was', 'same', 'for', 'exons'}
+30735108:{'mice', 'DBA', 'TRAF1', 'adhesion molecule', 'immunosorbent', 'TNF-α', 'was', 'for', 'VCAM-1', 'CD40', 'interleukin-6', 'tumour necrosis factor', 'IL-6', 'ICAM-1', 'intercellular adhesion molecule-1', 'NF-κB', 'collagen'}
+30736902:{'apoptosis', 'Fluoro-Jade', 'KA', 'was', 'injection', 'antibodies', 'kainic acid', 'GFAP'}
+30736903:{'mice', 'docosahexaenoic acid', 'was', 'EPA', 'MPTP', 'eicosapentaenoic acid', 'same', 'Apelin', 'apelin', 'anti-inflammatory', 'n-3 fatty acids', 'DHA'}
+30736907:{'dystroglycan', 'integrins', 'Dystroglycan', 'cell receptors', 'subunit', 'cell', 'isoforms', 'dystrophin', 'glycoprotein', 'can'}
+30743847:{'lead', 'ile', 'water', 'was', 'drinking water', 'for', 'phosphate', 'pipes'}
+30743858:{'carbon', 'was', 'for', 'nitrogen', 'nitrite reductase'}
+30743866:{'nitrous oxide', 'DMPP', 'NBPT', 'was', 'Urea', 'N-(n-butyl) thiophosphoric triamide', 'can', 'for', 'nitrogen', 'ammonia', 'urea', '3,4-dimethylpyrazole phosphate', 'fertilizer', 'NH3'}
+30743879:{'isoline', 'was', 'crystal', 'Cry'}
+30743888:{'mice', 'hemostatic', 'ZnO', 'was', 'IL-1β', 'for', 'coagulation factor VIII', 'IL-6', 'carbon nanotubes'}
+30743956:{'pyrene', 'elements', 'was', 'creosote', 'for', 'fluoranthene', 'phenanthrene', 'β-cyclodextrin', 'PAH', 'Elements'}
+30744816:{'phenylalanine', 'contrast', 'asparagine', 'tyrosine', 'for', 'cell', 'subunit', 'ATP-dependent protease', 'ATP', 'MBP', 'can'}
+30744819:{'contrast', 'sialic acid', 'was', 'blood group antigens', 'fucose', 'for', 'LeX', 'Sialic acid', 'spp', 'epitope', 'epitopes', 'sLeX', 'LeB', 'can'}
+30744820:{'mTOR', 'was', 'lag', 'cell', 'AMPK'}
+30744888:{'fungicides', 'ergosterol', 'was', 'triazole', 'for', 'Propiconazole', 'propiconazole', 'cell'}
+30744889:{'Validamycin', 'virulence factor', 'DON', 'was', 'trehalase', 'deoxynivalenol', 'triazole', 'pyruvate', 'for', 'spp', 'validamycin', 'metconazole', 'glucose'}
+30744893:{'Triazophos', 'triazophos', 'Vg', 'vitellogenin receptor', 'Glc', 'TZP', 'fat', 'trehalose', 'vitellogenin', 'glucose'}
+30744895:{'drugs', 'had', 'was', 'MBC', 'for', 'carbendazim', 'spp', 'β1-tubulin', 'antifungal', 'tubulin'}
+30744896:{'insecticides', 'vitellogenin receptor', 'was', 'Lambda-cyhalothrin', 'lambda-cyhalothrin', 'vitellogenin'}
+30744898:{'was', 'sodium'}
+30744899:{'Pymetrozine', 'was', 'pymetrozine', 'for', 'pea', 'can'}
+30759552:{'pro', 'transforming growth factor beta', 'glutathione peroxidase', 'lysozyme', 'interleukin 10', 'was', 'for', 'anti-inflammatory', 'antiparasitic'}
+30759554:{'thyroid', 'Acetochlor', 'acetochlor', 'thyroid-stimulating hormone', 'waters', 'thyroxine', 'was', 'thyroid hormone', 'EDC', 'pesticides', 'ACT', 'chloroacetamide', 'triiodothyronine', 'herbicide'}
+30759589:{'Mercury', 'was', 'mercury', 'for'}
+30759593:{'lignin', 'lanthanum oxide', 'water', 'was', 'abscisic acid', 'for', 'rare earth', 'core'}
+30759596:{'l-leucine', 'carbon', 'copper', 'GLU', 'oxygen', 'nitrogen', 'leucine aminopeptidase', 'glycan', 'β-glucosidase', 'acid'}
+30759598:{'ammonia', 'had', 'Delta', 'was', 'for', 'nitrate', 'nitrogen', 'cell', 'nitrite', 'nitrogen compounds'}
+30759600:{'zinc', 'copper', 'lead', 'Zn', 'cadmium', 'mercury', 'water', 'had', 'was', 'phosphates', 'arsenic', 'for', 'heavy metal', 'Heavy metal', 'As', 'heavy metals', 'medicines', 'Cd', 'oxalate'}
+30759618:{'titanium dioxide', 'ZnO', 'had', 'Can', 'silver', 'was', 'oxides', 'for', 'zinc oxide', 'can'}
 30759623:{'ARA', 'for', 'nitrogen', 'acetylene', 'DON'}
-30765055:{'nitenpyram', 'chlorpyrifos', 'was', 'dinotefuran', 'insecticides', 'clothianidin'}
-30765056:{'drugs', 'for', 'gap', 'abamectin', 'ATP', 'toxic substances', 'was', 'insecticides', 'indoxacarb'}
-30765057:{'COU', 'TOM', 'can', 'coumarin', 'tobacco', 'tomatine', 'xanthotoxin', 'fat', 'was', 'XAN', 'double-stranded RNA', 'cope'}
-30765058:{'cell', 'line', 'Akt', 'lines', 'for', 'can', 'PI3K', 'harmol', 'was', 'carbolines', 'harmine', 'programmed cell death', 'indole alkaloids', 'mTOR'}
-30765059:{'cell', 'BZO', 'leading', 'for', 'FITC', 'Benzothiazole', 'apoptosis', 'antifungal', 'proteome', 'fungicides', 'was', 'phalloidin', 'Annexin V'}
-30782361:{'cell', 'was', 'sera'}
-30782363:{'cell', 'for', 'leucine', 'PTM', 'coil'}
-30782365:{'was', 'for', 'buffer', 'can'}
-30782366:{'carbon', 'for', 'glassy', 'uric acid', 'electron', 'dopamine'}
-30782374:{'carbon', 'for', 'can', 'glucose oxidase', 'silver', 'glucose', 'H2O2'}
-30782376:{'for', 'peracetic acid', "3,3',5,5'-tetramethylbenzidine", 'acetic acid', 'acids', 'oxidant', 'alkaline phosphatase', 'was', 'phosphate', 'TMB', 'H2O2', 'ALP'}
-30783609:{'for', 'PKA', 'valosin-containing protein', 'subunit', 'VCP', 'p97'}
-30784437:{'gas', 'mercury', 'had', 'for'}
-30784446:{'cell', 'for', 'had', 'was', 'oxides'}
-30784447:{'for', 'crystal', 'spinel', 'zinc', 'was', 'ferrite', 'Zinc'}
-30784450:{'carbon', '16S rRNA', 'water', 'can', 'inoculation', 'for', 'ammonia', 'DIC'}
-30784451:{'for', 'sulfate', 'acidity', 'NH3', 'was', 'sulfuric acid'}
-30784452:{'for', 'water', 'Sulfur', 'epichlorohydrin', 'Co2', 'Cysteamine', 'was', 'Cd2', 'cellulose'}
-30784453:{'for', 'm-xylene', 'propylene', 'ethylene', 'was', 'acetylene', 'ozone', 'o-xylene', 'Ozone', 'toluene'}
-30784458:{'HMS', 'for', 'silica', 'SBA-15', 'was', 'titanium', 'zeolite'}
-30784464:{'carbon', 'for', 'simulated', 'doxycycline', 'was', 'ZnO', 'Bi2MoO6', 'hydroxides'}
-30784465:{'NO', 'carbon', 'nitric oxide', 'mercury', 'can', 'sulfur', 'simulate', 'SO2', 'heavy metal', 'sulfur trioxide', 'gas', 'coal', 'MATS', 'EPA', 'Mercury', 'sulfur dioxide', 'had', 'injection'}
-30784468:{'for', 'heavy metals', 'copper', 'metals', 'crystallization', 'lead', 'was', 'heavy metal', 'biochar'}
-30797458:{'monoclonal antibody', 'UTI', 'for', 'a protein', 'can', 'PCT', 'indium', 'Cadmium selenide', 'Zinc sulfide', 'electron', 'glass', 'tin'}
-30806240:{'cell', 'line', 'Apoptosis', 'lutein', 'dUTP', 'apoptosis', 'phosphoinositide', 'PI3K', 'mTOR', "4',6-diamidino-2-phenylindole", 'AKT', 'MTT', 'was', 'Lutein', 'Cell', 'terminal deoxynucleotidyltransferase', 'DAPI', 'end', 'bromide', 'drug'}
-30824020:{'oil', 'lysophosphatidic acid acyltransferase', 'isoforms', 'lines', 'for', 'α-linolenic acid', 'lysophosphatidic acid', 'LPAAT', 'fatty acids', 'linolenic acids', 'complement'}
-30824031:{'Ubiquitin', 'for', 'cadmium', 'can'}
-30824054:{'cell', 'ascorbate peroxidase', 'PCD', 'glutathione peroxidase', 'leading', 'superoxide dismutase 1', 'plasmids', 'was', 'single-stranded DNA', 'programmed cell death', 'H2O2', 'double-stranded DNA', 'Ca2'}
-30824055:{'eRF1', 'map', 'reducing agents', 'cysteine', 'can', 'ESP1', 'esp1', 'CysP', 'was'}
+30765055:{'insecticides', 'chlorpyrifos', 'clothianidin', 'was', 'dinotefuran', 'nitenpyram'}
+30765056:{'insecticides', 'indoxacarb', 'abamectin', 'drugs', 'toxic substances', 'was', 'for', 'ATP', 'gap'}
+30765057:{'TOM', 'was', 'XAN', 'tomatine', 'coumarin', 'fat', 'xanthotoxin', 'cope', 'tobacco', 'double-stranded RNA', 'COU', 'can'}
+30765058:{'harmol', 'PI3K', 'mTOR', 'was', 'carbolines', 'indole alkaloids', 'for', 'Akt', 'programmed cell death', 'cell', 'line', 'harmine', 'can', 'lines'}
+30765059:{'BZO', 'FITC', 'apoptosis', 'fungicides', 'Annexin V', 'Benzothiazole', 'was', 'leading', 'for', 'proteome', 'cell', 'antifungal', 'phalloidin'}
+30782361:{'sera', 'was', 'cell'}
+30782363:{'PTM', 'coil', 'for', 'cell', 'leucine'}
+30782365:{'was', 'can', 'buffer', 'for'}
+30782366:{'carbon', 'electron', 'uric acid', 'for', 'dopamine', 'glassy'}
+30782374:{'carbon', 'silver', 'can', 'H2O2', 'for', 'glucose', 'glucose oxidase'}
+30782376:{'oxidant', 'was', 'acetic acid', "3,3',5,5'-tetramethylbenzidine", 'for', 'alkaline phosphatase', 'H2O2', 'phosphate', 'acids', 'peracetic acid', 'TMB', 'ALP'}
+30783609:{'p97', 'for', 'PKA', 'subunit', 'valosin-containing protein', 'VCP'}
+30784437:{'gas', 'had', 'mercury', 'for'}
+30784446:{'had', 'was', 'oxides', 'for', 'cell'}
+30784447:{'zinc', 'Zinc', 'was', 'spinel', 'for', 'ferrite', 'crystal'}
+30784450:{'carbon', 'water', '16S rRNA', 'for', 'DIC', 'ammonia', 'inoculation', 'can'}
+30784451:{'was', 'for', 'sulfuric acid', 'sulfate', 'acidity', 'NH3'}
+30784452:{'water', 'was', 'epichlorohydrin', 'Sulfur', 'for', 'Cysteamine', 'Co2', 'Cd2', 'cellulose'}
+30784453:{'m-xylene', 'propylene', 'was', 'toluene', 'for', 'Ozone', 'acetylene', 'ozone', 'o-xylene', 'ethylene'}
+30784458:{'silica', 'SBA-15', 'was', 'HMS', 'for', 'titanium', 'zeolite'}
+30784464:{'doxycycline', 'carbon', 'ZnO', 'was', 'Bi2MoO6', 'for', 'simulated', 'hydroxides'}
+30784465:{'Mercury', 'carbon', 'had', 'mercury', 'coal', 'MATS', 'simulate', 'EPA', 'nitric oxide', 'injection', 'sulfur trioxide', 'heavy metal', 'sulfur', 'gas', 'NO', 'SO2', 'sulfur dioxide', 'can'}
+30784468:{'crystallization', 'metals', 'copper', 'lead', 'was', 'for', 'heavy metal', 'biochar', 'heavy metals'}
+30797458:{'a protein', 'electron', 'PCT', 'UTI', 'for', 'Zinc sulfide', 'Cadmium selenide', 'tin', 'glass', 'monoclonal antibody', 'indium', 'can'}
+30806240:{'Lutein', 'bromide', 'apoptosis', 'PI3K', 'MTT', 'was', 'mTOR', 'AKT', 'drug', 'cell', "4',6-diamidino-2-phenylindole", 'dUTP', 'terminal deoxynucleotidyltransferase', 'phosphoinositide', 'DAPI', 'Apoptosis', 'lutein', 'Cell', 'line', 'end'}
+30824020:{'isoforms', 'oil', 'complement', 'lines', 'for', 'LPAAT', 'α-linolenic acid', 'lysophosphatidic acid', 'lysophosphatidic acid acyltransferase', 'linolenic acids', 'fatty acids'}
+30824031:{'Ubiquitin', 'cadmium', 'can', 'for'}
+30824054:{'glutathione peroxidase', 'ascorbate peroxidase', 'was', 'leading', 'double-stranded DNA', 'PCD', 'H2O2', 'Ca2', 'programmed cell death', 'cell', 'single-stranded DNA', 'plasmids', 'superoxide dismutase 1'}
+30824055:{'ESP1', 'cysteine', 'was', 'reducing agents', 'map', 'esp1', 'CysP', 'eRF1', 'can'}
 30824056:{'crack', 'was', 'for'}
-30824057:{'promoter region', 'was', 'for', 'end'}
-30841381:{'nitrite', 'for', 'WAS', 'can', 'nitrous acid', 'methane', 'was', 'Nitrite'}
-30841783:{'cell', 'was', 'progesterone receptor', 'progesterone', 'Progesterone receptor', 'had'}
-30848745:{'prostate specific antigen', 'for', 'AFP', 'carcinoembryonic antigen', 'liver', 'PSA', 'CA 125', 'was', 'CEA', 'alpha-fetoprotein', 'had'}
-30857079:{'was', 'water', 'can'}
-30857087:{'isotopes', 'for', 'can', 'liver', 'fur', 'was', 'methylmercury', 'mercury isotopes'}
-30857089:{'Carbon', 'carbon', 'for', 'water', 'was', 'CO2'}
-30857097:{'water', 'Perfluorooctane', 'can', 'for', 'liver', 'sulfonate', 'perfluoropentanoic acid', 'PFPeA', 'was', 'CAPSULE'}
-30857098:{'carbon', 'mercury', 'sulfate', 'was', 'methylmercury', 'Mercury', 'phosphorus'}
-30857102:{'Triphenyl phosphate', 'superoxide dismutase', 'catalase', 'was', 'phosphate', 'piperonyl butoxide', 'malondialdehyde', 'TPHP', 'triphenyl phosphate', 'diphenyl', 'monooxygenase'}
-30857108:{'suspensions', 'for', 'hydrogen', 'TNS', 'glycerol', 'was', 'suspension'}
-30857630:{'transferase', 'butylate', 'for', 'had', 'GST', 'Glutathione', 'flucarbazone', 'weed', 'was', 'imazethapyr', 'tribenuron-methyl', '2,4-D', 'isoproturon', 'fluroxypyr-meptyl', 'diflufenican', 'ALS', 'malathion', 'florasulam'}
-30880703:{'ofloxacin', 'pipercillin', 'levofloxacin', 'amikacin', 'was', 'gentamicin', 'cefepime', 'antibiotics', 'tazobactam', 'quinolone', 'drug'}
-30893392:{'baseline', 'IGA', 'propionate', 'for', 'was', 'halobetasol', 'BSA'}
-30910085:{'was', 'for', 'diacetyl', 'acetoin'}
-31011396:{'Beryllium', "Beryllium's", 'was', 'beryllium', 'CBD'}
+30824057:{'promoter region', 'was', 'end', 'for'}
+30841381:{'was', 'WAS', 'for', 'methane', 'Nitrite', 'nitrous acid', 'nitrite', 'can'}
+30841783:{'had', 'progesterone receptor', 'progesterone', 'was', 'Progesterone receptor', 'cell'}
+30848745:{'CEA', 'had', 'PSA', 'liver', 'prostate specific antigen', 'was', 'carcinoembryonic antigen', 'for', 'AFP', 'alpha-fetoprotein', 'CA 125'}
+30857079:{'water', 'was', 'can'}
+30857087:{'methylmercury', 'fur', 'liver', 'was', 'mercury isotopes', 'isotopes', 'for', 'can'}
+30857089:{'carbon', 'water', 'was', 'CO2', 'for', 'Carbon'}
+30857097:{'sulfonate', 'liver', 'water', 'was', 'CAPSULE', 'for', 'Perfluorooctane', 'perfluoropentanoic acid', 'PFPeA', 'can'}
+30857098:{'Mercury', 'carbon', 'methylmercury', 'mercury', 'phosphorus', 'was', 'sulfate'}
+30857102:{'was', 'TPHP', 'monooxygenase', 'Triphenyl phosphate', 'phosphate', 'diphenyl', 'triphenyl phosphate', 'malondialdehyde', 'superoxide dismutase', 'piperonyl butoxide', 'catalase'}
+30857108:{'TNS', 'hydrogen', 'was', 'suspensions', 'for', 'suspension', 'glycerol'}
+30857630:{'fluroxypyr-meptyl', 'had', 'ALS', 'weed', 'isoproturon', 'malathion', 'was', 'transferase', 'GST', 'flucarbazone', 'diflufenican', 'tribenuron-methyl', 'for', 'butylate', '2,4-D', 'imazethapyr', 'Glutathione', 'florasulam'}
+30880703:{'antibiotics', 'amikacin', 'was', 'drug', 'gentamicin', 'levofloxacin', 'tazobactam', 'cefepime', 'pipercillin', 'ofloxacin', 'quinolone'}
+30893392:{'was', 'for', 'baseline', 'halobetasol', 'BSA', 'propionate', 'IGA'}
+30910085:{'acetoin', 'was', 'diacetyl', 'for'}
+31011396:{'was', 'CBD', 'Beryllium', 'beryllium', "Beryllium's"}

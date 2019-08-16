@@ -528,7 +528,7 @@ class Evaluate():
                     norm_lev_dist = lev_dist / len(pred)
                     if (norm_lev_dist < 1/3 and ann not in tool_ann) or pred == ann:
                         if not args.bootstrap and norm_lev_dist != 0:
-                            f.write("Annotation: {0}, Prediction: {1}, levenshtein distance: {2}, normalized lev: {3}---{4}\n".format(ann, pred, lev_dist, norm_lev_dist, tool))
+                            f.write("Tool: {0}, Annotation: {1}, Prediction: {2}, levenshtein distance: {3}, normalized lev: {4}\n".format(tool, ann, pred, lev_dist, norm_lev_dist))
                         match = True
                         tp += 1
                         break
