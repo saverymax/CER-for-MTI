@@ -19,8 +19,8 @@ The dependencies can be installed with
 ```
 pip install -r requirements.txt
 ```
-This will install the following packages:
-tf_metrics   
+This will install the following packages:   
+tf_metrics      
 sentencepiece   
 leven   
 tensorflow version 1.12.2   
@@ -73,7 +73,7 @@ All BERT models, including SciBERT and BioBERT, can be run with the run_bert.sh 
 XLNet models can be run with the run_xlnet.sh script.
 
 ### MTI and MetaMapLite
-At this time there is no simple way to recapitulate the results of MetaMapLite or MTI. While these tools have opensource implementations, the results for this paper were generated using in-houes modifications.  
+At this time there is no simple way to recapitulate the results of MetaMapLite or MTI. While these tools have open source implementations, the results for this paper were generated using in-houes modifications.  
 
 ### ChemListem and LSTM-CRF.
 No code is provided to run these models. However, the code can be found at https://bitbucket.org/rscapplications/chemlistem/src/master/ and https://github.com/guillaumegenthial/tf_ner. Additionally, there are many open source implementations of these types of LSTM/CNN/CRF models.
