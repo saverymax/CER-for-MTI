@@ -2,5 +2,5 @@
 	path = xlnet
 	url = https://github.com/zihangdai/xlnet.git
 [submodule "bert"]
-    path = bert
-    url = https://github.com/google-research/bert.git
+	path = bert
+	url = https://github.com/google-research/bert.git
