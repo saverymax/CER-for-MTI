@@ -1,27 +1,54 @@
 # CER-for-MTI
 
-This repository contains the code necessary to recapitulate the results of the AMIA paper, Chemical Entity Recognition for MEDLINE Indexing.   
+This repository contains the code necessary to recapitulate the results of the AMIA summit paper, Chemical Entity Recognition for MEDLINE Indexing.   
 
 Included are the annotations of all tools run in the paper, code for fine-tuning and running BERT and XLNet models, and scripts for performing the evaluation. Also included is the manually annotated collection, in BRAT format, and text files of all of the annotated articles. These can be used to run a CER tool, generating automatic annotations of this collection for further comparison to the manually annotated collection. 
 
+## Chemical Entity Mentions for Assessment of MTI (ChEMFAM) corpus
+Included is the ChEMFAM corpus, located in the data/ChEMFAM_corpus directory. The .ann files (BRAT format) and the .txt files of the articles have been shared. In the .txt files, the first line contains the title of the article and the second line contains the abstract.   
+
+The guidelines for annotations are available as a .docx file, ChEMFAM_Annotation_Guidelines.docx.
+
+## Dependencies
+Before training and running evaluation, it is recommended to create a virtual python environment. 
+The dependencies can be install with 
+```
+pip install -r requirements.txt
+```
+This will install the following packages
+tf_metrics
+sentencepiece
+leven
+tensorflow version X
+numpy version X
+
 ## Training
+
 ### BERT
-The code for NER in  the repository https://github.com/kyzhouhzau/BERT-NER/tree/master/old_version was used to train and run the BERT models. Modifications to the run_classifier.py script were made to adapt it the CER task. The   
+The code for NER in the repository https://github.com/kyzhouhzau/BERT-NER/tree/master/old_version was used as reference to for the BERT_annotator.py script.
+
+To train just the bert models, run the train_bert.sh script. This will generate BERT, SciBERT, and BioBERT models, trained on the BC4CHEMD and BC2GM data (one model trained on one dataset, six models total).
 
 ### XLNet
-The repository at https://github.com/stevezheng23/xlnet_extension_tf was used to train and run the XLNet model. The run_ner.py and run_ner.sh were altered to perform inference on the ChEMFAM corpus. These scripts have been replaced with the version used in the paper. The repository above  
+The code for NER in the repository https://github.com/stevezheng23/xlnet_extension_tf was used as reference to for the XLNet_annotator.py script.
 
-###LSTM-CRF
-The chars_lstm_lstm_crf model at https://github.com/guillaumegenthial/tf_ner was trained on CHEMDNER chemical entity mentions. It was modified to ouput BRAT.
+To train just the XLNet models, run the train_xlnet.sh script.
 
 ## Running CER systems
-MTI and MetaMap Lite: At this time there is no simple way to recapitulate the results of MetaMapLite or MTI. While these tools have opensource implementations, the results for this paper were generated using in-houes modifications.  
+To run all CER systems on the ChEMFAM corpus, run the run_models.sh script. Instructions for individual models are below.
 
-ChemDataExtractor: ChemDataExtractor can be installed and imported into Python. 
+### MTI and MetaMap Lite 
+At this time there is no simple way to recapitulate the results of MetaMapLite or MTI. While these tools have opensource implementations, the results for this paper were generated using in-houes modifications.  
+
+### ChemDataExtractor 
+ChemDataExtractor can be installed and imported into Python. 
 ```
 pip install ChemDataExtractor
 ```
 The run_ChemDataExtractor.py script will run the system on the text, generating annotations for each article.    
+
+### BERT models
+All BERT models, including SciBERT and BioBERT, can be run with the run_bert.sh script.
 
 ## Evaluation
 The run_tool_evaluation.py file can be used to run the evaluation. This will use the annotations from all tools to calculate all metrics. Including the -b option will run the bootstrap to compute standard errors. Including the -l option will evaluate the annotations using the Levenshtein metric, for inexact matching.   
