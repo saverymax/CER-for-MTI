@@ -1,200 +1,200 @@
 23566289:{'iron'}
-25881691:{'18F-DOPA', '11C-DTBZ', '11C-(+)-α-dihydrotetrabenazine', '11C-dihydrotetrabenazine'}
-26278388:{'ethanol', 'phosphatidic acid'}
-26435084:{'leucine', 'oxygen'}
+25881691:{'11C-dihydrotetrabenazine', '11C-DTBZ', '18F-DOPA', '11C-(+)-α-dihydrotetrabenazine'}
+26278388:{'phosphatidic acid', 'ethanol'}
+26435084:{'oxygen', 'leucine'}
 26449525:set()
 26454207:{'Halofuginone', 'halofuginone'}
-26454209:{'cholesterol', 'phosphatidylcholine'}
+26454209:{'phosphatidylcholine', 'cholesterol'}
 26459048:{'N', 'zinc'}
 26499143:set()
 26499151:set()
 26499152:set()
 26499153:{'MTT'}
-26506125:{'S-adenosylmethionine-', 'lysine', 'S-adenosylhomocysteine'}
+26506125:{'S-adenosylmethionine-', 'S-adenosylhomocysteine', 'lysine'}
 26616814:set()
-26634950:{'etamsylate', 'Carboxymethyl'}
+26634950:{'Carboxymethyl', 'etamsylate'}
 26639231:set()
-26639236:{'10-hydroxycamptothecin', 'MTT', 'HCPT', '10-Hydroxycamptothecin'}
+26639236:{'10-Hydroxycamptothecin', '10-hydroxycamptothecin', 'MTT', 'HCPT'}
 26639240:{'NPC'}
-26676538:{'BDE-209', 'thiobarbituric acid', 'creatinine', 'diphenyl ether', 'urea', 'glutathione', 'superoxide'}
+26676538:{'urea', 'glutathione', 'thiobarbituric acid', 'BDE-209', 'superoxide', 'diphenyl ether', 'creatinine'}
 26774144:set()
 26774155:{'CDK2-PAK4'}
 26925791:set()
-27158766:{'dopamine', '3,4-dihydroxyphenylacetaldehyde', 'DOPAL', 'carbon', 'Dopamine', 'pyrrole'}
-27159019:{"5-fluoro-2'-deoxycytidine", "7-deaza-2'deoxyguanosine", "7-deaza-2'-deoxyadenosine", 'trimethoprim', "5-chloro-2'-deoxyuridine"}
+27158766:{'pyrrole', 'carbon', 'dopamine', '3,4-dihydroxyphenylacetaldehyde', 'Dopamine', 'DOPAL'}
+27159019:{'trimethoprim', "7-deaza-2'-deoxyadenosine", "7-deaza-2'deoxyguanosine", "5-fluoro-2'-deoxycytidine", "5-chloro-2'-deoxyuridine"}
 27389556:set()
-28005299:{'PHPMA', 'galactose', 'fucose', 'poly(2-hydroxypropyl)methacrylamide', 'sialic acid'}
-28029034:{'poly(3,4-ethylenedioxythiophene)', 'Carbon', 'carbon'}
-28079958:{'oxygen', 'Sulfenate'}
-28588210:{'1,2-dioleoyl-sn-glycero-3-phosphocholine', 'simvastatin', 'TD', 'carbon', 'DOPC'}
+28005299:{'poly(2-hydroxypropyl)methacrylamide', 'PHPMA', 'fucose', 'sialic acid', 'galactose'}
+28029034:{'Carbon', 'poly(3,4-ethylenedioxythiophene)', 'carbon'}
+28079958:{'Sulfenate', 'oxygen'}
+28588210:{'carbon', 'TD', 'DOPC', '1,2-dioleoyl-sn-glycero-3-phosphocholine', 'simvastatin'}
 28588231:{'glucose', '1,5-AG'}
 28588270:{'poly(ethyleneimine)'}
 28590721:set()
-28590728:{'Aspartic Acids', 'aspartic acid', 'nonequilibrium'}
+28590728:{'nonequilibrium', 'Aspartic Acids', 'aspartic acid'}
 28594000:{'tyrosine', 'Lorlatinib'}
 28606865:set()
-28611362:{'Zn', 'calcium silicate', 'zinc'}
+28611362:{'calcium silicate', 'zinc', 'Zn'}
 28691448:{'calcium silicate'}
 28965682:set()
-29077529:{'melatonin', 'minocycline', 'nitric oxide', 'Melatonin'}
-29190205:{'Angiotensin II', 'alamandine', 'angiotensin IV', 'angiotensin', 'angiotensin II', 'angiotensin A'}
+29077529:{'melatonin', 'Melatonin', 'minocycline', 'nitric oxide'}
+29190205:{'angiotensin A', 'angiotensin', 'Angiotensin II', 'angiotensin II', 'angiotensin IV', 'alamandine'}
 29210643:set()
-29452802:{'argon', 'xenon'}
-29473709:{'cholesterol', 'canagliflozin', 'glucose'}
-29687582:{'silver', 'Cu', 'Ag', 'Mg'}
-29699594:{'CPS', 'estradiol', 'capsaicin', 'cyclophosphamide', 'curcumin', 'Malonaldehyde', 'glutathione', 'superoxide'}
-29936200:{'polyethylene glycol 400', 'melatonin', 'hydroxypropyl-β-cyclodextrin', 'dimethyl sulfoxide', 'polyvinylpyrrolidone', 'DMSO', 'PVP', 'd-β-hydroxybutyrate', 'BHB', 'MLT'}
-30001502:{'cholesterol', 'corticosterone', 'aldosterone', 'xanthine', 'malondialdehyde', 'VPA', 'UA', 'ethinylestradiol', 'uric acid', 'levonorgestrel', 'valproic acid', 'adenosine', 'HDL-cholesterol'}
+29452802:{'xenon', 'argon'}
+29473709:{'cholesterol', 'glucose', 'canagliflozin'}
+29687582:{'Ag', 'Mg', 'Cu', 'silver'}
+29699594:{'CPS', 'curcumin', 'cyclophosphamide', 'glutathione', 'capsaicin', 'Malonaldehyde', 'superoxide', 'estradiol'}
+29936200:{'BHB', 'polyethylene glycol 400', 'melatonin', 'polyvinylpyrrolidone', 'DMSO', 'dimethyl sulfoxide', 'hydroxypropyl-β-cyclodextrin', 'MLT', 'PVP', 'd-β-hydroxybutyrate'}
+30001502:{'valproic acid', 'uric acid', 'UA', 'corticosterone', 'ethinylestradiol', 'malondialdehyde', 'cholesterol', 'levonorgestrel', 'VPA', 'xanthine', 'adenosine', 'aldosterone', 'HDL-cholesterol'}
 30002372:set()
-30010491:{'oxygen', 'NO', 'creatinine', 'GSH', 'bilirubin', 'nitric oxide', 'glutathione', 'superoxide'}
+30010491:{'oxygen', 'GSH', 'glutathione', 'NO', 'superoxide', 'creatinine', 'bilirubin', 'nitric oxide'}
 30017992:set()
-30024839:{'MTX', 'methylenetetrahydrofolate', 'methotrexate', 'CI'}
+30024839:{'methotrexate', 'CI', 'MTX', 'methylenetetrahydrofolate'}
 30068241:set()
 30080988:set()
-30121041:{'1,1,2-trichloroethane', 'VC', '1,1,2-TCA', 'chlorine', 'carbon', 'vinyl chloride'}
+30121041:{'carbon', 'chlorine', '1,1,2-TCA', '1,1,2-trichloroethane', 'VC', 'vinyl chloride'}
 30124384:{'Tyrosine'}
 30139310:set()
-30235719:{'polyene phosphatidyl choline', 'actinomycin D', 'magnesium isoglycyrrhizinate', '5-day actinomycin D'}
+30235719:{'magnesium isoglycyrrhizinate', '5-day actinomycin D', 'actinomycin D', 'polyene phosphatidyl choline'}
 30334700:set()
 30382274:{'glucose'}
 30412893:{'PEG'}
 30415005:set()
 30453065:set()
-30458286:{'NONRATT000964.2', 'NONRATT018086.2', 'MSTRG.7681.1', 'NONRATT006315.2', 'NONRATT026805.2', 'MSTRG.9260.1', 'NONRATT023684.2', 'NONRATT009155.2', 'NONRATT009530.2', 'adriamycin', 'NONRATT009275.2'}
+30458286:{'NONRATT023684.2', 'NONRATT026805.2', 'NONRATT009275.2', 'MSTRG.7681.1', 'NONRATT009155.2', 'NONRATT009530.2', 'MSTRG.9260.1', 'NONRATT018086.2', 'NONRATT000964.2', 'NONRATT006315.2', 'adriamycin'}
 30458287:set()
 30468908:set()
 30471602:{'colistin'}
 30503393:set()
-30503395:{'Zinc', 'zinc'}
-30521888:{'Guanine', 'Adenine', 'Cytosine', 'Thymine'}
+30503395:{'zinc', 'Zinc'}
+30521888:{'Thymine', 'Adenine', 'Cytosine', 'Guanine'}
 30528268:set()
-30529248:{'tributyltin chloride', 'oxygen', 'TBT-Cl'}
-30536466:{'ethylene oxide', 'propylene oxide', 'hydroxyalkylguanine', 'N7-alkyl', 'ethylene oxide-'}
-30543962:{'MTT', 'SO2', 'sulfur dioxide'}
+30529248:{'TBT-Cl', 'oxygen', 'tributyltin chloride'}
+30536466:{'ethylene oxide', 'N7-alkyl', 'propylene oxide', 'ethylene oxide-', 'hydroxyalkylguanine'}
+30543962:{'SO2', 'MTT', 'sulfur dioxide'}
 30552979:set()
 30562548:{'calcium'}
 30572096:set()
 30576808:set()
 30580162:{'nickel'}
-30583411:{'S', 'amino acids', "5'-GMP", 'umami'}
-30583435:{'cytidine', 'guanosine', 'uridine', 'formic acid', 'adenosine'}
-30591638:{'phenolics', 'Fe > Cu > Ni > Mn', 'β-sitosterol', 'Mg'}
+30583411:{'umami', "5'-GMP", 'S', 'amino acids'}
+30583435:{'formic acid', 'cytidine', 'guanosine', 'adenosine', 'uridine'}
+30591638:{'phenolics', 'β-sitosterol', 'Mg', 'Fe > Cu > Ni > Mn'}
 30593917:set()
-30594026:{'(-)-epicatechin', 'hyperelatones B-H', 'hydrogen peroxide', 'acylphloroglucinol', 'H', 'cinchonain', 'NO', '(Z)-3-hexenyl-β-D-glucopyranoside', 'phenolic', 'hyperelatone A', 'tenuiside A', 'Hyperelatones D', 'nitric oxide'}
-30594254:{'DEX', 'dexamethasone', 'octadecylamine', 'ODA'}
+30594026:{'phenolic', 'hyperelatone A', 'hyperelatones B-H', 'H', 'tenuiside A', 'NO', 'cinchonain', 'hydrogen peroxide', 'Hyperelatones D', '(Z)-3-hexenyl-β-D-glucopyranoside', '(-)-epicatechin', 'acylphloroglucinol', 'nitric oxide'}
+30594254:{'DEX', 'dexamethasone', 'ODA', 'octadecylamine'}
 30597233:set()
 30597234:{'H2O2'}
 30599235:{'SAP30L-AS1', 'LncRNA SAP30L-AS1'}
-30611468:{'prostaglandin E2', 'HtySte', 'NO', 'acyl', 'hydroxytyrosol', 'hydroxytyrosyl oleate', 'hydroxytyrosyl stearate', 'nitric oxide', 'HtyOle'}
-30611507:{'sodium dodecyl sulfate', 'lactose lauryl ester', 'lauric acid', 'lactose', 'aluminosilicate zeolite'}
-30611515:{'glucose', 'glycosides'}
-30611516:{'flavonoid C2C3', 'quercetin', 'naringenin', 'apigenin', 'ATP'}
+30611468:{'prostaglandin E2', 'acyl', 'HtyOle', 'HtySte', 'NO', 'hydroxytyrosol', 'hydroxytyrosyl oleate', 'hydroxytyrosyl stearate', 'nitric oxide'}
+30611507:{'lactose lauryl ester', 'sodium dodecyl sulfate', 'lactose', 'aluminosilicate zeolite', 'lauric acid'}
+30611515:{'glycosides', 'glucose'}
+30611516:{'apigenin', 'naringenin', 'ATP', 'flavonoid C2C3', 'quercetin'}
 30613015:set()
 30621866:set()
-30621871:{'lactic acid', 'glucose', 'folate', 'carbon', 'folic acid'}
-30642509:{'theanine', 'N-Ethylacetamide', 'aromatic', 'l-theanine'}
-30642511:{'hexanal', '1-hexanol', '2-pentyl-furan', '(E,E)-2,4-nonadienal', 'O', 'aromatic'}
-30658742:{'phenolics', 'phenolic'}
-30658746:{'sodium tripolyphosphate', '-NH2'}
-30658754:{'sucrose', 'GA', 'cyanidin-3-O-glucosylrutinoside', 'cyanidine-3-rutinoside', 'cyanidin-3-O-rutinoside', 'Sucrose', 'Cyanidin-3-O-glucosylrutinoside'}
-30658758:{'rhein', 'chrysophanol', 'emodin'}
+30621871:{'folate', 'carbon', 'glucose', 'lactic acid', 'folic acid'}
+30642509:{'theanine', 'N-Ethylacetamide', 'l-theanine', 'aromatic'}
+30642511:{'O', '2-pentyl-furan', '(E,E)-2,4-nonadienal', '1-hexanol', 'hexanal', 'aromatic'}
+30658742:{'phenolic', 'phenolics'}
+30658746:{'-NH2', 'sodium tripolyphosphate'}
+30658754:{'Sucrose', 'sucrose', 'GA', 'Cyanidin-3-O-glucosylrutinoside', 'cyanidin-3-O-glucosylrutinoside', 'cyanidin-3-O-rutinoside', 'cyanidine-3-rutinoside'}
+30658758:{'emodin', 'chrysophanol', 'rhein'}
 30658760:set()
 30682765:{'BMAA', 'β-methylamino-l-alanine'}
-30683372:{'PPy-rGO', 'methylene blue', 'gold', 'polypyrrole'}
-30683396:{'acetate', 'tetramethylbenzidine', 'H2O2', 'TMB', 'Acetate', 'glucose', 'hydrogen peroxide'}
-30683409:{'Zn', 'Co', 'Ti', 'Se', 'Sr', 'Ca', 'Mg', 'Fe', 'Mn', 'Cu'}
+30683372:{'methylene blue', 'polypyrrole', 'PPy-rGO', 'gold'}
+30683396:{'glucose', 'acetate', 'TMB', 'hydrogen peroxide', 'H2O2', 'tetramethylbenzidine', 'Acetate'}
+30683409:{'Co', 'Fe', 'Ti', 'Ca', 'Sr', 'Se', 'Zn', 'Mg', 'Mn', 'Cu'}
 30683818:{'prostaglandin E2', 'PGE2'}
 30683822:set()
 30683827:{'DSS', 'γ-glutamylcysteine'}
-30683831:{'acrylamide', 'nitric oxide', 'dopamine', 'ACR'}
+30683831:{'acrylamide', 'ACR', 'dopamine', 'nitric oxide'}
 30685586:{'iron oxide', 'Fe'}
 30686450:{'oxygen', 'Cu'}
-30691637:{'CO2', 'N', 'Ca', 'nitrogen', 'carbon'}
-30693063:{'superoxide', 'MDA', 'glutathione', 'malondialdehyde'}
-30704714:{'[3H]-imidacloprid', 'Nicotinic acetylcholine', 'nicotinic acetylcholine'}
-30704719:{"4,4'-dichlorodiphenyltrichloroethane", 'DDT'}
-30710774:{'NADPH', 'ammonia', 'glutamate', 'pentose phosphate', 'nitrite', 'NADH', 'nitrate', 'NR', 'nitrogen', 'cytosol', 'glutamine', '15N-labeled nitrate', 'glutamine amide'}
+30691637:{'N', 'carbon', 'Ca', 'nitrogen', 'CO2'}
+30693063:{'MDA', 'malondialdehyde', 'superoxide', 'glutathione'}
+30704714:{'nicotinic acetylcholine', '[3H]-imidacloprid', 'Nicotinic acetylcholine'}
+30704719:{'DDT', "4,4'-dichlorodiphenyltrichloroethane"}
+30710774:{'glutamine', 'NADPH', 'ammonia', 'NADH', 'nitrogen', 'glutamate', 'glutamine amide', 'cytosol', 'NR', '15N-labeled nitrate', 'nitrate', 'pentose phosphate', 'nitrite'}
 30711101:set()
 30712551:{'tyrosine', 'imatinib'}
-30712583:{'silica/nickel silicate', 'Microcystin-LR', 'copper hydroxide', 'Cu(OH)2 nanocages', 'hemin', 'G-quadruplex', "2,2'-azinobis-(3-ethylbenzothiazoline-6-sulfonic acid"}
-30712585:{"3,3',5,5'-tetramethylbenzidine", 'H2O2', 'TMB', 'ascorbic acid', 'carbon'}
+30712583:{'copper hydroxide', 'silica/nickel silicate', 'G-quadruplex', 'Cu(OH)2 nanocages', 'Microcystin-LR', "2,2'-azinobis-(3-ethylbenzothiazoline-6-sulfonic acid", 'hemin'}
+30712585:{'carbon', 'TMB', 'H2O2', 'ascorbic acid', "3,3',5,5'-tetramethylbenzidine"}
 30712592:{'Fe3O4@PDA@γ-CDP'}
-30712596:{'2-methoxy-E1', 'hydroxy', 'estradiol', '4-methoxy-E1', '1-(5-fluoro-2, 4-dinitrophenyl)-4-methylpiperazine', 'PPZ', 'estrone'}
-30724222:{'diacetyl tartaric acid esters of monoglycerides', 'DATEM', 'nitroxide [(4-hydroxy-2, 2, 6, 6-tetramethylpiperidin-1-oxyl'}
+30712596:{'hydroxy', '1-(5-fluoro-2, 4-dinitrophenyl)-4-methylpiperazine', 'PPZ', '2-methoxy-E1', '4-methoxy-E1', 'estrone', 'estradiol'}
+30724222:{'DATEM', 'nitroxide [(4-hydroxy-2, 2, 6, 6-tetramethylpiperidin-1-oxyl', 'diacetyl tartaric acid esters of monoglycerides'}
 30724260:{'deoxynivalenol'}
 30725063:set()
 30735108:set()
 30736902:{'Fluoro-Jade B', 'kainic acid'}
-30736903:{'apelin', '1-methyl-4-phenyl-1, 2, 3, 6 tetrahydropyridine', 'eicosapentaenoic acid', 'DHA', 'docosahexaenoic acid', 'EPA'}
+30736903:{'eicosapentaenoic acid', '1-methyl-4-phenyl-1, 2, 3, 6 tetrahydropyridine', 'apelin', 'EPA', 'DHA', 'docosahexaenoic acid'}
 30736907:set()
 30743847:{'phosphate'}
-30743858:{'nitrite', 'TN', 'nitrogen', 'carbon', 'NH4+-N'}
-30743866:{'ammonia', 'ENTEC', 'N-(n-butyl) thiophosphoric triamide', 'nitrous oxide', 'DMPP', 'N', 'Urea', 'nitrogen', 'NBPT', 'urea', '3,4-dimethylpyrazole phosphate'}
+30743858:{'carbon', 'TN', 'NH4+-N', 'nitrogen', 'nitrite'}
+30743866:{'N-(n-butyl) thiophosphoric triamide', 'N', 'urea', 'nitrogen', '3,4-dimethylpyrazole phosphate', 'nitrous oxide', 'Urea', 'ENTEC', 'ammonia', 'NBPT', 'DMPP'}
 30743879:set()
 30743888:{'carbon'}
-30743956:{'acenaphtene', 'HPBCD', 'phenanthrene', 'rhamnolipids', 'Hydroxypropyl-β-cyclodextrin', 'pyrene', 'fluoranthene'}
-30744816:{'MBP-SulA(F143N)', 'MBP-SulA(F143Y)', 'tyrosine', 'phenylalanine', 'asparagine'}
-30744819:{'S', 'fucose', 'Sialic acid', 'sialic acid'}
+30743956:{'fluoranthene', 'rhamnolipids', 'phenanthrene', 'acenaphtene', 'HPBCD', 'Hydroxypropyl-β-cyclodextrin', 'pyrene'}
+30744816:{'phenylalanine', 'MBP-SulA(F143N)', 'MBP-SulA(F143Y)', 'tyrosine', 'asparagine'}
+30744819:{'fucose', 'sialic acid', 'Sialic acid', 'S'}
 30744820:set()
-30744888:{'propiconazole', 'triazole', 'Propiconazole', 'ergosterol'}
-30744889:{'validamycin', 'F', 'glucose', 'Validamycin', 'pyruvate', 'triazole', 'deoxynivalenol'}
-30744893:{'glucose', 'triazophos', 'vitellogenin', 'N', 'trehalose'}
-30744895:{'carbendazim', 'F'}
-30744896:{'Lambda-cyhalothrin', 'lambda-cyhalothrin', 'vitellogenin'}
+30744888:{'ergosterol', 'triazole', 'propiconazole', 'Propiconazole'}
+30744889:{'glucose', 'triazole', 'pyruvate', 'F', 'deoxynivalenol', 'Validamycin', 'validamycin'}
+30744893:{'N', 'glucose', 'triazophos', 'trehalose', 'vitellogenin'}
+30744895:{'F', 'carbendazim'}
+30744896:{'lambda-cyhalothrin', 'Lambda-cyhalothrin', 'vitellogenin'}
 30744898:{'sodium'}
-30744899:{'Pymetrozine', 'TRPV', 'pymetrozine', 'vanilloid', 'N'}
+30744899:{'N', 'pymetrozine', 'Pymetrozine', 'vanilloid', 'TRPV'}
 30759552:{'glutathione'}
-30759554:{'chloroacetamide', 'Acetochlor', 'chloroacetamide herbicide acetochlor', 'thyroxine', 'triiodothyronine', 'ACT'}
+30759554:{'Acetochlor', 'thyroxine', 'triiodothyronine', 'chloroacetamide herbicide acetochlor', 'ACT', 'chloroacetamide'}
 30759589:{'Mg'}
-30759593:{'S', 'abscisic acid', 'La2O3', 'lignin', 'lanthanum oxide'}
-30759596:{'Anaerolineaceae', 'Cu2+', 'oxygen', 'humic-acid', 'l-leucine', 'CuO', 'copper oxide', 'Cu(NO3)2', 'nitrogen', 'carbon'}
-30759598:{'nitrate', 'nitrogen', 'nitrite', 'ammonia'}
-30759600:{'Cd', 'Zn', 'copper', 'mercury', 'phosphates', 'cadmium', 'arsenic', 'zinc', 'Cu'}
-30759618:{'silver', 'ZnO', 'TiO2', 'titanium dioxide', 'oxides', 'Ag', 'zinc oxide'}
-30759623:{'H', 'acetylene', 'N', 'N2', 'nitrogen', 'ARA'}
-30765055:{'dinotefuran', 'clothianidin', 'chlorpyrifos', 'nitenpyram', 'N', 'CYP6ER1'}
+30759593:{'S', 'La2O3', 'lanthanum oxide', 'abscisic acid', 'lignin'}
+30759596:{'Cu(NO3)2', 'oxygen', 'carbon', 'l-leucine', 'Cu2+', 'nitrogen', 'copper oxide', 'humic-acid', 'Anaerolineaceae', 'CuO'}
+30759598:{'nitrite', 'nitrogen', 'nitrate', 'ammonia'}
+30759600:{'arsenic', 'Cd', 'mercury', 'copper', 'Cu', 'zinc', 'Zn', 'phosphates', 'cadmium'}
+30759618:{'ZnO', 'zinc oxide', 'oxides', 'Ag', 'titanium dioxide', 'TiO2', 'silver'}
+30759623:{'acetylene', 'N', 'H', 'nitrogen', 'ARA', 'N2'}
+30765055:{'dinotefuran', 'N', 'clothianidin', 'nitenpyram', 'CYP6ER1', 'chlorpyrifos'}
 30765056:{'ATP', 'H', 'indoxacarb'}
-30765057:{'S', 'tomatine', 'xanthotoxin', 'coumarin', 'COU', 'XAN', 'TOM'}
-30765058:{'harmine', 'indole alkaloids', 'harmol'}
-30765059:{'Benzothiazole', 'BZO'}
+30765057:{'COU', 'XAN', 'S', 'TOM', 'xanthotoxin', 'coumarin', 'tomatine'}
+30765058:{'indole alkaloids', 'harmol', 'harmine'}
+30765059:{'BZO', 'Benzothiazole'}
 30782361:set()
 30782363:{'leucine', 'leuzine'}
 30782365:{'smartphone', 'Smartphone'}
-30782366:{'uric acid', 'carbon', 'dopamine', 'N'}
-30782374:{'carbon', 'H2O2', 'glucose', 'silver'}
-30782376:{'peracetic acid', 'H2O2', 'peroxy acids', "3,3',5,5'-tetramethylbenzidine", 'AG', 'acetic acid', 'phosphate'}
+30782366:{'dopamine', 'N', 'uric acid', 'carbon'}
+30782374:{'silver', 'H2O2', 'carbon', 'glucose'}
+30782376:{'peroxy acids', 'phosphate', 'AG', 'peracetic acid', 'H2O2', 'acetic acid', "3,3',5,5'-tetramethylbenzidine"}
 30783609:set()
-30784437:{'Ag-SiO2@Fe3O4', 'O2', 'Fe3O4', 'Ag', 'SiO2@Fe3O4'}
-30784446:{'GOs', 'Ag', 'Ag NP', 'TN'}
-30784447:{'zinc', 'arsenate', 'Zinc ferrite'}
-30784450:{'H13CO3-', 'DIC', 'Cytophagales', 'Bacteroidetes', 'carbon', 'Sphingobacteriales'}
-30784451:{'sulfuric acid', 'NH3-SCR', 'CeO2', '4H2SO4', 'NO', 'sulfate'}
+30784437:{'Ag-SiO2@Fe3O4', 'SiO2@Fe3O4', 'Ag', 'Fe3O4', 'O2'}
+30784446:{'TN', 'Ag NP', 'GOs', 'Ag'}
+30784447:{'arsenate', 'zinc', 'Zinc ferrite'}
+30784450:{'H13CO3-', 'DIC', 'carbon', 'Cytophagales', 'Sphingobacteriales', 'Bacteroidetes'}
+30784451:{'sulfate', 'CeO2', 'NO', '4H2SO4', 'NH3-SCR', 'sulfuric acid'}
 30784452:{'Sulfur', 'Cysteamine'}
-30784453:{'Ozone', 'acetylene', 'NOx', 'O3', 'ethylene', 'o-xylene', 'toluene', 'ozone', 'propylene', 'm-xylene'}
-30784458:{'titanium', 'silica', 'HMS'}
-30784464:{'carbon', 'doxycycline', 'ZnInAl-CLDH', 'hydroxides'}
-30784465:{'sulfur dioxide', 'AC', 'NO', 'sulfur trioxide', 'SO2', 'SO3', 'Hg', 'EPA', 'carbon', 'sulfur', 'nitric oxide'}
+30784453:{'acetylene', 'Ozone', 'propylene', 'ozone', 'O3', 'toluene', 'o-xylene', 'ethylene', 'm-xylene', 'NOx'}
+30784458:{'HMS', 'titanium', 'silica'}
+30784464:{'hydroxides', 'doxycycline', 'carbon', 'ZnInAl-CLDH'}
+30784465:{'SO3', 'carbon', 'AC', 'sulfur trioxide', 'sulfur', 'NO', 'EPA', 'SO2', 'sulfur dioxide', 'Hg', 'nitric oxide'}
 30784468:{'copper'}
 30797458:{'procalcitonin', 'Zinc sulfide', 'indium-tin-oxide'}
-30806240:{'MTT', 'ε-carotene', 'lutein', '3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide', 'Lutein'}
-30824020:{'linoleic', '2-lysophosphatidic acid', 'fatty acids', 'α-linolenic acid', 'oleic', 'lysophosphatidic acid', 'linolenic acids'}
+30806240:{'3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide', 'MTT', 'Lutein', 'lutein', 'ε-carotene'}
+30824020:{'2-lysophosphatidic acid', 'oleic', 'α-linolenic acid', 'linoleic', 'lysophosphatidic acid', 'fatty acids', 'linolenic acids'}
 30824031:{'cadmium'}
-30824054:{'H2O2', 'oxygen', 'ascorbate', 'glutathione', 'superoxide'}
-30824055:{'prolamine', 'cysteine'}
+30824054:{'oxygen', 'glutathione', 'superoxide', 'ascorbate', 'H2O2'}
+30824055:{'cysteine', 'prolamine'}
 30824056:set()
 30824057:set()
-30841381:{'nitrite', 'fatty acids', 'Nitrite', 'nitrous acid', 'methane', 'FNA'}
-30841783:{'Progesterone', 'progesterone'}
+30841381:{'FNA', 'Nitrite', 'methane', 'fatty acids', 'nitrous acid', 'nitrite'}
+30841783:{'progesterone', 'Progesterone'}
 30848745:set()
-30857079:{'NO3', 'NH4'}
+30857079:{'NH4', 'NO3'}
 30857087:set()
-30857089:{'carbon', 'Carbon', 'CO2'}
-30857097:{'Perfluorooctane sulfonate', 'perfluoropentanoic acid', 'PFOS'}
-30857098:{'phosphorus', 'carbon', 'sulfate'}
-30857102:{'TPHP', 'malondialdehyde', 'Triphenyl phosphate', 'diphenyl phosphate', 'triphenyl phosphate', 'piperonyl butoxide', 'phenyl phosphate', 'superoxide'}
-30857108:{'hydrogen', 'glycerol', 'TiO2'}
-30857630:{'S', 'tribenuron-methyl', '2,4-D butylate', 'florasulam', 'isoproturon', 'HN03(S)', 'imazethapyr', 'diflufenican', 'pyrithiobac‑sodium', 'flucarbazone-Na', 'pyroxsulam', 'fluroxypyr-meptyl'}
-30880703:{'pipercillin', 'quinolone', 'ofloxacin', 'tazobactam', 'gentamicin', 'levofloxacin', 'amikacin', 'cefepime'}
+30857089:{'Carbon', 'CO2', 'carbon'}
+30857097:{'PFOS', 'Perfluorooctane sulfonate', 'perfluoropentanoic acid'}
+30857098:{'phosphorus', 'sulfate', 'carbon'}
+30857102:{'diphenyl phosphate', 'TPHP', 'phenyl phosphate', 'malondialdehyde', 'piperonyl butoxide', 'superoxide', 'triphenyl phosphate', 'Triphenyl phosphate'}
+30857108:{'glycerol', 'TiO2', 'hydrogen'}
+30857630:{'pyroxsulam', 'tribenuron-methyl', 'isoproturon', 'S', 'imazethapyr', 'fluroxypyr-meptyl', 'HN03(S)', 'pyrithiobac‑sodium', 'florasulam', 'flucarbazone-Na', 'diflufenican', '2,4-D butylate'}
+30880703:{'amikacin', 'levofloxacin', 'quinolone', 'cefepime', 'gentamicin', 'ofloxacin', 'tazobactam', 'pipercillin'}
 30893392:{'HP', 'halobetasol propionate'}
 30910085:{'diacetyl', 'acetoin'}
 31011396:{'CBD'}
