@@ -153,7 +153,6 @@ class InputFeatures(object):
         self.input_mask = input_mask
         self.segment_ids = segment_ids
         self.label_ids = label_ids
-        #self.label_mask = label_mask
 
         self.wordpiece_tokens = []
 
@@ -191,12 +190,6 @@ class DataProcessor(object):
                 # pmid tracker
                 if line_cnt == 1:
                     previous_doc_id = text[0]
-                    # Not sure if I need to add a blank at the beginning
-                    # but the orginal author did?
-                    #words.append('')
-                # Need to keep track of documents. I do this with pmids
-                # The author of the code does so with docstart
-                # I need to check when pmids change
                 elif current_doc_id != previous_doc_id:
                     l = ' '.join([label for label in labels])
                     w = ' '.join([word for word in words])
@@ -268,10 +261,6 @@ class NerProcessor(DataProcessor):
     def get_dev_examples(self, data_dir):
         """Don't currently have a dev implementation set up"""
         return self._create_example(
-            # In get_dev and get_test, read in individual text files, as that is how the annotations
-            # are set up. # Potentially I could make eval to just read training data,
-            # and test to read in text files. Not sure.
-            #self._read_data(os.path.join(data_dir, "citation_annotations_dev.txt")), "dev"
             self._read_data(os.path.join(data_dir, ".txt")), "dev"
         )
 
@@ -284,6 +273,10 @@ class NerProcessor(DataProcessor):
             self._read_CDI_data(citation_dir), "CDI")
 
     def get_multi_labels(self):
+        """
+        Not used for final experiment, as individual models are training on individual types
+        """
+
         labels = [
                 "B-aapp",
                 "I-aapp",
@@ -294,20 +287,19 @@ class NerProcessor(DataProcessor):
                 "B-nnon",
                 "I-nnon",
                 "O",
-                "X", # X is for the subwords
-                "[CLS]", # [] are because BERT was trained that way, for other tasks
+                "X", 
+                "[CLS]", 
                 "[SEP]"]
 
         return labels
 
     def get_binary_labels(self):
         labels = [
-                # Don't need to include pad label
                 "B-chem", 
                 "I-chem", 
                 "O",
-                "X", # X is for the subwords
-                "[CLS]", # [] are because BERT was trained that way, for other tasks
+                "X",
+                "[CLS]",
                 "[SEP]"]
 
         return labels
@@ -408,8 +400,6 @@ def convert_single_example(ex_index, example, label_list, max_seq_length, tokeni
     input_mask = [1] * len(input_ids)
     # Fill up the rest of the empty embedding with 0
     # This is equivalent to keras zero padding
-    # TODO: make a better padding, the new version of BERT_NER
-    # does this 
     while len(input_ids) < max_seq_length:
         input_ids.append(0)
         input_mask.append(0)
@@ -422,11 +412,6 @@ def convert_single_example(ex_index, example, label_list, max_seq_length, tokeni
         tf.logging.info("label_ids: %s" % " ".join([str(x) for x in label_ids]))
         tf.logging.info("tokens: %s" % " ".join(
             [tokenization.printable_text(x) for x in tokens]))
-        #tf.logging.info("*** Example ***")
-        #tf.logging.info("guid: %s" % (example.guid))
-        #tf.logging.info("input_ids: %s" % " ".join([str(x) for x in input_ids]))
-        #tf.logging.info("input_mask: %s" % " ".join([str(x) for x in input_mask]))
-        #tf.logging.info("segment_ids: %s" % " ".join([str(x) for x in segment_ids]))
 
     if not FLAGS.do_train:
         # Hack to not have to deal with labels
@@ -484,8 +469,6 @@ def file_based_input_fn_builder(input_file, seq_length, is_training, drop_remain
         "input_mask": tf.FixedLenFeature([seq_length], tf.int64),
         "segment_ids": tf.FixedLenFeature([seq_length], tf.int64),
         "label_ids": tf.FixedLenFeature([seq_length], tf.int64),
-        # "label_ids":tf.VarLenFeature(tf.int64),
-        #"label_mask": tf.FixedLenFeature([seq_length], tf.int64),
     }
 
     def _decode_record(record, name_to_features):
@@ -637,20 +620,11 @@ def model_fn_builder(bert_config, num_labels, init_checkpoint, learning_rate,
                 scaffold_fn=scaffold_fn)
         elif mode == tf.estimator.ModeKeys.EVAL:
 
-            # TODO: test implmentation of eval in this script
-            # See if I can add probs
             def metric_fn(per_example_loss, label_ids, logits):
-            # def metric_fn(label_ids, logits):
-                # What will the label length be???
                 predictions = tf.argmax(logits, axis=-1, output_type=tf.int32)
                 precision = tf_metrics.precision(label_ids,predictions, label_length+1 ,[1,2],average="micro")
                 recall = tf_metrics.recall(label_ids,predictions,label_length+1 ,[1,2],average="micro")
                 f = tf_metrics.f1(label_ids,predictions,label_length+1 ,[1,2],average="micro")
-                # Label indicies for 8 classes:
-                #precision = tf_metrics.precision(label_ids,predictions,label_length+1 ,[1,2,4,5,6,7,8,9],average="macro")
-                #recall = tf_metrics.recall(label_ids,predictions,label_length+1 ,[1,2,4,5,6,7,8,9],average="macro")
-                #f = tf_metrics.f1(label_ids,predictions,label_length+1 ,[1,2,4,5,6,7,8,9],average="macro")
-                # To include probabilities, I believe I return the predictions
                 return {
                     "eval_precision":precision,
                     "eval_recall":recall,
@@ -658,7 +632,6 @@ def model_fn_builder(bert_config, num_labels, init_checkpoint, learning_rate,
                     "predictions": predictions,
                 }
             eval_metrics = (metric_fn, [per_example_loss, label_ids, logits])
-            # eval_metrics = (metric_fn, [label_ids, logits])
             output_spec = tf.contrib.tpu.TPUEstimatorSpec(
                 mode=mode,
                 loss=total_loss,
@@ -678,13 +651,11 @@ def process_predictions(result, pmids, predict_examples, id2label):
     and create the full entities
     """
 
-    # Here begins the onerous task of parsing the output
-    #TODO: Add in probabilities
     entity_pmids = []
     entity_labels = []
     whole_tokens = []
     output_token_file = os.path.join(FLAGS.output_dir, "results/BERT_tokens_labels.txt")
-    # Very annoying loops to reconstitute bert tokens
+    # Reconstitute bert tokens
     with open(output_token_file, "w", encoding="utf*") as f:
         for pmid, predictions, example in zip(pmids, result, predict_examples):
             sub_token = False
@@ -708,7 +679,7 @@ def process_predictions(result, pmids, predict_examples, id2label):
                     assert token_sub != ""
                     token_main += token_sub
                 else:
-                    # Some tokens will have no sub tokens, some will, so I have to keep track
+                    # Some tokens will have no sub tokens, some will, so it is necessary to keep track
                     # of both cases.
                     if sub_token == True or (sub_token == False and token_cnt > 0):
                         whole_tokens.append(token_main)
@@ -723,8 +694,7 @@ def process_predictions(result, pmids, predict_examples, id2label):
                 token_cnt += 1
                 prev_label = label
 
-    # For lack of a better idea, here combine the B and I entities 
-    # To improve recall, add in each entity as well as the concatenated bit
+    # Combine the B and I entities 
     combined_labels = []
     combined_pmids = []
     combined_tokens = []
@@ -769,15 +739,6 @@ def process_predictions(result, pmids, predict_examples, id2label):
             b_cnt += 1
         # Check to see if there are any I- mispredicted. 
         # It is optional to add these to the predictions
-        elif label.startswith("I") and o_label_state == True:
-            print("No B- before I-")
-            print(pmid, token)
-            #if "-" in token:
-            #    # Account for word piece adding space
-            #    token = "-".join([t.strip() for t in token.split("-")])
-            #combined_labels.append("B-chem")
-            #combined_pmids.append(pmid)
-            #combined_tokens.append(token)
         elif label.startswith("I"):
             # Append an inner entity to the previous entity
             i_cnt += 1
@@ -790,7 +751,6 @@ def process_predictions(result, pmids, predict_examples, id2label):
         prev_label = label
         cnt += 1        
 
-    print(i_cnt, b_cnt)
     output_predict_file = os.path.join(FLAGS.output_dir, FLAGS.output_preds)
     with open(output_predict_file,'w') as writer:
         for pmid, token, label in zip(combined_pmids, combined_tokens, combined_labels):
@@ -902,7 +862,7 @@ def main(_):
         estimator.train(input_fn=train_input_fn, max_steps=num_train_steps)
         sys.stdout.write("Finished training\n")
 
-    # Evaluation after fine tuning:
+    # For the CER indexing for MEDLINE paper, no evaluation is needed.
     if FLAGS.do_eval:
         eval_examples = processor.get_dev_examples(FLAGS.data_dir)
         eval_file = os.path.join(FLAGS.output_dir, "eval.tf_record")

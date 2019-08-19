@@ -188,9 +188,6 @@ class NerProcessor(object):
                 elif current_doc_id != previous_doc_id:
                     l = ' '.join([label for label in labels])
                     w = ' '.join([word for word in words])
-                    #print(previous_doc_id)
-                    #print(l)
-                    #print(w)
                     lines.append([l, w, previous_doc_id])
                     words = []
                     labels = []
@@ -364,8 +361,6 @@ class XLNetExampleConverter(object):
         labels = []
         idx = 0
         for token in token_items:
-            if example.guid == "30806240":
-                print(token)
             if FLAGS.do_train:
                 if token.startswith(prepro_utils.SPIECE_UNDERLINE):
                     label = label_items[idx]
@@ -421,8 +416,6 @@ class XLNetExampleConverter(object):
         segment_ids.append(self.segment_vocab_map["<cls>"])
 
         input_ids = self.tokenizer.tokens_to_ids(input_tokens)
-        #if example.guid == "30806240":
-        #    print(input_ids)
         # The mask has 0 for real tokens and 1 for padding tokens. Only real tokens are attended to.
         input_masks = [0] * len(input_ids)
         
@@ -436,7 +429,7 @@ class XLNetExampleConverter(object):
                 label_ids = [self.label_map["<pad>"]] * pad_seq_length + label_ids
 
         if not FLAGS.do_train:
-            # Hack to not have to deal with labels
+            # "Hack" to not have to deal with labels
             # for inference
             label_len = len(segment_ids)
             for i in range(label_len):
@@ -843,20 +836,15 @@ class XLNetPredictRecorder(object):
             decoded_tokens = []
             decoded_labels = []
             decoded_predicts = []
-            #results = zip(input_tokens, input_masks, input_labels, output_predicts)
             results = zip(input_tokens, input_masks, output_predicts)
-            #for input_token, input_mask, input_label, output_predict in results:
             for input_token, input_mask, output_predict in results:
                 if input_token in ["<cls>", "<sep>", "<pad>"] or input_mask == 1:
                     continue
-                
-                # Removed x from this for later processing
                 if output_predict in ["<pad>", "<cls>", "<sep>"]:
                     output_predict = "O"
                 
                 if input_token.startswith(prepro_utils.SPIECE_UNDERLINE):
                     decoded_tokens.append(input_token)
-                    #decoded_labels.append(input_label)
                     decoded_predicts.append(output_predict)
                 else:
                     # In sentence piece, spaces are represented by __
@@ -869,20 +857,15 @@ class XLNetPredictRecorder(object):
 
 
             decoded_text = "".join(decoded_tokens).replace(prepro_utils.SPIECE_UNDERLINE, " ")
-            #decoded_label = " ".join(decoded_labels)
             decoded_predict = " ".join(decoded_predicts)
             
             decoded_result = {
                 "text": prepro_utils.printable_text(decoded_text),
-                #"label": decoded_label,
                 "predict": decoded_predict,
             }
 
             decoded_results.append(decoded_result)
             self._write_output(decoded_tokens, decoded_predicts, guid)
-
-        #self._write_to_json(decoded_results, self.output_path)
-
 
 def main(_):
     tf.logging.set_verbosity(tf.logging.INFO)
@@ -1003,7 +986,6 @@ if __name__ == "__main__":
     flags.mark_flag_as_required("spiece_model_file")
     flags.mark_flag_as_required("model_config_path")
     flags.mark_flag_as_required("init_checkpoint")
-    #flags.mark_flag_as_required("data_dir")
     flags.mark_flag_as_required("output_dir")
     flags.mark_flag_as_required("model_dir")
     tf.app.run()

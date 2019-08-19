@@ -59,12 +59,9 @@ def process_predictions(predictions, output_path):
         label = line[2].strip()
         pmid = line[0]
         token = line[1]
-        if token == "Ti,":
-            print(token, "it's a mystery")
         if label == "X":
             sub_token = True
             token_sub = token
-            #assert token_sub != ""
             token_main += token_sub
         else:
             # Some tokens will have no sub tokens, some will, so I have to keep track
@@ -77,13 +74,8 @@ def process_predictions(predictions, output_path):
             entity_pmid = pmid
             token_main = token
             sub_token = False
-        #if token_main[-1] == ".":
-        #    print(token_main)
-        if token_main == "Ti,":
-            print(token_main)
         token_cnt += 1
 
-    ## Here begins the onerous task of parsing the output
     combined_labels = []
     combined_pmids = []
     combined_tokens = []
@@ -106,15 +98,6 @@ def process_predictions(predictions, output_path):
             # Account for entities that have B- and I- labels and those that have just B-
             # Check if the loop previously visited the I condition.
             if i_token_state == True or (b_token_state == True and i_token_state == False):
-                #if "-" in b_token:
-                #    # Account for word piece adding space
-                #    b_token = "-".join([t.strip() for t in b_token.split("-")])
-                #if "/" in b_token:
-                #    b_token = "/".join([t.strip() for t in b_token.split("/")])
-                #if "(" in b_token:
-                #    b_token = "(".join([t.strip() for t in b_token.split("(")])
-                #if ")" in b_token:
-                #    b_token = ")".join([t.strip() for t in b_token.split(")")])
                 if b_token != "":
                     combined_labels.append(token_label)
                     combined_pmids.append(entity_pmid)
@@ -126,34 +109,20 @@ def process_predictions(predictions, output_path):
             b_token = token
             token_label = label
             b_cnt += 1
-        # Check to see if there are any I- mispredicted. 
-        # It is optional to add these to the predictions
-        elif label.startswith("I") and o_label_state == True:
-            print("No B- before I-")
-            print(pmid, token)
-            #if "-" in token:
-            #    # Account for word piece adding space
-            #    token = "-".join([t.strip() for t in token.split("-")])
-            #combined_labels.append("B-chem")
-            #combined_pmids.append(pmid)
-            #combined_tokens.append(token)
         elif label.startswith("I"):
             # Append an inner entity to the previous entity
             i_cnt += 1
             i_token_state = True
             b_token_state = False
             b_token += " " + token
-        #else:
-        #    print("Unexpected behavior")
-        #    print(pmid, token, label, b_token)
         prev_label = label
         cnt += 1        
 
+    print("Inner and Beginning entity count")
     print(i_cnt, b_cnt)
     with open(output_path,'w') as writer:
         for pmid, token, label in zip(combined_pmids, combined_tokens, combined_labels):
             writer.write("{0}\t{1}\t{2}\n".format(pmid, token, label))
-
 
 
 def process_predictions_preprocessed(predictions, output_path):

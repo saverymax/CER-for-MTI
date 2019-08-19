@@ -1,200 +1,200 @@
-23566289:{'Epo', 'hemoglobin', 'Serum soluble-Fas', 'erythropoietin', 'Serum sFas', 'TNF-α', 'IL-10', 'iron', 'interleukin(IL)-6', 'IL-6', 'Hb', 'tumor necrosis factor-alpha', 'ferritin', 'serum sFas', 'sFas'}
-25881691:{'18F-DOPA', 'rat C-peptide', 'insulinomas', '11C-DTBZ', 'rat insulin', '18F-FDG', 'Rat C-peptide', 'insulinoma', '11C-dihydrotetrabenazine', '11C-(+)-α-dihydrotetrabenazine'}
-26278388:{'PAP enzyme', 'lipin-1 gene', 'mammalian phosphatidic acid phosphatase', 'nuclear lipin-1', 'SIRT1-AMPK', 'lipin-1-PAP', 'lipin-1 mRNA', 'sirtuin 1', 'Lipin-1', 'alcoholics', 'ethanol', 'lipin-1', 'lipin-1 nucleocytoplasmic', 'phosphatidic acid'}
-26435084:{'dynamin related protein-1', '4-hydroxynonenal', 'GSK2578215A', 'leucine-rich repeat kinase', 'oxygen', 'Bax', 'Neo', 'Bcl-xL', 'dichlorofluorescein', 'LRRK2', 'leucine', 'SH-SY5Y'}
-26449525:{'ERK protein', 'WT1-AS'}
-26454207:{"halofuginone's", 'BrdU', 'phosphinositide-3-kinase', 'MyoD protein', 'halofuginone', 'mitogen-activated protein kinase/', 'Bax', 'Akt', 'phospho', 'mdx', 'extracellular signal-regulated protein kinase', 'Halofuginone', 'Elsevier', 'Bcl2'}
-26454209:{'human', 'cholesterol', 'apoA-I', 'rHDL', 'APP', 'apolipoprotein(', 'phosphatidylcholine', 'apo)A-I'}
-26459048:{'zinc', 'GLI family zinc finger protein', '[UNK]', 'C-terminally truncated GLI2([UNK]', '[UNK] activator proteins', 'C-', 'N', 'GLI2'}
+23566289:{'iron', 'tumor necrosis factor-alpha', 'sFas', 'interleukin(IL)-6', 'hemoglobin', 'erythropoietin', 'Hb', 'TNF-α', 'serum sFas', 'Epo', 'IL-6', 'ferritin', 'IL-10', 'Serum sFas', 'Serum soluble-Fas'}
+25881691:{'11C-DTBZ', '11C-(+)-α-dihydrotetrabenazine', 'rat C-peptide', 'insulinoma', '18F-FDG', 'insulinomas', '18F-DOPA', 'rat insulin', '11C-dihydrotetrabenazine', 'Rat C-peptide'}
+26278388:{'SIRT1-AMPK', 'mammalian phosphatidic acid phosphatase', 'lipin-1 mRNA', 'sirtuin 1', 'lipin-1', 'nuclear lipin-1', 'alcoholics', 'lipin-1 gene', 'ethanol', 'lipin-1 nucleocytoplasmic', 'Lipin-1', 'PAP enzyme', 'lipin-1-PAP', 'phosphatidic acid'}
+26435084:{'GSK2578215A', 'Neo', 'leucine-rich repeat kinase', 'SH-SY5Y', 'Bax', 'Bcl-xL', 'oxygen', 'dichlorofluorescein', 'dynamin related protein-1', 'leucine', 'LRRK2', '4-hydroxynonenal'}
+26449525:{'WT1-AS', 'ERK protein'}
+26454207:{'Bcl2', 'mdx', 'phospho', 'Akt', 'halofuginone', 'Elsevier', 'extracellular signal-regulated protein kinase', 'Halofuginone', 'MyoD protein', 'Bax', 'BrdU', 'mitogen-activated protein kinase/', "halofuginone's", 'phosphinositide-3-kinase'}
+26454209:{'apo)A-I', 'apolipoprotein(', 'rHDL', 'apoA-I', 'human', 'cholesterol', 'phosphatidylcholine', 'APP'}
+26459048:{'zinc', '[UNK] activator proteins', 'GLI family zinc finger protein', 'C-', '[UNK]', 'GLI2', 'C-terminally truncated GLI2([UNK]', 'N'}
 26499143:{'CRC', 'CpG'}
-26499151:{'MACC1 protein', 'MACC1'}
+26499151:{'MACC1', 'MACC1 protein'}
 26499152:{'NEK-6'}
-26499153:{'miRWalk', 'miR-211', 'miR-381', 'BrdU', 'TFAM protein', 'Mitochondrial transcription factor', 'TFAM', 'Anti-miR-204', 'miR-590-3p', 'miR-214', 'mitochondrial transcription factor', 'MTT', 'miR-204', 'MiR-204'}
-26506125:{'SAH', 'S-adenosylmethionine-', 'S-adenosylhomocysteine', 'NFkB', '©', 'EZH2', 'SAH-induced', 'S-adenosylmethionine-dependent methyltransferases', 'EZH2 methyltransferase', 'IkB', 'lysine'}
-26616814:{'TAZ', 'PDZ-binding motif', 'TAZ protein'}
-26634950:{'Chitosan', 'CMCS', 'Carboxymethyl Chitosan Microspheres', 'etamsylate', 'CS', 'DIC', 'Carboxymethyl', 'CMCSMs'}
-26639231:{'SKBR-3', 'CTSL-shRNA', 'BC', 'MCF-7', 'CTSL small hairpin RNAs', 'Cathepsin', 'CTSL', 'lysosomal endopeptidase'}
-26639236:{'caspase', 'p53', '10-Hydroxycamptothecin', '10-hydroxycamptothecin', 'DAPI', 'HCPT', 'SMS-KCNR', 'MTT'}
-26639240:{'ISH', 'p16', 'EBER1', 'p16-negative', 'p16-positive'}
-26676538:{'superoxide', 'total-SH', 'brominated diphenyl ether', 'BDE-209', 'decabrominated diphenyl ether', 'thiobarbituric acid', 'glutathione', 'urea', 'superoxide dismutase', 'creatinine'}
+26499153:{'miRWalk', 'miR-381', 'TFAM', 'mitochondrial transcription factor', 'miR-211', 'miR-590-3p', 'TFAM protein', 'MTT', 'Anti-miR-204', 'miR-214', 'BrdU', 'MiR-204', 'miR-204', 'Mitochondrial transcription factor'}
+26506125:{'IkB', 'S-adenosylmethionine-', 'lysine', 'S-adenosylmethionine-dependent methyltransferases', 'S-adenosylhomocysteine', 'NFkB', 'EZH2', '©', 'SAH-induced', 'EZH2 methyltransferase', 'SAH'}
+26616814:{'PDZ-binding motif', 'TAZ', 'TAZ protein'}
+26634950:{'DIC', 'CMCSMs', 'CS', 'Carboxymethyl Chitosan Microspheres', 'Chitosan', 'CMCS', 'etamsylate', 'Carboxymethyl'}
+26639231:{'CTSL small hairpin RNAs', 'CTSL', 'lysosomal endopeptidase', 'SKBR-3', 'MCF-7', 'CTSL-shRNA', 'BC', 'Cathepsin'}
+26639236:{'MTT', 'p53', 'SMS-KCNR', 'HCPT', 'DAPI', 'caspase', '10-hydroxycamptothecin', '10-Hydroxycamptothecin'}
+26639240:{'EBER1', 'p16', 'p16-negative', 'p16-positive', 'ISH'}
+26676538:{'urea', 'total-SH', 'BDE-209', 'superoxide dismutase', 'thiobarbituric acid', 'superoxide', 'creatinine', 'decabrominated diphenyl ether', 'brominated diphenyl ether', 'glutathione'}
 26774144:{'H19'}
-26774155:{'p21 protein', 'PAK4', 'cyclin-dependent kinase', 'CDK2', 'CDK2-PAK4'}
-26925791:{'RNA PVT1', 'LncRNA PVT1'}
-27158766:{'carbon', 'DOPAL', 'Dicatechol Pyrrole', '3,4-dihydroxyphenylacetaldehyde', 'DOPAL-induced', 'WILEY-VCH', 'dicatechol pyrrole', 'DOPAL molecules', 'lysine', 'dopamine', 'Lysines', 'catecholaldehyde', 'pyrrole', 'Lys', 'Dopamine'}
-27159019:{'dihydrofolate', 'Vent(exo-)DNA polymerases', 'trimethoprim', 'Taq', "5-fluoro-2'-deoxycytidine", "7-deaza-2'-deoxyadenosine", 'dihydrofolate reductase', "7-deaza-2'deoxyguanosine", "5-chloro-2'-deoxyuridine"}
-27389556:{'CDK8 kinase complex', 'MED12', 'MED12 exon', 'CDK8'}
-28005299:{'poly(2-hydroxypropyl)methacrylamide', 'P4', 'Polymeric', 'SLeX', 'sialyl-LewisX', 'sialic acid', 'galactose', 'PHPMA', 'fucose', 'polyHPMA', 'E-', 'O-sulfated tyramine', 'selectin tetrasaccharide sialyl-LewisX'}
-28029034:{'carbon', 'CNTs', 'PEDOT', 'poly(3,4-ethylenedioxythiophene)', 'Carbon'}
-28079958:{'S-Oxygenated', 'O2-tolerant', 'NAD+-reducing [NiFe ] hydrogenase', 'hydrogen', 'NAD +', 'oxygen', 'O2-Tolerant Hydrogenase', 'S-oxygenated', 'Sulfenate', 'O2-Tolerant', 'NiFe'}
-28588210:{'carbon', 'TD', 'DOPC', '1,2-dioleoyl-sn-glycero-3-phosphocholine', 'Carbon', 'simvastatin'}
-28588231:{'EFNA1', 'HbA1c', 'glucose', 'SLC5A10', 'SLC5A1', '1,5-anhydroglucitol', '1,5-AG', 'SLC50A1', '1,5-AG-associated'}
-28588270:{'PEI', 'PGMA', 'poly(glycidyl methacrylate)', 'poly(ethyleneimine)', 'PGMA-PEI'}
-28590721:{'HSA-FePc NPs', 'human serum albumin-iron(II)phthalocyanine FePc nanoparticles', 'iron(II)phthalocyanine FePc', 'Iron Phthalocyanine-Albumin'}
-28590728:{'d-Asp', 'Brushite', 'brushite', 'l-Asp', 'Asp', 'aspartic acid', 'aspartic'}
-28594000:{'c-ros oncogene', '18F-isotopologues', 'PF-06463922', '11C', 'ROS1', 'tyrosine', 'anaplastic lymphoma kinase', 'lorlatinib', 'orphan receptor tyrosine kinase', '18F', 'Carbon-11-', 'Lorlatinib', '11C-', 'ALK'}
-28606865:{'insulin', 'growth hormone', 'insulin-like growth factor-1', 'GH', 'IGF-I'}
-28611362:{'zinc', 'Smad', 'Zn', 'Zinc', 'Calcium', 'TGF-β', 'Calcium Silicate', 'calcium silicate'}
-28691448:{'TheraCal LC', 'TLC', 'calcium silicate', 'apatite'}
-28965682:{'Ra', 'Lithium disilicate', 'zirconia', 'lithium'}
-29077529:{'nitric oxide', 'minocycline', 'melatonin', 'Melatonin', 'tumor necrosis factor-alpha', 'microglial', 'prefrontal cortex tumor necrosis factor-alpha'}
-29190205:{'angiotensin II type 2 receptor', 'angiotensin(1-7)', 'angiotensin IV', 'angiotensin(1-12)', 'Renin angiotensin', 'alamandine', 'angiotensin peptides', 'angiotensinogen', 'angiotensin(1-9)', 'angiotensin II', 'angiotensin II type 1 receptor', 'Angiotensin II', 'angiotensin', 'angiotensin III'}
-29210643:{'fibroblast growth factor 21', 'adipocyte fatty acid binding protein', 'C1q', 'adiponectin', 'interleukin-6', 'TNF-related proteins', 'irisin'}
-29452802:{'toll-like receptors 2 and', 'argon', 'extracellular signal-regulated kinase 1/', 'Argon', 'Xenon', 'phosphatidylinositol 3 kinase', 'xenon'}
-29473709:{'HDL cholesterol', 'GLP-1RA', 'Sodium', 'glucagon-like peptide-1 receptor', 'Sodium-glucose co-transporter-2', 'SGLT2', 'haemoglobin', 'cholesterol', 'HbA1c', 'canagliflozin', 'glucose'}
-29687582:{'Cu', 'silver', 'Ag', 'Mg', 'LiF', 'P'}
-29699594:{'superoxide', 'capsaicin', 'curcumin', 'CRC', 'glutathione', 'cyclophosphamide', 'Malonaldehyde', 'POF+', 'superoxide dismutase', 'CPS', 'POF', 'POF+ CRC'}
-29936200:{'M', 'DMSO', 'BHB', 'CD.BHB', 'dimethyl sulfoxide', 'melatonin', 'PVP', 'hydroxypropyl-β-cyclodextrin', 'polyvinylpyrrolidone', 'd-β-hydroxybutyrate', 'MLT', 'polyethylene glycol'}
-30001502:{'ethinylestradiol', 'VPA', 'ADA', 'adenosine', 'adenosine deaminase', 'uric acid', 'valproic acid', 'levonorgestrel', 'cholesterol', 'xanthine oxidase', 'corticosterone', 'hepatic ADA', 'malondialdehyde', 'xanthine', 'HDL-cholesterol', 'aldosterone', 'XO'}
-30002372:{'NIR', 'NaYF4', 'Nd'}
-30010491:{'superoxide', 'GSH', 'glutathione peroxidase', 'glutathione', 'HO•', 'GPx', 'nitric oxide', 'oxygen', 'bilirubin', 'NO', 'CAT', 'SOD', 'haemoglobin', 'superoxide dismutase', 'catalase', 'creatinine'}
-30017992:{'FGF14 gene', 'FGF14', 'FGF14 protein', 'SCAs', 'fibroblast growth factor 14'}
-30024839:{'methotrexate', 'MTX', 'methylenetetrahydrofolate', 'methylenetetrahydrofolate reductase', 'MTHFR'}
-30068241:{'miR-29b', 'FOXP1', 'Dual-Luciferase'}
-30080988:{'Calreticulin', 'Calreticulin type I and II mutation', 'CALR type I and II mutations', 'CALR wild', 'CALR type I and II mutants', 'CALR', 'TaqMan qPCR', 'ET'}
-30121041:{'1,1,2-trichloroethane', 'δ13C', 'carbon', 'vinyl chloride', '1,1,2-TCA', 'C-Cl', 'CCl', 'δ37Cl', 'chlorine', 'Chlorinated ethanes'}
-30124384:{'Tyrosine', 'BCR-ABL variants'}
-30139310:{'Interleukin-2', 'IL-2', 'TCGF'}
-30235719:{'polyene phosphatidyl choline', 'magnesium isoglycyrrhizinate', 'beta-hCG', 'Beta-hCG', 'actinomycin D'}
-30334700:{'CD34', 'CD45', 'TCRγδ', 'Ogata'}
-30382274:{'insulin', 'glucose', 'MetS factors'}
-30412893:{'PEG', 'bli-1', 'lin-41', 'HBL-1', 'let-7 mutation', 'let-7', 'bli-1(RNAi)nematodes', 'BLI-1-let-7-HBL-1', 'LIN-41', 'bli-1(RNAi)', 'GO-PEG', 'hbl-1'}
-30415005:{'GRIM-19', 'anti-apoptosis protein BCL-2', 'MTT', 'miR-423-5p'}
-30453065:{'PAX6', 'PAX6 gene', 'TT genotype', 'paired box homeotic gene', 'miR-328'}
-30458286:{'LncRNAs', 'LncRNA-mRNA', 'adriamycin', 'Il6'}
-30458287:{'interleukin-1β', 'interleukin-1β-induced', 'anti-miR-202-3p', 'MAP kinase', 'nuclear factor-κB', 'IL-1β-induced', 'MiR-202-3p', 'IL-1β-stimulated', 'IL-1β', 'matrix metalloproteinase', 'miR-202-3p binding site', 'hsa-miR-202-3p', 'miR-202-3p', 'MMP-1', 'MAPK', 'NF-κB'}
-30468908:{'miRNA-34a', 'miR-9', 'CDH1', 'miR-34a', 'miRNA-9'}
-30471602:{'blaNDM-1', 'β-lactamase gene', 'colistin resistance gene mcr-1', 'mcr-1', 'blaCTX-M-32', 'blaTEM', 'sul1', 'β-lactamase genes'}
-30503393:{'vasa', 'pum2', 'nanos1a', 'piwil2', 'piwil', 'nanos1b', 'pum1', 'nanos2', 'pum genes', 'nanos3', 'dnd1', 'dnd', 'piwil1', 'pum3'}
-30503395:{'zinc', 'Snord12c', 'Snord12b', 'ZFAS1', 'Snord12', 'zinc finger NFX1-type containing', 'Zinc finger antisense'}
-30521888:{'HOTAIR', 'lncRNA-HOTAIR', 'HOTAIR gene promoter', 'Thymine', 'Adenine', 'HOXC gene cluster', 'HOTAIR transcript', 'Cytosine', 'lncRNA-HOTAIR transcript', 'Guanine'}
+26774155:{'p21 protein', 'cyclin-dependent kinase', 'CDK2-PAK4', 'CDK2', 'PAK4'}
+26925791:{'LncRNA PVT1', 'RNA PVT1'}
+27158766:{'pyrrole', 'lysine', 'DOPAL-induced', 'DOPAL', 'Dicatechol Pyrrole', 'Dopamine', 'catecholaldehyde', 'Lysines', 'dopamine', 'carbon', 'DOPAL molecules', 'dicatechol pyrrole', '3,4-dihydroxyphenylacetaldehyde', 'WILEY-VCH', 'Lys'}
+27159019:{"7-deaza-2'-deoxyadenosine", 'dihydrofolate', 'dihydrofolate reductase', 'trimethoprim', "5-fluoro-2'-deoxycytidine", "7-deaza-2'deoxyguanosine", "5-chloro-2'-deoxyuridine", 'Vent(exo-)DNA polymerases', 'Taq'}
+27389556:{'CDK8', 'CDK8 kinase complex', 'MED12 exon', 'MED12'}
+28005299:{'sialyl-LewisX', 'selectin tetrasaccharide sialyl-LewisX', 'O-sulfated tyramine', 'E-', 'galactose', 'polyHPMA', 'poly(2-hydroxypropyl)methacrylamide', 'PHPMA', 'sialic acid', 'P4', 'fucose', 'SLeX', 'Polymeric'}
+28029034:{'PEDOT', 'Carbon', 'CNTs', 'carbon', 'poly(3,4-ethylenedioxythiophene)'}
+28079958:{'O2-Tolerant', 'S-Oxygenated', 'Sulfenate', 'hydrogen', 'NAD+-reducing [NiFe ] hydrogenase', 'S-oxygenated', 'NiFe', 'NAD +', 'oxygen', 'O2-tolerant', 'O2-Tolerant Hydrogenase'}
+28588210:{'DOPC', 'Carbon', '1,2-dioleoyl-sn-glycero-3-phosphocholine', 'carbon', 'simvastatin', 'TD'}
+28588231:{'SLC50A1', 'glucose', '1,5-anhydroglucitol', 'SLC5A1', 'HbA1c', 'EFNA1', '1,5-AG-associated', '1,5-AG', 'SLC5A10'}
+28588270:{'poly(ethyleneimine)', 'PGMA', 'PGMA-PEI', 'PEI', 'poly(glycidyl methacrylate)'}
+28590721:{'Iron Phthalocyanine-Albumin', 'HSA-FePc NPs', 'human serum albumin-iron(II)phthalocyanine FePc nanoparticles', 'iron(II)phthalocyanine FePc'}
+28590728:{'d-Asp', 'aspartic acid', 'aspartic', 'Brushite', 'l-Asp', 'Asp', 'brushite'}
+28594000:{'lorlatinib', 'Lorlatinib', 'ALK', 'orphan receptor tyrosine kinase', 'ROS1', '18F', 'PF-06463922', 'anaplastic lymphoma kinase', '18F-isotopologues', 'tyrosine', 'Carbon-11-', '11C', 'c-ros oncogene', '11C-'}
+28606865:{'insulin-like growth factor-1', 'growth hormone', 'insulin', 'GH', 'IGF-I'}
+28611362:{'Zinc', 'calcium silicate', 'zinc', 'Calcium Silicate', 'Smad', 'TGF-β', 'Zn', 'Calcium'}
+28691448:{'TheraCal LC', 'TLC', 'apatite', 'calcium silicate'}
+28965682:{'Ra', 'zirconia', 'lithium', 'Lithium disilicate'}
+29077529:{'melatonin', 'microglial', 'prefrontal cortex tumor necrosis factor-alpha', 'nitric oxide', 'minocycline', 'tumor necrosis factor-alpha', 'Melatonin'}
+29190205:{'angiotensin IV', 'Angiotensin II', 'angiotensin III', 'angiotensin peptides', 'alamandine', 'angiotensin(1-12)', 'angiotensinogen', 'angiotensin', 'angiotensin II type 2 receptor', 'angiotensin II', 'angiotensin(1-9)', 'angiotensin(1-7)', 'angiotensin II type 1 receptor', 'Renin angiotensin'}
+29210643:{'adipocyte fatty acid binding protein', 'adiponectin', 'TNF-related proteins', 'fibroblast growth factor 21', 'interleukin-6', 'irisin', 'C1q'}
+29452802:{'extracellular signal-regulated kinase 1/', 'Argon', 'phosphatidylinositol 3 kinase', 'argon', 'toll-like receptors 2 and', 'Xenon', 'xenon'}
+29473709:{'glucose', 'SGLT2', 'HDL cholesterol', 'haemoglobin', 'cholesterol', 'canagliflozin', 'Sodium-glucose co-transporter-2', 'GLP-1RA', 'Sodium', 'HbA1c', 'glucagon-like peptide-1 receptor'}
+29687582:{'Mg', 'silver', 'P', 'LiF', 'Cu', 'Ag'}
+29699594:{'POF', 'POF+', 'superoxide dismutase', 'superoxide', 'capsaicin', 'CRC', 'CPS', 'cyclophosphamide', 'POF+ CRC', 'curcumin', 'glutathione', 'Malonaldehyde'}
+29936200:{'melatonin', 'polyvinylpyrrolidone', 'hydroxypropyl-β-cyclodextrin', 'MLT', 'BHB', 'DMSO', 'PVP', 'dimethyl sulfoxide', 'CD.BHB', 'M', 'polyethylene glycol', 'd-β-hydroxybutyrate'}
+30001502:{'corticosterone', 'aldosterone', 'adenosine deaminase', 'XO', 'hepatic ADA', 'cholesterol', 'xanthine oxidase', 'VPA', 'ADA', 'valproic acid', 'adenosine', 'malondialdehyde', 'xanthine', 'uric acid', 'HDL-cholesterol', 'ethinylestradiol', 'levonorgestrel'}
+30002372:{'NaYF4', 'NIR', 'Nd'}
+30010491:{'HO•', 'GSH', 'SOD', 'haemoglobin', 'bilirubin', 'superoxide dismutase', 'catalase', 'superoxide', 'GPx', 'CAT', 'creatinine', 'oxygen', 'glutathione peroxidase', 'nitric oxide', 'NO', 'glutathione'}
+30017992:{'FGF14 gene', 'FGF14', 'SCAs', 'FGF14 protein', 'fibroblast growth factor 14'}
+30024839:{'methotrexate', 'methylenetetrahydrofolate reductase', 'MTX', 'MTHFR', 'methylenetetrahydrofolate'}
+30068241:{'miR-29b', 'Dual-Luciferase', 'FOXP1'}
+30080988:{'CALR wild', 'CALR type I and II mutations', 'ET', 'CALR type I and II mutants', 'CALR', 'Calreticulin type I and II mutation', 'TaqMan qPCR', 'Calreticulin'}
+30121041:{'δ13C', 'chlorine', 'δ37Cl', 'Chlorinated ethanes', 'C-Cl', 'carbon', '1,1,2-TCA', 'vinyl chloride', 'CCl', '1,1,2-trichloroethane'}
+30124384:{'BCR-ABL variants', 'Tyrosine'}
+30139310:{'IL-2', 'Interleukin-2', 'TCGF'}
+30235719:{'actinomycin D', 'magnesium isoglycyrrhizinate', 'Beta-hCG', 'beta-hCG', 'polyene phosphatidyl choline'}
+30334700:{'Ogata', 'CD34', 'CD45', 'TCRγδ'}
+30382274:{'glucose', 'MetS factors', 'insulin'}
+30412893:{'lin-41', 'BLI-1-let-7-HBL-1', 'hbl-1', 'let-7 mutation', 'bli-1(RNAi)nematodes', 'HBL-1', 'LIN-41', 'let-7', 'PEG', 'bli-1', 'GO-PEG', 'bli-1(RNAi)'}
+30415005:{'miR-423-5p', 'anti-apoptosis protein BCL-2', 'GRIM-19', 'MTT'}
+30453065:{'paired box homeotic gene', 'PAX6', 'TT genotype', 'PAX6 gene', 'miR-328'}
+30458286:{'LncRNA-mRNA', 'LncRNAs', 'adriamycin', 'Il6'}
+30458287:{'miR-202-3p binding site', 'MAPK', 'IL-1β-induced', 'NF-κB', 'interleukin-1β', 'matrix metalloproteinase', 'interleukin-1β-induced', 'nuclear factor-κB', 'anti-miR-202-3p', 'MAP kinase', 'hsa-miR-202-3p', 'MMP-1', 'IL-1β-stimulated', 'miR-202-3p', 'MiR-202-3p', 'IL-1β'}
+30468908:{'miRNA-9', 'CDH1', 'miRNA-34a', 'miR-34a', 'miR-9'}
+30471602:{'mcr-1', 'β-lactamase genes', 'β-lactamase gene', 'blaTEM', 'blaNDM-1', 'colistin resistance gene mcr-1', 'blaCTX-M-32', 'sul1'}
+30503393:{'nanos2', 'nanos3', 'pum1', 'dnd1', 'pum2', 'nanos1b', 'piwil1', 'pum3', 'piwil2', 'nanos1a', 'pum genes', 'dnd', 'vasa', 'piwil'}
+30503395:{'Snord12', 'Snord12c', 'ZFAS1', 'zinc', 'zinc finger NFX1-type containing', 'Snord12b', 'Zinc finger antisense'}
+30521888:{'Guanine', 'HOXC gene cluster', 'Thymine', 'HOTAIR transcript', 'lncRNA-HOTAIR transcript', 'HOTAIR gene promoter', 'HOTAIR', 'Cytosine', 'lncRNA-HOTAIR', 'Adenine'}
 30528268:{'ABCG1'}
-30529248:{'amino acids', 'To-CD28 protein', 'MyD88', 'TLR-MyD88', 'oxygen', 'To-CD28', 'CD28', 'TBT-Cl', 'CD28 protein', 'tributyltin chloride', 'TLR'}
-30536466:{'propylene oxide', 'hydroxyalkylguanine', 'ethylene oxide', 'ethylene oxide-', 'N7-alkyl'}
-30543962:{'alpha-SMA', 'Col3a1', 'coal', 'transforming growth factor β type II receptor', 'BaP', 'mir-30c-1-3p', 'fibronectin', 'SO2', 'BEAS-2B', 'TGFβR2', 'luciferase reporter', 'Col1a1', 'sulfur dioxide', 'MTT'}
-30552979:{'Acid sphingomyelinase', 'MS risk factors', 'hsa-mir-30d', 'has-let-7e', 'hsa-mir-146a', 'hsa-let-7b', 'hsa-mir-363', 'hsa-mir-145', 'hsa-mir-30a', 'hsa-mir-15a', 'hsa-mir-484', 'hub genes'}
-30562548:{'Parathyroid hormone', 'Runx2', 'lnc-SUPT3H-1', 'human Runx2 gene', 'miR-6797-5p', 'Runx2 mRNA', 'calcium', 'PTH', 'PTH-treatment'}
+30529248:{'To-CD28', 'amino acids', 'CD28', 'TLR-MyD88', 'MyD88', 'TLR', 'TBT-Cl', 'oxygen', 'tributyltin chloride', 'To-CD28 protein', 'CD28 protein'}
+30536466:{'ethylene oxide-', 'N7-alkyl', 'hydroxyalkylguanine', 'ethylene oxide', 'propylene oxide'}
+30543962:{'Col3a1', 'mir-30c-1-3p', 'MTT', 'BEAS-2B', 'transforming growth factor β type II receptor', 'TGFβR2', 'coal', 'BaP', 'SO2', 'Col1a1', 'sulfur dioxide', 'luciferase reporter', 'fibronectin', 'alpha-SMA'}
+30552979:{'hub genes', 'hsa-mir-30d', 'has-let-7e', 'MS risk factors', 'Acid sphingomyelinase', 'hsa-mir-145', 'hsa-mir-15a', 'hsa-mir-484', 'hsa-mir-363', 'hsa-let-7b', 'hsa-mir-30a', 'hsa-mir-146a'}
+30562548:{'Runx2', 'PTH-treatment', 'Runx2 mRNA', 'human Runx2 gene', 'lnc-SUPT3H-1', 'calcium', 'Parathyroid hormone', 'miR-6797-5p', 'PTH'}
 30572096:{'COI', 'cytochrome oxidase subunit'}
-30576808:{'Dual-luciferase reporter gene', 'qRT-PCR', 'circ-HIPK3', 'STAT3', 'miR-124-3p', 'EdU', 'U251'}
-30580162:{'qRT-PCR', 'nickel', 'sulphate adenyltransferase gene', 'miR395', '2r3 myb gene', 'miR838', 'Cu-Zn', 'sulphate transporter', 'myb', 'miR398', 'Ni2+', 'sulphate', 'SOD', 'heavy metal stress-responsive', 'miR159', 'miR319'}
-30583435:{'formic acid', 'guanosine', 'adenosine', 'HPLC-DAD-MS', 'uridine', 'cytidine'}
-30591638:{'phenolics', 'Cu', 'β-sitosterol', 'ω-6', '2,2-Diphenyl-1-picrylhydrazyl', 'ω-3', 'Mg', 'hemp', 'K', 'Fe', 'Fedora', 'GAE', 'Mn', 'Ni', 'DPPH', 'ATR-FTIR', 'phytosterols'}
-30593917:{'E(spl)m4', 'DLR', 'BmEm4', 'bmo-miR-79', 'Bmo-miR-79', 'Bombyx mori argonaute2 protein', 'luciferase reporter', "BmEm4_3 ' UTR", 'Notch', 'BmAGO2'}
-30594026:{'(Z)-3-hexenyl-β-D-glucopyranoside', 'tenuiside A', 'Hyperelatones D , G , and H', 'Hyperelatones D , G , and H ,(-)-epicatechin', 'Hyperelatones B-D and', 'Polycyclic polyprenylated acylphloroglucinol', 'hyperelatones A-H', 'hyperelatone A', 'nitric oxide', 'hyperelatones B-H', 'tenuiside', 'polycyclic polyprenylated acylphloroglucinol', '(-)-epicatechin', 'NO', 'Hyperelatones B-D and H', 'hyperelatone', 'phenolic', 'cinchonain Ib', 'hydrogen peroxide'}
-30594254:{'Anti-ICAM-1 antibody', 'anionic', 'dexamethasone', 'DEX', 'DEX-loaded', 'octadecylamine', 'ODA', 'anti-ICAM-1', 'anti-intercellular adhesion molecule'}
-30597233:{'miR390 families', 'miR167', 'miR156', 'miR172', 'miR168', 'miR166', 'miR408', 'silico', 'miR396 families', 'miR399', 'miR2275 families', 'miR160', 'miR319'}
-30597234:{'CoCl2', 'H2O2', 'MiR-126', 'ERRFI1', 'miR-126'}
-30599235:{'AS1', 'SAP30L', 'SAP30L-', 'SAP30L-AS1'}
-30611468:{'interleukin-1β', 'prostaglandin E2', 'hydroxytyrosyl stearate', 'cyclooxygenase-2', 'hydroxytyrosyl oleate', 'hydroxytyrosol', 'nitric oxide', 'HtySte', 'NO', 'NO synthase', 'acyl', 'HtyOle'}
-30611507:{'aluminosilicate zeolite', 'lactose', 'SDS', 'aluminosilicate zeolites', 'lactose lauryl ester', 'sodium dodecyl sulfate', 'lauric acid'}
-30611516:{'P-glycoprotein', 'flavonoid C2C3', 'apigenin', 'phase', 'ATP', 'quercetin', 'naringenin'}
-30613015:{'Toll-like receptor', 'TNF-α', 'IL-1β', 'IL-1α', 'CA-074', 'IL-18', 'Cathepsin', 'cathepsin'}
-30621866:{'mprF', 'fosX', 'CC21', 'ST21', 'ST515', 'CC121', 'mprF antimicrobial resistance gene', 'Tn6188', 'CC1'}
-30621871:{'carbon', 'folic acid', 'folate', 'fol', 'fol gene', 'lactic acid', 'glucose'}
-30642509:{'N-Ethylacetamide', 'l-theanine', 'LYT', 'l-Theanine', 'theanine'}
-30642511:{'GC-O', '1-hexanol', '3-methyl-1-butanol', 'hexanal', '(E,E)-2,4-decadienal', 'HS-SPME-GC-MS', '(E,E)-2,4-nonadienal', '2-pentyl-furan'}
-30658742:{'phenolics', 'angiotensin-I converting enzyme', 'DPPH', 'ACE', 'phenolic', 'DH'}
+30576808:{'U251', 'miR-124-3p', 'EdU', 'Dual-luciferase reporter gene', 'circ-HIPK3', 'STAT3', 'qRT-PCR'}
+30580162:{'miR398', 'Cu-Zn', 'miR159', 'SOD', '2r3 myb gene', 'heavy metal stress-responsive', 'miR319', 'sulphate', 'miR395', 'qRT-PCR', 'sulphate adenyltransferase gene', 'sulphate transporter', 'Ni2+', 'nickel', 'miR838', 'myb'}
+30583435:{'HPLC-DAD-MS', 'guanosine', 'adenosine', 'formic acid', 'cytidine', 'uridine'}
+30591638:{'DPPH', '2,2-Diphenyl-1-picrylhydrazyl', 'Mg', 'Fe', 'GAE', 'phytosterols', 'Ni', 'Mn', 'ω-3', 'Fedora', 'β-sitosterol', 'ATR-FTIR', 'phenolics', 'Cu', 'hemp', 'K', 'ω-6'}
+30593917:{'BmAGO2', 'BmEm4', 'E(spl)m4', 'Bombyx mori argonaute2 protein', 'Bmo-miR-79', "BmEm4_3 ' UTR", 'Notch', 'luciferase reporter', 'bmo-miR-79', 'DLR'}
+30594026:{'Hyperelatones B-D and H', 'hyperelatone A', 'hyperelatones B-H', '(-)-epicatechin', 'polycyclic polyprenylated acylphloroglucinol', 'Polycyclic polyprenylated acylphloroglucinol', 'hyperelatone', 'tenuiside A', 'Hyperelatones B-D and', 'cinchonain Ib', 'NO', 'phenolic', 'tenuiside', 'Hyperelatones D , G , and H ,(-)-epicatechin', 'hyperelatones A-H', 'hydrogen peroxide', 'nitric oxide', '(Z)-3-hexenyl-β-D-glucopyranoside', 'Hyperelatones D , G , and H'}
+30594254:{'anti-ICAM-1', 'anti-intercellular adhesion molecule', 'Anti-ICAM-1 antibody', 'DEX', 'ODA', 'anionic', 'DEX-loaded', 'dexamethasone', 'octadecylamine'}
+30597233:{'miR399', 'silico', 'miR396 families', 'miR167', 'miR160', 'miR319', 'miR168', 'miR172', 'miR390 families', 'miR408', 'miR2275 families', 'miR156', 'miR166'}
+30597234:{'MiR-126', 'CoCl2', 'miR-126', 'H2O2', 'ERRFI1'}
+30599235:{'SAP30L', 'AS1', 'SAP30L-', 'SAP30L-AS1'}
+30611468:{'prostaglandin E2', 'interleukin-1β', 'cyclooxygenase-2', 'HtyOle', 'NO synthase', 'HtySte', 'NO', 'hydroxytyrosyl oleate', 'nitric oxide', 'acyl', 'hydroxytyrosyl stearate', 'hydroxytyrosol'}
+30611507:{'aluminosilicate zeolites', 'lactose lauryl ester', 'lauric acid', 'SDS', 'sodium dodecyl sulfate', 'aluminosilicate zeolite', 'lactose'}
+30611516:{'ATP', 'phase', 'apigenin', 'quercetin', 'P-glycoprotein', 'naringenin', 'flavonoid C2C3'}
+30613015:{'cathepsin', 'IL-18', 'IL-1α', 'TNF-α', 'Toll-like receptor', 'CA-074', 'Cathepsin', 'IL-1β'}
+30621866:{'Tn6188', 'CC121', 'ST515', 'CC21', 'CC1', 'ST21', 'fosX', 'mprF antimicrobial resistance gene', 'mprF'}
+30621871:{'glucose', 'folic acid', 'fol gene', 'lactic acid', 'carbon', 'folate', 'fol'}
+30642509:{'theanine', 'N-Ethylacetamide', 'l-theanine', 'LYT', 'l-Theanine'}
+30642511:{'2-pentyl-furan', 'hexanal', '(E,E)-2,4-nonadienal', '3-methyl-1-butanol', 'GC-O', '(E,E)-2,4-decadienal', '1-hexanol', 'HS-SPME-GC-MS'}
+30658742:{'DPPH', 'DH', 'phenolic', 'phenolics', 'angiotensin-I converting enzyme', 'ACE'}
 30658746:{'rice glutelin', 'sodium tripolyphosphate'}
-30658754:{'cyanidin-3-O-glucosylrutinoside', 'Cyanidin-3-O-glucosylrutinoside', 'cyanidine-3-rutinoside', 'sucrose', 'cyanidin-3-O-rutinoside', 'Sucrose', 'GA', 'gallic acid'}
-30658758:{'βLG', 'Trp19-Arg124', 'Bovine β-lactoglobulin', 'emodin', 'chrysophanol', 'polyphenolic', 'rhein', 'bovine β-lactoglobulin'}
-30658760:{'bile salt-stimulated lipase', 'bile salt', 'β-casein', 'lactoferrin'}
+30658754:{'GA', 'gallic acid', 'cyanidin-3-O-rutinoside', 'Cyanidin-3-O-glucosylrutinoside', 'cyanidin-3-O-glucosylrutinoside', 'cyanidine-3-rutinoside', 'Sucrose', 'sucrose'}
+30658758:{'bovine β-lactoglobulin', 'emodin', 'Bovine β-lactoglobulin', 'polyphenolic', 'rhein', 'chrysophanol', 'βLG', 'Trp19-Arg124'}
+30658760:{'bile salt-stimulated lipase', 'bile salt', 'lactoferrin', 'β-casein'}
 30682765:{'β-methylamino-l-alanine', 'BMAA-contaminated', 'BMAA'}
-30683372:{'Au', 'methylene blue', 'Au-S', 'polypyrrole-reduced graphene oxide', 'PPy-rGO'}
-30683396:{'Acetate', 'glucose oxidase', 'tetramethylbenzidine', 'HRP', 'H2O2', 'horseradish peroxidase', 'acetate', 'TMB', 'glucose', 'hydrogen peroxide'}
-30683409:{'ESCC', 'Cu', 'Ca', 'Zn', 'Sr', 'Mg', 'Mn', 'Fe', 'Co', 'Ti', 'Se'}
-30683818:{'prostaglandin E2', 'PGE22', 'cyclooxygenase-2', 'COX-2', 'PGE2'}
-30683822:{'myocardial connexin43', 'nuclear factor-κB', 'TNF-α', 'Cx43', 'tumor necrosis factor-α', 'NFκB', 'SHR', 'gap junction alpha-1 protein'}
-30683827:{'NADPH quinone oxidoreductase-1', 'nuclear factor erythroid 2-related factor-2', 'NF-κB', 'nuclear factor', 'nuclear factor-κB', 'γ-GCS', 'Nrf2-', 'DSS', 'COX-2-', 'NQO1', 'sulfate', 'γ-glutamylcysteine', 'heme oxygenase-1', 'γ-glutamylcysteine synthetase', 'cyclooxygenase-2', 'Nrf2', 'keap1', 'sodium', 'COX-2', 'HO-1', 'erythroid 2-related factor-2', 'dextran', 'NADPH quinone', 'heme'}
-30683831:{'FOS', 'AChE', 'nitric oxide', 'ACR', 'dopamine', 'fructo-', 'acetylcholinesterase', 'CAT', 'XOS', 'acrylamide', 'SOD', 'antioxidant enzyme'}
-30685586:{'Fe', 'crystal violet', 'FeONPs', 'iron oxide'}
-30686450:{'Cu', 'Cu-exposed', 'Nrf2', 'oxygen', 'nuclear transcription factor κB', 'Hg', 'NF-κB', 'NFE2-related nuclear factor'}
-30691637:{'carbon', 'Ca', 'Quinoa', 'quinoa', 'CO2', 'nitrogen', 'Quinoa genotypes', 'C', 'N', 'AMES22157', 'Ci'}
-30693063:{'interleukin-1β', 'superoxide', 'tumor necrosis factor-(TNF-)α', 'glutathione peroxidase', 'xylanase', 'glutathione', 'GSH-Px', 'IL-10', 'IL-1β', 'MDA', 'malondialdehyde', 'IL-1 receptor', 'SOD', 'IL-1ra', 'superoxide dismutase', 'Xylanase'}
-30704714:{'acetylcholine', 'neonicotinoid-nAChR binding sites', 'nAChR binding sites', 'insect nicotinic acetylcholine receptors', '[3H]-α-bungarotoxin', '[3H]-imidacloprid'}
-30704719:{'Cyp12d1', 'DDT', 'Lcp1', 'Cyp6g1', "4,4'-dichlorodiphenyltrichloroethane", 'Mdr50', 'Mdr65', 'ATP', 'Cyp4g1', 'Mrp1'}
-30710774:{'NADPH', 'Physiological', 'phosphate', 'nitrite', 'GOGAT', 'Fd-NIR', 'NR', 'glutamine', 'glutamine amide', 'glutamine synthetase', 'ferredoxin', 'glutamate synthase', 'Fd-GOGAT', 'glutamate', 'Fd-', 'NADH', 'EC 1.4.7.1', 'NADH-NR', 'nitrogen', '(', 'EC 1.7.1.1', 'nitrate-', 'EC 1.7.7.1', 'EC 6.3.1.2', 'GS2', 'nitrate', 'ammonia', 'nitrate reductase'}
-30711101:{'GBR', 'α-and β-amylase'}
-30712551:{'tyrosine kinase inhibitors', 'imatinib', 'tyrosine'}
-30712583:{'nickel silicate', 'MC-LR', 'Microcystin-LR', 'silica', 'G-quadruplex/', "2,2'-azinobis-(3-ethylbenzothiazoline-6-sulfonic acid)", 'Cu(OH)2', 'ABTS', 'hemin', 'Copper hydroxide', 'copper hydroxide', 'microcystin-LR'}
-30712585:{'carbon', 'ascorbic acid', 'Horseradish peroxidase', "3,3',5,5'-tetramethylbenzidine", 'ox-TMB', 'HRP', 'H2O2', 'TMB'}
+30683372:{'methylene blue', 'Au', 'polypyrrole-reduced graphene oxide', 'Au-S', 'PPy-rGO'}
+30683396:{'glucose', 'glucose oxidase', 'TMB', 'tetramethylbenzidine', 'HRP', 'acetate', 'Acetate', 'horseradish peroxidase', 'hydrogen peroxide', 'H2O2'}
+30683409:{'Ti', 'Mg', 'Fe', 'Se', 'ESCC', 'Mn', 'Co', 'Sr', 'Ca', 'Cu', 'Zn'}
+30683818:{'prostaglandin E2', 'cyclooxygenase-2', 'COX-2', 'PGE22', 'PGE2'}
+30683822:{'gap junction alpha-1 protein', 'Cx43', 'nuclear factor-κB', 'TNF-α', 'myocardial connexin43', 'SHR', 'NFκB', 'tumor necrosis factor-α'}
+30683827:{'γ-GCS', 'dextran', 'cyclooxygenase-2', 'nuclear factor', 'heme', 'COX-2', 'keap1', 'erythroid 2-related factor-2', 'γ-glutamylcysteine synthetase', 'nuclear factor-κB', 'DSS', 'Nrf2', 'sodium', 'heme oxygenase-1', 'nuclear factor erythroid 2-related factor-2', 'NADPH quinone oxidoreductase-1', 'γ-glutamylcysteine', 'NADPH quinone', 'COX-2-', 'NF-κB', 'Nrf2-', 'sulfate', 'HO-1', 'NQO1'}
+30683831:{'SOD', 'acetylcholinesterase', 'AChE', 'acrylamide', 'FOS', 'CAT', 'fructo-', 'XOS', 'ACR', 'dopamine', 'nitric oxide', 'antioxidant enzyme'}
+30685586:{'crystal violet', 'Fe', 'FeONPs', 'iron oxide'}
+30686450:{'Hg', 'NF-κB', 'Nrf2', 'nuclear transcription factor κB', 'Cu-exposed', 'oxygen', 'Cu', 'NFE2-related nuclear factor'}
+30691637:{'Quinoa', 'Ci', 'C', 'AMES22157', 'CO2', 'carbon', 'Quinoa genotypes', 'Ca', 'nitrogen', 'N', 'quinoa'}
+30693063:{'Xylanase', 'SOD', 'interleukin-1β', 'superoxide dismutase', 'IL-1 receptor', 'superoxide', 'tumor necrosis factor-(TNF-)α', 'malondialdehyde', 'IL-1β', 'GSH-Px', 'glutathione peroxidase', 'xylanase', 'IL-10', 'MDA', 'IL-1ra', 'glutathione'}
+30704714:{'neonicotinoid-nAChR binding sites', '[3H]-imidacloprid', 'insect nicotinic acetylcholine receptors', 'acetylcholine', '[3H]-α-bungarotoxin', 'nAChR binding sites'}
+30704719:{'Cyp12d1', 'Cyp6g1', 'Mrp1', "4,4'-dichlorodiphenyltrichloroethane", 'ATP', 'DDT', 'Cyp4g1', 'Mdr65', 'Mdr50', 'Lcp1'}
+30710774:{'EC 1.7.7.1', 'nitrite', 'ammonia', 'glutamine amide', 'nitrogen', 'glutamate synthase', 'Fd-GOGAT', 'EC 1.7.1.1', 'GOGAT', 'glutamate', '(', 'phosphate', 'Fd-', 'NADH-NR', 'NR', 'NADH', 'EC 1.4.7.1', 'nitrate', 'Fd-NIR', 'glutamine', 'nitrate-', 'nitrate reductase', 'ferredoxin', 'GS2', 'NADPH', 'Physiological', 'EC 6.3.1.2', 'glutamine synthetase'}
+30711101:{'α-and β-amylase', 'GBR'}
+30712551:{'tyrosine', 'imatinib', 'tyrosine kinase inhibitors'}
+30712583:{'hemin', 'copper hydroxide', "2,2'-azinobis-(3-ethylbenzothiazoline-6-sulfonic acid)", 'nickel silicate', 'MC-LR', 'Copper hydroxide', 'G-quadruplex/', 'Cu(OH)2', 'silica', 'Microcystin-LR', 'ABTS', 'microcystin-LR'}
+30712585:{'ascorbic acid', 'TMB', 'ox-TMB', 'HRP', "3,3',5,5'-tetramethylbenzidine", 'carbon', 'Horseradish peroxidase', 'H2O2'}
 30712592:{'Fe3O4@PDA@γ-CDP', 'γ-cyclodextrin'}
-30712596:{'MPPZ', 'hydroxy', '1-(5-fluoro-2,4-dinitrophenyl)-4-methylpiperazine', 'estradiol', 'C18-PFP', 'hydroxy-', 'PAH', 'PPZ', 'estrone'}
-30724260:{'deoxynivalenol', 'Fusarium mycotoxins'}
-30725063:{'hepatocyte nuclear factor 1B', 'HNF1B gene', 'HNF1B', 'HNF1B variants'}
-30735108:{'vascular adhesion molecule-1', 'intercellular', 'interleukin-6', 'NF-κB', 'NF-κB-related gene', 'nuclear factor-κB', 'TRAF1', 'TNF-α', 'CD40', 'IL-6', 'VCAM-', 'ICAM-1', 'κB-', 'tumour necrosis factor-α', 'p65', 'NF-', 'κB', 'nuclear factor-κκB-dependent', 'VCAM-1', 'TNFα', 'tumour necrosis factor receptor-associated factor-1'}
-30736902:{'Anti-IBA-1', 'anti-GFAP antibodies', 'Fluoro-Jade', 'Glia', 'kainic acid', 'Fluoro-Jade B'}
-30736903:{'docosahexaenoic acid', 'APJ', 'EPA', 'MPTP', 'eicosapentaenoic acid', '1-methyl-4-phenyl-1,2,3,6 tetrahydropyridine', 'apelin', 'C22 : 6n-3', 'Apelin receptor', 'apelin receptor', 'n-3 fatty acids', 'Elsevier', 'DHA'}
-30736907:{'integrins', 'non-integrin laminin receptors', 'dystrophin-associated glycoprotein complex'}
-30743847:{'phosphate', 'P', 'Pb', 'IEUBK'}
-30743858:{'NH4', 'carbon', 'denitrifying nitrite reductase', 'dNiR', 'nitrogen', 'nitrite', 'SHMS-immobilized'}
-30743866:{'ammonia', 'UreaNV', 'ENTEC®', 'nitrous oxide', 'UreaNV®', 'DMPP', 'NBPT', 'Urea', 'N2O', 'nitrogen', '3,4-dimethylpyrazole phosphate', 'urea', 'N-(n-butyl)thiophosphoric triamide', 'N', 'NH3'}
-30743879:{'isoline', 'Cry1Ac', 'Cry protein', 'Cry', '©', 'Cry1Ab', 'Bt'}
-30743888:{'carbon', 'ZnO', 'KC', 'IL-1β', 'coagulation factor VIII', 'IL-6', 'ZnO NPs'}
-30743956:{'pyrene', 'HPBCD', '5-ring', 'Hydroxypropyl-β-cyclodextrin', 'creosote', 'fluoranthene', 'phenanthrene', 'acenaphtene', 'RL', 'PAH'}
-30744816:{'SulA', 'Lon', 'ClpQ hexamers', 'MBP-', 'Elsevier', 'phenylalanine', 'MBP-SulA(F143N)', 'GFIMRP', 'MBP-SulA(F143Y)', 'ClpQ', 'ATP-dependent', 'MBP-SulA(F143S)', 'ClpYQ proteases', 'ClpYQ.', 'MBP-SulA(F143D)', 'C-', 'ATP-dependent ClpYQ(HslUV)protease in Escherichia coli', 'ClpYQ protease', 'tyrosine', 'ClpYQ', 'SulA protein', 'ClpY'}
-30744819:{'Lewis blood group antigens', 'LeY', 'sialic acid', 'fucose', 'sLeX', 'Staphylococcus epidermidis', 'Sialic acid'}
-30744820:{'sesn', 'p4EBP1', 'Sestrin protein', 'DdSesn', 'DdSesn-like gene', 'SesnOE', 'Sestrin-like protein'}
-30744888:{'CYP51 gene', 'CYP51 coding region', 'CYP51', 'triazole', 'QoIs', 'Propiconazole', 'propiconazole'}
-30744889:{'metconazole', 'FgNTH deletion mutant', 'PRs', 'trehalase', 'FgNTH', 'deoxynivalenol', 'pyruvate', 'PR5', 'ΔFgNTH', 'PR1', 'DON', 'validamycin', 'Validamycin', 'PR2', 'glucose', 'FHB'}
-30744893:{'NlVg', 'Triazophos', 'embryo', 'triazophos', 'NlVgR', 'vitellogenin receptor', 'Glc', 'Hexokinase-1-like', 'Hex-1', 'TZP+ dsGFP', 'TZP', 'TZP-', 'TZP+ dsHex-1', 'trehalose', 'vitellogenin', 'glucose'}
-30744895:{'Faβ2Tub-3 sequence', 'β2-tubulin gene', 'Faβ2Tub-3', 'MBC', 'β2-tubulin genes', 'Faβ2Tub-3 dsRNA', 'carbendazim', 'β1-tubulin', 'β2-tubulin dsRNA', 'β2-tubulin segments'}
-30744896:{'cyhalothrin', 'MsVgR', 'LC50', 'vitellogenin receptor', 'Lambda-cyhalothrin', 'lambda-cyhalothrin', 'lambda-', 'lambda', 'vitellogenin', 'LC20'}
-30744898:{'Jbtx', 'sodium', 'Nav', 'Jaburetox', 'Jack Bean Urease', 'Canavalia ensiformis urease'}
-30744899:{'Iav TRPV channel subunits of', 'Pymetrozine', 'NlNan', 'Inactive', 'pymetrozine', 'fruit', 'Iav', 'nan36a mutant', 'vanilloid', 'NlIav', 'Nanchung', 'Nan'}
-30759552:{'glutathione', 'glutathione peroxidase', 'interleukin 1b', 'anti-inflammatory cytokine transforming growth factor beta'}
-30759554:{'Acetochlor', 'acetochlor', 'thyroxine', '©', 'ACT', 'thyroid-stimulating hormone-β', 'TRβ', 'deiodinase2', '(+)-S-ACT', 'triiodothyronine', 'chloroacetamide', 'TRα', 'Dio2'}
-30759589:{'Mercury', 'MCD64A1 Version 6 Burned Area data product', 'mercury'}
-30759593:{'ZmCCR2', 'lignin', 'La2O3 NPs', 'earth oxide', 'lanthanum oxide', 'rare earth oxide NPs', 'abscisic acid', 'lanthanum oxide(La2O3)NPs', 'La2O3 nanoparticles', 'ZmF5H', 'ZmPAL', 'ZmCAD6', 'La2O3'}
-30759596:{'l-leucine', 'carbon', 'GLU', 'CuO NP', 'l-leucine aminopeptidase', 'LAP', 'CuO NPs', 'oxygen', 'copper oxide', 'nitrogen', 'Cu2+', 'CuO', 'copper oxide(CuO)NPs', 'Cu2 +(Cu(NO3)2', 'β-glucosidase'}
-30759598:{'cork', 'nitrate', 'nitrogen', 'ammonia', 'nitrite'}
-30759600:{'zinc', 'Cu', 'copper', 'Cd', 'cadmium', 'mercury', 'Zn', 'phosphates', 'Pb', 'arsenic', 'As', 'Hg', 'oxalate'}
-30759618:{'titanium dioxide', 'ZnO', 'Enterobacteriaceae', 'metal oxides', 'metal oxide', 'silver', 'Ag', 'V', 'NPs', 'zinc oxide', 'B', 'TiO2'}
-30759623:{'N2-fixing', 'BNF', 'NH4-N', 'nitrogen', 'H', 'acetylene', 'NO3-N', 'N', 'N2'}
-30765055:{'chlorpyrifos', 'CYP6ER1', 'clothianidin', 'CYP6AY1', 'P450 genes', 'dinotefuran', 'nitenpyram'}
-30765056:{'indoxacarb', 'ATP-binding cassette', 'abamectin', 'P-gp', 'ABCs', 'ATP', 'ABC transporter superfamily'}
-30765057:{'TOM', 'XAN', 'cytochrome P450 gene', 'double-stranded RNA(dsRNA)', 'tomatine', 'coumarin', 'xanthotoxin', 'cytochrome P450 CYP6AB60 gene', 'COU', 'CYP6AB60 transcript', 'CYP6AB60'}
-30765058:{'harmol', 'Sf-Atg8', 'PI3K', 'mTOR', 'harmala alkaloids', 'LysoTracker Red', 'indole alkaloids', 'monodansylcadaverineand', 'harmine-induced', 'Akt', 'harmine'}
-30765059:{'BZO', 'Benzothiazole'}
-30782361:{'La protein autoantigens', 'tdTomato', 'Ro'}
-30782363:{'PTMs', 'PTM', 'PTM-recognition', 'leucine', 'leuzine'}
-30782365:{'ZIKV NS1', 'Dengue', 'LFIA', 'Zika virus nonstructural protein'}
-30782366:{'MoS2 nanosheets', 'uric acid', 'MoS2', 'dopamine', 'PtNi', 'PtNi@MoS2'}
-30782374:{'carbon', 'H2O2-generation', 'silver', 'H2O2', 'glucose', 'glucose oxidase'}
-30782376:{'acetic acid', "3,3',5,5'-tetramethylbenzidine", 'H2O2', 'alkaline phosphatase', 'ALP-catalyzed', 'phosphate', 'peracetic acid', 'TMB', 'ALP', 'peroxy acids'}
-30783609:{'PINK1', 'PINK1-VCP-PKA-p47', 'VCP-p47', 'UFD1', 'valosin', 'p97', 'PINK1-interacting protein', 'NSFL1C', 'PKA', 'p47', 'VCP co-factor', 'VCP', 'PKA holoenzyme', 'PTEN-induced kinase', 'valosin-containing protein'}
-30784437:{'Ag-SiO2', 'Hg0', 'mercury', 'O2', 'Ag-SiO2@Fe3O4', 'Ag', 'SiO2@Fe3O4', 'SiO2', 'Ag-Hg amalgam', 'Fe3O4', 'ferrous', 'Hg'}
-30784446:{'TN', 'Ag', 'HDH', 'Ag NPs', 'Ag NP', 'GO'}
-30784447:{'zinc', 'ZnxFe3-xO4', 'arsenate', 'As(V)', 'ferrite', 'zinc ferrite'}
-30784450:{'carbon', 'H13CO3-', 'H13CO3-into', '16S rRNA', 'ammonia', 'H13CO3-metabolized'}
-30784451:{'CeO2 catalysts', 'CeO2 catalyst', '4H2SO4', 'NH3', 'NH3-SCR', 'NO', 'sulfuric acid', 'sulfate', 'CeO2', 'SCR', 'NOx', 'N2', 'CeO2.NOx'}
-30784452:{'S-IIPs', 'Hg(II)', 'Cd2+', 'epichlorohydrin', 'Sulfur', 'Cysteamine', 'Cu2+', 'Co2+', 'Pb2+', 'Carboxymethyl', 'carboxylated', 'Zn2+', 'carboxymethyl'}
-30784458:{'silica', 'SBA-15', 'zeolite', 'NaY', 'titanium', 'HAN solute', 'Ti-HMS'}
-30784464:{'C-doping', 'doxycycline', 'In2O3-ZnO Z-scheme', 'carbon', 'In2O3-ZnO', 'Bi2MoO6', 'C-doped', 'ZnInAl-CLDH', 'hydroxides'}
-30784465:{'Mercury', 'carbon', 'coal', 'mercury', 'nitric oxide', 'sulfur trioxide', 'sulfur', 'SO2', 'NO', 'sulfur dioxide', 'SO3', 'Hg'}
-30784468:{'biochar', 'Cu-', 'Pb-contaminated', 'copper'}
-30797458:{'PCT', 'Procalcitonin', 'indium-tin-oxide', 'Zinc sulfide', 'PCT specific monoclonal antibody', 'Zinc sulfide capped Cadmium selenide quantum dots', 'Cadmium selenide', 'ITO', 'procalcitonin'}
-30806240:{'Lutein', "3,3'-dihydroxy-β,ε-carotene", 'dUTP nick', 'PI3K', 'mTOR', 'AKT', '3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide', 'dUTP', "4',6-diamidino-2-phenylindole", 'terminal deoxynucleotidyltransferase', 'DAPI', 'lutein', "DAPI(4',6-diamidino-2-phenylindole", 'MTT', "Lutein(3,3'-dihydroxy-β,ε-carotene)", 'TUNEL'}
-30824020:{'LPAAT2A2', '2-lysophosphatidic acid acyltransferase', 'class', 'JC201 E .', 'linoleic and linolenic acids', 'LPAAT2A isoform', '2-lysophosphatidic acid', 'LPAAT', 'LPAAT2B', 'LPAAT2A', 'α-linolenic acid', 'lysophosphatidic acid', 'unsaturated oleic , linoleic and linolenic acids'}
-30824031:{'ZmUBP15', 'ZmUBP16', 'cadmium', 'ZmUBP19', 'UBP16', 'ubp16-1', 'Arabidopsis UBP16 homologs', 'Ubiquitin-Specific Protease16', 'ZmUBP19 proteins', 'Elsevier'}
-30824054:{'superoxide', 'AtAPX1', 'glutathione peroxidase', 'ascorbate peroxidase', 'ascorbate', 'glutathione', 'AtCaN2', 'oxygen', 'Ca2 +-dependent', 'H2O2', 'atcan2 mutant', 'Ca2+-dependent nuclease AtCaN2', 'AtGPX8', 'superoxide dismutase', 'AtSOD1'}
-30824055:{'eRF1', 'ESP1', 'cysteine', 'Eukaryotic peptide chain release factor', 'eukaryotic peptide chain release factor', 'UAA', 'UGA', 'prolamine', 'UAG', 'CysP', 'esp1 mutants', 'ESP1 gene'}
-30824056:{'IPD3', 'AhCYCLOPS', 'Medicago truncatula ipd3 mutants', 'CYCLOPS'}
-30824057:{'H3K9', 'histone H3K4', 'CONSTANS1', 'AcSVP2', 'AcSVP2 transcript', 'SOC1-like', 'histone H3', 'histone H3K27', 'AcSVP2 locus', 'Elsevier'}
-30841381:{'WAS', 'FNA', 'methane', 'Nitrite', 'nitrous acid', 'nitrite', 'fatty acids'}
-30841783:{'Progesterone', 'progesterone receptor', 'Progesterone receptor', 'progesterone', 'proliferating', 'Ki67'}
-30848745:{'CEA', 'PSA', 'CA', 'prostate specific antigen', 'CA 19-9', 'carcinoembryonic antigen', 'AFP', 'alpha-fetoprotein', 'CA 125'}
-30857087:{'methylmercury', 'mercury', 'Hg isotopes', 'MeHg', 'Hg'}
-30857089:{'carbon', 'K2SO4-extractable', 'Cistus', 'CO2', 'C', 'Carbon'}
-30857097:{'PFPeA', 'PFOS', 'Perfluorooctane sulfonate', 'perfluoropentanoic acid'}
-30857098:{'Mercury', 'Hg methylators', 'carbon', 'methylmercury', 'mercury', 'phosphorus', 'MeHg', 'sulfate', 'Hg'}
-30857102:{'phenyl phosphate', 'superoxide', 'TPHP', 'Triphenyl phosphate', 'CYP gene', 'triphenyl phosphate', 'diphenyl phosphate', 'malondialdehyde', 'superoxide dismutase', 'piperonyl butoxide', 'catalase'}
-30857108:{'TiO2 nanoparticles', 'TNS', 'hydrogen', 'TNP', 'H2', 'TiO2 nanotube', 'glycerol', 'TiO2', 'bio'}
-30857630:{'fluroxypyr-meptyl', '2,4-D butylate', 'sodium', 'tribenuron', 'isoproturon', 'malathion', 'GST', 'diflufenican', 'tribenuron-methyl', 'flucarbazone-Na', 'pyrithiobac', 'pyroxsulam', 'imazethapyr', 'Glutathione-S-transferase', 'florasulam'}
-30880703:{'amikacin', 'gentamicin', 'levofloxacin', 'cefepime', 'pipercillin', 'AcrEF-TolC', 'AcrE', 'tazobactam', 'qnr genes', 'AcrF gene', 'ofloxacin', 'quinolone', 'AcrF'}
+30712596:{'hydroxy', 'PAH', 'estrone', '1-(5-fluoro-2,4-dinitrophenyl)-4-methylpiperazine', 'hydroxy-', 'estradiol', 'MPPZ', 'PPZ', 'C18-PFP'}
+30724260:{'Fusarium mycotoxins', 'deoxynivalenol'}
+30725063:{'HNF1B gene', 'hepatocyte nuclear factor 1B', 'HNF1B', 'HNF1B variants'}
+30735108:{'vascular adhesion molecule-1', 'TNF-α', 'IL-6', 'tumour necrosis factor-α', 'nuclear factor-κκB-dependent', 'NF-', 'VCAM-', 'nuclear factor-κB', 'NF-κB-related gene', 'κB-', 'CD40', 'TNFα', 'interleukin-6', 'intercellular', 'tumour necrosis factor receptor-associated factor-1', 'VCAM-1', 'NF-κB', 'κB', 'ICAM-1', 'TRAF1', 'p65'}
+30736902:{'Glia', 'Fluoro-Jade B', 'Fluoro-Jade', 'Anti-IBA-1', 'kainic acid', 'anti-GFAP antibodies'}
+30736903:{'APJ', 'apelin receptor', 'Apelin receptor', 'Elsevier', 'EPA', 'DHA', 'n-3 fatty acids', 'MPTP', 'eicosapentaenoic acid', 'apelin', 'C22 : 6n-3', '1-methyl-4-phenyl-1,2,3,6 tetrahydropyridine', 'docosahexaenoic acid'}
+30736907:{'integrins', 'dystrophin-associated glycoprotein complex', 'non-integrin laminin receptors'}
+30743847:{'Pb', 'phosphate', 'P', 'IEUBK'}
+30743858:{'NH4', 'SHMS-immobilized', 'nitrite', 'denitrifying nitrite reductase', 'carbon', 'nitrogen', 'dNiR'}
+30743866:{'UreaNV®', 'urea', 'NH3', 'DMPP', '3,4-dimethylpyrazole phosphate', 'ammonia', 'ENTEC®', 'Urea', 'UreaNV', 'nitrogen', 'nitrous oxide', 'N', 'NBPT', 'N2O', 'N-(n-butyl)thiophosphoric triamide'}
+30743879:{'Bt', 'Cry', 'Cry protein', 'Cry1Ac', 'Cry1Ab', '©', 'isoline'}
+30743888:{'coagulation factor VIII', 'KC', 'ZnO NPs', 'carbon', 'ZnO', 'IL-6', 'IL-1β'}
+30743956:{'PAH', 'acenaphtene', 'HPBCD', '5-ring', 'creosote', 'fluoranthene', 'RL', 'phenanthrene', 'pyrene', 'Hydroxypropyl-β-cyclodextrin'}
+30744816:{'MBP-', 'ClpY', 'SulA protein', 'ClpQ', 'ClpYQ', 'MBP-SulA(F143S)', 'ATP-dependent', 'MBP-SulA(F143D)', 'Lon', 'GFIMRP', 'ClpYQ.', 'Elsevier', 'ClpQ hexamers', 'MBP-SulA(F143Y)', 'ClpYQ proteases', 'ATP-dependent ClpYQ(HslUV)protease in Escherichia coli', 'phenylalanine', 'tyrosine', 'C-', 'SulA', 'MBP-SulA(F143N)', 'ClpYQ protease'}
+30744819:{'Sialic acid', 'LeY', 'Lewis blood group antigens', 'Staphylococcus epidermidis', 'sialic acid', 'fucose', 'sLeX'}
+30744820:{'Sestrin-like protein', 'DdSesn-like gene', 'sesn', 'DdSesn', 'Sestrin protein', 'SesnOE', 'p4EBP1'}
+30744888:{'CYP51 gene', 'triazole', 'CYP51 coding region', 'propiconazole', 'QoIs', 'CYP51', 'Propiconazole'}
+30744889:{'glucose', 'pyruvate', 'FHB', 'PR1', 'deoxynivalenol', 'Validamycin', 'DON', 'FgNTH', 'metconazole', 'PRs', 'validamycin', 'ΔFgNTH', 'trehalase', 'PR2', 'FgNTH deletion mutant', 'PR5'}
+30744893:{'glucose', 'TZP-', 'embryo', 'Hexokinase-1-like', 'TZP', 'Triazophos', 'Glc', 'TZP+ dsHex-1', 'vitellogenin', 'vitellogenin receptor', 'trehalose', 'NlVgR', 'Hex-1', 'TZP+ dsGFP', 'NlVg', 'triazophos'}
+30744895:{'β2-tubulin gene', 'β2-tubulin dsRNA', 'MBC', 'β1-tubulin', 'Faβ2Tub-3 dsRNA', 'β2-tubulin genes', 'Faβ2Tub-3 sequence', 'carbendazim', 'Faβ2Tub-3', 'β2-tubulin segments'}
+30744896:{'lambda-cyhalothrin', 'LC50', 'MsVgR', 'lambda-', 'LC20', 'vitellogenin', 'vitellogenin receptor', 'Lambda-cyhalothrin', 'lambda', 'cyhalothrin'}
+30744898:{'Jaburetox', 'sodium', 'Canavalia ensiformis urease', 'Nav', 'Jbtx', 'Jack Bean Urease'}
+30744899:{'Nanchung', 'Iav', 'NlNan', 'Pymetrozine', 'NlIav', 'Nan', 'Iav TRPV channel subunits of', 'Inactive', 'pymetrozine', 'fruit', 'vanilloid', 'nan36a mutant'}
+30759552:{'anti-inflammatory cytokine transforming growth factor beta', 'interleukin 1b', 'glutathione peroxidase', 'glutathione'}
+30759554:{'(+)-S-ACT', 'triiodothyronine', 'TRβ', 'acetochlor', 'chloroacetamide', 'thyroid-stimulating hormone-β', 'TRα', 'Dio2', 'thyroxine', '©', 'deiodinase2', 'Acetochlor', 'ACT'}
+30759589:{'mercury', 'MCD64A1 Version 6 Burned Area data product', 'Mercury'}
+30759593:{'La2O3', 'La2O3 nanoparticles', 'rare earth oxide NPs', 'earth oxide', 'lanthanum oxide(La2O3)NPs', 'ZmCAD6', 'ZmPAL', 'lanthanum oxide', 'ZmF5H', 'abscisic acid', 'ZmCCR2', 'La2O3 NPs', 'lignin'}
+30759596:{'LAP', 'l-leucine aminopeptidase', 'copper oxide', 'β-glucosidase', 'CuO NP', 'copper oxide(CuO)NPs', 'Cu2 +(Cu(NO3)2', 'Cu2+', 'CuO NPs', 'carbon', 'l-leucine', 'GLU', 'nitrogen', 'oxygen', 'CuO'}
+30759598:{'nitrite', 'ammonia', 'nitrate', 'nitrogen', 'cork'}
+30759600:{'Hg', 'zinc', 'copper', 'Cd', 'phosphates', 'mercury', 'As', 'oxalate', 'Cu', 'Pb', 'cadmium', 'Zn', 'arsenic'}
+30759618:{'metal oxide', 'zinc oxide', 'titanium dioxide', 'B', 'silver', 'TiO2', 'V', 'Enterobacteriaceae', 'ZnO', 'metal oxides', 'NPs', 'Ag'}
+30759623:{'H', 'N2', 'NO3-N', 'BNF', 'NH4-N', 'acetylene', 'nitrogen', 'N', 'N2-fixing'}
+30765055:{'clothianidin', 'dinotefuran', 'CYP6AY1', 'nitenpyram', 'CYP6ER1', 'chlorpyrifos', 'P450 genes'}
+30765056:{'ATP', 'ABC transporter superfamily', 'ABCs', 'abamectin', 'ATP-binding cassette', 'indoxacarb', 'P-gp'}
+30765057:{'XAN', 'TOM', 'double-stranded RNA(dsRNA)', 'CYP6AB60', 'cytochrome P450 CYP6AB60 gene', 'CYP6AB60 transcript', 'coumarin', 'cytochrome P450 gene', 'COU', 'xanthotoxin', 'tomatine'}
+30765058:{'Akt', 'harmine', 'harmine-induced', 'harmol', 'mTOR', 'PI3K', 'harmala alkaloids', 'indole alkaloids', 'monodansylcadaverineand', 'Sf-Atg8', 'LysoTracker Red'}
+30765059:{'Benzothiazole', 'BZO'}
+30782361:{'Ro', 'tdTomato', 'La protein autoantigens'}
+30782363:{'leuzine', 'PTM-recognition', 'PTMs', 'PTM', 'leucine'}
+30782365:{'ZIKV NS1', 'Dengue', 'Zika virus nonstructural protein', 'LFIA'}
+30782366:{'PtNi', 'dopamine', 'MoS2', 'MoS2 nanosheets', 'PtNi@MoS2', 'uric acid'}
+30782374:{'glucose', 'H2O2-generation', 'glucose oxidase', 'silver', 'carbon', 'H2O2'}
+30782376:{'ALP-catalyzed', 'ALP', 'TMB', 'peroxy acids', "3,3',5,5'-tetramethylbenzidine", 'H2O2', 'alkaline phosphatase', 'peracetic acid', 'phosphate', 'acetic acid'}
+30783609:{'PINK1-interacting protein', 'VCP co-factor', 'valosin', 'PTEN-induced kinase', 'PINK1-VCP-PKA-p47', 'VCP-p47', 'p47', 'UFD1', 'valosin-containing protein', 'PKA holoenzyme', 'PKA', 'VCP', 'p97', 'PINK1', 'NSFL1C'}
+30784437:{'O2', 'Hg', 'ferrous', 'Ag-Hg amalgam', 'Fe3O4', 'SiO2@Fe3O4', 'Ag-SiO2@Fe3O4', 'Ag-SiO2', 'mercury', 'SiO2', 'Ag', 'Hg0'}
+30784446:{'HDH', 'Ag NPs', 'GO', 'TN', 'Ag', 'Ag NP'}
+30784447:{'As(V)', 'zinc', 'ZnxFe3-xO4', 'arsenate', 'zinc ferrite', 'ferrite'}
+30784450:{'H13CO3-into', 'H13CO3-metabolized', 'ammonia', 'H13CO3-', 'carbon', '16S rRNA'}
+30784451:{'CeO2', 'NOx', 'NH3', 'sulfuric acid', 'CeO2 catalyst', 'NH3-SCR', 'SCR', 'sulfate', 'CeO2 catalysts', 'CeO2.NOx', 'N2', '4H2SO4', 'NO'}
+30784452:{'carboxylated', 'Cysteamine', 'Hg(II)', 'Zn2+', 'S-IIPs', 'Sulfur', 'carboxymethyl', 'Cu2+', 'Cd2+', 'epichlorohydrin', 'Pb2+', 'Co2+', 'Carboxymethyl'}
+30784458:{'titanium', 'zeolite', 'Ti-HMS', 'HAN solute', 'SBA-15', 'silica', 'NaY'}
+30784464:{'ZnInAl-CLDH', 'In2O3-ZnO Z-scheme', 'C-doping', 'In2O3-ZnO', 'C-doped', 'carbon', 'doxycycline', 'Bi2MoO6', 'hydroxides'}
+30784465:{'Hg', 'coal', 'sulfur', 'SO3', 'sulfur trioxide', 'mercury', 'Mercury', 'carbon', 'SO2', 'sulfur dioxide', 'nitric oxide', 'NO'}
+30784468:{'copper', 'Cu-', 'biochar', 'Pb-contaminated'}
+30797458:{'Zinc sulfide capped Cadmium selenide quantum dots', 'Zinc sulfide', 'PCT', 'Procalcitonin', 'procalcitonin', 'PCT specific monoclonal antibody', 'Cadmium selenide', 'indium-tin-oxide', 'ITO'}
+30806240:{'terminal deoxynucleotidyltransferase', "4',6-diamidino-2-phenylindole", 'AKT', 'dUTP', 'MTT', 'mTOR', 'PI3K', "3,3'-dihydroxy-β,ε-carotene", '3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide', 'DAPI', 'Lutein', 'lutein', 'TUNEL', 'dUTP nick', "DAPI(4',6-diamidino-2-phenylindole", "Lutein(3,3'-dihydroxy-β,ε-carotene)"}
+30824020:{'LPAAT2A', 'unsaturated oleic , linoleic and linolenic acids', '2-lysophosphatidic acid acyltransferase', 'LPAAT2A isoform', 'JC201 E .', 'linoleic and linolenic acids', 'α-linolenic acid', 'LPAAT2A2', 'LPAAT', 'lysophosphatidic acid', '2-lysophosphatidic acid', 'class', 'LPAAT2B'}
+30824031:{'UBP16', 'ZmUBP19 proteins', 'ZmUBP15', 'Elsevier', 'ZmUBP16', 'Ubiquitin-Specific Protease16', 'ZmUBP19', 'ubp16-1', 'Arabidopsis UBP16 homologs', 'cadmium'}
+30824054:{'superoxide dismutase', 'AtCaN2', 'ascorbate peroxidase', 'AtAPX1', 'Ca2+-dependent nuclease AtCaN2', 'superoxide', 'Ca2 +-dependent', 'atcan2 mutant', 'AtSOD1', 'H2O2', 'oxygen', 'glutathione peroxidase', 'AtGPX8', 'ascorbate', 'glutathione'}
+30824055:{'eukaryotic peptide chain release factor', 'esp1 mutants', 'ESP1', 'eRF1', 'ESP1 gene', 'prolamine', 'UAA', 'CysP', 'UAG', 'UGA', 'Eukaryotic peptide chain release factor', 'cysteine'}
+30824056:{'CYCLOPS', 'AhCYCLOPS', 'IPD3', 'Medicago truncatula ipd3 mutants'}
+30824057:{'histone H3K27', 'H3K9', 'Elsevier', 'AcSVP2 locus', 'CONSTANS1', 'AcSVP2 transcript', 'AcSVP2', 'histone H3K4', 'SOC1-like', 'histone H3'}
+30841381:{'methane', 'nitrite', 'nitrous acid', 'Nitrite', 'WAS', 'FNA', 'fatty acids'}
+30841783:{'progesterone receptor', 'proliferating', 'Ki67', 'progesterone', 'Progesterone', 'Progesterone receptor'}
+30848745:{'alpha-fetoprotein', 'prostate specific antigen', 'CEA', 'carcinoembryonic antigen', 'PSA', 'AFP', 'CA', 'CA 19-9', 'CA 125'}
+30857087:{'Hg', 'MeHg', 'mercury', 'methylmercury', 'Hg isotopes'}
+30857089:{'C', 'Carbon', 'Cistus', 'CO2', 'K2SO4-extractable', 'carbon'}
+30857097:{'perfluoropentanoic acid', 'PFOS', 'Perfluorooctane sulfonate', 'PFPeA'}
+30857098:{'Hg', 'phosphorus', 'Hg methylators', 'MeHg', 'Mercury', 'mercury', 'sulfate', 'carbon', 'methylmercury'}
+30857102:{'CYP gene', 'TPHP', 'superoxide dismutase', 'catalase', 'superoxide', 'triphenyl phosphate', 'malondialdehyde', 'Triphenyl phosphate', 'piperonyl butoxide', 'diphenyl phosphate', 'phenyl phosphate'}
+30857108:{'TiO2 nanoparticles', 'glycerol', 'hydrogen', 'TiO2', 'TNP', 'TNS', 'bio', 'H2', 'TiO2 nanotube'}
+30857630:{'Glutathione-S-transferase', 'flucarbazone-Na', 'GST', 'sodium', 'pyroxsulam', 'florasulam', 'tribenuron', 'pyrithiobac', 'isoproturon', 'malathion', 'imazethapyr', '2,4-D butylate', 'tribenuron-methyl', 'fluroxypyr-meptyl', 'diflufenican'}
+30880703:{'ofloxacin', 'qnr genes', 'amikacin', 'AcrF gene', 'AcrE', 'levofloxacin', 'quinolone', 'cefepime', 'gentamicin', 'AcrF', 'AcrEF-TolC', 'pipercillin', 'tazobactam'}
 30893392:{'halobetasol', 'halobetasol propionate'}
-30910085:{'acetoin', 'rpoB gene', 'diacetyl'}
-30583411:{'amino acids', "5'-GMP"}
+30910085:{'diacetyl', 'rpoB gene', 'acetoin'}
+30583411:{"5'-GMP", 'amino acids'}
 30611515:{'glucose'}
-30724222:{'diacetyl tartaric acid esters', 'DATEM', '(4-hydroxy-2,2,6,6-tetramethylpiperidin-1-oxyl', 'TEMPOL'}
-30784453:{'m-xylene', 'O3', 'ozone', 'toluene', 'Ozone-', 'acetylene', 'Ozone', 'propylene', 'NOx-', 'ethylene', 'NOx', 'o-xylene'}
-30857079:{'NH4', 'NO3', 'PO4'}
+30724222:{'DATEM', '(4-hydroxy-2,2,6,6-tetramethylpiperidin-1-oxyl', 'TEMPOL', 'diacetyl tartaric acid esters'}
+30784453:{'ozone', 'NOx', 'ethylene', 'm-xylene', 'O3', 'propylene', 'Ozone-', 'acetylene', 'o-xylene', 'NOx-', 'Ozone', 'toluene'}
+30857079:{'NH4', 'PO4', 'NO3'}
 31011396:{'beryllium', "Beryllium's"}
