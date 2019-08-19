@@ -33,6 +33,8 @@ leven
 tensorflow version 1.12.2   
 numpy version 1.16.1   
 
+All experiments were run in Ubuntu 16.04
+
 ## Quick use
 
 To recreate the results from the paper, run the following commands.
