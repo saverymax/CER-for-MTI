@@ -34,11 +34,17 @@ bash run_models.sh
 python run_tool_evalutation.py
 ```
 
-They are explained in further detail below.
+The commands are explained in further detail below.
+The output of run_tool_evaluation.py is explain in the Evaluation section.
 
 ## Training
-The annotations from trained systems are already provided in this repository, in the data/tool_annotations directory. If you just want to see the results, go to the evaluation section of the README. To generate these yourself, the models must be trained on entity mentions and run on the ChEMFAM corpus. To train all models, run train_models.sh. To train specific types of models, see below.   
+The annotations from trained systems are already provided in this repository, in the data/tool_annotations directory. If you just want to see the results, run the run_tool_evaluation.py script. To generate these results yourself, the models must be trained on entity mentions and run on the ChEMFAM corpus.    
 
+To train all models:
+```
+train_models.sh 
+```
+To train specific types of models, see below.   
 Training was performed with a GeForce GTX 1080 Ti, with 11GB of RAM.  
 
 ### BERT
@@ -73,10 +79,10 @@ All BERT models, including SciBERT and BioBERT, can be run with the run_bert.sh 
 XLNet models can be run with the run_xlnet.sh script.
 
 ### MTI and MetaMapLite
-At this time there is no simple way to recapitulate the results of MetaMapLite or MTI. While these tools have open source implementations, the results for this paper were generated using in-houes modifications.  
+At this time there is no simple way to recapitulate the results of MetaMapLite or MTI. While these tools have open source implementations, the results for this paper were generated using in-house modifications.  
 
-### ChemListem and LSTM-CRF.
-No code is provided to run these models. However, the code can be found at https://bitbucket.org/rscapplications/chemlistem/src/master/ and https://github.com/guillaumegenthial/tf_ner. Additionally, there are many open source implementations of these types of LSTM/CNN/CRF models.
+### ChemListem and LSTM-CRF
+No code is provided to run these models. However, the code can be found at https://bitbucket.org/rscapplications/chemlistem/src/master/ and https://github.com/guillaumegenthial/tf_ner. Additionally, there are many open source implementations of these types of LSTM/CNN/CRF models for NER and CER.
 
 ## Evaluation
 After train_models.sh and run_models.sh have been run, or the individual models above have been trained and run, the run_tool_evaluation.py file can be used to run the evaluation. This will use the annotations from all tools to calculate F1-score, recall, and precision. Including the -b option will run bootstrap to compute standard errors. Including the -l option will evaluate the annotations using the Levenshtein metric, for inexact matching.   
