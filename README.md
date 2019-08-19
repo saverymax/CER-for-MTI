@@ -44,7 +44,7 @@ python run_tool_evalutation.py
 
 The commands are explained in further detail below.   
 
-To generate the results from the annotations provided in the data/tool_annotations directory, run 
+If you don't want to do any training and just want to see the results from the annotations provided in the data/tool_annotations directory, run 
 ```
 python run_tool_evalutation.py
 ```
@@ -81,9 +81,7 @@ pip install ChemDataExtractor
 The run_ChemDataExtractor.py script will run the system on the text, generating annotations for each article.    
 
 ### PubTator Central
-Pubtator can be accessed at https://www.ncbi.nlm.nih.gov/research/pubtator/index.html. Upload the pmids_to_annotate.txt file to the collection manager, and download the results, placing them in the tool_annotations directory. 
-
-NEED TO ADD BIT TO NOT HARDCODE THIS
+Pubtator can be accessed at https://www.ncbi.nlm.nih.gov/research/pubtator/index.html. Upload the pmids_to_annotate.txt file to the collection manager, and download the results in PubTator format, placing them in the tool_annotations directory. 
 
 ### BERT
 All BERT models, including SciBERT and BioBERT, can be run with the run_bert.sh script. This will generate predictions for chemicals in the ChEMFAM corpus.
