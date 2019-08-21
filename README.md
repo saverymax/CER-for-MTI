@@ -30,8 +30,8 @@ bash download_models.sh
 You will need about 5GB of disk space. 
 
 ## Dependencies
-All experiments were run in Ubuntu 16.04. A GPU with 10GB of memory is required to train the models.
-Before training and running evaluation, it is recommended to create a virtual python environment, with python 3.6.8. 
+All experiments were run in Ubuntu 16.04. A GPU with 10GB of memory is required to train the models.  
+Before training and running evaluation, it is recommended to create a virtual python environment, with python 3.6.8.   
 For example 
 ```
 conda create --name chemfam_env python=3.6.8
@@ -74,7 +74,12 @@ To train all models:
 train_models.sh 
 ```
 To train specific types of models, see below.   
-Training was performed with a GeForce GTX 1080 Ti, with 11GB of RAM.  
+
+There are two training datasets included here, coverted into BIO format: 
+1. The BioCreative II dataset containing gene and gene product mentions.
+2. The BioCreative IV CHEMDNER dataset containing chemical entity mentions. The training and development datasets were merged for training the models in this project   
+
+These can be found at https://biocreative.bioinformatics.udel.edu/resources/   
 
 ### BERT
 To train just the bert models, run the train_bert.sh script. This will generate BERT, SciBERT, and BioBERT models, trained on the BC4CHEMD and BC2GM data (one model trained on one dataset, six models total).   
