@@ -30,6 +30,7 @@ bash download_models.sh
 You will need about 5GB of disk space. 
 
 ## Dependencies
+All experiments were run in Ubuntu 16.04. A GPU with 10GB of memory is required to train the models.
 Before training and running evaluation, it is recommended to create a virtual python environment, with python 3.6.8. 
 For example 
 ```
@@ -43,10 +44,10 @@ This will install the following packages:
 tf_metrics      
 sentencepiece   
 leven   
-tensorflow version 1.12.2   
+tensorflow-gpu version 1.12.2   
 numpy version 1.16.1   
 
-All experiments were run in Ubuntu 16.04
+Note: If the machine you are installing this on does not have a GPU, the installation of tf_metrics will interfere with the installation of tensorflow-gpu 1.12.2, as tf_metrics will attempt to download tensorflow (cpu) 1.14.4, which was not tested with the BERT and XLNet python modules.  
 
 ## Quick use
 
