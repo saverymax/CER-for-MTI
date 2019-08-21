@@ -22,6 +22,13 @@ To clone this repository with the BERT and XLNet submodules (necessary if you wa
 git clone --recurse-submodules https://github.com/saverymax/CER-for-MTI.git
 ```
 
+## Download models
+BERT and XLNet models can be downloaded with 
+```
+bash download_models.sh
+```
+You will need about 5GB of disk space. 
+
 ## Dependencies
 Before training and running evaluation, it is recommended to create a virtual python environment, with python 3.6.8. 
 For example 
@@ -43,7 +50,7 @@ All experiments were run in Ubuntu 16.04
 
 ## Quick use
 
-To recreate the results from the paper, run the following commands.
+To recreate the results from the paper, download the models, install the dependencies, and run the following commands.
 ```
 bash train_models.sh
 bash run_models.sh

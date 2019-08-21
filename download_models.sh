@@ -1,3 +1,5 @@
+#!/bin/bash
+
 mkdir ./checkpoints
 cd checkpoints
 
@@ -14,4 +16,5 @@ unzip xlnet_cased_L-12_H-768_A-12.zip
 unzip cased_L-12_H-768_A-12.zip
 tar -xzvf biobert_v1.1_pubmed.tar.gz
 tar -xzvf scibert_scivocab_cased.tar.gz
+
 cd ../
