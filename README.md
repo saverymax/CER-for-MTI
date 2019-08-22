@@ -47,7 +47,7 @@ leven
 tensorflow-gpu version 1.12.2   
 numpy version 1.16.1   
 
-Note: If the machine you are installing this on does not have a GPU, the installation of tf_metrics will interfere with the installation of tensorflow-gpu 1.12.2, as tf_metrics will attempt to download tensorflow (cpu) 1.14.4, which was not tested with the BERT and XLNet python modules.  
+Note: If the machine you are installing this on does not have a GPU, the installation of tf_metrics will interfere with the installation of tensorflow-gpu 1.12.2, as tf_metrics will attempt to download the most recent version of tensorflow (cpu), which was not tested with the BERT and XLNet python modules.  
 
 ## Quick use
 
@@ -80,6 +80,7 @@ There are two training datasets included here, coverted into BIO format:
 2. The BioCreative IV CHEMDNER dataset containing chemical entity mentions. The training and development datasets were merged for training the models in this project   
 
 These can be found at https://biocreative.bioinformatics.udel.edu/resources/   
+   
 If you have access to the datasets, they can be converted into BIO with the convert_GM2BIO.py and convert_chemdner2BIO.py scripts, located in the data/training_data directory.
 This will require installing ChemListem which has an excellent chemical tokenizer.
 ```
