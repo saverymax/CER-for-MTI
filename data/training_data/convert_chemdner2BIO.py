@@ -1,6 +1,8 @@
 """
 Convert chemdner training and development data into 
 BIO format for bert 
+
+This script assumes the BioCreative IV CHEMDNER development and training data have been placed in the same directory as this script.
 """
 
 import sys

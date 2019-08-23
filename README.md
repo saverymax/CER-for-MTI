@@ -81,8 +81,8 @@ There are two training datasets included here, coverted into BIO format:
 
 These can be found at https://biocreative.bioinformatics.udel.edu/resources/   
    
-If you have access to the datasets, they can be converted into BIO with the convert_GM2BIO.py and convert_chemdner2BIO.py scripts, located in the data/training_data directory.
-This will require installing ChemListem which has an excellent chemical tokenizer.
+If you have access to the datasets, they can be converted into BIO with the convert_GM2BIO.py and convert_chemdner2BIO.py scripts, located in the data/training_data directory. This will require installing ChemListem which will also install the excellent chemical tokenizer module, chemtok.    
+Refer to the scripts for more information.
 ```
 pip install chemlistem
 ```

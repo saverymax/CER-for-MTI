@@ -1,6 +1,8 @@
 """
 Convert chemdner training and development data into 
 BIO format for bert 
+
+This script assumes the training data and annotations have been placed in ./bc2geneMention/train/train.in and ./bc2geneMention/train/GENE.eval directories. 
 """
 
 import sys
