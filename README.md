@@ -82,10 +82,10 @@ There are two training datasets included here, coverted into BIO format:
 These can be found at https://biocreative.bioinformatics.udel.edu/resources/   
    
 If you have access to the datasets, they can be converted into BIO with the convert_GM2BIO.py and convert_chemdner2BIO.py scripts, located in the data/training_data directory. This will require installing ChemListem which will also install the excellent chemical tokenizer module, chemtok.    
-Refer to the scripts for more information.
 ```
 pip install chemlistem
 ```
+Refer to the scripts for more information.
 
 ### BERT
 To train just the bert models, run the train_bert.sh script. This will generate BERT, SciBERT, and BioBERT models, trained on the BC4CHEMD and BC2GM data (one model trained on one dataset, six models total).   
