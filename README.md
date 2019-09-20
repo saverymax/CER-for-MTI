@@ -17,7 +17,7 @@ Included is the ChEMFAM corpus, located in the data/ChEMFAM_corpus directory. Th
 The guidelines for annotations are available as a .docx file, ChEMFAM_Annotation_Guidelines.docx.
 
 ## Cloning
-To clone this repository with the BERT and XLNet submodules (necessary if you want to train the models) run
+To clone this repository with the BERT and XLNet submodules (necessary if you want to train the models) 
 ```
 git clone --recurse-submodules https://github.com/saverymax/CER-for-MTI.git
 ```
