@@ -2,4 +2,4 @@ numpy==1.16.1
 sentencepiece
 leven
 git+https://github.com/guillaumegenthial/tf_metrics.git
-tensorflow-gpu==1.12.2
+tensorflow-gpu==1.15.0
